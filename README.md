@@ -73,6 +73,6 @@
 
 ## 📄 版权与开源许可
 
-- 本项目基于 [Localize Limbus Company (零协会)](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompanyHash) 既有汉化成果与技术架构构建，遵循 **[CC BY-NC-SA 4.0](LICENSE)**（署名-非商业性使用-相同方式共享 4.0 国际许可协议）。
+- 本项目基于 [Localize Limbus Company (零协会)](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) 既有汉化成果与技术架构构建，遵循 **[CC BY-NC-SA 4.0](LICENSE)**（署名-非商业性使用-相同方式共享 4.0 国际许可协议）。
 - 《边狱公司》（Limbus Company）游戏本体、原文文本、美术及音视频素材版权均归 **Project Moon** 所有。
 - 本补丁仅供交流学习使用，严禁用于任何商业牟利用途。
