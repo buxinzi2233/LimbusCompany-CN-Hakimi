@@ -1,0 +1,1071 @@
+{
+  "mapping": {
+    "르루주": "红派",
+    "르누아르": "黑派"
+  },
+  "authority": "User-confirmed terminology",
+  "files": [
+    "ScenarioModelCodes-AutoCreated.json",
+    "RPGSystem/rpg-loc-dialogue-floor-1.json",
+    "RPGSystem/rpg-loc-dialogue-floor-4.json",
+    "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+    "RPGSystem/rpg-loc-location-floor-1.json",
+    "RPGSystem/rpg-loc-location-floor-3.json",
+    "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
+    "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+    "RPGSystem/rpg-loc-npc-floor-2.json",
+    "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
+    "RPGSystem/rpg-loc-npc-floor-b1.json",
+    "RPGSystem/rpg-loc-npc-floor-b2.json",
+    "RPGSystem/rpg-loc-quest-floor-1.json",
+    "RPGSystem/rpg-loc-quest-floor-2.json",
+    "RPGSystem/rpg-loc-quest-floor-3.json",
+    "RPGSystem/rpg-loc-quest-floor-4.json",
+    "RPGSystem/rpg-loc-quest-floor-b2.json"
+  ],
+  "changes": [
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "json_pointer": "/dataList/655/nickName",
+      "before": "勒鲁日",
+      "after": "红派",
+      "source_kr": "르루주"
+    },
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "json_pointer": "/dataList/660/nickName",
+      "before": "勒鲁日",
+      "after": "红派",
+      "source_kr": "르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/26/texts/1/text",
+      "before": "主流是被称为雷诺阿与勒鲁日的群体，此外，不属于任何一方的人称为勒卡其。还有一些既不露面，也不被提及的人。",
+      "after": "主流是被称为黑派与红派的群体，此外，不属于任何一方的人称为勒卡其。还有一些既不露面，也不被提及的人。",
+      "source_kr": "르누아르와 르루주라고 불리는 이들이 주류로 존재하며, 그 이외에 어디에도 속하지 않은 자들을 르카키라고 부릅니다. 그리고 모습을 드러내지 않으며 불리지도 않는 자들 또한 있습니다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/39/texts/3/text",
+      "before": "在雷诺阿的店铺里，店员无需特意与顾客搭话。",
+      "after": "在黑派的店铺里，店员无需特意与顾客搭话。",
+      "source_kr": "르누아르 매장에서는 직원이 굳이 고객들에게 말을 걸 필요가 없습니다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/43/texts/2/text",
+      "before": "雷诺阿或勒鲁日的当代时装馆所售的衣服，会依照各自派别追求的时尚，保持一定程度的一致性。",
+      "after": "黑派或红派的当代时装馆所售的衣服，会依照各自派别追求的时尚，保持一定程度的一致性。",
+      "source_kr": "르누아르나 르루주의 컨템포러리에서 판매하는 옷은 각 분파가 추구하는 패션에 따라 일정 수준의 일관성을 갖추고 있다는 뜻입니다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/46/texts/8/text",
+      "before": "勒鲁日竟敢闯入此处，扰乱秩序、肆意羞辱，难道想擅自撕毁那份古老的停战协定？",
+      "after": "红派竟敢闯入此处，扰乱秩序、肆意羞辱，难道想擅自撕毁那份古老的停战协定？",
+      "source_kr": "르루주들이 이곳으로 침범하여 질서를 어지럽히고 모욕하는 짓을 하다니, 멋대로 그 오래된 휴전을 깰 셈인가?"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/46/texts/9/text",
+      "before": "我们连勒鲁日……是什么都不知道。我们谁也不是，哪边都不属于！",
+      "after": "我们连红派……是什么都不知道。我们谁也不是，哪边都不属于！",
+      "source_kr": "우리는 르루주… 그게 뭔지도 모르겠고 아무도 아니야. 어디에도 안 속해 있다고!"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/46/texts/13/text",
+      "before": "应当与雷诺阿信奉的戒律有关。",
+      "after": "应当与黑派信奉的戒律有关。",
+      "source_kr": "그것은 르누아르들이 믿는 규율과 연관 있을 것입니다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/46/texts/16/text",
+      "before": "不可饶恕……我要亲手收回那灿烂的松脂，加固这座日渐褪色的殿堂……是的，我听到了，那个声音……我将在此，代表所有雷诺阿的意志……",
+      "after": "不可饶恕……我要亲手收回那灿烂的松脂，加固这座日渐褪色的殿堂……是的，我听到了，那个声音……我将在此，代表所有黑派的意志……",
+      "source_kr": "용서치 않겠습니다… 그 찬란한 송진을 제 손으로 직접 거둬내어 이 바래어가는 전당을 돈독히 하겠습니다… 네, 들립니다, 목소리가… 모든 르누아르의 의지를 대신하여 제가 이곳에서…"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/47/texts/9/text",
+      "before": "我们渴求那光芒……但与屈服于卑俗欲望的勒鲁日不同，雷诺阿只是想守护那赐福的纹理，让它永久留存……",
+      "after": "我们渴求那光芒……但与屈服于卑俗欲望的红派不同，黑派只是想守护那赐福的纹理，让它永久留存……",
+      "source_kr": "저희는 그 빛을 원합니다… 하지만 천박한 욕망에 굴복해버린 르루주 놈들과는 다르게 르누아르는 그 축복의 결을 수호하고 영구히 남겨두려 할 뿐…"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/49/texts/16/text",
+      "before": "而前方……请务必提高警惕。那是勒鲁日的领域。他们用卑俗的垂褶技法，连布料也固定不好，还擅自撕裂、拼接我们的黄金松脂，肆意亵渎……",
+      "after": "而前方……请务必提高警惕。那是红派的领域。他们用卑俗的垂褶技法，连布料也固定不好，还擅自撕裂、拼接我们的黄金松脂，肆意亵渎……",
+      "source_kr": "그리고 이 앞은… 부디 경계를 소홀히 하지 마시길. 그곳은 르루주의 영역입니다. 천박한 드레이핑으로 원단을 고정시키지도 못할 뿐만 아니라 우리의 황금송진을 제멋대로 찢고 이어 붙여 모독하는 자들…"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/49/texts/17/text",
+      "before": "……勒鲁日……好，我们会注意。",
+      "after": "……红派……好，我们会注意。",
+      "source_kr": "…르루주… 네, 그럴게요."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/53/texts/6/text",
+      "before": "我们品牌追求的是一种收紧般的解放感。您经过雷诺阿的店铺了吧？与他们用钢芯钉住、虚伪地束缚的做法，本质上便不同。",
+      "after": "我们品牌追求的是一种收紧般的解放感。您经过黑派的店铺了吧？与他们用钢芯钉住、虚伪地束缚的做法，本质上便不同。",
+      "source_kr": "저희 브랜드에서 추구하는 가치는 조여오는 듯한 해방감입니다. 르누아르들 매장을 지나쳐오셨죠? 그들이 쇠심을 박아서 가식적으로 속박하는 것과는 본질부터 다르죠."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/53/texts/23/text",
+      "before": "有个勒鲁日原本在这一带开店，这次入驻了奢侈品馆。那家伙的打版和设计本事比我差远了，我甚至还亲手教过他。",
+      "after": "有个红派原本在这一带开店，这次入驻了奢侈品馆。那家伙的打版和设计本事比我差远了，我甚至还亲手教过他。",
+      "source_kr": "원래 이 매장에 있다가 이번에 명품관에 입점한 르루주가 있어요. 그자는 저보다 패턴을 뜨거나 설계를 짜는 실력은 한참 부족했죠. 심지어 제가 손수 가르쳐주기까지 했다니까요?"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/73/texts/0/text",
+      "before": "迷路顾客指南：\n朝上方前进，可欣赏勒鲁日系列；朝下方前进，可欣赏雷诺阿系列。",
+      "after": "迷路顾客指南：\n朝上方前进，可欣赏红派系列；朝下方前进，可欣赏黑派系列。",
+      "source_kr": "길 잃은 고객을 위한 지침:\n위를 보고 나아가면 르루주의 컬렉션을, 아래를 보고 나아가면 르누아르의 컬렉션을 즐기실 수 있습니다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/113/texts/0/text",
+      "before": "上面以优雅的手写体刻着：“勒鲁日本季度最为大胆的先锋之作。若您无法理解，那便是您尚未准备好迎接这份美。”",
+      "after": "上面以优雅的手写体刻着：“红派本季度最为大胆的先锋之作。若您无法理解，那便是您尚未准备好迎接这份美。”",
+      "source_kr": "'르루주가 이번 시즌 선보이는 가장 대담한 아방가르드. 이해할 수 없다면, 아직 당신이 이 아름다움에 준비되지 않은 것입니다.'라는 문구가 우아한 필기체로 새겨져 있다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/126/texts/1/text",
+      "before": "默尔索收起了过季的勒鲁日衣服。",
+      "after": "默尔索收起了过季的红派衣服。",
+      "source_kr": "뫼르소가 철 지난 르루주 옷을 챙겼다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "json_pointer": "/dataList/128/texts/0/text",
+      "before": "曾属于勒鲁日的人留下的尸体。头无力抬起，血从脸上的窟窿中流出。",
+      "after": "曾属于红派的人留下的尸体。头无力抬起，血从脸上的窟窿中流出。",
+      "source_kr": "르루주에 속해있던 자의 시체다. 고개를 들지 못한 채 얼굴에 난 구멍으로 피를 쏟아내고 있다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/6/texts/19/text",
+      "before": "<color=#ebcaa2>从那时起，被称为雷诺阿的人们开始陷入恐惧与战栗，而被称为勒鲁日的人们则开始暗中搜寻机遇。</color>",
+      "after": "<color=#ebcaa2>从那时起，被称为黑派的人们开始陷入恐惧与战栗，而被称为红派的人们则开始暗中搜寻机遇。</color>",
+      "source_kr": "<color=#ebcaa2>그때부터 르누아르라고 불리는 자들은 공포에 떨기 시작했고 르루주라고 불리는 자들은 기회를 찾기 시작했지.</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/9/texts/1/text",
+      "before": "我们在3层从雷诺阿手中获得了此物。",
+      "after": "我们在3层从黑派手中获得了此物。",
+      "source_kr": "3층의 르누아르들에게 이런 것을 받았다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/0/text",
+      "before": "……雷诺阿的鉴定评估书。",
+      "after": "……黑派的鉴定评估书。",
+      "source_kr": "…르누아르의 감정평가서."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/6/text",
+      "before": "失去了声音的勒鲁日们么……",
+      "after": "失去了声音的红派众人么……",
+      "source_kr": "목소리를 잃은 르루주들이라…"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/10/text",
+      "before": "凡是在此处被我们撞见的勒鲁日，我们皆将其全数捕获并制成鞋垫。那些家伙比任何事物都要坚韧而贪婪，做出来的鞋垫可是上品呢。",
+      "after": "凡是在此处被我们撞见的红派，我们皆将其全数捕获并制成鞋垫。那些家伙比任何事物都要坚韧而贪婪，做出来的鞋垫可是上品呢。",
+      "source_kr": "우리는 이곳에 있는 르루주들을 보이는 족족 잡아서 신발의 깔창으로 만들었지. 그것들은 무엇보다 질기고 탐욕스러워서 꽤 좋은 깔창이 되거든."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/16/text",
+      "before": "<听说当时正处于室内装潢施工中……身后还躺着死去的雷诺阿职员呢。>",
+      "after": "<听说当时正处于室内装潢施工中……身后还躺着死去的黑派职员呢。>",
+      "source_kr": "<인테리어 공사 중이라고 했었지… 뒤에는 르누아르 직원들이 죽어있었고.>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/19/text",
+      "before": "两足们。你们难道是雷诺阿的友军吗？",
+      "after": "两足们。你们难道是黑派的友军吗？",
+      "source_kr": "두 다리들. 너희는 르누아르의 우군인가?"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/22/text",
+      "before": "倘若能有可以在各楼层间穿梭的你们这群异乡人相助，雷诺阿之间传递情报便能轻而易举了。",
+      "after": "倘若能有可以在各楼层间穿梭的你们这群异乡人相助，黑派之间传递情报便能轻而易举了。",
+      "source_kr": "층을 이동할 수 있는 너희 이방인들이 도와준다면, 르누아르 간에 정보를 전달하기가 손쉽겠어."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/25/text",
+      "before": "若是有对我们雷诺阿有所裨益的情报，希望能立刻向我们通报。",
+      "after": "若是有对我们黑派有所裨益的情报，希望能立刻向我们通报。",
+      "source_kr": "우리 르누아르에게 도움이 될 만한 정보가 있다면 바로 말해줬으면 좋겠군."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/27/text",
+      "before": "在相当久远的几个季度前……聚集在家具馆生活的勒卡其们曾偷走过几件雷诺阿的物品。",
+      "after": "在相当久远的几个季度前……聚集在家具馆生活的勒卡其们曾偷走过几件黑派的物品。",
+      "source_kr": "꽤 오랜 시즌 전에… 가구관에 모여 사는 르카키들이 르누아르의 물건을 몇 개 가져간 적이 있었지."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/10/texts/30/text",
+      "before": "若能寻得那等武器，在同勒鲁日的战事中定能助我们一臂之力。毕竟那些家伙用掺杂着欲望的黄金松脂揉制而成的衣物……可绝非轻易便能撕裂的。",
+      "after": "若能寻得那等武器，在同红派的战事中定能助我们一臂之力。毕竟那些家伙用掺杂着欲望的黄金松脂揉制而成的衣物……可绝非轻易便能撕裂的。",
+      "source_kr": "그런 무기가 있다면, 르루주와의 싸움에서도 큰 도움을 받을 수 있겠지. 열망이 뒤섞인 황금송진을 뜯어 만든 그자들의 옷은… 찢어발기기가 쉽지 않으니."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/39/texts/5/text",
+      "before": "将这个……送去给低层的雷诺阿。",
+      "after": "将这个……送去给低层的黑派。",
+      "source_kr": "이걸… 저층의 르누아르에게 전달해라."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/39/texts/15/text",
+      "before": "卑贱的你们眼下唯一能做的，便是将这便条送至低层的雷诺阿手中。",
+      "after": "卑贱的你们眼下唯一能做的，便是将这便条送至低层的黑派手中。",
+      "source_kr": "천한 너희들이 당장 할 수 있는 건 저층의 르누아르에게 쪽지를 전달하는 것뿐이야."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/92/texts/0/text",
+      "before": "隶属于勒鲁日之人的尸体。虽坐拥如此繁多的鞋履，却没能对逃脱带来任何帮助。",
+      "after": "隶属于红派之人的尸体。虽坐拥如此繁多的鞋履，却没能对逃脱带来任何帮助。",
+      "source_kr": "르루주에 속해있던 자의 시체다. 그토록 많은 신발을 가졌건만 벗어나는 데 도움이 되진 못했다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "json_pointer": "/dataList/93/texts/0/text",
+      "before": "隶属于勒鲁日之人的尸体。脱落的皮鞋里积着血水。",
+      "after": "隶属于红派之人的尸体。脱落的皮鞋里积着血水。",
+      "source_kr": "르루주에 속해있던 자의 시체다. 벗겨진 구두엔 피가 고여있다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/2/description",
+      "before": "反复播放着赤神昔日诵念的旧日之声。那是勒鲁日们曾经聆听的声音。虔诚之人或许能从中听到更为深邃的故事。",
+      "after": "反复播放着赤神昔日诵念的旧日之声。那是红派众人曾经聆听的声音。虔诚之人或许能从中听到更为深邃的故事。",
+      "source_kr": "붉은 신이 이전에 읊어주던 옛 목소리가 반복된다. 르루주들이 듣던 목소리. 신실한 누군가는 더 깊은 이야기를 들을 수도 있었다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/4/displayName",
+      "before": "雷诺阿鉴定书",
+      "after": "黑派鉴定书",
+      "source_kr": "르누아르의 감정평가서"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/4/description",
+      "before": "本顾客身为雷诺阿的卓越主顾，为维护品牌价值做出了杰出贡献。",
+      "after": "本顾客身为黑派的卓越主顾，为维护品牌价值做出了杰出贡献。",
+      "source_kr": "본 고객은 르누아르의 훌륭한 고객으로서 브랜드의 가치 보존에 힘써주었음."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/5/statText",
+      "before": "象征界<color=#00ff9c>体力</color>+1\n\n象征界<color=#fe4b48>攻击速度</color>+10%\n\n象征界<color=#F8C200>移动速度</color>+5%\n\n在象征界中，受到雷诺阿店员[阳光] 、勒鲁日店员[阳光] 类敌方单位的<color=#fe4b48>伤害量</color>-1，对其造成的<color=#fe4b48>伤害量</color>+1",
+      "after": "象征界<color=#00ff9c>体力</color>+1\n\n象征界<color=#fe4b48>攻击速度</color>+10%\n\n象征界<color=#F8C200>移动速度</color>+5%\n\n在象征界中，受到黑派店员[阳光] 、红派店员[阳光] 类敌方单位的<color=#fe4b48>伤害量</color>-1，对其造成的<color=#fe4b48>伤害量</color>+1",
+      "source_kr": "상징계 <color=#00ff9c>체력</color> +1\n\n상징계 <color=#fe4b48>공격 속도</color> +10%\n\n상징계 <color=#F8C200>이동 속도</color> +5%\n\n상징계에서 르누아르 점원[햇살], 르루주 점원[햇살] 계열 적에게 받는 <color=#fe4b48>피해량</color> -1, 가하는 <color=#fe4b48>피해량</color> +1"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/7/description",
+      "before": "你问裁缝难道不该保持中立吗？雷诺阿钟情面料，勒鲁日偏爱皮革，试问裁缝究竟更需要谁，又更愿意将剪刀递给谁呢？",
+      "after": "你问裁缝难道不该保持中立吗？黑派钟情面料，红派偏爱皮革，试问裁缝究竟更需要谁，又更愿意将剪刀递给谁呢？",
+      "source_kr": "재단사는 중립이어야 하지 않냐고요? 르누아르가 원단을 좋아하고 르루주는 가죽을 좋아하는데 과연 재단사는 누구를 더 필요로 하고 누구에게 가위를 더 건네주려 하겠나요?"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/8/displayName",
+      "before": "雷诺阿当代开衫",
+      "after": "黑派当代开衫",
+      "source_kr": "르누아르의 컨템포러리 가디건"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/9/displayName",
+      "before": "雷诺阿当代帽子",
+      "after": "黑派当代帽子",
+      "source_kr": "르누아르의 컨템포러리 모자"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/10/displayName",
+      "before": "雷诺阿当代绅士帽",
+      "after": "黑派当代绅士帽",
+      "source_kr": "르누아르의 컨템포러리 신사 모자"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/11/displayName",
+      "before": "勒鲁日快时尚拉链连帽卫衣",
+      "after": "红派快时尚拉链连帽卫衣",
+      "source_kr": "르루주의 SPA 후드 집업"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/12/displayName",
+      "before": "勒鲁日快时尚半身裙",
+      "after": "红派快时尚半身裙",
+      "source_kr": "르루주의 SPA 치마"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/13/displayName",
+      "before": "勒鲁日当代拉链",
+      "after": "红派当代拉链",
+      "source_kr": "르루주의 컨템포러리 지퍼"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/13/description",
+      "before": "勒鲁日珍视生命及其脉动，赋予其意义，并期待着体验。",
+      "after": "红派珍视生命及其脉动，赋予其意义，并期待着体验。",
+      "source_kr": "르루주는 생명과 그 맥동에 가치를 두고 의미를 부여한다. 그리고 경험을 기대한다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/14/displayName",
+      "before": "勒鲁日当代袜子",
+      "after": "红派当代袜子",
+      "source_kr": "르루주의 컨템포러리 양말"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/17/description",
+      "before": "我既不是勒鲁日，也不是雷诺阿，追求的是中立的价值。无论哪个品牌想要面料，我都乐意交易。",
+      "after": "我既不是红派，也不是黑派，追求的是中立的价值。无论哪个品牌想要面料，我都乐意交易。",
+      "source_kr": "르루주, 르누아르도 아닌 나는 중립적인 가치를 추구해. 어느 브랜드든 원단을 원한다면, 기꺼이 거래할 거야."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/18/displayName",
+      "before": "勒鲁日精品店墨镜",
+      "after": "红派精品店墨镜",
+      "source_kr": "르루주 부티크 선글라스"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/19/displayName",
+      "before": "勒鲁日精品店T恤",
+      "after": "红派精品店T恤",
+      "source_kr": "르루주 부티크 티셔츠"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/20/displayName",
+      "before": "勒鲁日精品店牛仔裤",
+      "after": "红派精品店牛仔裤",
+      "source_kr": "르루주 부티크 데님"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/20/description",
+      "before": "勒鲁日追求修身的剪裁。展露身体的线条，才是时尚的价值所在。",
+      "after": "红派追求修身的剪裁。展露身体的线条，才是时尚的价值所在。",
+      "source_kr": "르루주는 슬림 핏을 추구한답니다. 몸의 라인을 드러내는 것이야말로 패션의 가치니까요."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/21/displayName",
+      "before": "雷诺阿之屋领带",
+      "after": "黑派之屋领带",
+      "source_kr": "르누아르 메종 넥타이"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/21/description",
+      "before": "雷诺阿的衣物遮住顾客的身体，修饰体形。遮蔽身体，才是时尚的价值所在。",
+      "after": "黑派的衣物遮住顾客的身体，修饰体形。遮蔽身体，才是时尚的价值所在。",
+      "source_kr": "르누아르의 옷은 고객님의 몸을 가려, 체형을 보완해줍니다. 몸을 가려주는 것이야말로 패션의 가치입니다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/22/displayName",
+      "before": "雷诺阿之屋西裤",
+      "after": "黑派之屋西裤",
+      "source_kr": "르누아르 메종 슬랙스"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/22/description",
+      "before": "无论雷诺阿还是勒鲁日……都有人在听到某个声音之后，开始变得疯疯癫癫。",
+      "after": "无论黑派还是红派……都有人在听到某个声音之后，开始变得疯疯癫癫。",
+      "source_kr": "르누아르든 르루주든… 누군가의 목소리를 듣더니 미쳐가는 놈들이 생기더군."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/23/displayName",
+      "before": "雷诺阿之屋衬衫",
+      "after": "黑派之屋衬衫",
+      "source_kr": "르누아르 메종 셔츠"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/26/displayName",
+      "before": "雷诺阿玛丽珍鞋",
+      "after": "黑派玛丽珍鞋",
+      "source_kr": "르누아르 메리 제인"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/27/displayName",
+      "before": "雷诺阿焦特布尔靴",
+      "after": "黑派焦特布尔靴",
+      "source_kr": "르누아르 죠퍼 부츠"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/28/displayName",
+      "before": "雷诺阿经典鞋楦",
+      "after": "黑派经典鞋楦",
+      "source_kr": "르누아르 보수적인 라스트"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/29/displayName",
+      "before": "勒鲁日芭蕾平底鞋",
+      "after": "红派芭蕾平底鞋",
+      "source_kr": "르루주 발레 플랫"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/30/displayName",
+      "before": "勒鲁日切尔西靴",
+      "after": "红派切尔西靴",
+      "source_kr": "르루주 첼시 부츠"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/30/description",
+      "before": "鞋子必须呼吸。不能像雷诺阿的鞋一样，只是一味地封闭。鞋子必须柔软灵活，能够呼吸，我才能站在这片土地上。否则，就只是彼此分离地搁在上面而已。",
+      "after": "鞋子必须呼吸。不能像黑派的鞋一样，只是一味地封闭。鞋子必须柔软灵活，能够呼吸，我才能站在这片土地上。否则，就只是彼此分离地搁在上面而已。",
+      "source_kr": "신발은 숨을 쉬어야 해. 르누아르의 신발처럼 마냥 닫혀있기만 하면 안 된다고. 신발이 유연해서 숨을 쉴 수 있어줘야 내가 이 땅에 서 있을 수 있는 거지. 그러지 않고서는 그저 분리된 채 얹어질 뿐이라고."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/33/description",
+      "before": "有个勒鲁日的小喽啰问，为什么要坐在椅子上，把食物放在桌上吃。不在地上吃，非要经过这套程序，当然是为了吃得更美味。越是忍耐着、辛苦得来的东西，就越甘甜、越有价值。那么，桌椅越不舒服，还在上面吃饭的人，不就越文明吗？",
+      "after": "有个红派的小喽啰问，为什么要坐在椅子上，把食物放在桌上吃。不在地上吃，非要经过这套程序，当然是为了吃得更美味。越是忍耐着、辛苦得来的东西，就越甘甜、越有价值。那么，桌椅越不舒服，还在上面吃饭的人，不就越文明吗？",
+      "source_kr": "왜 의자에 앉아 테이블 위에 음식을 두고 먹냐고 르루주 나부랭이가 묻더군. 바닥에서 먹지 않고 굳이 이런 절차를 거치는 건, 당연히 더 맛있게 먹기 위해서지. 인내하며 힘들게 얻은 것일수록 달며 가치가 있으니까. 그러니 더 불편한 테이블과 의자에서 먹을수록 문명화되었다고 할 수 있지 않겠어?"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/42/description",
+      "before": "奢侈品馆遭到袭击了！勒鲁日突袭了雷诺阿占据的奢侈品馆，正在那里大摆宴席！",
+      "after": "奢侈品馆遭到袭击了！红派突袭了黑派占据的奢侈品馆，正在那里大摆宴席！",
+      "source_kr": "명품관에서 습격이 발생했다! 르누아르가 차지하고 있던 명품관을 르루주가 급습하여 잔치를 벌이고 있다!"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/72/description",
+      "before": "你知道区分残渣的界限是什么吗？食物哪怕只吃一口就扔掉，也会成为残渣；有人却会把那残渣当作稀有食材，美美享用。所以，究竟如何区分残渣，是美食广场极为重要的问题……而现在，只要不是雷诺阿，就全都是残渣。",
+      "after": "你知道区分残渣的界限是什么吗？食物哪怕只吃一口就扔掉，也会成为残渣；有人却会把那残渣当作稀有食材，美美享用。所以，究竟如何区分残渣，是美食广场极为重要的问题……而现在，只要不是黑派，就全都是残渣。",
+      "source_kr": "찌꺼기를 구분하는 경계가 뭔지 아나? 음식을 한 입만 먹고 버려도 그것은 찌꺼기가 되고 누군가는 그 찌꺼기를 희귀한 재료로 여기며 맛있게 먹기도 하지. 그래서 찌꺼기가 무엇으로 구분되느냐가 푸드코트에선 아주 중요한 문제인데… 지금은 르누아르가 아니면 전부 찌꺼기인 상황이지."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/73/description",
+      "before": "绘有楼层通道、可用于突袭奢侈品馆的地图。然而已经使用过，无法辨认了。西西弗斯系统由多层叠加而成，这种多层结构使许多顾客陷入沉睡。这张地图由极少数能够分析多层结构的人绘制而成，价值高得惊人。勒鲁日得到了它。",
+      "after": "绘有楼层通道、可用于突袭奢侈品馆的地图。然而已经使用过，无法辨认了。西西弗斯系统由多层叠加而成，这种多层结构使许多顾客陷入沉睡。这张地图由极少数能够分析多层结构的人绘制而成，价值高得惊人。红派得到了它。",
+      "source_kr": "명품관까지 급습할 수 있는 층의 통로가 그려진 지도. 허나 이미 사용되어 알아볼 수 없다. 시지프 시스템은 여러 겹으로 중첩되어 있으며 이러한 다층 구조로 인해 많은 고객들이 잠들어 있다. 다층 구조를 분석할 수 있는 아주 극소수의 인원만이 만든 이 지도는 천문학적인 가치를 지닌다. 르루주는 이것을 손에 넣었다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/87/displayName",
+      "before": "过季的勒鲁日服饰",
+      "after": "过季的红派服饰",
+      "source_kr": "철 지난 르루주 옷"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/91/description",
+      "before": "勒鲁日的品牌总监。勒鲁日这一品牌应有的意义与方向，一切都由品牌总监的指示决定。品牌总监听赤神的声音，听得比谁都清楚。而可嘉的是，即便赤神的声音消失了，也仍试图塑造一个能再次发声的新存在。明明赤神不在的事实，只要想隐瞒，完全可以一直隐瞒下去。",
+      "after": "红派的品牌总监。红派这一品牌应有的意义与方向，一切都由品牌总监的指示决定。品牌总监听赤神的声音，听得比谁都清楚。而可嘉的是，即便赤神的声音消失了，也仍试图塑造一个能再次发声的新存在。明明赤神不在的事实，只要想隐瞒，完全可以一直隐瞒下去。",
+      "source_kr": "르루주의 브랜드 디렉터. 르루주라는 브랜드가 지녀야 할 의미와 방향성 그 모든 것은 브랜드 디렉터의 지시 아래 정해진다. 브랜드 디렉터는 누구보다 붉은 신의 목소리를 잘 들어왔다. 그리고 기특하게도 붉은 신의 목소리가 사라졌을 때마저 목소리를 들려줄 새로운 존재를 빚어내려 했다. 사실 붉은 신의 부재는 숨기고자 했다면 얼마든지 숨길 수 있던 사실이었는데도."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "json_pointer": "/dataList/93/description",
+      "before": "裁缝会裁剪面料，再按纸样拼接。最近，剪刀声突然响亮了许多。看来雷诺阿那边下了大量订单。难道要打什么大仗了吗？",
+      "after": "裁缝会裁剪面料，再按纸样拼接。最近，剪刀声突然响亮了许多。看来黑派那边下了大量订单。难道要打什么大仗了吗？",
+      "source_kr": "재단사는 원단을 자르고 패턴대로 붙이죠. 요즘 부쩍 가위질 소리가 커졌어요. 르누아르 쪽에서 엄청난 양의 발주가 온 모양이에요. 뭔가 큰 싸움이라도 나려나?"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-1.json",
+      "json_pointer": "/dataList/8/text",
+      "before": "雷诺阿当代馆",
+      "after": "黑派当代馆",
+      "source_kr": "르누아르의 컨템포러리관"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-1.json",
+      "json_pointer": "/dataList/10/text",
+      "before": "勒鲁日当代馆",
+      "after": "红派当代馆",
+      "source_kr": "르루주의 컨템포러리관"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-3.json",
+      "json_pointer": "/dataList/1/text",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "source_kr": "르루주의 부티크"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-3.json",
+      "json_pointer": "/dataList/2/text",
+      "before": "雷诺阿之屋",
+      "after": "黑派之屋",
+      "source_kr": "르누아르의 메종"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
+      "json_pointer": "/dataList/0/displayName",
+      "before": "勒鲁日店员 米莫萨",
+      "after": "红派店员 米莫萨",
+      "source_kr": "르루주 점원 미모사"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
+      "json_pointer": "/dataList/1/displayName",
+      "before": "雷诺阿店员 古斯塔夫",
+      "after": "黑派店员 古斯塔夫",
+      "source_kr": "르누아르 점원 구스타프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/1/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/2/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/3/displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派",
+      "source_kr": "반항하는 르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/4/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/5/displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派",
+      "source_kr": "돌진하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/6/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/7/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "json_pointer": "/dataList/8/displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派",
+      "source_kr": "돌진하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/4/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/5/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/6/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/7/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/8/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/9/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/10/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/11/displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派",
+      "source_kr": "돌진하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/12/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/13/displayName",
+      "before": "高级雷诺阿2",
+      "after": "高级黑派2",
+      "source_kr": "고위급 르누아르2"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/15/displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派",
+      "source_kr": "반항하는 르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/16/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/17/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/18/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/21/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/22/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/23/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/24/displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派",
+      "source_kr": "반항하는 르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/25/displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派",
+      "source_kr": "반항하는 르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/26/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/27/displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派",
+      "source_kr": "반항하는 르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/28/displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派",
+      "source_kr": "돌진하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/29/displayName",
+      "before": "雷诺阿巨型安保",
+      "after": "黑派巨型安保",
+      "source_kr": "르누아르 대형 경비"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/30/displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员",
+      "source_kr": "르루주 스태프"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/31/displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派",
+      "source_kr": "반항하는 르루주"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/32/displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长",
+      "source_kr": "르루주 스토어 매니저"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/33/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "json_pointer": "/dataList/34/displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派",
+      "source_kr": "돌격하는 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
+      "json_pointer": "/dataList/0/displayName",
+      "before": "雷诺阿店员[日光]",
+      "after": "黑派店员[日光]",
+      "source_kr": "르누아르 점원[햇살]"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
+      "json_pointer": "/dataList/3/displayName",
+      "before": "勒鲁日店员[日光]",
+      "after": "红派店员[日光]",
+      "source_kr": "르루주 점원[햇살]"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b1.json",
+      "json_pointer": "/dataList/7/displayName",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工",
+      "source_kr": "르누아르 운반자"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b1.json",
+      "json_pointer": "/dataList/8/displayName",
+      "before": "勒鲁日搬运工",
+      "after": "红派搬运工",
+      "source_kr": "르루주 운반자"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b2.json",
+      "json_pointer": "/dataList/4/displayName",
+      "before": "等候中的雷诺阿",
+      "after": "等候中的黑派",
+      "source_kr": "대기 중인 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b2.json",
+      "json_pointer": "/dataList/7/displayName",
+      "before": "等候中的雷诺阿",
+      "after": "等候中的黑派",
+      "source_kr": "대기 중인 르누아르"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "json_pointer": "/dataList/11/title",
+      "before": "抵挡发起袭击的雷诺阿员工",
+      "after": "抵挡发起袭击的黑派员工",
+      "source_kr": "공격하는 르누아르 직원을 막아내기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "json_pointer": "/dataList/12/title",
+      "before": "前往勒鲁日的卖场",
+      "after": "前往红派的卖场",
+      "source_kr": "르루주의 매장으로 가보기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "json_pointer": "/dataList/12/description",
+      "before": "从雷诺阿员工那里听说了黄金松脂的事。这次去上方的勒鲁日当代馆看看吧。",
+      "after": "从黑派员工那里听说了黄金松脂的事。这次去上方的红派当代馆看看吧。",
+      "source_kr": "르누아르 직원으로부터 황금송진에 대한 이야기를 들었다. 이번에는 위에 있는 르루주의 컨템포러리 매장으로 가보자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "json_pointer": "/dataList/12/steps/0/goalDescription1",
+      "before": "前往勒鲁日当代馆",
+      "after": "前往红派当代馆",
+      "source_kr": "르루주의 컨템포러리 매장으로 가기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "json_pointer": "/dataList/13/description",
+      "before": "勒鲁日当代馆的员工奎利安拜托我们找来一根大针。找到拿着针的人体模特，取得针后返回奎利安身边吧。",
+      "after": "红派当代馆的员工奎利安拜托我们找来一根大针。找到拿着针的人体模特，取得针后返回奎利安身边吧。",
+      "source_kr": "르루주 컨템포러리 매장 직원인 퀼리안으로부터 커다란 바늘을 구해 와달라는 부탁을 받았다. 바늘을 가지고 있는 마네킹을 찾아본 후, 바늘을 얻고 퀼리안에게 돌아가자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "json_pointer": "/dataList/1/description",
+      "before": "法兰绒和毛毡看到我们找来的武器后十分感动。他们拜托我们阻止勒鲁日在2层名品馆的所作所为。2层的施工到底结束了没有？该下去看看了。",
+      "after": "法兰绒和毛毡看到我们找来的武器后十分感动。他们拜托我们阻止红派在2层名品馆的所作所为。2层的施工到底结束了没有？该下去看看了。",
+      "source_kr": "플라넬과 펠트는 우리가 구해온 무기를 보고 매우 감격스러워했다. 그들은 2층 명품관에서 르루주들이 벌이고 있는 짓을 막아 달라고 부탁했다. 과연 2층에서는 공사가 끝났을까? 내려가 볼 시간이다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "json_pointer": "/dataList/2/description",
+      "before": "2层的屠杀仍在继续。挡住名品馆入口的雷诺阿看到我们手中的黄金钉后，让开了道路。他请求我们除掉勒鲁日正在创造的伪神。里面究竟有什么？进入名品馆看看吧。",
+      "after": "2层的屠杀仍在继续。挡住名品馆入口的黑派看到我们手中的黄金钉后，让开了道路。他请求我们除掉红派正在创造的伪神。里面究竟有什么？进入名品馆看看吧。",
+      "source_kr": "2층은 계속해서 학살이 자행되고 있었다. 명품관 입구를 막고 있는 르누아르가 우리가 가진 황금의 못을 보더니 길을 비켜주었다. 르루주가 만들고 있는 거짓 신을 없애 달라고 한다. 안에는 무엇이 있는 걸까? 명품관 안으로 들어가보자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "json_pointer": "/dataList/3/title",
+      "before": "击退蜂拥而至的勒鲁日们",
+      "after": "击退蜂拥而至的红派众人",
+      "source_kr": "몰려오는 르루주들을 처치하기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "json_pointer": "/dataList/3/description",
+      "before": "看来必须进入名品馆的帷幕里面。帮助雷诺阿消灭蜂拥而至的勒鲁日，并除掉守护帷幕的勒鲁日品牌总监吧。",
+      "after": "看来必须进入名品馆的帷幕里面。帮助黑派消灭蜂拥而至的红派，并除掉守护帷幕的红派品牌总监吧。",
+      "source_kr": "명품관에 있는 장막 안으로 들어가야 할 것 같다. 르누아르들을 도와 몰려오는 르루주들을 처치하고 장막을 지키고 있는 르루주 브랜드 디렉터를 없애자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "json_pointer": "/dataList/3/steps/0/goalDescription1",
+      "before": "击败勒鲁日品牌总监",
+      "after": "击败红派品牌总监",
+      "source_kr": "르루주 브랜드 디렉터 처치하기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "json_pointer": "/dataList/4/description",
+      "before": "消灭了守护名品馆的勒鲁日。跟着默尔索走进帷幕吧。",
+      "after": "消灭了守护名品馆的红派。跟着默尔索走进帷幕吧。",
+      "source_kr": "명품관을 지키고 있던 르루주들을 없앴다. 이제 뫼르소를 따라 장막 안으로 들어가보자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/4/title",
+      "before": "与精品店的勒鲁日搭话",
+      "after": "与精品店的红派搭话",
+      "source_kr": "부티크의 르루주에게 말 걸기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/4/steps/0/goalDescription1",
+      "before": "与勒鲁日精品店的店员交谈",
+      "after": "与红派精品店的店员交谈",
+      "source_kr": "르루주 부티크 직원에게 말 걸기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/5/description",
+      "before": "名叫利纳莫维布尔的勒鲁日，因那道声音不断重复同样的话而痛苦。她希望我们前往广播室，查明声音为何一直重复。那声音的主人是默尔索已故的母亲。不过，为了完成她的委托，我们还是决定前往广播室。",
+      "after": "名叫利纳莫维布尔的红派，因那道声音不断重复同样的话而痛苦。她希望我们前往广播室，查明声音为何一直重复。那声音的主人是默尔索已故的母亲。不过，为了完成她的委托，我们还是决定前往广播室。",
+      "source_kr": "리나모비블이라는 르루주는 목소리가 같은 말을 반복한다는 것에 괴로워하고 있었다. 그자는 우리에게 방송실에 가서 왜 목소리가 계속 반복되는지에 대한 이유를 알아오길 원한다. 목소리의 주인은 죽은 뫼르소의 엄마였다. 하지만 우리는 그자의 부탁을 들어주기 위해 방송실로 향하기로 했다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/6/description",
+      "before": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回勒鲁日精品店，把磁带交给利纳莫维布尔吧。",
+      "after": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回红派精品店，把磁带交给利纳莫维布尔吧。",
+      "source_kr": "3층 플로어 매니저로부터 방송실 테이프를 얻었다. 이 테이프에 거인의 목소리가 녹음되어 있었던 걸까? 르루주의 부티크로 돌아간 뒤 리나모비블에게 전해주자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/7/description",
+      "before": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回勒鲁日精品店，把磁带交给利纳莫维布尔吧。",
+      "after": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回红派精品店，把磁带交给利纳莫维布尔吧。",
+      "source_kr": "3층 플로어 매니저로부터 방송실 테이프를 얻었다. 이 테이프에 거인의 목소리가 녹음되어 있었던 걸까? 르루주의 부티크로 돌아간 뒤 리나모비블에게 전해주자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/11/title",
+      "before": "消灭着魔的雷诺阿们",
+      "after": "消灭着魔的黑派众人",
+      "source_kr": "홀려버린 르누아르들을 없애기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/11/description",
+      "before": "来到了雷诺阿之屋。名叫法兰绒和毛毡的雷诺阿拜托我们，为了提升他们品牌的格调，除掉被其他声音蛊惑的雷诺阿。消灭3名着魔的雷诺阿后，再来和他们交谈吧。",
+      "after": "来到了黑派之屋。名叫法兰绒和毛毡的黑派拜托我们，为了提升他们品牌的格调，除掉被其他声音蛊惑的黑派。消灭3名着魔的黑派后，再来和他们交谈吧。",
+      "source_kr": "르누아르의 메종으로 향했다. 플라넬과 펠트라는 르누아르들은 자신의 브랜드를 격상시키기 위해 다른 목소리에 홀려버린 르누아르들을 치워 달라고 부탁했다. 홀려버린 르누아르 세 명 정도를 없앤 후 다시 이들에게 말을 걸어보자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/11/steps/0/goalDescription1",
+      "before": "击败3名着魔的雷诺阿",
+      "after": "击败3名着魔的黑派",
+      "source_kr": "홀려버린 르누아르 3명 처치하기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/13/title",
+      "before": "将情报传达给雷诺阿们",
+      "after": "将情报传达给黑派众人",
+      "source_kr": "르누아르들에게 정보 전달해주기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/13/description",
+      "before": "从幸福衣柜的残骸中，得到了一张记载着“黄金面料与钉子”的配方。这也许就是单足提过的武器。为了传达这条消息，先去与4层雷诺阿鞋履馆的员工单足交谈，再回到3层雷诺阿之屋的员工法兰绒和毛毡身边吧。",
+      "after": "从幸福衣柜的残骸中，得到了一张记载着“黄金面料与钉子”的配方。这也许就是单足提过的武器。为了传达这条消息，先去与4层黑派鞋履馆的员工单足交谈，再回到3层黑派之屋的员工法兰绒和毛毡身边吧。",
+      "source_kr": "행복한 옷장의 잔해로부터 '황금원단과 못'에 대해 적혀있는 레시피를 얻었다. 이게 원레그가 말했던 무기일지도 모르겠다. 정보를 전해주기 위해 4층의 르누아르 신발관 직원 원레그에게 대화를 한 후, 3층의 메종 직원 플라넬과 펠트에게 돌아가자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/13/steps/1/goalDescription1",
+      "before": "与4层雷诺阿鞋履馆的单足交谈",
+      "after": "与4层黑派鞋履馆的单足交谈",
+      "source_kr": "4층의 르누아르 신발관에 있는 원레그에게 말 걸기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/13/steps/2/goalDescription1",
+      "before": "与三楼雷诺阿之屋的法兰绒交谈",
+      "after": "与三楼黑派之屋的法兰绒交谈",
+      "source_kr": "3층의 르누아르 메종에 있는 플라넬에게 말 걸기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/15/title",
+      "before": "前往勒鲁日精品店",
+      "after": "前往红派精品店",
+      "source_kr": "르루주의 부티크로 향하기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/15/description",
+      "before": "修补师阿内特制作好了黄金面料。现在还需要钉子。似乎可以从精品店的勒鲁日，利纳莫维布尔那里取得钉子。虽说准确来讲，那是她的脊椎……",
+      "after": "修补师阿内特制作好了黄金面料。现在还需要钉子。似乎可以从精品店的红派，利纳莫维布尔那里取得钉子。虽说准确来讲，那是她的脊椎……",
+      "source_kr": "수선사 아네트가 황금원단을 만들어주었다. 이제 못을 얻어야 한다. 못은 부티크의 르루주인 리나모비블로부터 얻을 수 있을 것 같다. 정확히는 그자의 척추라고 했지만…"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/16/title",
+      "before": "获取“钉子”并前往雷诺阿之屋",
+      "after": "获取“钉子”并前往黑派之屋",
+      "source_kr": "못을 얻고 르누아르의 메종으로 향하기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/16/description",
+      "before": "击败了痛苦不堪、扭曲加剧的利纳莫维布尔。现在必须从她身上拔出脊椎……也就是钉子。用黄金面料裹住钉子，应该就能完成雷诺阿那件能够撕裂任何布料的武器了。去法兰绒和毛毡所在的雷诺阿之屋吧。",
+      "after": "击败了痛苦不堪、扭曲加剧的利纳莫维布尔。现在必须从她身上拔出脊椎……也就是钉子。用黄金面料裹住钉子，应该就能完成黑派那件能够撕裂任何布料的武器了。去法兰绒和毛毡所在的黑派之屋吧。",
+      "source_kr": "괴로워하며 뒤틀림이 심해진 리나모비블을 처치했다. 이제 그자로부터 척추… 이자 못을 뽑아내야 한다. 못에 황금원단을 두르면 어떤 옷감이든 찢을 수 있는 르누아르의 무기를 완성할 수 있을 것이다. 플라넬과 펠트가 있었던 르누아르의 메종으로 가보자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "json_pointer": "/dataList/16/steps/1/goalDescription1",
+      "before": "前往雷诺阿之屋",
+      "after": "前往黑派之屋",
+      "source_kr": "르누아르의 메종으로 가기"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-4.json",
+      "json_pointer": "/dataList/0/description",
+      "before": "带着雷诺阿给的鉴定书上4层吧。据说带着它，雷诺阿就会盛情款待我们，也许在百货公司里行动会更方便一些。",
+      "after": "带着黑派给的鉴定书上4层吧。据说带着它，黑派就会盛情款待我们，也许在百货公司里行动会更方便一些。",
+      "source_kr": "르누아르들이 준 감정평가서를 가지고 4층으로 올라가 보자. 이걸 가지고 가면 르누아르들이 극진히 환대를 해준다고 하니 더 수월하게 백화점을 다닐 수 있을지도 모른다."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-4.json",
+      "json_pointer": "/dataList/2/description",
+      "before": "从雷诺阿鞋履馆的员工单足那里，听说了能撕裂任何布料的武器。先离开雷诺阿鞋履馆，继续逛逛4层吧。",
+      "after": "从黑派鞋履馆的员工单足那里，听说了能撕裂任何布料的武器。先离开黑派鞋履馆，继续逛逛4层吧。",
+      "source_kr": "르누아르의 신발관 직원인 원레그로부터 어떤 옷감도 찢을 수 있는 무기에 대한 이야기를 들었다. 일단은 르누아르의 신발관을 나와서 4층을 마저 둘러보자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "json_pointer": "/dataList/7/description",
+      "before": "想要取得黄金染料，就得等上荒唐得难以置信的时间。据说，雷诺阿中一个名叫奈基德的人排在最前面。找到奈基德，商量能否购买黄金染料吧。",
+      "after": "想要取得黄金染料，就得等上荒唐得难以置信的时间。据说，黑派中一个名叫奈基德的人排在最前面。找到奈基德，商量能否购买黄金染料吧。",
+      "source_kr": "황금염료를 구하기 위해서는 말도 안 되는 순서를 기다려야 한다. 르누아르의 네이키드라는 자가 가장 빠른 순번을 가졌다고 한다. 네이키드를 찾아 황금염료를 매입할 수 있는지 협상을 해보도록 하자."
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "json_pointer": "/dataList/8/steps/0/goalDescription1",
+      "before": "向等候中的雷诺阿打探",
+      "after": "向等候中的黑派打探",
+      "source_kr": "대기 중인 르누아르에게 묻기"
+    }
+  ]
+}

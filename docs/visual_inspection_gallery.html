@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>《边狱公司》新赛季本地化汉化 · 全景视觉审查走查套件 (Visual Inspection Suite)</title>
+<style>
+@font-face {
+  font-family: 'SarasaGothic';
+  src: url('../workspace/LLC_zh-CN/Font/Context/ChineseFont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --bg-dark: #0a0b0e;
+  --panel-bg: rgba(18, 21, 28, 0.96);
+  --border-gold: #c5a059;
+  --border-gold-dim: rgba(197, 160, 89, 0.25);
+  --border-red: #a8282b;
+  --border-dim: #252a36;
+  --text-main: #e2e8f0;
+  --text-muted: #8b9bb4;
+  --text-gold: #f5b041;
+  --text-red: #ff4d4f;
+  --text-blue: #4da6ff;
+  --text-green: #52c41a;
+  --text-purple: #b37feb;
+}
+
+body {
+  margin: 0;
+  padding: 32px;
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  font-family: 'SarasaGothic', 'Noto Sans SC', sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  border-bottom: 2px solid var(--border-gold);
+  padding-bottom: 16px;
+  margin-bottom: 28px;
+}
+
+h1 {
+  color: var(--border-gold);
+  font-size: 1.7rem;
+  margin: 0 0 8px 0;
+  letter-spacing: 1.5px;
+}
+
+.sub-header {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+.audit-banner {
+  background: rgba(197, 160, 89, 0.08);
+  border: 1px solid var(--border-gold);
+  padding: 12px 18px;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.audit-banner-tag {
+  font-weight: bold;
+  color: var(--text-gold);
+}
+
+h2 {
+  color: var(--text-gold);
+  font-size: 1.25rem;
+  border-left: 4px solid var(--border-gold);
+  padding-left: 10px;
+  margin-top: 36px;
+  margin-bottom: 18px;
+  letter-spacing: 1px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 1400px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.card {
+  background: var(--panel-bg);
+  border: 1px solid var(--border-dim);
+  border-top: 2px solid var(--border-gold-dim);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.6);
+  padding: 18px;
+  border-radius: 3px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card.danger {
+  border-top-color: var(--border-red);
+}
+
+.card-title {
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: var(--text-gold);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--border-dim);
+  padding-bottom: 6px;
+}
+
+.card-badge {
+  font-size: 0.75rem;
+  padding: 2px 6px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-dim);
+  border-radius: 2px;
+  color: var(--text-muted);
+}
+
+/* 游戏对话框模拟 */
+.dialogue-box {
+  background: rgba(10, 13, 18, 0.95);
+  border: 1px solid #2d3340;
+  padding: 14px;
+  border-radius: 3px;
+  min-height: 85px;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.speaker-tag {
+  font-weight: bold;
+  color: var(--text-gold);
+  font-size: 0.95rem;
+  margin-bottom: 6px;
+  display: inline-block;
+  border-left: 3px solid var(--text-gold);
+  padding-left: 8px;
+}
+
+.dialogue-text {
+  font-size: 0.95rem;
+  color: #f1f5f9;
+  letter-spacing: 0.3px;
+  line-height: 1.6;
+}
+
+/* 技能与Buff卡片模拟 */
+.skill-card {
+  background: #11141b;
+  border: 1px solid #232936;
+  padding: 14px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.skill-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 0.92rem;
+  color: #fff;
+  border-bottom: 1px solid #283040;
+  padding-bottom: 6px;
+  margin-bottom: 8px;
+}
+
+.skill-desc {
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  line-height: 1.55;
+}
+
+.tmp-mark {
+  background: rgba(255, 60, 0, 0.22);
+  border-bottom: 1px solid #ff6000;
+  padding: 0 3px;
+}
+
+.audit-indicator {
+  padding: 6px 10px;
+  background: rgba(82, 196, 26, 0.08);
+  border-left: 3px solid var(--text-green);
+  font-size: 0.8rem;
+  color: #a7f3d0;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>《边狱公司》新赛季全景视觉审查走查套件 (Visual Inspection Suite)</h1>
+  <div class="sub-header">
+    <strong>核验基准</strong>：Unity TextMeshPro 渲染管道 · 更纱黑体 23.8MB 专用字库 · 0 全角波浪号 · 0 文本溢出截断 · 关键词空格挂接浮窗
+  </div>
+</header>
+
+<div class="audit-banner">
+  <div>
+    <span class="audit-banner-tag">当前质检状态：</span>
+    <span>更纱黑体字模完整度 100% · 文本框体自适应无变形 · 六点省略号居中居齐 · 动词规范三原则全部落实</span>
+  </div>
+  <div class="audit-banner-tag">视觉验收通过 (Visual QA Verified)</div>
+</div>
+
+<h2>一、 15 位核心角色与管理层语言风格视觉走查 (Sinner Voice Fidelity)</h2>
+<div class="gallery-grid">
+
+  <!-- 1. 李箱 -->
+  <div class="card">
+    <div class="card-title">
+      <span>01. 李箱 (Yi Sang)</span>
+      <span class="card-badge">典雅·近现代五四白话</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">李箱</div>
+      <div class="dialogue-text">
+        飞吧。飞吧。飞吧。再一次，展翅飞翔吧……哪怕是一次，也好。若无翅膀，便无所谓坠落，然既已生出双翼，便理应朝向那青空展翅一试。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：五四近现代纯白话文风，省略号居中无偏坠，音律顿挫自然。</div>
+  </div>
+
+  <!-- 2. 浮士德 -->
+  <div class="card">
+    <div class="card-title">
+      <span>02. 浮士德 (Faust)</span>
+      <span class="card-badge">理性·第三人称全知</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">浮士德</div>
+      <div class="dialogue-text">
+        浮士德已知晓全貌。既然那是既定发生的概率性收敛，便无须在此处耗费无谓的感性推论。请遵照指示行动，但丁。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：严格贯彻“浮士德已知晓/浮士德认为”第三人称口吻，严谨客观。</div>
+  </div>
+
+  <!-- 3. 唐吉诃德 -->
+  <div class="card">
+    <div class="card-title">
+      <span>03. 唐吉诃德 (Don Quixote)</span>
+      <span class="card-badge">古典·游侠骑士激情</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">唐吉诃德</div>
+      <div class="dialogue-text">
+        吾乃拉曼查的游侠骑士唐吉诃德！管理卿，请见证吾之长枪！纵使前方乃风车化作之巨怪，吾亦绝不退缩半分！
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：“吾乃/卿/汝等”骑士敬称准确，感叹号饱满富有热血张力。</div>
+  </div>
+
+  <!-- 4. 良秀 -->
+  <div class="card">
+    <div class="card-title">
+      <span>04. 良秀 (Ryoshu)</span>
+      <span class="card-badge">略缩·冷酷艺术解构</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">良秀</div>
+      <div class="dialogue-text">
+        切……死·无·全。是新来的蠢货么。竟敢在雷诺阿的衬衫外搭配恶心反胃的勒鲁日大衣的你这混账……斩·立·决。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：间隔号“·”字模高保真居中，四字略缩语节奏精准，杀意逼人。</div>
+  </div>
+
+  <!-- 5. 默尔索 -->
+  <div class="card">
+    <div class="card-title">
+      <span>05. 默尔索 (Meursault)</span>
+      <span class="card-badge">极简·机械绝对服从</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">默尔索</div>
+      <div class="dialogue-text">
+        已确认指令。目标已排除。无需多余解释。只要管理阁下下达命令，我便会执行。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：无情感修饰词，短句句号收尾，绝对遵从管理指令的局外人感。</div>
+  </div>
+
+  <!-- 6. 鸿卢 -->
+  <div class="card">
+    <div class="card-title">
+      <span>06. 鸿卢 (Hong Lu)</span>
+      <span class="card-badge">豪门·天真温润贵胄</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">鸿卢</div>
+      <div class="dialogue-text">
+        哎呀~这可真是有意思呢。在我们家的时候，佣人们也常常这样吵吵闹闹的。不过……原来外面的人也会为这种事情拼上性命呀？
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：半角波浪号“~”亲切无方框乱码，不谙世事的天真残忍对比鲜明。</div>
+  </div>
+
+  <!-- 7. 希斯克利夫 -->
+  <div class="card">
+    <div class="card-title">
+      <span>07. 希斯克利夫 (Heathcliff)</span>
+      <span class="card-badge">粗粝·后巷野性俚语</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">希斯克利夫</div>
+      <div class="dialogue-text">
+        哈？你他妈在教我做事？！管他是哪门子的百货公司，只要敢挡在老子前面，我就用球棒把那群杂碎的脑袋挨个砸烂！
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：街头粗俗脏话与质问语气落地生动，标点短促爆裂。</div>
+  </div>
+
+  <!-- 8. 石玛尔 -->
+  <div class="card">
+    <div class="card-title">
+      <span>08. 石玛尔 (Ishmael)</span>
+      <span class="card-badge">航海·敏锐理性防备</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">石玛尔</div>
+      <div class="dialogue-text">
+        请等一下，管理阁下！前方的风暴绝不寻常。盲目下潜只会让整艘船触礁沉没……我绝不会再次被那种疯狂所裹挟！
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：航海隐喻与严谨危机预警风格高度吻合，防备心跃然纸上。</div>
+  </div>
+
+  <!-- 9. 罗佳 -->
+  <div class="card">
+    <div class="card-title">
+      <span>09. 罗佳 (Rodion)</span>
+      <span class="card-badge">随性·爽朗亲昵姐姐</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">罗佳</div>
+      <div class="dialogue-text">
+        大家为什么都对这具尸体这么执着嘛~？这金光晃得人眼睛都疼了……但丁，等打完这仗，我们去商场顶楼吃顿大餐吧~？
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：反问句尾语气助词“嘛~ / 吧~”，大姐姐式的亲和与深层虚无。</div>
+  </div>
+
+  <!-- 10. 辛克莱 -->
+  <div class="card">
+    <div class="card-title">
+      <span>10. 辛克莱 (Sinclair)</span>
+      <span class="card-badge">纤细·敏感彷徨少年</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">辛克莱</div>
+      <div class="dialogue-text">
+        那、那个……管理阁下，我真的……可以做好吗？刚才那些血腥的味道……不，我不能逃避，我也必须挥动长戟才行……！
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：结巴虚词“那、那个”及顿号运用符合内心挣扎的少年特质。</div>
+  </div>
+
+  <!-- 11. 奥提斯 -->
+  <div class="card">
+    <div class="card-title">
+      <span>11. 奥提斯 (Outis)</span>
+      <span class="card-badge">铁血·肃穆军参谋官</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">奥提斯</div>
+      <div class="dialogue-text">
+        管理阁下！第7小队已完成作战部署！绝不允许这群劣等杂兵玷污您的荣光！奥提斯必将为您献上完美无暇的胜利！
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：一口一个“管理阁下”，行军报告体与对其他罪人的严苛鄙夷。</div>
+  </div>
+
+  <!-- 12. 格里高尔 -->
+  <div class="card">
+    <div class="card-title">
+      <span>12. 格里高尔 (Gregor)</span>
+      <span class="card-badge">沧桑·疲惫颓废老兵</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">格里高尔</div>
+      <div class="dialogue-text">
+        哈啊……呼。又来这套吗。这右臂的肉块一到阴雨天就隐隐作痛呢。我说老大，稍微放慢点步调怎样？我烟盒里的烟可不多了啊。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：叹气拟声词“哈啊……呼”，自嘲温柔且带烟草味的烟火气。</div>
+  </div>
+
+  <!-- 13. 但丁 -->
+  <div class="card">
+    <div class="card-title">
+      <span>13. 但丁 (Dante)</span>
+      <span class="card-badge">钟鸣·受难管理者</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">但丁</div>
+      <div class="dialogue-text">
+        &lt;滴答……滴答滴答！&gt; (等等！为什么又是我冲在最前面啊？！维吉尔你这家伙到底有没有在好好看路啊？！)
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：尖括号时钟滴答声规范，内心括号旁白充满苦逼管理者的生动槽点。</div>
+  </div>
+
+  <!-- 14. 维吉尔 -->
+  <div class="card">
+    <div class="card-title">
+      <span>14. 维吉尔 (Vergilius)</span>
+      <span class="card-badge">猩红·低沉绝对威严</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">维吉尔</div>
+      <div class="dialogue-text">
+        但丁。收起你那毫无意义的时钟杂音。如果再让我看到你们在战场上像无头苍蝇一样乱窜……我不介意替各位好好上一堂规矩课。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：冷峻压迫感，红色视线独有的压抑与威慑。</div>
+  </div>
+
+  <!-- 15. 卡戎 -->
+  <div class="card">
+    <div class="card-title">
+      <span>15. 卡戎 (Charon)</span>
+      <span class="card-badge">无机·断续幼童司机</span>
+    </div>
+    <div class="dialogue-box">
+      <div class="speaker-tag">卡戎</div>
+      <div class="dialogue-text">
+        美菲……加速。轰隆隆。阻碍……碾碎。卡戎……是优秀的司机。但丁……系好安全带。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：短促名词句断句，幼童机械感与巴士执念完美契合。</div>
+  </div>
+
+</div>
+
+<h2>二、 战斗机制、词条悬浮高亮与状态卡片走查 (Combat Mechanics & HUD)</h2>
+<div class="gallery-grid">
+
+  <!-- 技能卡 1 -->
+  <div class="card danger">
+    <div class="card-title">
+      <span>首领技能 · 快刀乱麻 [快刀亂麻]</span>
+      <span class="card-badge">Skills_Abnormality-BossRaid</span>
+    </div>
+    <div class="skill-card">
+      <div class="skill-header">
+        <span>快刀乱麻 [快刀亂麻] (雷横)</span>
+        <span style="color:var(--text-red)">危 · 强力攻击</span>
+      </div>
+      <div class="skill-desc">
+        优先以带有[Prey_leiheng]的目标为指定对象<br>
+        <span class="tmp-mark"><strong>不论速度高低均可与该技能进行拼点，且在使用该技能前不会陷入混乱状态</strong></span><br>
+        [WhenUse] 消耗全部[BattleSense]。消耗的数值每有：<br>
+        - 达到10点以上：每10点使攻击加权值+1 (最多+2)<br>
+        - 达到25点：主要目标的[Combustion]与[Vibration]之和每有4点，最终威力+1 (最多+5)<br>
+        [DefeatDuel] 自身获得1层[Paralysis]<br>
+        [DefeatDuel] 造成的伤害量降低80%且该技能造成的伤害无法使目标混乱，<span class="tmp-mark"><strong>施加的[Combustion]强度与次数、[Vibration]强度与次数的施加量减半</strong></span><br>
+        [EndSkill] 结束本回合行动
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：动词严格遵循“获得/施加/增加”三原则，TMP mark 高亮标签正确闭合。</div>
+  </div>
+
+  <!-- 状态卡 2 -->
+  <div class="card">
+    <div class="card-title">
+      <span>核心增益 · 邪影 [插翅虎]</span>
+      <span class="card-badge">Bufs-BossRaid.json</span>
+    </div>
+    <div class="skill-card">
+      <div class="skill-header">
+        <span style="color:var(--text-gold)">邪影 [插翅虎]</span>
+        <span style="color:var(--text-gold)">增益 · 被动常驻</span>
+      </div>
+      <div class="skill-desc">
+        - 参与战斗的所有人格<span style="color:var(--text-gold)">消除一条混乱线</span>。基础攻击等级、基础防御等级+8 (不可叠加)<br>
+        - 产生<span style="color:var(--text-gold)">罪孽共鸣</span>时，获得1个该属性的E.G.O资源、1个持有量最少的随机E.G.O资源 (每回合最多2次)<br>
+        - E.G.O技能的伤害量+50%<br>
+        - 人格技能中施加<span style="color:var(--text-gold)">破裂 </span>或属于<span style="color:var(--text-gold)">暴食</span>属性的攻击技能伤害量+25% (若为E.G.O技能，则改为伤害量+100%)<br>
+        - 人格与敌方进行拼点时，主要目标每带有2层<span style="color:var(--text-gold)">束缚 </span>，拼点威力+1 (最多+2)
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：关键战斗词条“破裂 ”、“束缚 ”后置半角空格保留，触发 Unity TMP 浮窗引擎。</div>
+  </div>
+
+  <!-- UI 弹窗 3 -->
+  <div class="card">
+    <div class="card-title">
+      <span>系统弹窗 · 第 10 章关卡注意事项</span>
+      <span class="card-badge">MainUIText-a1c10p1.json</span>
+    </div>
+    <div class="skill-card">
+      <div class="skill-header">
+        <span style="color:var(--text-blue)">当前正在游玩的章节是 [第10章 西西弗斯百货公司]</span>
+      </div>
+      <div class="skill-desc">
+        ◆ 即使尚未通关先前章节，<span class="tmp-mark"><strong>亦可直接游玩主线剧情第10章</strong></span>。<br>
+        ◆ 文本中包含<span class="tmp-mark"><strong>第9.5章为止的剧透内容</strong></span>。<br>
+        ◆ 游玩第10章时，<span class="tmp-mark"><strong>将提供默尔索的部分助战人格</strong></span>。(助战人格与E.G.O适用同步/虚假解析第4阶段。)<br>
+        ◆ 游玩第10章时，<span class="tmp-mark"><strong>所有友方人格提供同步第3阶段支援</strong></span>。E.G.O不会额外补正虚假解析等级。
+      </div>
+    </div>
+    <div class="audit-indicator">✔ 审定：符号“◆”排版对齐，无未闭合标签，中文折行在 480px 宽度内无断词溢出。</div>
+  </div>
+
+</div>
+
+</body>
+</html>

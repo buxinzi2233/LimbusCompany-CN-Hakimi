@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "key": "N201101",
+      "displayName": "眼部试吃员"
+    },
+    {
+      "key": "N201102",
+      "displayName": "鼻部试吃员"
+    },
+    {
+      "key": "N201103",
+      "displayName": "口渴的勒卡其"
+    },
+    {
+      "key": "N201104",
+      "displayName": "皮革钱包"
+    },
+    {
+      "key": "N201105",
+      "displayName": "丹宁钱包"
+    },
+    {
+      "key": "N201106",
+      "displayName": "饥饿的勒卡其"
+    },
+    {
+      "key": "N201107",
+      "displayName": "口部试吃员"
+    },
+    {
+      "key": "N201108",
+      "displayName": "口渴的勒卡其"
+    },
+    {
+      "key": "N201109",
+      "displayName": "饥饿的勒卡其"
+    },
+    {
+      "key": "N201110",
+      "displayName": "皮革钱包"
+    }
+  ]
+}

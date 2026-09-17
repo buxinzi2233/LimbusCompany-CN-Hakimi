@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_3F_HighDomestic_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>渴求吧，依汝所欲，尽数吞噬殆尽。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>披覆吧，毫不保留地大口吞下。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>希冀吧，依汝所愿，毫无顾忌地将其耗竭。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>渴求吧。如此便能披覆于身。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>纵可盈满，亦不可满。纵可尽享，亦当止步。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>戒绝过逾，遵从秩序。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>切勿违逆规训。西西弗斯铭记汝等所忍受的一切苦痛。</color>"
+        }
+      ]
+    }
+  ]
+}

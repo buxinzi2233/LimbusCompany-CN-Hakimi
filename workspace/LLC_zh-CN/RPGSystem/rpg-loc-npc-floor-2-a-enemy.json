@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "key": "N102002",
+      "displayName": "品牌总监"
+    },
+    {
+      "key": "N102004",
+      "displayName": "红派职员"
+    },
+    {
+      "key": "N102025",
+      "displayName": "红派职员"
+    },
+    {
+      "key": "N102026",
+      "displayName": "反抗的红派"
+    },
+    {
+      "key": "N102027",
+      "displayName": "红派店长"
+    },
+    {
+      "key": "N102042",
+      "displayName": "冲锋的黑派"
+    },
+    {
+      "key": "N102043",
+      "displayName": "突击的黑派"
+    },
+    {
+      "key": "N102044",
+      "displayName": "突击的黑派"
+    },
+    {
+      "key": "N102046",
+      "displayName": "冲锋的黑派"
+    }
+  ]
+}

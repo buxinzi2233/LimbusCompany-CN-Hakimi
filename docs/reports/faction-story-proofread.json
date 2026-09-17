@@ -1,0 +1,1066 @@
+{
+  "authority": "用户明确指定：르루주使用红派，르누아르使用黑派，优先于研究文件。",
+  "scope": "StoryData全部文件按当前KR可见字段定位；保留ID、model及所有非相关文本。",
+  "files": [
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/P10416.json",
+      "before_sha256": "7a26fd66e79622757ba41b7c32dc71606bc6d14dc4331c67f55ea8ebcce98d4d",
+      "after_sha256": "c4781559eadadea939aad80667e35acefbcc10987807eda74e67dfa8c53c80bc"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/P10816.json",
+      "before_sha256": "323e14164cb2d818e6eca94cebb9552b4594ac63f90b27645359f2169443a7af",
+      "after_sha256": "019e1e33576169ba8fe3cc237c90b77ebdb2a08b21a89fc2451686872a4c9233"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1009B.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/S1009B.json",
+      "before_sha256": "a8d36cacee4f67cfee592b0a4b308b5bad27facad36f57dc33bad65992221fdb",
+      "after_sha256": "6be9496b56bc9b263971d77759c6a00452f20f88a2fe288e800a582df01d3454"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1010B.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/S1010B.json",
+      "before_sha256": "c636f4d87489de501f6879caf7c5d3067c528a28b7a5101b46f4634928b4b6a6",
+      "after_sha256": "33454caeff1d605be5e8e8a1e6049ce344aa41a6f16141b31953f035c99d50e7"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1013B.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/S1013B.json",
+      "before_sha256": "cb286a337453480fb368e6a6ee9e40701132ab4384e2c31ad6a3b8cb5364d861",
+      "after_sha256": "dd2f028e3753855ea064a5e8bdd7708851652d7935b7c25ac6ec9190ca9752e6"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1014B.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/S1014B.json",
+      "before_sha256": "8f1d11d082c0adacf82e5d2565eba360f8c8dcd100f36293f7f6e377b5cfcc4a",
+      "after_sha256": "f55949db395a197bd5807c744c7ad56ddee6904f224389afcd63dc075f0cfe14"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/S1016B.json",
+      "before_sha256": "f83a24938520a01f63f98cbd1f4d8d0aea13d0feaf0a96a2bdcbb9218cad377c",
+      "after_sha256": "e2d8a3c33da3517ba467d7c0078b6df4517d7210a954ac83aaa50a4c8dd09857"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S9991B.json",
+      "backup": "backups/faction-terminology-20260918/StoryData/S9991B.json",
+      "before_sha256": "cc8ddb7400bd7806de100e002e16e8d63f44e8e20f49fae930c0ddeb6ce901f3",
+      "after_sha256": "730ad22a1da20bd7ba74e9810e7b9552c0cfcad25e91b639957dd8e82036efd8"
+    }
+  ],
+  "changes": [
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 1,
+      "id": 1,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 2,
+      "id": 2,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 4,
+      "id": 4,
+      "field": "content",
+      "before": "没错……竟敢拿雷诺阿的衬衫，搭那恶心的勒鲁日外套。就是你。",
+      "after": "没错……竟敢拿黑派的衬衫，搭那恶心的红派外套。就是你。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "그래… 감히 르누아르의 셔츠에 역겨운 르루주의 코트를 매칭하고 있는 네놈."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 4,
+      "id": 4,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 5,
+      "id": 5,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 8,
+      "id": 8,
+      "field": "content",
+      "before": "我既未加入勒鲁日，也未加入雷诺阿……仍在寻找与外界联系的办法。",
+      "after": "我既未加入红派，也未加入黑派……仍在寻找与外界联系的办法。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "나는 르루주에도, 르누아르에도 들어가지 않은 채… 여전히 바깥과 연락할 수단을 찾고 있다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 10,
+      "id": 10,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 12,
+      "id": 12,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 18,
+      "id": 18,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 19,
+      "id": 19,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 21,
+      "id": 21,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 22,
+      "id": 22,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 23,
+      "id": 23,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 28,
+      "id": 28,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 30,
+      "id": 30,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 31,
+      "id": 31,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 34,
+      "id": 34,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 35,
+      "id": 35,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 36,
+      "id": 36,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 37,
+      "id": 37,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 38,
+      "id": 38,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 39,
+      "id": 39,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 41,
+      "id": 41,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 43,
+      "id": 43,
+      "field": "content",
+      "before": "勒鲁日……那些红东西的店。",
+      "after": "红派……那些红东西的店。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르루주… 그 붉은 것들의 매장으로 갈 거다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 43,
+      "id": 43,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 44,
+      "id": 44,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 45,
+      "id": 45,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 46,
+      "id": 46,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 48,
+      "id": 48,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 50,
+      "id": 50,
+      "field": "content",
+      "before": "鞋馆主人瞬间飞向勒鲁日们，挥起腿。",
+      "after": "鞋馆主人瞬间飞向红派众人，挥起腿。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "신발관 주인은 순식간에 르루주들에게 날아가 다리를 휘둘렀다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 51,
+      "id": 51,
+      "field": "content",
+      "before": "其间迸发的阵阵冲击，将勒鲁日的店铺转眼化为一片狼藉。",
+      "after": "其间迸发的阵阵冲击，将红派的店铺转眼化为一片狼藉。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "중간중간 터져나가는 파동에 르루주의 매장은 순식간에 쑥대밭으로 변했다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 53,
+      "id": 53,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 56,
+      "id": 56,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 58,
+      "id": 58,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 59,
+      "id": 59,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 60,
+      "id": 60,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 61,
+      "id": 61,
+      "field": "content",
+      "before": "乍一看，守着勒鲁日店铺的似乎只有一个人……",
+      "after": "乍一看，守着红派店铺的似乎只有一个人……",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "언뜻 보기에는 르루주 매장을 지키는 인원이 한 명 밖에 없어보이지만…"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 66,
+      "id": 66,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 67,
+      "id": 67,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10416.json",
+      "row_index": 69,
+      "id": 69,
+      "field": "title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10416.json",
+      "kr": "르누아르 신발관"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 1,
+      "id": 1,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 5,
+      "id": 5,
+      "field": "content",
+      "before": "您是第一次来勒鲁日精品店吧？",
+      "after": "您是第一次来红派精品店吧？",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크는 처음이신봐요?"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 5,
+      "id": 5,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 10,
+      "id": 10,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 11,
+      "id": 11,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 12,
+      "id": 12,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 14,
+      "id": 14,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 17,
+      "id": 17,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 18,
+      "id": 18,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 19,
+      "id": 19,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 24,
+      "id": 24,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 25,
+      "id": 25,
+      "field": "content",
+      "before": "趁这个机会，全换成勒鲁日的品牌，也不错……",
+      "after": "趁这个机会，全换成红派的品牌，也不错……",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "이참에 르루주 브랜드로 싹 갈아입는 것도…"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 25,
+      "id": 25,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 26,
+      "id": 26,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 28,
+      "id": 28,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 29,
+      "id": 29,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 36,
+      "id": 36,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 40,
+      "id": 40,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 41,
+      "id": 41,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 42,
+      "id": 42,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 43,
+      "id": 43,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 46,
+      "id": 46,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 48,
+      "id": 48,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 49,
+      "id": 49,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 50,
+      "id": 50,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 55,
+      "id": 55,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 57,
+      "id": 57,
+      "field": "content",
+      "before": "是的，雷诺阿……那些东西卖衣服的店。",
+      "after": "是的，黑派……那些东西卖衣服的店。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "네, 르누아르… 그것들이 옷을 팔고 있는 매장이요."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 57,
+      "id": 57,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 59,
+      "id": 59,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 60,
+      "id": 60,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 62,
+      "id": 62,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 63,
+      "id": 63,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 64,
+      "id": 64,
+      "field": "content",
+      "before": "骨头制成的钉子贯穿了雷诺阿。",
+      "after": "骨头制成的钉子贯穿了黑派成员。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "뼈로 만들어진 못이 르누아르를 꿰뚫는다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 65,
+      "id": 65,
+      "field": "content",
+      "before": "从精品店设计师身上涌出的无数只手，碾压、撕扯着雷诺阿的店员。",
+      "after": "从精品店设计师身上涌出的无数只手，碾压、撕扯着黑派的店员。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "부티크 디자이너의 몸에서 솟아오른 수많은 손들이 르누아르 매장 직원들을 짓누르고, 뜯어낸다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 67,
+      "id": 67,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 68,
+      "id": 68,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 69,
+      "id": 69,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 71,
+      "id": 71,
+      "field": "content",
+      "before": "或许得益于在外面做过几次装内脏的活儿……我没费多少力气，就收下了一大堆雷诺阿掉落的眼球。",
+      "after": "或许得益于在外面做过几次装内脏的活儿……我没费多少力气，就收下了一大堆黑派成员掉落的眼球。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "바깥에서 내장 담기를 몇 번 해본 덕일까… 어렵지 않게 르누아르들이 떨어뜨린 눈알을 두둑히 챙겼다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 74,
+      "id": 74,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 75,
+      "id": 75,
+      "field": "content",
+      "before": "多亏了您……才能毁掉这些连黄金皮革的价值都不懂的雷诺阿的店铺。",
+      "after": "多亏了您……才能毁掉这些连黄金皮革的价值都不懂的黑派的店铺。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "덕분에… 황금가죽의 가치도 모르는 르누아르, 이 작자들의 매장을 망가뜨릴 수 있었고요."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 75,
+      "id": 75,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 76,
+      "id": 76,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/P10816.json",
+      "row_index": 77,
+      "id": 77,
+      "field": "title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_P10816.json",
+      "kr": "르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1009B.json",
+      "row_index": 16,
+      "id": 16,
+      "field": "content",
+      "before": "当然……眼下得先处理雷诺阿们大批订购的布料。",
+      "after": "当然……眼下得先处理黑派大批订购的布料。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1009B.json",
+      "kr": "물론… 지금은 르누아르들이 대량 주문한 원단을 먼저 손봐야겠지만."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1010B.json",
+      "row_index": 0,
+      "id": 0,
+      "field": "place",
+      "before": "3F 勒鲁日精品店",
+      "after": "3F 红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1010B.json",
+      "kr": "3F 르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1013B.json",
+      "row_index": 4,
+      "id": 4,
+      "field": "content",
+      "before": "我们受雷诺阿委托，来制作黄金线团。",
+      "after": "我们受黑派委托，来制作黄金线团。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1013B.json",
+      "kr": "르누아르의 의뢰를 받고, 황금 실타래를 만들기 위해 왔다."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1014B.json",
+      "row_index": 25,
+      "id": 25,
+      "field": "content",
+      "before": "雷诺阿的奈基德。很久以前就来抢排队名额的人之一。",
+      "after": "黑派的奈基德。很久以前就来抢排队名额的人之一。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1014B.json",
+      "kr": "르누아르의 네이키드. 한참 전에 와서 오픈런을 달린 사람 중 한 명이지."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1014B.json",
+      "row_index": 38,
+      "id": 38,
+      "field": "content",
+      "before": "<不、不用了……那个叫奈基德的也是雷诺阿……把鉴定报告给他，说不定能便宜点。>",
+      "after": "<不、不用了……那个叫奈基德的也是黑派……把鉴定报告给他，说不定能便宜点。>",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1014B.json",
+      "kr": "<아, 아니야… 네이키드라는 자도 르누아르니까… 그 감정평가서를 주면 좀 깎아줄지도 몰라.>"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1014B.json",
+      "row_index": 39,
+      "id": 39,
+      "field": "content",
+      "before": "<先去找他谈谈吧。既然是雷诺阿……穿着应该也很显眼。>",
+      "after": "<先去找他谈谈吧。既然是黑派……穿着应该也很显眼。>",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1014B.json",
+      "kr": "<우선 찾아가서 이야기를 들어보자. 르누아르라면… 복장도 눈에 띌 테니까.>"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 0,
+      "id": 0,
+      "field": "place",
+      "before": "3F 勒鲁日精品店",
+      "after": "3F 红派精品店",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "3F 르루주 부티크"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 13,
+      "id": 13,
+      "field": "title",
+      "before": "勒鲁日",
+      "after": "红派",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 14,
+      "id": 14,
+      "field": "title",
+      "before": "勒鲁日",
+      "after": "红派",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 19,
+      "id": 19,
+      "field": "title",
+      "before": "勒鲁日",
+      "after": "红派",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 20,
+      "id": 20,
+      "field": "title",
+      "before": "勒鲁日",
+      "after": "红派",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 22,
+      "id": 22,
+      "field": "content",
+      "before": "<迄今遇到的勒鲁日和雷诺阿员工……虽然程度不同，却都在逐渐扭曲。可现在……扭曲正在急速加深。>",
+      "after": "<迄今遇到的红派和黑派员工……虽然程度不同，却都在逐渐扭曲。可现在……扭曲正在急速加深。>",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "<지금까지 만나왔던 르루주나 르누아르 직원들은… 정도의 차이일 뿐 모두 뒤틀려가고 있었는데 지금은… 뒤틀림이 급격히 더 진행되고 있어.>"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 23,
+      "id": 23,
+      "field": "title",
+      "before": "勒鲁日",
+      "after": "红派",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 24,
+      "id": 24,
+      "field": "title",
+      "before": "勒鲁日人体模特",
+      "after": "红派人体模特",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주 마네킹"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S1016B.json",
+      "row_index": 25,
+      "id": 25,
+      "field": "title",
+      "before": "勒鲁日人体模特",
+      "after": "红派人体模特",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S1016B.json",
+      "kr": "르루주 마네킹"
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S9991B.json",
+      "row_index": 14,
+      "id": 14,
+      "field": "content",
+      "before": "勒鲁日们未能守住最后的希望——神的诞生，就此灭绝。",
+      "after": "红派众人未能守住最后的希望——神的诞生，就此灭绝。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S9991B.json",
+      "kr": "르루주들은 마지막 희망이었던 신의 탄생을 지키지 못하고 절멸했어."
+    },
+    {
+      "file": "workspace/LLC_zh-CN/StoryData/S9991B.json",
+      "row_index": 16,
+      "id": 16,
+      "field": "content",
+      "before": "雷诺阿们如愿以偿，各自伸展全身，撑起天花板与地面。",
+      "after": "黑派众人如愿以偿，各自伸展全身，撑起天花板与地面。",
+      "kr_file": "/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr/StoryData/KR_S9991B.json",
+      "kr": "르누아르들은 저마다의 소망대로 온 몸을 뻗어 천장과 바닥을 떠받치게 되었지."
+    }
+  ],
+  "validation": {
+    "changed_fields": 100,
+    "changed_files": 8,
+    "backup_hashes_verified": true,
+    "only_reported_visible_fields_changed": true,
+    "scoped_linter_issues": [],
+    "linter_report": "/tmp/faction-story-lint.json",
+    "global_linter_exit": 1,
+    "global_findings": "132 FATAL, 50 ERROR, 19 WARN outside these 8 files"
+  }
+}

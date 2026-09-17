@@ -1,0 +1,190 @@
+{
+  "summary": {
+    "changed_files": 3,
+    "changed_fields": 18
+  },
+  "backup": "backups/style-alignment-20260918-033140",
+  "changes": [
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 111,
+      "path": "dataList[id=111].flavor",
+      "old": "票面上盖有某种特殊标记的特殊提取券。能够必定提取出存在于渺茫可能性世界中的人格。纸页正剧烈地震颤、脉动着。",
+      "new": "印有某种标记的特殊提取券。能确保提取出存在于渺茫可能性世界中的人格。纸页正剧烈地震颤、脉动着。",
+      "kr": "추출 티켓 위에 어떤 표식이 찍혀있는 특수한 물건. 희박한 가능성의 세계에 있는 인격을 확정적으로 추출할 수 있다. 종이는 격렬하게 요동치고 박동하고 있다.",
+      "en": "A special ticket with a mark on it. It can extract an Identity from a world of unlikely possibilities with certainty. The paper is fiercely beating and pulsing.",
+      "reason": "删除重复的特殊及能够必定的冗余，保持原文确定性与物理搏动意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 1208,
+      "path": "dataList[id=1208].flavor",
+      "old": "能够获得指定罪人自我碎片的箱子。\n据浮士德所述，其结果将由开箱时管理者的选择所决定。",
+      "new": "能够获得指定罪人自我碎片的箱子。\n据浮士德所述，其结果会根据经理开箱时的选择而定。",
+      "kr": "수감자의 자아 파편 중 원하는 것을 획득할 수 있는 상자.\n파우스트에 의하면, 상자를 개봉하는 관리자의 선택에 의해 확정된다고 한다.",
+      "en": "A crate that yields Egoshards of a Sinner you choose.\nAccording to Faust, the crate's content is determined once the manager makes their decision.",
+      "reason": "同源LLC历季自选箱均使用经理，恢复称谓和简洁句式"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10108,
+      "path": "dataList[id=10108].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10208,
+      "path": "dataList[id=10208].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10308,
+      "path": "dataList[id=10308].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10408,
+      "path": "dataList[id=10408].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10508,
+      "path": "dataList[id=10508].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10608,
+      "path": "dataList[id=10608].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10708,
+      "path": "dataList[id=10708].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10808,
+      "path": "dataList[id=10808].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 10908,
+      "path": "dataList[id=10908].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 11008,
+      "path": "dataList[id=11008].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 11108,
+      "path": "dataList[id=11108].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "id": 11208,
+      "path": "dataList[id=11208].flavor",
+      "old": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "new": "将罪人们的“某一刻”具象化的碎片。其腾空飘浮。\n若不抓住那股可能性，它们最终只会随风而逝。",
+      "kr": "수감자들의 언젠가가 조각의 형태로 구현된 것. 조각은 떠다닌다.\n가능성은 쥐지 않으면 가능성인 채로 그저 떠다니기 때문일 것이다.",
+      "en": "Fleeting moments from any point within the Sinner’s lifetime, condensed into physical form. The shards float in the air.\nPossibilities are transient things; they drift in the realm of uncertainty unless seized.",
+      "reason": "KR与上一赛季完全同源，复用冻结LLC译文；不添加虚无、静静等额外意象"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "id": "battle_select_10816_1",
+      "path": "dataList[id=battle_select_10816_1].dlg",
+      "old": "那种过时的穿搭，放在哪里可都不会受欢迎哦……不顺道来我们卖场逛上一圈吗？",
+      "new": "那种穿搭，恐怕到哪里都难受欢迎呢……不顺道来我们卖场逛上一圈吗？",
+      "kr": "그런 패션으로는 어디에서도 환영받기 힘드실 텐데… 저희 매장에 한 번 들르시는 게 어때요?",
+      "en": "Hm... Most places'll turn you away if you show up in that getup. Why don't you stop by my shop sometime?",
+      "reason": "恢复힘드실 텐데的委婉推测，删除그런 패션未限定的过时"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "id": "battle_defeat_10816_1",
+      "path": "dataList[id=battle_defeat_10816_1].dlg",
+      "old": "啊啊……声音……又听不见了……您未曾回应我，到底去哪儿了？不行……！必须一遍又一遍地重温默念。那位大人的声音、那位大人的圣言！",
+      "new": "啊啊……声音……又听不见了……您没有回应我，到底去哪儿了？不行……！必须再次、再次默念。那位大人的声音、那位大人的圣言！",
+      "kr": "아아… 목소리가… 또다시 들리지 않아… 제게 말하지 않으시고, 어디로 가신 거죠? 안 돼…! 다시, 다시 되뇌여야해. 그분의 목소리를, 그분의 말씀을!",
+      "en": "Arrgh... The Voice, I—the Voice is gone...! Why have you abandoned me?! No, no, no...! I have to... I have to recite the mantra once again. Remember the Voice... remember the Words...!",
+      "reason": "恢复다시, 다시的惊慌重复及口语；按同人格新的神/祈祷语境保留圣言"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "id": 73,
+      "path": "dataList[id=73].content",
+      "old": "……真的就要在连辩护律师都没有的情况下，就这么直接开始审判吗？",
+      "new": "……连律师都没有，真的就这样开始审判吗？",
+      "kr": "…정말 이대로 변호사 없이 재판 시작하는 거야?",
+      "en": "... We're really going ahead with this without a lawyer?",
+      "reason": "保持原文短反问，收回在连…情况下就这么直接的句式拖延"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "id": 225,
+      "path": "dataList[id=225].content",
+      "old": "检察官同样没再多言。毕竟连那份差事都被浮士德代劳了……站在检察官的立场上，大概反而感激得很吧。",
+      "new": "检察官同样没有多说什么。因为那部分工作已经被浮士德代劳了……检察官大概会感激她吧。",
+      "kr": "검사 또한 많은 말을 하지 않았다. 그 몫까지 파우스트가 해주고 있었으니… 검사로서는 고마웠을 것이다.",
+      "en": "The prosecutor likewise seemed to find little need to speak. Faust was competently doing her job for her, after all. If anything, she was probably grateful.",
+      "reason": "保留浮士德代做检方工作的荒诞反差；고마웠을 것이다没有感激得很的强度"
+    }
+  ],
+  "runtime_verified": false
+}

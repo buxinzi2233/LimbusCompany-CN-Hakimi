@@ -1,0 +1,4666 @@
+{
+  "missing_files": [
+    "KR_AbEvents-a1c5p1.json",
+    "KR_AbEvents-a1c5p2.json",
+    "KR_AbEventsResultLog-a1c5p1.json",
+    "KR_AbEventsResultLog-a1c5p2.json",
+    "KR_AbnormalityGuides-a1c5p1.json",
+    "KR_AbnormalityGuides-a1c5p2.json",
+    "KR_ActionEvents-a1c5p1.json",
+    "KR_ActionEvents-a1c5p2.json",
+    "KR_AnnouncerTicketUIPopup.json",
+    "KR_AttendanceCheckS7.json",
+    "KR_BossRaidUI-4.json",
+    "KR_ChapterBannerConfig.json",
+    "KR_ChoiceEventEffect-a1c5p1.json",
+    "KR_ChoiceEventEffect-a1c5p2.json",
+    "KR_ChoiceEventEffect-a1c5p3.json",
+    "KR_EGOgift_StoryDungeon-a1c5p1.json",
+    "KR_EGOgift_StoryDungeon-a1c5p2.json",
+    "KR_IAPProduct-a1c6.json",
+    "KR_Items-BossRaid.json",
+    "KR_Passives-a1c9p1.json",
+    "KR_Passives-a1c9p2.json",
+    "KR_Passives-a1c9p3.json",
+    "KR_Passives_Abnormality-a1c5p1.json",
+    "KR_Passives_Abnormality-a1c5p2.json",
+    "KR_Passives_Enemy-a1c9p3.json",
+    "KR_Passive_Ego-a1c5p2.json",
+    "KR_Passive_Ego-a1c9p2.json",
+    "KR_Passive_Ego-a1c9p3.json",
+    "KR_Personalities-a1c9p2.json",
+    "KR_SelectLoadingCgUi.json",
+    "KR_Skills_Abnormality-a1c5p1.json",
+    "KR_Skills_Abnormality-night-clean-up-re.json",
+    "KR_Skills_Ego-a1c5p2.json",
+    "KR_Skills_Ego_Personality-a1c9p2.json",
+    "KR_Skills_Enemy-a1c9p2.json",
+    "KR_Skills_personality-a1c9p1.json",
+    "KR_Skills_personality-a1c9p2.json",
+    "KR_StoryVoiceSettingUI.json",
+    "KR_UserTicket-EGOBg-a1c9p3.json",
+    "KR_UserTicket-L-a1c9p3.json",
+    "KR_UserTicket-R-a1c9p3.json",
+    "KR_Announcer-a1c10p1.json",
+    "KR_BattleKeywords-a1c10p1.json",
+    "KR_BattlePass-a1c10.json",
+    "KR_BattleResultHint-a1c10p1.json",
+    "KR_BattleSpeechBubbleDlg-a1c10p1.json",
+    "KR_Bufs-a1c10p1.json",
+    "KR_Enemies-a1c10p1.json",
+    "KR_IAPProduct-a1c10.json",
+    "KR_Items-a1c10p1.json",
+    "KR_MainUIText-a1c10p1.json",
+    "KR_PanicInfo-a1c10p1.json",
+    "KR_Passives_Abnormality-a1c10p1.json",
+    "KR_Passives_Enemy-a1c10p1.json",
+    "KR_RPGSuicideBoxUI.json",
+    "KR_Skills_Abnormality-a1c10p1.json",
+    "KR_Skills_Enemy-a1c10p1.json",
+    "KR_StageNode-a1c10p1.json",
+    "KR_UnitKeyword-a1c10p1.json",
+    "KR_UserTicket-EGOBg-a1c10p1.json",
+    "KR_UserTicket-L-a1c10p1.json",
+    "KR_UserTicket-R-a1c10p1.json"
+  ],
+  "file_diffs": {
+    "AbEvents.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 800102,
+          "field": "prevDesc",
+          "kr_text": "백설 선택지 2 뜰 예정",
+          "zh_text": "백설 선택지 2 뜰 예정",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 800104,
+          "field": "prevDesc",
+          "kr_text": "백설 선택지 4 뜰 예정",
+          "zh_text": "백설 선택지 4 뜰 예정",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents-a1c7p3.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 837901,
+          "field": "name",
+          "kr_text": "아파하는 테디 선택지 선택 이벤트",
+          "zh_text": "아파하는 테디 선택지 선택 이벤트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 837901,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents-a1c8p2.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 10801,
+          "field": "name",
+          "kr_text": "막힌길_뚫기",
+          "zh_text": "막힌길_뚫기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10802,
+          "field": "name",
+          "kr_text": "부적_떼기",
+          "zh_text": "부적_떼기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1080201,
+          "field": "name",
+          "kr_text": "부적_떼기_북",
+          "zh_text": "부적_떼기_북",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1080202,
+          "field": "name",
+          "kr_text": "부적_떼기_중앙",
+          "zh_text": "부적_떼기_중앙",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1080203,
+          "field": "name",
+          "kr_text": "부적_떼기_서",
+          "zh_text": "부적_떼기_서",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1080204,
+          "field": "name",
+          "kr_text": "부적_떼기_끝",
+          "zh_text": "부적_떼기_끝",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10803,
+          "field": "name",
+          "kr_text": "붉은_출입증_획득_전투",
+          "zh_text": "붉은_출입증_획득_전투",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10804,
+          "field": "name",
+          "kr_text": "죄수_꽃뜯기",
+          "zh_text": "죄수_꽃뜯기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10805,
+          "field": "name",
+          "kr_text": "환_도박",
+          "zh_text": "환_도박",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1080501,
+          "field": "name",
+          "kr_text": "환_도박_코인_성공",
+          "zh_text": "환_도박_코인_성공",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1080502,
+          "field": "name",
+          "kr_text": "환_도박_코인_실패",
+          "zh_text": "환_도박_코인_실패",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10806,
+          "field": "name",
+          "kr_text": "낭떠러지_도전",
+          "zh_text": "낭떠러지_도전",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10807,
+          "field": "name",
+          "kr_text": "죄인_고문",
+          "zh_text": "죄인_고문",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10808,
+          "field": "name",
+          "kr_text": "항아리_보기_뽀개기",
+          "zh_text": "항아리_보기_뽀개기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10809,
+          "field": "name",
+          "kr_text": "타임어택_인형_전투",
+          "zh_text": "타임어택_인형_전투",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10810,
+          "field": "name",
+          "kr_text": "공포_견디기_내기",
+          "zh_text": "공포_견디기_내기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10811,
+          "field": "name",
+          "kr_text": "붉은_출입증_사용",
+          "zh_text": "붉은_출입증_사용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10812,
+          "field": "name",
+          "kr_text": "가문_기물_획득",
+          "zh_text": "가문_기물_획득",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10813,
+          "field": "name",
+          "kr_text": "막바지_보너스",
+          "zh_text": "막바지_보너스",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1081302,
+          "field": "name",
+          "kr_text": "막바지_보너스_내기_패배",
+          "zh_text": "막바지_보너스_내기_패배",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents-a1c9p2.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 877401,
+          "field": "name",
+          "kr_text": "아파하는 테디 선택지 선택 이벤트",
+          "zh_text": "아파하는 테디 선택지 선택 이벤트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 877401,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents-pilgrimage.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 129701,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 129702,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 102001,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 102002,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 102003,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10200301,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10301,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 1030101,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10302,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10303,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10304,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10305,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10306,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10307,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10308,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10309,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10310,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10311,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10312,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 10314,
+          "field": "subDesc",
+          "kr_text": "subDesc가 뭘까?",
+          "zh_text": "subDesc가 뭘까?",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 800201,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 800203,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 800205,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 801201,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 801202,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 801203,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 801204,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 801501,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 201001,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 201002,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": 201003,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents_Refraction2.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 855601,
+          "field": "subDesc",
+          "kr_text": "사용 안하는 텍스트",
+          "zh_text": "사용 안하는 텍스트",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "ActionEvents_Refraction5.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": 863301,
+          "field": "prevDesc",
+          "kr_text": "뭔가 넣어봄",
+          "zh_text": "뭔가 넣어봄",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "Announcer.json": {
+      "missing_items": [
+        {
+          "id": 53,
+          "kr": {
+            "id": 53,
+            "name": "칼리스토/알비나"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 54,
+          "kr": {
+            "id": 54,
+            "name": "뤼엔/소라"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 55,
+          "kr": {
+            "id": 55,
+            "name": "시지프 백화점 안내방송"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "BattleKeywords.json": {
+      "missing_items": [
+        {
+          "id": "NoirSuitAlly",
+          "kr": {
+            "id": "NoirSuitAlly",
+            "name": "르누아르 개버딘 원단 코트",
+            "desc": "- 최댓값 : 100\n- 수치 25당, 방어 레벨 +1\n- 가장 왼쪽 슬롯의 도발치 +5\n- 보호막이 있는 상태에서 피격 시, 5 증가 (턴당 최대 10)\n- 턴 종료 시 보호막이 남아있으면, 10 증가\n- 자신의 스킬, 패시브 효과로 보존 횟수를\n· 획득 시, 획득한 수치만큼 증가 (보존 횟수 최대치를 초과하여 얻는 수치 포함)\n· 소모 시, (소모한 수치 x 2)만큼 증가\n· 이 효과로 턴당 최대 30 획득 가능\n- 수치가 100이 되면, 다음 턴에 아르뮈르 에비이예로 변경됨",
+            "summary": "방어 레벨과 도발치 증가",
+            "flavor": "경사가 위사보다 훨씬 많도록 트윌하여 만든 코트.\n특유의 높은 밀도로 착용자를 외부로부터 보호한다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "ChargeNoirAlly",
+          "kr": {
+            "id": "ChargeNoirAlly",
+            "name": "보존",
+            "desc": "- 특수 충전\n- 횟수 최댓값 : 20\n- 충전 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음\n- 턴 종료 시 횟수 1 감소",
+            "summary": "특수 충전",
+            "flavor": "응축하여 힘을 모아 고정한다. 변화시키지 않는 것이 변화시키는 것보다 더 큰 힘이 필요할 때가 있다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "RealisationAlly",
+          "kr": {
+            "id": "RealisationAlly",
+            "name": "아르뮈르 에비이예",
+            "desc": "- 최댓값 : 100\n- 속도 최솟값 +2, 최댓값 +2\n- 수치 25당, 공격 레벨 +1, 방어 레벨 +1\n- 모든 기본 공격 스킬이 파괴 불가 코인으로 변경됨\n- 턴 시작 시, 정신력 8 회복\n- 수치가 0이 되면, 르누아르 개버딘 원단 코트로 변경됨",
+            "summary": "공격 레벨, 방어 레벨, 속도 증가\n기본 공격 스킬이 파괴 불가 코인으로 변경",
+            "flavor": "외부에서 가해진 힘이 착용자에게 도달하지 못하게 한 르누아르의 원단은, 최종적으로 외부로부터의 변화를 제거하기 위해 깨어난다.\n축적한 에너지를 방출하여 외부 요인을 제거하는 방향으로 작동한다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "ChargeRougeAlly",
+          "kr": {
+            "id": "ChargeRougeAlly",
+            "name": "맥동",
+            "desc": "- 특수 충전\n- 횟수 최댓값: 20\n- 충전 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음\n- 턴 종료시 횟수 1 감소",
+            "summary": "",
+            "undefined": "-"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "RougeIshmaelCocoon",
+          "kr": {
+            "id": "RougeIshmaelCocoon",
+            "name": "탈의실",
+            "desc": "- 최댓값 : 2\n- 속도가 1로 고정됨 \n- 스킬로 받는 피해량 -50%\n- 획득 즉시 흐트러짐 선을 제거 및 흐트러짐 상태일 때 흐트러짐을 해제함\n- 턴 시작시, 도발치 10 얻음\n- 피격 시, 맥동 횟수 1 얻음 (턴당 최대 20회)\n- 턴 종료시 1 감소\n- 퇴각 불가\n- E.G.O 침식 상태가 되지 않고 기본 패닉 상태가 됨 (패닉 변경 효과는 적용 받을 수 있음)\n- 이 상태일 때 ‘목소리에 따라 기꺼이 나의 안으로’가 아닌 수비 스킬을 장착하거나 E.G.O 스킬을 장착할 수 없음",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "단단해지더라도 수동적이다. 수동적인 것은 아무리 단단하더라도, 르루주적인 관점에선 취약한 것이다.\n하지만 변화를 위해선 잠시 멈춰야할 필요가 있다. 그래서 이 과정은 괴롭다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "RougeIshmaelEclose",
+          "kr": {
+            "id": "RougeIshmaelEclose",
+            "name": "새단장",
+            "desc": "- 속도 최솟값, 최댓값 +1\n- 최대 체력의 25%만큼 체력 증가\n- 스킬로 받는 피해량 -10%\n- 기본 스킬로 적에게 부여하는 출혈 위력 부여량 +1",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "고치에서 나왔지만, 그 속에서 진정으로 자신을 녹이고 재구성하지 못하여, 진실된 변화를 이루어내진 못했다. 그래도 기존의 옷이 강화되어 신체적인 능력은 향상되었다."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "BattleKeywords_Refraction5.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": "MRR504",
+          "field": "name",
+          "kr_text": "버프 이름",
+          "zh_text": "버프 이름",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "MRR514",
+          "field": "name",
+          "kr_text": "버프 이름",
+          "zh_text": "버프 이름",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "MRR519",
+          "field": "name",
+          "kr_text": "버프 이름",
+          "zh_text": "버프 이름",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleResultHint-a1c9p3.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": "battleTip_none",
+          "field": "content",
+          "kr_text": "(더미)",
+          "zh_text": "(더미)",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleSpeechBubbleDlg-a1c9p2.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": "9SV-BAT1-04_2",
+          "field": "desc",
+          "kr_text": "3스킬",
+          "zh_text": "3스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-06_2",
+          "field": "desc",
+          "kr_text": "5스킬",
+          "zh_text": "5스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-08",
+          "field": "desc",
+          "kr_text": "가드(원호방어) 1",
+          "zh_text": "가드(원호방어) 1",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-09",
+          "field": "desc",
+          "kr_text": "가드(원호방어) 2",
+          "zh_text": "가드(원호방어) 2",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-10",
+          "field": "desc",
+          "kr_text": "가드(원호방어) 3",
+          "zh_text": "가드(원호방어) 3",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-06_2-01",
+          "field": "desc",
+          "kr_text": "5스킬",
+          "zh_text": "5스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-06_2-02",
+          "field": "desc",
+          "kr_text": "5스킬",
+          "zh_text": "5스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-06_2-03",
+          "field": "desc",
+          "kr_text": "5스킬",
+          "zh_text": "5스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-04_2-01",
+          "field": "desc",
+          "kr_text": "3스킬",
+          "zh_text": "3스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-04_2-02",
+          "field": "desc",
+          "kr_text": "3스킬",
+          "zh_text": "3스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "9SV-BAT1-05_1-01",
+          "field": "desc",
+          "kr_text": "4스킬",
+          "zh_text": "4스킬",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleSpeechBubbleDlg-exme.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": "952SV-001",
+          "field": "desc",
+          "kr_text": "산군도 이 칼끝 아래 두동강나리 사용시",
+          "zh_text": "산군도 이 칼끝 아래 두동강나리 사용시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-002",
+          "field": "desc",
+          "kr_text": "어떤 산범들의 살이든 가르리 사용시",
+          "zh_text": "어떤 산범들의 살이든 가르리 사용시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-003",
+          "field": "desc",
+          "kr_text": "두정갑 스택을 모두 잃었을 때",
+          "zh_text": "두정갑 스택을 모두 잃었을 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-004",
+          "field": "desc",
+          "kr_text": "본국태세 - 곰 사냥으로 태세를 변경 했을 때",
+          "zh_text": "본국태세 - 곰 사냥으로 태세를 변경 했을 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-005",
+          "field": "desc",
+          "kr_text": "본국태세 - 범 사냥으로 태세를 변경했을 때",
+          "zh_text": "본국태세 - 범 사냥으로 태세를 변경했을 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-006",
+          "field": "desc",
+          "kr_text": "전투에 김삿갓 조력자가 있을 때",
+          "zh_text": "전투에 김삿갓 조력자가 있을 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-007",
+          "field": "desc",
+          "kr_text": "본국궁[살] - 살 날리기 사용시",
+          "zh_text": "본국궁[살] - 살 날리기 사용시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-101",
+          "field": "desc",
+          "kr_text": "턴 시작 시 검계 우두머리 뫼르소가 있을 때 (전투당 1회)",
+          "zh_text": "턴 시작 시 검계 우두머리 뫼르소가 있을 때 (전투당 1회)",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-102",
+          "field": "desc",
+          "kr_text": "본국검술 패시브 발동 시",
+          "zh_text": "본국검술 패시브 발동 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-103",
+          "field": "desc",
+          "kr_text": "육참 스킬에서 합 승리 후 공격 시",
+          "zh_text": "육참 스킬에서 합 승리 후 공격 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-104",
+          "field": "desc",
+          "kr_text": "골단 스킬로 공격 시",
+          "zh_text": "골단 스킬로 공격 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "952SV-105",
+          "field": "desc",
+          "kr_text": "검계 소속 아군 사망 시",
+          "zh_text": "검계 소속 아군 사망 시",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleSpeechBubbleDlg.json": {
+      "missing_items": [
+        {
+          "id": "battle_s3_11005_1_2_Back",
+          "kr": {
+            "id": "battle_s3_11005_1_2_Back",
+            "desc": "",
+            "dlg": "떼어내주지."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-022",
+          "kr": {
+            "id": "7SV-BV-022",
+            "desc": "리카르도 - 시험은 끝났다 스킬 장착한 턴 시작 시",
+            "dlg": "장난이 길었군."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-023-1",
+          "kr": {
+            "id": "7SV-BV-023-1",
+            "desc": "리카르도 - 6스킬 사용 시(1타)",
+            "dlg": "시험은"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-023-2",
+          "kr": {
+            "id": "7SV-BV-023-2",
+            "desc": "리카르도 - 6스킬 사용 시(2타)",
+            "dlg": "끝났다!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-024-2",
+          "kr": {
+            "id": "7SV-BV-024-2",
+            "desc": "리카르도 - 7스킬 사용 시(2타)",
+            "dlg": "고통을"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-024-3",
+          "kr": {
+            "id": "7SV-BV-024-3",
+            "desc": "리카르도 - 7스킬 사용 시(3타)",
+            "dlg": "새겨주지!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-025",
+          "kr": {
+            "id": "7SV-BV-025",
+            "desc": "리카르도 - 베르너 사망(리타이어) 시",
+            "dlg": "…뒤는 맡겨라."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-026",
+          "kr": {
+            "id": "7SV-BV-026",
+            "desc": "베르너 - 본인 사망(리타이어) 시",
+            "dlg": "죄송합니다… 형님…"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-028_3",
+          "kr": {
+            "id": "7SV-BV-028_3",
+            "desc": "베르너 - 3스킬",
+            "dlg": "으깨주마!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-029_1",
+          "kr": {
+            "id": "7SV-BV-029_1",
+            "desc": "베르너 - 4스킬(1타)",
+            "dlg": "너희"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-029_2",
+          "kr": {
+            "id": "7SV-BV-029_2",
+            "desc": "베르너 - 4스킬(2타)",
+            "dlg": "모두"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-029_3",
+          "kr": {
+            "id": "7SV-BV-029_3",
+            "desc": "베르너 - 4스킬(3타)",
+            "dlg": "복수 상대다!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "7SV-BV-030",
+          "kr": {
+            "id": "7SV-BV-030",
+            "desc": "베르너 - 중지 아우들 사망 시",
+            "dlg": "후… 복수를…"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10616_1_1",
+          "kr": {
+            "id": "battle_s3_10616_1_1",
+            "desc": "3스킬 대사",
+            "dlg": "피하지 마세요...! 잘못맞으면 죽습니다?"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_2",
+          "kr": {
+            "id": "battle_s3_10816_1_2",
+            "desc": "르루즈 이스마엘 3스킬 2타",
+            "dlg": "고정!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_2-01",
+          "kr": {
+            "id": "battle_s3_10816_1_2-01",
+            "desc": "르루즈 이스마엘 3스킬 2타",
+            "dlg": "고정!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_2-02",
+          "kr": {
+            "id": "battle_s3_10816_1_2-02",
+            "desc": "르루즈 이스마엘 3스킬 2타",
+            "dlg": "고정!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_3",
+          "kr": {
+            "id": "battle_s3_10816_1_3",
+            "desc": "르루즈 이스마엘 3스킬 3타",
+            "dlg": "내려쳐라!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_3-01",
+          "kr": {
+            "id": "battle_s3_10816_1_3-01",
+            "desc": "르루즈 이스마엘 3스킬 3타",
+            "dlg": "내려쳐라!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_3-02",
+          "kr": {
+            "id": "battle_s3_10816_1_3-02",
+            "desc": "르루즈 이스마엘 3스킬 3타",
+            "dlg": "내려쳐라!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_4",
+          "kr": {
+            "id": "battle_s3_10816_1_4",
+            "desc": "르루즈 이스마엘 3스킬 재사용",
+            "dlg": "못 박혀라!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10816_1_4-01",
+          "kr": {
+            "id": "battle_s3_10816_1_4-01",
+            "desc": "르루즈 이스마엘 3스킬 재사용",
+            "dlg": "못 박혀라!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10416_1_1",
+          "kr": {
+            "id": "battle_s3_10416_1_1",
+            "desc": "원레그 료슈 3스킬 1타",
+            "dlg": "걸음을 뗄 때마다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10416_1_3",
+          "kr": {
+            "id": "battle_s3_10416_1_3",
+            "desc": "원레그 료슈 3스킬 2타",
+            "dlg": "온몸에!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_s3_10416_1_4",
+          "kr": {
+            "id": "battle_s3_10416_1_4",
+            "desc": "원레그 료슈 3스킬 3타",
+            "dlg": "새겨라!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_special_10416_1_3",
+          "kr": {
+            "id": "battle_special_10416_1_3",
+            "desc": "원레그 료슈 3-2스킬(강화3스킬) 3타",
+            "dlg": "기꺼이 밟아주지!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_special_10416_1_4",
+          "kr": {
+            "id": "battle_special_10416_1_4",
+            "desc": "원레그 료슈 3-2스킬(강화3스킬) 4타",
+            "dlg": "퇴거!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_special_10416_2",
+          "kr": {
+            "id": "battle_special_10416_2",
+            "desc": "원레그 료슈 레알리자시옹 버프를 얻고 다음 턴 시작",
+            "dlg": "클린 컷."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_special_10816_1",
+          "kr": {
+            "id": "battle_special_10816_1",
+            "desc": "고치 상태 진입",
+            "dlg": "기꺼이 나의 안으로."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "battle_special_10816_2",
+          "kr": {
+            "id": "battle_special_10816_2",
+            "desc": "우화 상태 진입",
+            "dlg": "누군가 씌운 거짓을 벗겨내고, 진정한 나의 모습으로!"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": [
+        {
+          "id": "battle_speechbubble_cromer_1",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_크로머",
+          "zh_text": "말풍선 특수 대사_크로머",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_speechbubble_10808_1",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+          "zh_text": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_speechbubble_10408_1",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+          "zh_text": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_1",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_2",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_3",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_4",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_5",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_6",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10710_7",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "zh_text": "말풍선 특수 대사_와일드헌트 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10310_10",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "zh_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10310_11",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "zh_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10310_12",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "zh_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10310_13",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "zh_text": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_1137_FirstKill",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_가치우_첫킬",
+          "zh_text": "말풍선 특수 대사_가치우_첫킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-015",
+          "field": "desc",
+          "kr_text": "가치우사용 시 대사 ",
+          "zh_text": "가치우사용 시 대사 ",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-016",
+          "field": "desc",
+          "kr_text": "가치우홍루 강제 타겟팅 1",
+          "zh_text": "가치우홍루 강제 타겟팅 1",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-017",
+          "field": "desc",
+          "kr_text": "가치우홍루 강제 타겟팅 2",
+          "zh_text": "가치우홍루 강제 타겟팅 2",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-018",
+          "field": "desc",
+          "kr_text": "가치우홍루 강제 타겟팅 합 패배",
+          "zh_text": "가치우홍루 강제 타겟팅 합 패배",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-019",
+          "field": "desc",
+          "kr_text": "가치우홍루 강제 타겟팅 합 승리",
+          "zh_text": "가치우홍루 강제 타겟팅 합 승리",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-020",
+          "field": "desc",
+          "kr_text": "가치우광역기 사용시",
+          "zh_text": "가치우광역기 사용시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-021",
+          "field": "desc",
+          "kr_text": "가치우광역기  합 패배 후 다음턴",
+          "zh_text": "가치우광역기  합 패배 후 다음턴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-022",
+          "field": "desc",
+          "kr_text": "가치우대상 처치시",
+          "zh_text": "가치우대상 처치시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-023",
+          "field": "desc",
+          "kr_text": "가치우묘 부리기",
+          "zh_text": "가치우묘 부리기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-024",
+          "field": "desc",
+          "kr_text": "가치우자로 소환",
+          "zh_text": "가치우자로 소환",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-025",
+          "field": "desc",
+          "kr_text": "뇌횡",
+          "zh_text": "뇌횡",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-026",
+          "field": "desc",
+          "kr_text": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
+          "zh_text": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-027",
+          "field": "desc",
+          "kr_text": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
+          "zh_text": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-028",
+          "field": "desc",
+          "kr_text": "뇌횡턴 시작 : 매우 강력한 스킬",
+          "zh_text": "뇌횡턴 시작 : 매우 강력한 스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-029",
+          "field": "desc",
+          "kr_text": "뇌횡합 승리 : 매우 강력한 스킬",
+          "zh_text": "뇌횡합 승리 : 매우 강력한 스킬",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-030",
+          "field": "desc",
+          "kr_text": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
+          "zh_text": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-031",
+          "field": "desc",
+          "kr_text": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
+          "zh_text": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-032",
+          "field": "desc",
+          "kr_text": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
+          "zh_text": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-034",
+          "field": "desc",
+          "kr_text": "가환E.G.O 침식률 n 이상",
+          "zh_text": "가환E.G.O 침식률 n 이상",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-035",
+          "field": "desc",
+          "kr_text": "가환홍루메인타겟",
+          "zh_text": "가환홍루메인타겟",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-036",
+          "field": "desc",
+          "kr_text": "가환경멸나선모드",
+          "zh_text": "가환경멸나선모드",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-037",
+          "field": "desc",
+          "kr_text": "가환광역기사용시",
+          "zh_text": "가환광역기사용시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-038",
+          "field": "desc",
+          "kr_text": "가환전투시작 : n인이상이 자신을 타겟",
+          "zh_text": "가환전투시작 : n인이상이 자신을 타겟",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-039",
+          "field": "desc",
+          "kr_text": "구보E.G.O 침식률 10 이상",
+          "zh_text": "구보E.G.O 침식률 10 이상",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-040",
+          "field": "desc",
+          "kr_text": "구보난사 패턴 진입",
+          "zh_text": "구보난사 패턴 진입",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-041",
+          "field": "desc",
+          "kr_text": "구보아군 살해 패턴 진입",
+          "zh_text": "구보아군 살해 패턴 진입",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-042",
+          "field": "desc",
+          "kr_text": "구보체력 n% 미만 / 경멸 나선 모드 감상",
+          "zh_text": "구보체력 n% 미만 / 경멸 나선 모드 감상",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-051",
+          "field": "desc",
+          "kr_text": "가모사용 시 : 홍루 가두기",
+          "zh_text": "가모사용 시 : 홍루 가두기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-052",
+          "field": "desc",
+          "kr_text": "가모사용 시 : 홍루 가두기 실패",
+          "zh_text": "가모사용 시 : 홍루 가두기 실패",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-053",
+          "field": "desc",
+          "kr_text": "가모턴 시작 : 보옥 생성",
+          "zh_text": "가모턴 시작 : 보옥 생성",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-054",
+          "field": "desc",
+          "kr_text": "가모턴 시작 : 보옥 파괴",
+          "zh_text": "가모턴 시작 : 보옥 파괴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-055",
+          "field": "desc",
+          "kr_text": "가모사용 시 : 버프 받기",
+          "zh_text": "가모사용 시 : 버프 받기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-056",
+          "field": "desc",
+          "kr_text": "가모가마 체력 0",
+          "zh_text": "가모가마 체력 0",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-057",
+          "field": "desc",
+          "kr_text": "가모사용 시 : 어르신 나무 소환",
+          "zh_text": "가모사용 시 : 어르신 나무 소환",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-058",
+          "field": "desc",
+          "kr_text": "가모사용 시 : 어르신 나무 흡수",
+          "zh_text": "가모사용 시 : 어르신 나무 흡수",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-059",
+          "field": "desc",
+          "kr_text": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
+          "zh_text": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-060",
+          "field": "desc",
+          "kr_text": "가모턴 시작 : 지고한 불사 흐트러짐",
+          "zh_text": "가모턴 시작 : 지고한 불사 흐트러짐",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "8SV-061",
+          "field": "desc",
+          "kr_text": "가모사용 시 : 강한 광역기",
+          "zh_text": "가모사용 시 : 강한 광역기",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-018-02",
+          "field": "desc",
+          "kr_text": "증오의 여왕 피격",
+          "zh_text": "증오의 여왕 피격",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-019-003",
+          "field": "desc",
+          "kr_text": "증오의 여왕 타격",
+          "zh_text": "증오의 여왕 타격",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-019-004",
+          "field": "desc",
+          "kr_text": "증오의 여왕 타격",
+          "zh_text": "증오의 여왕 타격",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-020-001",
+          "field": "desc",
+          "kr_text": "증오의 여왕 타격",
+          "zh_text": "증오의 여왕 타격",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-020-001-01",
+          "field": "desc",
+          "kr_text": "증오의 여왕 타격",
+          "zh_text": "증오의 여왕 타격",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-020-002",
+          "field": "desc",
+          "kr_text": "증오의 여왕 타격",
+          "zh_text": "증오의 여왕 타격",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-021",
+          "field": "desc",
+          "kr_text": "증오의 여왕 첫 등장",
+          "zh_text": "증오의 여왕 첫 등장",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-022",
+          "field": "desc",
+          "kr_text": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
+          "zh_text": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-023",
+          "field": "desc",
+          "kr_text": "아르카나 슬레이브 차징 시작 시",
+          "zh_text": "아르카나 슬레이브 차징 시작 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-024",
+          "field": "desc",
+          "kr_text": "아르카나 슬레이브 차징 중",
+          "zh_text": "아르카나 슬레이브 차징 중",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-025",
+          "field": "desc",
+          "kr_text": "아르카나 슬레이브 차징 중",
+          "zh_text": "아르카나 슬레이브 차징 중",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-026",
+          "field": "desc",
+          "kr_text": "아르카나 슬레이브 발사 스킬 사용",
+          "zh_text": "아르카나 슬레이브 발사 스킬 사용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-027",
+          "field": "desc",
+          "kr_text": "제압 완료 후 퇴각 대사",
+          "zh_text": "제압 완료 후 퇴각 대사",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-028",
+          "field": "desc",
+          "kr_text": "완전 제압 X, 아르카나 슬레이브 발사 후",
+          "zh_text": "완전 제압 X, 아르카나 슬레이브 발사 후",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-029",
+          "field": "desc",
+          "kr_text": "빈사 퇴각",
+          "zh_text": "빈사 퇴각",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-001_1",
+          "field": "desc",
+          "kr_text": "시간살인마 피격1",
+          "zh_text": "시간살인마 피격1",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-001_2",
+          "field": "desc",
+          "kr_text": "시간살인마 피격2",
+          "zh_text": "시간살인마 피격2",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-001_3-03",
+          "field": "desc",
+          "kr_text": "시간살인마 피격4",
+          "zh_text": "시간살인마 피격4",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-002_2",
+          "field": "desc",
+          "kr_text": "시간살인마 공격1",
+          "zh_text": "시간살인마 공격1",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-002_3",
+          "field": "desc",
+          "kr_text": "시간살인마 공격3",
+          "zh_text": "시간살인마 공격3",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-003_1",
+          "field": "desc",
+          "kr_text": "시간살인마 첫 등장",
+          "zh_text": "시간살인마 첫 등장",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-004_1",
+          "field": "desc",
+          "kr_text": "시간살인마 재 등장",
+          "zh_text": "시간살인마 재 등장",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-005_1",
+          "field": "desc",
+          "kr_text": "시간살인마 2페이즈",
+          "zh_text": "시간살인마 2페이즈",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-006_1",
+          "field": "desc",
+          "kr_text": "시간살인마 시간 살인 시간 사용전",
+          "zh_text": "시간살인마 시간 살인 시간 사용전",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-007",
+          "field": "desc",
+          "kr_text": "시간살인마 시간 살인 시간 사용",
+          "zh_text": "시간살인마 시간 살인 시간 사용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-008",
+          "field": "desc",
+          "kr_text": "시간살인마 시간 살인 시간 사용후",
+          "zh_text": "시간살인마 시간 살인 시간 사용후",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_noVoice_10613_1",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_사화정",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_사화정",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_noVoice_10613_2",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_noVoice_10613_3",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_사사정",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_사사정",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_noVoice_10613_4",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_설반",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_설반",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_noVoice_10613_5",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_사이화",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_사이화",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_6",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_7",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_8",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_9",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_10",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가환",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가환",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_701",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_901",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_902",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_10613_903",
+          "field": "desc",
+          "kr_text": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
+          "zh_text": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_1",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(상) - 루치오 조우 시",
+          "zh_text": "이스터 - 메인(상) - 루치오 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_2",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(상) - 렌 조우 시",
+          "zh_text": "이스터 - 메인(상) - 렌 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_3",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(상) - 알비나 조우 시",
+          "zh_text": "이스터 - 메인(상) - 알비나 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_4",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(중) - 소라 조우 시",
+          "zh_text": "이스터 - 메인(중) - 소라 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_5",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
+          "zh_text": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_6",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
+          "zh_text": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_7",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
+          "zh_text": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_8",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 아라야 조우 시",
+          "zh_text": "이스터 - 메인(하) - 아라야 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_9",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 아라야 2페이즈 시작",
+          "zh_text": "이스터 - 메인(하) - 아라야 2페이즈 시작",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_10",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
+          "zh_text": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_11",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
+          "zh_text": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_12",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
+          "zh_text": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_13",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 뤼엔 조우 시",
+          "zh_text": "이스터 - 메인(하) - 뤼엔 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_14",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
+          "zh_text": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_15",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
+          "zh_text": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_16",
+          "field": "desc",
+          "kr_text": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
+          "zh_text": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_17",
+          "field": "desc",
+          "kr_text": "이스터 - 거던(히든) - 발렌치나 조우 시",
+          "zh_text": "이스터 - 거던(히든) - 발렌치나 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_18",
+          "field": "desc",
+          "kr_text": "이스터 - 거던(히든) - 뤼엔 조우 시",
+          "zh_text": "이스터 - 거던(히든) - 뤼엔 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_19",
+          "field": "desc",
+          "kr_text": "이스터 - 거던(히든) - 마티아스 조우 시",
+          "zh_text": "이스터 - 거던(히든) - 마티아스 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_20",
+          "field": "desc",
+          "kr_text": "이스터 - 거던(히든) - 칼리스토 조우 시",
+          "zh_text": "이스터 - 거던(히든) - 칼리스토 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_21",
+          "field": "desc",
+          "kr_text": "이스터 - 거던(히든) - 소라 조우 시",
+          "zh_text": "이스터 - 거던(히든) - 소라 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_eE_10415_22",
+          "field": "desc",
+          "kr_text": "이스터 - 거던(히든) - 렌 조우 시",
+          "zh_text": "이스터 - 거던(히든) - 렌 조우 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_special_10116_1_1",
+          "field": "desc",
+          "kr_text": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전1",
+          "zh_text": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전1",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_special_10116_1_2",
+          "field": "desc",
+          "kr_text": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전2",
+          "zh_text": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전2",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_special_10116_1_3",
+          "field": "desc",
+          "kr_text": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전3",
+          "zh_text": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전3",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_s2_10116_1_1",
+          "field": "desc",
+          "kr_text": "2스킬 사용시 1버전",
+          "zh_text": "2스킬 사용시 1버전",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_s3_10116_1_1",
+          "field": "desc",
+          "kr_text": "3스킬 사용시 1버전",
+          "zh_text": "3스킬 사용시 1버전",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_s3_10116_1_2",
+          "field": "desc",
+          "kr_text": "3스킬 사용시 2버전",
+          "zh_text": "3스킬 사용시 2버전",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleSpeechBubbleDlg_Cultivation.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": "battle_react_400005_1",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 이상",
+          "zh_text": "가시춘 패시브 이상",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_2",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 파우스트",
+          "zh_text": "가시춘 패시브 파우스트",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_3",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 돈키호테",
+          "zh_text": "가시춘 패시브 돈키호테",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_4",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 이스마엘",
+          "zh_text": "가시춘 패시브 이스마엘",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_5",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 그레고르",
+          "zh_text": "가시춘 패시브 그레고르",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_6",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 홍루",
+          "zh_text": "가시춘 패시브 홍루",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_7",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 뫼르소",
+          "zh_text": "가시춘 패시브 뫼르소",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_8",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 오티스",
+          "zh_text": "가시춘 패시브 오티스",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_9",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 료슈",
+          "zh_text": "가시춘 패시브 료슈",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_10",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 로쟈",
+          "zh_text": "가시춘 패시브 로쟈",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_11",
+          "field": "desc",
+          "kr_text": "가시춘 패시브 히스클리프",
+          "zh_text": "가시춘 패시브 히스클리프",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_101",
+          "field": "desc",
+          "kr_text": "가시춘 적격 2~3레벨",
+          "zh_text": "가시춘 적격 2~3레벨",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_102",
+          "field": "desc",
+          "kr_text": "가시춘 적격 4~5레벨",
+          "zh_text": "가시춘 적격 4~5레벨",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_201",
+          "field": "desc",
+          "kr_text": "가시춘 적참 2~3레벨",
+          "zh_text": "가시춘 적참 2~3레벨",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_202",
+          "field": "desc",
+          "kr_text": "가시춘 적참 4~5레벨",
+          "zh_text": "가시춘 적참 4~5레벨",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_301",
+          "field": "desc",
+          "kr_text": "가시춘 적춘 3레벨 1코인",
+          "zh_text": "가시춘 적춘 3레벨 1코인",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_302",
+          "field": "desc",
+          "kr_text": "가시춘 적춘 3레벨 2코인",
+          "zh_text": "가시춘 적춘 3레벨 2코인",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_303",
+          "field": "desc",
+          "kr_text": "가시춘 적춘 5레벨 1코인",
+          "zh_text": "가시춘 적춘 5레벨 1코인",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_304",
+          "field": "desc",
+          "kr_text": "가시춘 적춘 5레벨 2코인",
+          "zh_text": "가시춘 적춘 5레벨 2코인",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_305",
+          "field": "desc",
+          "kr_text": "가시춘 적춘 5레벨 3코인",
+          "zh_text": "가시춘 적춘 5레벨 3코인",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_401",
+          "field": "desc",
+          "kr_text": "가시춘 수회",
+          "zh_text": "가시춘 수회",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_402",
+          "field": "desc",
+          "kr_text": "가시춘 취수낭랑",
+          "zh_text": "가시춘 취수낭랑",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "battle_react_400005_501",
+          "field": "desc",
+          "kr_text": "가시춘 적참",
+          "zh_text": "가시춘 적참",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleSpeechBubbleDlg_mowe.json": {
+      "missing_items": [],
+      "untranslated_items": [
+        {
+          "id": "6SV-009-002",
+          "field": "desc",
+          "kr_text": "카세티 피격시",
+          "zh_text": "카세티 피격시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-009-002-01",
+          "field": "desc",
+          "kr_text": "카세티 피격시",
+          "zh_text": "카세티 피격시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-010-001",
+          "field": "desc",
+          "kr_text": "카세티 공격시_1",
+          "zh_text": "카세티 공격시_1",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-010-002",
+          "field": "desc",
+          "kr_text": "카세티 공격시_2",
+          "zh_text": "카세티 공격시_2",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-010-003-01",
+          "field": "desc",
+          "kr_text": "카세티 공격시_3",
+          "zh_text": "카세티 공격시_3",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-011-001",
+          "field": "desc",
+          "kr_text": "카세티가 전투 중 등장할 때",
+          "zh_text": "카세티가 전투 중 등장할 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-011-002",
+          "field": "desc",
+          "kr_text": "카세티가 전투 중 등장할 때",
+          "zh_text": "카세티가 전투 중 등장할 때",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-012",
+          "field": "desc",
+          "kr_text": "카세티 등장 턴",
+          "zh_text": "카세티 등장 턴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-013-001",
+          "field": "desc",
+          "kr_text": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+          "zh_text": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-013-002",
+          "field": "desc",
+          "kr_text": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+          "zh_text": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-014",
+          "field": "desc",
+          "kr_text": "카세티 나는… 이 행진의… 왕자이다…! 사용 후 다음 턴",
+          "zh_text": "카세티 나는… 이 행진의… 왕자이다…! 사용 후 다음 턴",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-015",
+          "field": "desc",
+          "kr_text": "사샤 등장 시",
+          "zh_text": "사샤 등장 시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-017_2",
+          "field": "desc",
+          "kr_text": "사샤 스킬 사용시",
+          "zh_text": "사샤 스킬 사용시",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "6SV-017_2-02",
+          "field": "desc",
+          "kr_text": "사샤 스킬 사용시",
+          "zh_text": "사샤 스킬 사용시",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "BattleUIText.json": {
+      "missing_items": [
+        {
+          "id": "battle_operation_player_support",
+          "kr": {
+            "id": "battle_operation_player_support",
+            "content": "서포트"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "BossRaidUI.json": {
+      "missing_items": [
+        {
+          "id": "boss_raid_ui_max_level_adjusted",
+          "kr": {
+            "id": "boss_raid_ui_max_level_adjusted",
+            "content": "초과 레벨이 {0}으로 조정되었습니다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "boss_raid_ui_recommend_state_desc_with_max_level_adjust",
+          "kr": {
+            "id": "boss_raid_ui_recommend_state_desc_with_max_level_adjust",
+            "content": "- 인격 : 동기화 <color=#ff0000>{1}단계</color>·레벨 <color=#ff0000>{0}</color>\n(최대 레벨 <color=#ff0000>{2}</color>)\n- E.G.O : 환상 해석 <color=#ff0000>{1}단계</color>"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Bufs.json": {
+      "missing_items": [
+        {
+          "id": "DianxueHongLu",
+          "kr": {
+            "id": "DianxueHongLu",
+            "name": "점혈 - 홍루",
+            "desc": "- 최댓값 : 3\n- 점혈을 부여한 캐릭터가 대상(또는 부위)의 점혈 수치에 따라 다음 효과를 얻음\n· 1스택 : 합 위력 +1\n· 2스택 : 기본 위력 +1\n· 3스택 : 합 위력 +1, 기본 위력 +1\n- 부여한 캐릭터가 다른 대상(또는 부위)에게 이 효과를 부여하면 소멸\n- 다른 캐릭터의 점혈이 부여될 경우, 교체됨 (수치 유지)",
+            "summary": "",
+            "undefined": "-"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "DuelSousTemoinsEast",
+          "kr": {
+            "id": "DuelSousTemoinsEast",
+            "name": "입회 - 동부 섕크",
+            "desc": "- 최댓값: 3\n- 공격 레벨 +(수치)\n- 수치가 2 이상이면, 기본 스킬의 호흡 위력 획득값 +1\n- 수치가 3 이상이면, 기본 스킬의 호흡 횟수 획득값 +1",
+            "summary": "",
+            "undefined": "-"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "NoirSuitAlly",
+          "kr": {
+            "id": "NoirSuitAlly",
+            "name": "르누아르 개버딘 원단 코트",
+            "desc": "- 최댓값 : 100\n- 수치 25당, 방어 레벨 +1\n- 가장 왼쪽 슬롯의 도발치 +5\n- 보호막이 있는 상태에서 피격 시, 5 증가 (턴당 최대 10)\n- 턴 종료 시 보호막이 남아있으면, 10 증가\n- 자신의 스킬, 패시브 효과로 보존 횟수를\n· 획득 시, 획득한 수치만큼 증가 (보존 횟수 최대치를 초과하여 얻는 수치 포함)\n· 소모 시, (소모한 수치 x 2)만큼 증가\n· 이 효과로 턴당 최대 30 획득 가능\n- 수치가 100이 되면, 다음 턴에 아르뮈르 에비이예로 변경됨",
+            "summary": "방어 레벨과 도발치 증가",
+            "flavor": "경사가 위사보다 훨씬 많도록 트윌하여 만든 코트.\n특유의 높은 밀도로 착용자를 외부로부터 보호한다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "ChargeNoirAlly",
+          "kr": {
+            "id": "ChargeNoirAlly",
+            "name": "보존",
+            "desc": "- 특수 충전\n- 횟수 최댓값 : 20\n- 충전 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음\n- 턴 종료 시 횟수 1 감소\n\n<color=#1aece7>횟수 누적 소모량: {2}</color>",
+            "summary": "특수 충전",
+            "flavor": "응축하여 힘을 모아 고정한다. 변화시키지 않는 것이 변화시키는 것보다 더 큰 힘이 필요할 때가 있다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "RealisationAlly",
+          "kr": {
+            "id": "RealisationAlly",
+            "name": "아르뮈르 에비이예",
+            "desc": "- 최댓값 : 100\n- 속도 최솟값 +2, 최댓값 +2\n- 수치 25당, 공격 레벨 +1, 방어 레벨 +1\n- 모든 기본 공격 스킬이 파괴 불가 코인으로 변경됨\n- 턴 시작 시, 정신력 8 회복\n- 수치가 0이 되면, 르누아르 개버딘 원단 코트로 변경됨",
+            "summary": "공격 레벨, 방어 레벨, 속도 증가\n기본 공격 스킬이 파괴 불가 코인으로 변경",
+            "flavor": "외부에서 가해진 힘이 착용자에게 도달하지 못하게 한 르누아르의 원단은, 최종적으로 외부로부터의 변화를 제거하기 위해 깨어난다.\n축적한 에너지를 방출하여 외부 요인을 제거하는 방향으로 작동한다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "ChargeRougeAlly",
+          "kr": {
+            "id": "ChargeRougeAlly",
+            "name": "맥동",
+            "desc": "- 특수 충전\n- 횟수 최댓값: 20\n- 충전 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음\n- 턴 종료시 횟수 1 감소",
+            "summary": "",
+            "undefined": "-"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "RougeIshmaelCocoon",
+          "kr": {
+            "id": "RougeIshmaelCocoon",
+            "name": "탈의실",
+            "desc": "- 최댓값 : 2\n- 속도가 1로 고정됨 \n- 스킬로 받는 피해량 -50%\n- 획득 즉시 흐트러짐 선을 제거 및 흐트러짐 상태일 때 흐트러짐을 해제함\n- 턴 시작시, 도발치 10 얻음\n- 피격 시, 맥동 횟수 1 얻음 (턴당 최대 20회)\n- 턴 종료시 1 감소\n- 퇴각 불가\n- E.G.O 침식 상태가 되지 않고 기본 패닉 상태가 됨 (패닉 변경 효과는 적용 받을 수 있음)\n- 이 상태일 때 ‘목소리에 따라 기꺼이 나의 안으로’가 아닌 수비 스킬을 장착하거나 E.G.O 스킬을 장착할 수 없음",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "단단해지더라도 수동적이다. 수동적인 것은 아무리 단단하더라도, 르루주적인 관점에선 취약한 것이다.\n하지만 변화를 위해선 잠시 멈춰야할 필요가 있다. 그래서 이 과정은 괴롭다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "RougeIshmaelEclose",
+          "kr": {
+            "id": "RougeIshmaelEclose",
+            "name": "새단장",
+            "desc": "- 속도 최솟값, 최댓값 +1\n- 최대 체력의 25%만큼 체력 증가\n- 스킬로 받는 피해량 -10%\n- 기본 스킬로 적에게 부여하는 출혈 위력 부여량 +1",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "고치에서 나왔지만, 그 속에서 진정으로 자신을 녹이고 재구성하지 못하여, 진실된 변화를 이루어내진 못했다. 그래도 기존의 옷이 강화되어 신체적인 능력은 향상되었다."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": [
+        {
+          "id": "ElectricStorage",
+          "field": "summary",
+          "kr_text": "표시용",
+          "zh_text": "표시용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "SelfCharge",
+          "field": "summary",
+          "kr_text": "표시용",
+          "zh_text": "표시용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "Predation",
+          "field": "summary",
+          "kr_text": "표시용",
+          "zh_text": "표시용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "ATL_Agility",
+          "field": "summary",
+          "kr_text": "표시용",
+          "zh_text": "표시용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "ATL_Breath",
+          "field": "summary",
+          "kr_text": "표시용",
+          "zh_text": "표시용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "ATL_Target",
+          "field": "summary",
+          "kr_text": "표시용",
+          "zh_text": "표시용",
+          "reason": "untranslated_hangul"
+        },
+        {
+          "id": "SingBulletSupport",
+          "field": "name",
+          "kr_text": "(엄지 싱클 탄환 보급 받는 대상 이펙트)",
+          "zh_text": "(엄지 싱클 탄환 보급 받는 대상 이펙트)",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "Egos.json": {
+      "missing_items": [
+        {
+          "id": 21210,
+          "kr": {
+            "id": 21210,
+            "name": "입주 신고",
+            "desc": "그레고르 전용 EGO 장비"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 20610,
+          "kr": {
+            "id": 20610,
+            "name": "거절선포",
+            "desc": "홍루의 전용 EGO 장비"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 20910,
+          "kr": {
+            "id": 20910,
+            "name": "거울촉각",
+            "desc": "로쟈의 전용 EGO 장비"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 20211,
+          "kr": {
+            "id": 20211,
+            "name": "구멍",
+            "desc": "파우스트의 전용 EGO 장비"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 20510,
+          "kr": {
+            "id": 20510,
+            "name": "구멍",
+            "desc": "뫼르소의 전용 EGO 장비"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "GachaTitle.json": {
+      "missing_items": [
+        {
+          "id": "291",
+          "kr": {
+            "id": "291",
+            "content": "특정 추출 파우스트"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "292",
+          "kr": {
+            "id": "292",
+            "content": "신규 인격 특정 추출 동부 섕크 협회 3과 홍루"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "293",
+          "kr": {
+            "id": "293",
+            "content": "특정 추출 료슈"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "294",
+          "kr": {
+            "id": "294",
+            "content": "신규 E.G.O 특정 추출 입주 신고 그레고르"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "295",
+          "kr": {
+            "id": "295",
+            "content": "특정 추출 뫼르소"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "296",
+          "kr": {
+            "id": "296",
+            "content": "신규 인격 특정 추출 오트쿠튀르::르루주 부티크 이스마엘 · 오트쿠튀르::르누아르 신발관 료슈"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "IAPProduct-a1c9.json": {
+      "missing_items": [
+        {
+          "id": 501,
+          "kr": {
+            "id": 501,
+            "name": "인격 육성 패키지",
+            "desc": "「신규 인격 특정 추출 동부 섕크 협회 3과 홍루」 출시 기념 상품으로, 다음 구성품을 획득할 수 있습니다.\n\n· 도약 모듈 - 인격 동기화 x 1\n· 인격 학습 티켓 IV x 80\n· 인격 학습 티켓 III x 20"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 502,
+          "kr": {
+            "id": 502,
+            "name": "특별 추출 패키지",
+            "desc": "「신규 E.G.O 특정 추출 입주 신고 그레고르」 출시 기념 상품으로, 다음 구성품을 획득할 수 있습니다.\n\n· 추출 10회 티켓 x 4"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 503,
+          "kr": {
+            "id": 503,
+            "name": "E.G.O 성장 패키지",
+            "desc": "「신규 E.G.O 특정 추출 입주 신고 그레고르」 출시 기념 상품으로, 다음 구성품을 획득할 수 있습니다.\n\n· 도약 모듈 - E.G.O 해석 [TETH] x 1"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "IntroductionPreset.json": {
+      "missing_items": [
+        {
+          "id": "introduce_word_259",
+          "kr": {
+            "id": "introduce_word_259",
+            "content": "의뢰"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_sentence_259",
+          "kr": {
+            "id": "introduce_sentence_259",
+            "content": "{0}의 초과 예약은 금지되어 있어서요~"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_word_260",
+          "kr": {
+            "id": "introduce_word_260",
+            "content": "포획"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_sentence_260",
+          "kr": {
+            "id": "introduce_sentence_260",
+            "content": "{0} 절차를 계속, 계속! 계속 수행해!!!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_word_261",
+          "kr": {
+            "id": "introduce_word_261",
+            "content": "르누아르"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_sentence_261",
+          "kr": {
+            "id": "introduce_sentence_261",
+            "content": "{0}의 미학은 절제에서 시작된다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_word_262",
+          "kr": {
+            "id": "introduce_word_262",
+            "content": "르루주"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "introduce_sentence_262",
+          "kr": {
+            "id": "introduce_sentence_262",
+            "content": "더 많은 고객들이 {0}의 패션에 열광하도록!"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Items.json": {
+      "missing_items": [
+        {
+          "id": 751,
+          "kr": {
+            "id": 751,
+            "name": "아나운서 선택권 [이상교환]",
+            "desc": "사용 시, 추출의 이상 교환에서 획득 가능한 아나운서 중 하나를 선택하여 획득할 수 있다.\n(※ 발푸르기스의 밤 아나운서의 경우, 획득 불가)\n\n",
+            "flavor": "전투 상황을 알려주는 아나운서 녹음 기록들의 보관함.\n\n‘이 테이프에는 이미 죽은 사람의 목소리도 담겨 있던데, 어떻게 녹음한 거래?’\n‘거울세계 너머에서 관측된 소리들 중 쓸만한 것들을 잡아 가둔 것이라더군.’\n‘또 거울이야? 아주 그냥 이 회사의 모든 일을 거울로 해결해도 되겠어.’\n‘이미 그러고 있지 않아?’\n‘…그러면 이 기술의 대가는?’"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 237,
+          "kr": {
+            "id": 237,
+            "name": "도약 모듈 - E.G.O 해석 [TETH]",
+            "desc": "사용 시, E.G.O의 환상 해석 단계가 4단계까지 증가한다. (최대 TETH 등급까지 적용 가능)",
+            "flavor": "LCA 연구개발팀에서 제작한 네 번째 E.G.O 환상 해석 모듈. 떨리고 빛나는 끈을 단기간에 대량의 파편들과 엮어 [TETH]급까지의 E.G.O의 해석을 특정 수준까지 급가속시킨다. 옷은 원단으로 조립되어 있고, 원단은 실들로 직조되어 있죠. 그리고 그 실은 또다시 가느다란 가닥들로 꼬여 있고요. 프랙탈이라고 하던가요? 가끔 이런 패턴의 반복에서 기시감을 느껴요. 뭔가가 반복되고 있어요."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": [
+        {
+          "id": 5,
+          "field": "desc",
+          "kr_text": "자판기 재화 표시용(name 만 번역해주세요)",
+          "zh_text": "자판기 재화 표시용(name 만 번역해주세요)",
+          "reason": "untranslated_hangul"
+        }
+      ]
+    },
+    "kr_settings-ui-donttranslate.json": {
+      "missing_items": [
+        {
+          "id": "mainui_settings_story_voice_download_title",
+          "kr": {
+            "id": "mainui_settings_story_voice_download_title",
+            "content": "스토리 보이스"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_settings_story_voice_download_desc",
+          "kr": {
+            "id": "mainui_settings_story_voice_download_desc",
+            "content": "스토리 보이스 다운로드 및 삭제를 관리합니다"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_settings_story_voice_download_button",
+          "kr": {
+            "id": "mainui_settings_story_voice_download_button",
+            "content": "관리"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "LoginUIText.json": {
+      "missing_items": [
+        {
+          "id": "serverstate_server_busy",
+          "kr": {
+            "id": "serverstate_server_busy",
+            "content": "서버가 혼잡합니다.\n잠시 후에 다시 시도해 주세요."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "MainUIText.json": {
+      "missing_items": [
+        {
+          "id": "mainui_story_continue_next_desc",
+          "kr": {
+            "id": "mainui_story_continue_next_desc",
+            "content": "다음 화를 이어보시겠습니까?\n(초회 보상이 있다면 수령후 이어봄)"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_exp_dungeon_16_title",
+          "kr": {
+            "id": "mainui_exp_dungeon_16_title",
+            "content": "경험치 채광-10 (참격)"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_exp_dungeon_16_open_day",
+          "kr": {
+            "id": "mainui_exp_dungeon_16_open_day",
+            "content": "경험치 채광 10단계 (참격) 스테이지는 월요일, 화요일, 일요일에 개방됩니다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_exp_dungeon_17_title",
+          "kr": {
+            "id": "mainui_exp_dungeon_17_title",
+            "content": "경험치 채광-10 (관통)"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_exp_dungeon_17_open_day",
+          "kr": {
+            "id": "mainui_exp_dungeon_17_open_day",
+            "content": "경험치 채광 10단계 (관통) 스테이지는 수요일, 목요일, 일요일에 개방됩니다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_exp_dungeon_18_title",
+          "kr": {
+            "id": "mainui_exp_dungeon_18_title",
+            "content": "경험치 채광-10 (타격)"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "mainui_exp_dungeon_18_open_day",
+          "kr": {
+            "id": "mainui_exp_dungeon_18_open_day",
+            "content": "경험치 채광 10단계 (타격) 스테이지는 금요일, 토요일, 일요일에 개방됩니다."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "MentalCondition.json": {
+      "missing_items": [
+        {
+          "id": "OnGiveNegativeBuffStackToEnemy",
+          "kr": {
+            "id": "OnGiveNegativeBuffStackToEnemy",
+            "add": "적에게 부정적인 효과 위력을 {0} 부여 할 때 마다 정신력 {1} 증가",
+            "min": "적에게 부정적인 효과 위력을 {0} 부여 할 때 마다 정신력 {1} 감소"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent",
+          "kr": {
+            "id": "OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent",
+            "add": "자신보다 느린 적에게 합 패배 시 합 횟수에 비례하여 증가\n<size=95%>(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>",
+            "min": "자신보다 느린 적에게 합 패배 시 합 횟수에 비례하여 감소\n<size=95%>(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "MirrorDungeonRentalName.json": {
+      "missing_items": [
+        {
+          "id": 30,
+          "kr": {
+            "id": 30,
+            "content": "출혈"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 31,
+          "kr": {
+            "id": 31,
+            "content": "호흡, 관통"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 32,
+          "kr": {
+            "id": 32,
+            "content": "질투, 출혈"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Passives.json": {
+      "missing_items": [
+        {
+          "id": 1061601,
+          "kr": {
+            "id": 1061601,
+            "name": "초염옥구",
+            "desc": "합 승리 시 대상에게 점혈이 있으면, [DianxueHongLu] 1 부여 (턴당 1회)\n\n턴 종료 시 자신의 [Breath] 위력 5당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n크리티컬 피해량 +(대상의 [Combustion] 위력)% (최대 15%)"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1061602,
+          "kr": {
+            "id": 1061602,
+            "name": "입회하의 결투",
+            "desc": "스테이지 첫 등장 시 대기 인원 또는 서포트 인원으로 편성된 섕크 협회 소속 아군 인격 수만큼 [DuelSousTemoinsEast] 얻음 (최대 3, 사망자 포함)\n\n기본 공격 스킬로 마지막에 적중한 대상에게 다음 턴에 [DianxueHongLu] 1 부여 (턴당 1회, 집중 전투면, 부위에 부여)"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1061611,
+          "kr": {
+            "id": 1061611,
+            "name": "초염옥구",
+            "desc": "합 승리 시 대상에게 점혈이 있으면, [DianxueHongLu] 1 부여 (턴당 1회)\n\n턴 종료 시 자신의 [Breath] 위력 <style=\"highlight\">3</style>당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n크리티컬 피해량 +(대상의 [Combustion] 위력)% (최대 15%)\n<style=\"highlight\">- 대상의 [DianxueHongLu] 1당, 최댓값 5% 증가</style>"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1061621,
+          "kr": {
+            "id": 1061621,
+            "name": "퇴로를 녹여둘게요",
+            "desc": "속도가 가장 빠른 아군이 [Combustion] 또는 특수 화상을 보유한 적에게 합 승리 시, 다음 턴에 [Binding] 1 부여 (턴당 1회)\n- 대상의 [Combustion] 횟수가 4 이하면, 추가로 이번 턴에 대상의 [Combustion] 횟수 1 증가\n- 대상의 [Combustion] 횟수가 5 이상이면, 추가로 이번 턴에 [Combustion] 3 부여"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041601,
+          "kr": {
+            "id": 1041601,
+            "name": "되먹임",
+            "desc": "적에게 [VibrationExplosion] 시, [VibrationExplosion]의 흐트러짐 피해량 +15%\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면, 대신 [VibrationExplosion] 시 자신의 [ChargeNoirAlly] 횟수 1을 소모하여 [VibrationExplosion]의 흐트러짐 피해량 +30% (대상별로 적용)\n\n자신에게 보호막이 있을 때 적에게 피격 시,\n대상 적에게 [Vibration] 위력 2 부여 (적 별로 턴당 2회)",
+            "summary": "흐트러짐 피해량 증가",
+            "flavor": "르누아르는 강한 진동으로 상대를 흔들리게 함으로써, 상대의 가치를 붕괴시킬 수 있다고 믿는다. 이는 격렬하게 진동할수록 매 순간 변화를 겪는다고 생각하기 때문으로, 르누아르의 전투 기술들은 이러한 방향성 위에서 구성되었다.\n\n그리고 이들은 기억하지도, 경험하지도 못했겠지만, 시지프 백화점 밖에도 같은 원리로 작동하고, 발전한 전투 기술들이 존재한다."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041602,
+          "kr": {
+            "id": 1041602,
+            "name": "르누아르 개버딘 원단",
+            "desc": "전장에 등장 시, [NoirSuitAlly] 25 얻음\n\n턴 시작 시, 자신의 최대 체력의 ([NoirSuitAlly]\n+ [RealisationAlly])/5%만큼 보호막 얻음",
+            "summary": "보호막 얻음"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041603,
+          "kr": {
+            "id": 1041603,
+            "name": "르누아르 개버딘 원단",
+            "desc": "전장에 등장 시, [NoirSuitAlly] 25 얻음\n\n턴 시작 시,\n- 자신의 최대 체력의 ([NoirSuitAlly]\n+ [RealisationAlly])/5%만큼 보호막 얻음\n- [RealisationAlly]가 있으면, ‘트리플 스탬피드 스티칭’이 ‘원 킥 - 쿠튀르 뮐티플’로 적용됨",
+            "summary": "보호막 얻음"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041604,
+          "kr": {
+            "id": 1041604,
+            "name": "보존",
+            "desc": "전투 중 누적으로 자신의 [ChargeNoirAlly] 횟수를\n10 소모할 때마다 [ChargeNoirAlly] 위력 1 얻음\n\n턴 종료 시 자신의 [ChargeNoirAlly] 위력이 3 미만이면, [ChargeNoirAlly] 횟수를 전부 소모하여\n(소모한 수치 x 5)만큼 다음 턴에 보호막을 얻음\n\n자신의 [ChargeNoirAlly] 위력이 3 이상이면, [ChargeNoirAlly] 횟수가 12 미만일 때\n자신의 기본 스킬로 획득하는 [ChargeNoirAlly] 횟수 획득량 +1\n\n기본 공격 스킬 사용 시,\n- 대상의 [Vibration] 위력이 6 이상이면, 코인 위력 +1\n- 자신의 [ChargeNoirAlly] 위력이 3 이상이면, 코인 위력 +1\n- 피해량 +(자신의 [ChargeNoirAlly] 위력 x 2)% (최대 10%)\n· ‘트리플 스탬피드 스티칭’, ‘원 킥 - 쿠튀르 뮐티플’이면,\n대신 피해량 +(자신의 [ChargeNoirAlly] 위력 x 4)% (최대 20%)",
+            "summary": "보존 횟수가 일정 수치 미만이면 획득량 증가\n기본 공격 스킬 사용 시 코인 위력과 피해량이 증가"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041621,
+          "kr": {
+            "id": 1041621,
+            "name": "르누아르의 미덕과 가치",
+            "desc": "[Charge], 특수 [Charge]을 보유한 아군 중 편성 순서가 가장 빠른 아군 1명이 기본 스킬을 사용하여 [VibrationExplosion]로 입히는 흐트러짐 피해량 +12.5%",
+            "summary": "진동 폭발 시 흐트러짐 피해량이 증가\n피격 시 진동 위력 부여"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081601,
+          "kr": {
+            "id": 1081601,
+            "name": "변화의 요람",
+            "desc": "기본 스킬 사용 시 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 합 위력 +2\n\n자신이 [RougeIshmaelEclose] 상태면, 기본 스킬 적중시 최대 체력의 8%만큼 체력 회복 (턴당 5회)",
+            "flavor": "탈의실이라고도 부르지만, 밖에서는 이것을 번데기나 알이라고 부르는 편이 더 알맞을 거야.\n안에서 자신의 몸을 녹이거나 으깨가면서 변화하고, 때가 되었을 때 껍질을 깨고 밖으로 나오겠지.\n하지만 아직 준비되지 않은 것을 밖에서 찢어버리면, 슬프게도 망가지고 말아.\n그래서 이 시기가 가장 취약하고, 어느 때보다 보살핌이 필요해."
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081602,
+          "kr": {
+            "id": 1081602,
+            "name": "탈의실 속으로…",
+            "desc": "전투 중 누적으로 자신의 [ChargeRougeAlly] 횟수 10을 소모할 때마다 [ChargeRougeAlly] 1 얻음\n\n자신의 기본 스킬의 체력 감소 효과로 흐트러지거나 체력이 1 미만으로 감소하지 않음\n(체력이 1인 경우, 기본 스킬 효과 중 체력 소모로 발동되는 효과를 적용 받을 수 있음)\n\n이번 전투에서 체력이 0이 되는 피해를 받았을 때, 해당 피해를 받지 않고, 즉시 [RougeIshmaelCocoon] 2를 얻고 [RougeIshmaelCocoon] 상태가 됨 (전투당 1회)\n- 수비 스킬 효과로 [RougeIshmaelCocoon] 상태가 되었으면, 해당 효과는 이번 전투 동안 발동하지 않음\n\n[RougeIshmaelCocoon] 상태가 될 때 자신의 최대 체력만큼 보호막을 얻음\n- 이 효과로 얻은 보호막은 턴 종료시에도 사라지지 않음\n- [RougeIshmaelCocoon] 상태가 해제될 때 위 효과에서 얻은 보호막은 사라짐\n\n[RougeIshmaelCocoon] 상태일 때, ‘목소리에 따라 기꺼이 나의 안으로’만 사용 가능함 (E.G.O 스킬 사용 불가)\n\n턴 종료시 [RougeIshmaelCocoon]이 0이면, [RougeIshmaelCocoon] 상태가 해제 되며 [RougeIshmaelEclose] 상태가 되고, [ChargeRougeAlly] 횟수 5 얻음",
+            "flavor": "옷을 갈아입을 거에요. 더 나다운 모습으로!"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081621,
+          "kr": {
+            "id": 1081621,
+            "name": "[르루주 오트쿠튀르 악트리스] - 로브",
+            "desc": "편성 순서 1번과 2번 인격이 패시브, 스킬, 코인의 효과로 회복하는 체력 회복량 +20%\n\n색욕 공명이 완전 공명이면, 이번 턴에 편성 순서 1번과 2번의 스킬로 받는 피해량 -10%",
+            "flavor": "거울세계의 인격을 원본 그대로 덮어쓰기 어려울 때, 배우만을 위해 맞춰진 형태로 옷이 만들어지고, 입혀진다.\n오트쿠튀르는 일종의 시네마적인 재구성이다. 있었던 존재를 옷으로 치환하여 덮어쓰고, 배우는 그 존재에 이입하고 몰입하여 연기한다. 영화를 보는 사람은 그것이 연기가 아닌 실재라는 거짓말을 받아들이고, 배우는 그 이야기 안에서만큼은 그 존재가 되어 원본을 재현한다."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Passive_Ego.json": {
+      "missing_items": [
+        {
+          "id": 2040512,
+          "kr": {
+            "id": 2040512,
+            "name": "뚜껑 따인 음료수",
+            "desc": "[Sinking]이 5 이상 부여된 적에게 공격 적중 시 [Disarming] 1 부여 (턴 당 최대 5회)\n\n<style=\"highlight\">흐트러짐 또는 패닉 상태인 적에게 공격 적중 시 다음 턴에 [AttackUp] 1 얻음 (턴 당 3회. 집중 전투인 경우, 본체로 판정)</style>"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 2020512,
+          "kr": {
+            "id": 2020512,
+            "name": "불꽃의 검",
+            "desc": "<style=\"highlight\">분노 또는</style> 색욕 속성 스킬로 앞면 적중 시 대상에게 [Combustion] 1 부여 (턴 당 최대 6회)\n<style=\"highlight\">- 대상의 [Combustion] 위력이 최대치면, 대신 [DefenseDown] 1 부여\n\n탐식 속성 기본 스킬 사용 시, 탐식 E.G.O 자원 +1 (턴당 1회)</style>"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 2121011,
+          "kr": {
+            "id": 2121011,
+            "name": "전입 신고 처리",
+            "desc": "최대 공명 수가 3 이상이면, 스킬 적중 시 메인 타겟에게 다음 턴에 [Binding] 1 부여 (턴당 1회)\n\n자신의 [Charge] 위력이 3 이상이면, 자신이 [Charge] 횟수를 얻거나 소모하는 기본 스킬 및 적에게 [Combustion] 위력 또는 횟수를 부여하는 기본 스킬 피해량 +10%"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Personalities.json": {
+      "missing_items": [
+        {
+          "id": 10616,
+          "kr": {
+            "id": 10616,
+            "title": "동부 섕크 협회\n3과",
+            "name": "홍루",
+            "nameWithTitle": "홍루",
+            "desc": "홍루의 열여섯번째 인격"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 10416,
+          "kr": {
+            "id": 10416,
+            "title": "오트쿠튀르::\n르누아르 신발관",
+            "name": "료슈",
+            "nameWithTitle": "료슈",
+            "desc": "료슈의 열여섯번째 인격"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 10816,
+          "kr": {
+            "id": 10816,
+            "title": "오트쿠튀르::\n르루주 부티크",
+            "name": "이스마엘",
+            "nameWithTitle": "이스마엘",
+            "desc": "이스마엘의 열여섯번째 인격"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Personality_Get_Condition.json": {
+      "missing_items": [
+        {
+          "id": "10616_getCondition_normal",
+          "kr": {
+            "id": "10616_getCondition_normal",
+            "content": "동부 섕크 협회 3과 홍루 획득 시"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "10616_getCondition_gacksung",
+          "kr": {
+            "id": "10616_getCondition_gacksung",
+            "content": "동부 섕크 협회 3과 홍루 동기화 3단계 달성"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "10416_getCondition_normal",
+          "kr": {
+            "id": "10416_getCondition_normal",
+            "content": "오트쿠튀르::르누아르 신발관 료슈 획득 시"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "10416_getCondition_gacksung",
+          "kr": {
+            "id": "10416_getCondition_gacksung",
+            "content": "오트쿠튀르::르누아르 신발관 료슈 동기화 3단계 달성"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "10816_getCondition_normal",
+          "kr": {
+            "id": "10816_getCondition_normal",
+            "content": "오트쿠튀르::르루주 부티크 이스마엘 획득 시"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "10816_getCondition_gacksung",
+          "kr": {
+            "id": "10816_getCondition_gacksung",
+            "content": "오트쿠튀르::르루주 부티크 이스마엘 동기화 3단계 달성"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "ScenarioModelCodes-AutoCreated.json": {
+      "missing_items": [
+        {
+          "id": "푸른여인",
+          "kr": {
+            "id": "푸른여인",
+            "name": "???",
+            "nickName": "???"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "크로머언니",
+          "kr": {
+            "id": "크로머언니",
+            "name": "크로머",
+            "nickName": "???"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "잔느",
+          "kr": {
+            "id": "잔느",
+            "name": "잔느",
+            "nickName": "거인"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "맨얼굴크로머언니",
+          "kr": {
+            "id": "맨얼굴크로머언니",
+            "name": "크로머",
+            "nickName": "???"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "3층하이도메루주",
+          "kr": {
+            "id": "3층하이도메루주",
+            "name": "리나모비블",
+            "nickName": "???"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "3층가위",
+          "kr": {
+            "id": "3층가위",
+            "name": "아네트",
+            "nickName": "수선실"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "B2층염색실주인",
+          "kr": {
+            "id": "B2층염색실주인",
+            "name": "팔레트",
+            "nickName": "염색실"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "B2층플로어매니저",
+          "kr": {
+            "id": "B2층플로어매니저",
+            "name": "지하 2층 플로어 매니저",
+            "nickName": "시지프 백화점"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "3층하이도메루주번데기",
+          "kr": {
+            "id": "3층하이도메루주번데기",
+            "name": "리나모비블",
+            "nickName": "르루주"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "퍼티",
+          "kr": {
+            "id": "퍼티",
+            "name": "퍼티",
+            "nickName": "염색실"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "검사",
+          "kr": {
+            "id": "검사",
+            "name": "검사",
+            "nickName": "N사 사법부"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "판사",
+          "kr": {
+            "id": "판사",
+            "name": "판사",
+            "nickName": "N사 사법부"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "수셰프",
+          "kr": {
+            "id": "수셰프",
+            "name": "수셰프",
+            "nickName": "푸드코트"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "붉은신",
+          "kr": {
+            "id": "붉은신",
+            "name": "붉은 신",
+            "nickName": "르루주"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "뫼르소엄마",
+          "kr": {
+            "id": "뫼르소엄마",
+            "name": "???",
+            "nickName": "거인"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "과거잔느",
+          "kr": {
+            "id": "과거잔느",
+            "name": "잔느",
+            "nickName": "N사"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "SeasonTitle.json": {
+      "missing_items": [
+        {
+          "id": "season_filter_8",
+          "kr": {
+            "id": "season_filter_8",
+            "content": "시즌 8"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "season_title_8",
+          "kr": {
+            "id": "season_title_8",
+            "content": "PUNCTUM"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "season_title_8_EVENT",
+          "kr": {
+            "id": "season_title_8_EVENT",
+            "content": "PUNCTUM [EVENT]"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Skills_Ego_Personality-12.json": {
+      "missing_items": [
+        {
+          "id": 2121011,
+          "kr": {
+            "id": 2121011,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "입주 신고",
+                "abName": "Kqe-1j-23",
+                "desc": "아래 조건 만족 시 코인 위력 +1 (최대 3)\n- 메인 타겟의 [Combustion] 위력 6당\n- (자신의 [Charge] 위력 - 1)만큼\n[BeforeAttack] (자신의 [Charge] 위력 - 1)만큼 이 스킬로 부여하는 [Combustion] <noparse>위력 증가</noparse> (최대 2)\n[BeforeAttack] (최대 공명 수 + 1)만큼 자신의 [Charge] 횟수 증가 (최대 7)\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 15 소모하여, 소모한 충전 횟수당 피해량 +1% (최대 15%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상에게 [IDMicroChip]이나 [Binding]이 있으면, [Combustion] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [IDMicroChip] 1 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 3,
+                "name": "입주 신고",
+                "abName": "Kqe-1j-23",
+                "desc": "아래 조건 만족 시 코인 위력 +1 (최대 3)\n- 메인 타겟의 [Combustion] 위력 6당\n- (자신의 [Charge] 위력 - 1)만큼\n[BeforeAttack] (자신의 [Charge] 위력 - 1)만큼 이 스킬로 부여하는 [Combustion] <noparse>위력 증가</noparse> (최대 2)\n[BeforeAttack] (최대 공명 수 + 1)만큼 자신의 [Charge] 횟수 증가 (최대 7)\n<style=\"highlight\">- 자신의 [Charge] 횟수가 3 이하면, 추가로 3 증가</style>\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 15 소모하여, 소모한 충전 횟수당 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">30</style>%)\n<style=\"highlight\">[EndSkill] 공격 시작 전 효과로 [Charge] 횟수를 15 소모했으면, 자신의 [Charge] 횟수 5 증가</style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상에게 [IDMicroChip]이나 [Binding]이 있으면, [Combustion] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가</style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [IDMicroChip] 1 부여<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "입주 신고",
+                "abName": "Kqe-1j-23",
+                "desc": "아래 조건 만족 시 코인 위력 +1 (최대 3)\n- 메인 타겟의 [Combustion] 위력 6당\n- (자신의 [Charge] 위력 - 1)만큼\n[BeforeAttack] (자신의 [Charge] 위력 - 1)만큼 이 스킬로 부여하는 [Combustion] <noparse>위력 증가</noparse> (최대 2)\n[BeforeAttack] (최대 공명 수 + 1)만큼 자신의 [Charge] 횟수 증가 (최대 7)\n- 자신의 [Charge] 횟수가 3 이하면, 추가로 3 증가\n[BeforeAttack] 자신의 [Charge] 횟수를 최대 15 소모하여, 소모한 충전 횟수당 피해량 +<style=\"highlight\">3</style>% (최대 <style=\"highlight\">45</style>%)\n[EndSkill] 공격 시작 전 효과로 [Charge] 횟수를 15 소모했으면, 자신의 [Charge] 횟수 5 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">3</style> 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상에게 [IDMicroChip]이나 [Binding]이 있으면, [Combustion] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [IDMicroChip] <style=\"highlight\">2</style> 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 2121021,
+          "kr": {
+            "id": 2121021,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "입주 신고",
+                "abName": "Kqe-1j-23",
+                "desc": "[CantIdentify]\n무작위 대상 공격\n아래 조건 만족 시 코인 위력 +1 (최대 3)\n- 메인 타겟의 [Combustion] 위력 6당\n- (자신의 [Charge] 위력 - 1)만큼\n[BeforeAttack] (최대 공명 수 + 3)만큼 자신의 [Charge] 횟수 증가 (최대 10)\n[BeforeAttack] 피해량 + (자신의 [Charge] 위력 + 횟수 - 1)% (최대 20%)\n[EnemyKill] 자신의 [Charge] 횟수 4 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [IDMicroChip] 1 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 3,
+                "name": "입주 신고",
+                "abName": "Kqe-1j-23",
+                "desc": "[CantIdentify]\n무작위 대상 공격\n아래 조건 만족 시 코인 위력 +1 (최대 3)\n- 메인 타겟의 [Combustion] 위력 6당\n- (자신의 [Charge] 위력 - 1)만큼\n[BeforeAttack] (최대 공명 수 + 3)만큼 자신의 [Charge] 횟수 증가 (최대 10)\n[BeforeAttack] 피해량 + (자신의 [Charge] 위력 + 횟수 - 1) x <style=\"highlight\">2</style>% (최대 <style=\"highlight\">40</style>%)\n[EnemyKill]\n- 자신의 [Charge] 횟수 4 증가\n<style=\"highlight\">- 다음 턴에 [AttackDmgUp] 1 얻음 (턴당 1회)</style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 횟수 <style=\"highlight\">2</style> 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [IDMicroChip] 1 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "<style=\"highlight\">[OnStartCoin] 자신의 [Charge] 횟수 최대 8 소모</style>"
+                      },
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] 이 코인에서 [Charge] 횟수를 소모했으면, 이 코인 최종 피해량의 (소모한 충전 횟수 x 5)%만큼 질투 피해 (최소 5%, 최대 40%)</style>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "입주 신고",
+                "abName": "Kqe-1j-23",
+                "desc": "[CantIdentify]\n무작위 대상 공격\n아래 조건 만족 시 코인 위력 +1 (최대 3)\n- 메인 타겟의 [Combustion] 위력 6당\n- (자신의 [Charge] 위력 - 1)만큼\n[BeforeAttack] (최대 공명 수 + 3)만큼 자신의 [Charge] 횟수 증가 (최대 10)\n[BeforeAttack] 피해량 + (자신의 [Charge] 위력 + 횟수 - 1) x <style=\"highlight\">3</style>% (최대 <style=\"highlight\">60</style>%)\n[EnemyKill]\n- 자신의 [Charge] 횟수 4 증가\n- 다음 턴에 [AttackDmgUp] 1 얻음 (턴당 1회)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 횟수 <style=\"highlight\">3</style> 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [IDMicroChip] <style=\"highlight\">2</style> 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnStartCoin] 자신의 [Charge] 횟수 최대 8 소모<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 이 코인에서 [Charge] 횟수를 소모했으면, 이 코인 최종 피해량의 (소모한 충전 횟수 x 5)%만큼 질투 피해 (최소 5%, 최대 40%)<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Skills_personality-04.json": {
+      "missing_items": [
+        {
+          "id": 1041601,
+          "kr": {
+            "id": 1041601,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "불결하군",
+                "desc": "[StartBattle] 자신의 [ChargeNoirAlly] 위력이 3, [ChargeNoirAlly] 횟수가 12 이상이면,\n[ChargeNoirAlly] 횟수를 6 소모하여 최대 체력의 5%만큼 보호막 얻음 (턴당 2회)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수가 10 미만이면, 자신의 [ChargeNoirAlly] 횟수 1 증가\n[WhenUse] [RealisationAlly] 최대 15 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly] x 3)% (최대 45%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 2,
+                "name": "불결하군",
+                "desc": "[StartBattle] 자신의 [ChargeNoirAlly] 위력이 3, [ChargeNoirAlly] 횟수가 12 이상이면,\n[ChargeNoirAlly] 횟수를 6 소모하여 최대 체력의 5%만큼 보호막 얻음 (턴당 2회)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수가 10 미만이면, 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">2</style> 증가\n[WhenUse] [RealisationAlly] 최대 15 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly] x 3)% (최대 45%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "불결하군",
+                "desc": "[StartBattle] 자신의 [ChargeNoirAlly] 위력이 3, [ChargeNoirAlly] 횟수가 12 이상이면,\n[ChargeNoirAlly] 횟수를 6 소모하여 최대 체력의 5%만큼 보호막 얻음 (턴당 2회)\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수가 <style=\"highlight\">12</style> 미만이면, 자신의 [ChargeNoirAlly] 횟수 2 증가\n<style=\"highlight\">[WhenUse] [NoirSuitAlly]가 50 이상이면,\n합 위력 +1, 피해량 +30%</style>\n[WhenUse] [RealisationAlly] 최대 15 소모\n<style=\"highlight\">- 최종 위력 +1</style>\n- 피해량 +(소모한 [RealisationAlly] x 3)% (최대 45%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041602,
+          "kr": {
+            "id": 1041602,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "와서 시착해봐라",
+                "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면, 6 소모하여 합 위력 +1, 피해량 +10%\n- 자신의 [ChargeNoirAlly] 횟수 2 증가\n[WhenUse] [RealisationAlly] 최대 20 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly])% (최대 20%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] (자신의 [ChargeNoirAlly] 위력+1)만큼 자신의 [ChargeNoirAlly] 횟수 증가 (최대 4)"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가"
+                      }
+                    ]
+                  },
+                  {}
+                ]
+              },
+              {
+                "level": 2,
+                "name": "와서 시착해봐라",
+                "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면, 6 소모하여 합 위력 +1, 피해량 +10%\n- 자신의 [ChargeNoirAlly] 횟수 2 증가\n[WhenUse] [RealisationAlly] 최대 20 소모\n- 합 위력 +1\n- 피해량 +(소모한 [RealisationAlly])% (최대 20%)<style=\"highlight\"></style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] (자신의 [ChargeNoirAlly] 위력+1)만큼 자신의 [ChargeNoirAlly] 횟수 증가 (최대 <style=\"highlight\">6</style>)"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 1 증가<style=\"highlight\"></style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소</style>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "와서 시착해봐라",
+                "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 12 이상이면,\n6 소모하여 <style=\"highlight\">최종 위력 +1</style>, 피해량 <style=\"highlight\">+20%</style>\n- 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">4</style> 증가\n<style=\"highlight\">[WhenUse] [NoirSuitAlly]가 50 이상이면, 피해량 +15%</style>\n[WhenUse] [RealisationAlly] 최대 20 소모\n<style=\"highlight\">- 최종 위력 +1</style>\n- 피해량 +(소모한 [RealisationAlly])% (최대 20%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] (자신의 [ChargeNoirAlly] 위력 + <style=\"highlight\">3</style>)만큼 자신의 [ChargeNoirAlly] 횟수 증가 (최대 6)"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041603,
+          "kr": {
+            "id": 1041603,
+            "levelList": [
+              {
+                "level": 3,
+                "name": "트리플 스탬피드 스티칭",
+                "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 10 이상이면, 최대 20까지 소모하여\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 3 증가\n[WhenUse] [NoirSuitAlly] 40당, 합 위력 +1, 피해량 +10% (각각 최대 2, 최대 20%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "피해량 +([NoirSuitAlly] 수치/2)% (최대 50%)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "트리플 스탬피드 스티칭",
+                "desc": "<style=\"highlight\">[StartBattle] [NoirSuitAlly] 20 얻음 (턴당 1회)</style>\n[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수가 10 이상이면, 최대 20까지 소모하여\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가\n[WhenUse] [NoirSuitAlly] <style=\"highlight\">30</style>당, 합 위력 +1, 피해량 <style=\"highlight\">+20%</style> <style=\"highlight\">(각각 최대 3, 최대 60%)</style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여, [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "피해량 +(<style=\"highlight\">[NoirSuitAlly] 수치</style>)% (최대 <style=\"highlight\">100%</style>)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion] <style=\"highlight\">2회</style>. 대상의 [Vibration] 횟수 <style=\"highlight\">2</style> 감소"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041604,
+          "kr": {
+            "id": 1041604,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "고객 자식! 상품에 주름이 잡히고 있지 않나!",
+                "desc": "[DuelCounter]\n[StartBattle]\n- 자신의 [NoirSuitAlly]가 60 이상이면, 해당 효과가 다음 턴에 [RealisationAlly]로 변경됨\n- 자신의 [RealisationAlly]가 60 미만이면, 해당 효과가 다음 턴에 [NoirSuitAlly]로 변경됨\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 2회)",
+                "coinlist": [
+                  {},
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[SuperCoin]"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 1 부여 (턴당 2회)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 3,
+                "name": "고객 자식! 상품에 주름이 잡히고 있지 않나!",
+                "desc": "[DuelCounter]\n[StartBattle]\n- 자신의 [NoirSuitAlly]가 60 이상이면,\n해당 효과가 다음 턴에 [RealisationAlly]로 변경됨\n- 자신의 [RealisationAlly]가 60 미만이면,\n해당 효과가 다음 턴에 [NoirSuitAlly]로 변경됨\n<style=\"highlight\">[BeforeUse] 자신의 [RealisationAlly]가 60 이상이면,\n‘원 킥 - 쿠튀르 뮐티플’로 발동됨 (턴당 1회)\n- 이 효과가 발동했으면, 공격 종료 시 [RealisationAlly] 전부 소모</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 2회)",
+                "coinlist": [
+                  {},
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 1 부여 (턴당 2회)<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "고객 자식! 상품에 주름이 잡히고 있지 않나!",
+                "desc": "[DuelCounter]\n[StartBattle]\n- 자신의 [NoirSuitAlly]가 60 이상이면,\n해당 효과가 다음 턴에 [RealisationAlly]로 변경됨\n- 자신의 [RealisationAlly]가 60 미만이면,\n해당 효과가 다음 턴에 [NoirSuitAlly]로 변경됨\n[BeforeUse] 자신의 [RealisationAlly]가 60 이상이면,\n‘원 킥 - 쿠튀르 뮐티플’로 발동됨 (턴당 1회)\n- 이 효과가 발동했으면, 공격 종료 시 [RealisationAlly] 전부 소모\n<style=\"highlight\">[WhenUse] 자신의 [ChargeNoirAlly] 위력이 3/5 이상이면, 코인 위력 +1/+2</style>\n[WhenUse] 자신의 [ChargeNoirAlly] 횟수 2 증가 (턴당 2회)",
+                "coinlist": [
+                  {},
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여 (턴당 2회)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1041605,
+          "kr": {
+            "id": 1041605,
+            "levelList": [
+              {
+                "level": 3,
+                "name": "원 킥 - 쿠튀르 뮐티플",
+                "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수를 최대 20까지 소모하여,\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 3 증가\n[WhenUse] [RealisationAlly] 최대 60 소모\n- 소모한 [RealisationAlly]가 60 이상이면, 최종 위력 +1\n- 피해량 +(소모한 [RealisationAlly]/3)% (최대 20%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 3 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 3 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 2 이상이면, [VibrationExplosion].\n대상의 [Vibration] 횟수 1 감소"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "원 킥 - 쿠튀르 뮐티플",
+                "desc": "[WhenUse]\n- 자신의 [ChargeNoirAlly] 횟수를 최대 20까지 소모하여,\n피해량 +(소모한 [ChargeNoirAlly] 횟수)% (최대 20%)\n- 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가\n[WhenUse] [RealisationAlly] 최대 60 소모\n- 소모한 [RealisationAlly] <style=\"highlight\">30당</style>, 최종 위력 +1 <style=\"highlight\">(최대 2)</style>\n- 피해량 +(소모한 [RealisationAlly]/3)% (최대 20%)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 횟수 <style=\"highlight\">5</style> 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 3 증가<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 3 이상이면,\n[VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeNoirAlly] 위력이 2 이상이면,\n[VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해</style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 <style=\"highlight\">15%</style>만큼 관통 피해"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Skills_personality-06.json": {
+      "missing_items": [
+        {
+          "id": 1061601,
+          "kr": {
+            "id": 1061601,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "발경",
+                "desc": "[WhenUse] 대상에게 [DianxueHongLu]가 없으면, 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 3 이상이면, 이 코인 재사용 (스킬당 1회)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 2,
+                "name": "발경",
+                "desc": "<style=\"highlight\">자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1</style>\n[WhenUse] 대상에게 [DianxueHongLu]가 없으면, 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 3 이상이면, 이 코인 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] [Combustion] 1 부여</style>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "발경",
+                "desc": "자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Breath]과 대상의 [Combustion]의 합 6당, 합 위력 +1 (최대 2)</style>\n[WhenUse] 대상에게 [DianxueHongLu]가 없으면, 합 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 3 이상이면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1061602,
+          "kr": {
+            "id": 1061602,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "초염장",
+                "desc": "[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 2 이상이면, 이 코인 재사용 (스킬당 1회)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 2,
+                "name": "초염장",
+                "desc": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 <style=\"highlight\">2</style> 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] [Combustion] 횟수 1 증가</style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 2 이상이면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] [DianxueHongLu]만큼 [DefenseDown] 부여 (턴당 1회)</style>"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "초염장",
+                "desc": "자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)\n<style=\"highlight\">[WhenUse] 자신의 [Breath]과 대상의 [Combustion]의 합이 6 이상이면, 최종 위력 +1</style>\n[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상의 [DianxueHongLu]가 2 이상이면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] [DianxueHongLu]만큼 [DefenseDown] 부여 (턴당 1회)<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1061603,
+          "kr": {
+            "id": 1061603,
+            "levelList": [
+              {
+                "level": 3,
+                "name": "마지막 수까지 받아주시겠어요?",
+                "desc": "자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 3 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 20%)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                      },
+                      {
+                        "desc": "[CriticalOnSucceedAttack] [DefenseDown] 2 부여 (턴당 2회)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상에게 [DianxueHongLu]가 있으면, 이 코인 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [Combustion] x 2)%만큼 분노 피해 (최대 40%)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "마지막 수까지 받아주시겠어요?",
+                "desc": "자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Breath]과 대상의 [Combustion]의 합이 6 이상이면, 코인 위력 +1</style>\n[WinDuel] [Breath] <style=\"highlight\">5</style> 얻음\n- 대상의 [DianxueHongLu]만큼 추가로 자신의 [Breath] 횟수 증가",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 <style=\"highlight\">30</style>%)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[CriticalOnSucceedAttack] [DefenseDown] 2 부여 (턴당 2회)<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 대상에게 [DianxueHongLu]가 있으면, 이 코인 재사용 (스킬당 1회)<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 이 코인 최종 피해량의 (대상의 [Combustion] x 2)%만큼 분노 피해 (최대 40%)<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1061604,
+          "kr": {
+            "id": 1061604,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "구름처럼 가벼이",
+                "desc": "자신의 속도가 공격자보다 2 이상 높으면, 코인 위력 +1\n[StartBattle] 자신의 [Breath] 횟수 2 증가 (턴당 1회)",
+                "coinlist": [
+                  {}
+                ]
+              },
+              {
+                "level": 4,
+                "name": "구름처럼 가벼이",
+                "desc": "자신의 속도가 공격자보다 2 이상 높으면, 코인 위력 +1\n[StartBattle] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가 (턴당 1회)",
+                "coinlist": [
+                  {}
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "Skills_personality-08.json": {
+      "missing_items": [
+        {
+          "id": 1081601,
+          "kr": {
+            "id": 1081601,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "아아 당신한테는 들리지 않나보죠?",
+                "desc": "[WhenUse] 자신의 현재 체력이 80% 이상이면, [ChargeRougeAlly] 횟수 3 얻음",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 2,
+                "name": "아아 당신한테는 들리지 않나보죠?",
+                "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly]이 2 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 현재 체력이 80% 이상이면, [ChargeRougeAlly] 횟수 3 얻음",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 <style=\"highlight\">3</style> 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "아아 당신한테는 들리지 않나보죠?",
+                "desc": "자신의 [ChargeRougeAlly]이 2 이상이면, 코인 위력 +1\n[WhenUse] 자신의 현재 체력이 80% 이상이면, [ChargeRougeAlly] 횟수 <style=\"highlight\">5</style> 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 3당 합 위력 +1 (최대 2)</style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 3 증가<style=\"highlight\"></style>"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081602,
+          "kr": {
+            "id": 1081602,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "목소리가 들리지 않았다해서 부재했던것이 아니었음을!",
+                "desc": "",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 2 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 2)%만큼 체력 회복 (최대 10%)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 2,
+                "name": "목소리가 들리지 않았다해서 부재했던것이 아니었음을!",
+                "desc": "<style=\"highlight\">자신의 [ChargeRougeAlly] 2당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 3 x (10 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 10 소모하여 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +20%\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동</style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 <style=\"highlight\">4</style> 증가"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                      },
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] 자신의 [ChargeRougeAlly]이 3 이상이면, 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)</style>"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x <style=\"highlight\">3</style>)%만큼 체력 회복 (최대 <style=\"highlight\">15%</style>)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "목소리가 들리지 않았다해서 부재했던것이 아니었음을!",
+                "desc": "자신의 [ChargeRougeAlly] 2당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 10 미만이면, 최대 체력의 3 x (10 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 10으로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 10 소모하여 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +<style=\"highlight\">40%</style>\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가<style=\"highlight\"></style>"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 3 부여"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly]이 <style=\"highlight\">2</style> 이상이면, 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 3)%만큼 체력 회복 (최대 15%)<style=\"highlight\"></style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081603,
+          "kr": {
+            "id": 1081603,
+            "levelList": [
+              {
+                "level": 3,
+                "name": "긁어내고, 뜯어내고, 못 박으라!",
+                "desc": "자신의 [ChargeRougeAlly] 1당 피해량 +5% (최대 25%)\n[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이거나 자신에게 [RougeIshmaelEclose]이 있으면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 15 미만이면, 최대 체력의 3 x (15 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 15로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 15 소모하여 코인 위력 +3\n[WhenUse] 대상의 [Laceration] 6당 코인 위력 +1 (최대 2)\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +40%\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (자신의 [ChargeRougeAlly] 위력 x 10)% 만큼 색욕 피해 (최대 30%)"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 4)%만큼 체력 회복 (최대 20%)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "긁어내고, 뜯어내고, 못 박으라!",
+                "desc": "자신의 [ChargeRougeAlly] 1당 피해량 +<style=\"highlight\">10%</style> (최대 <style=\"highlight\">50%</style>)\n[StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이거나 자신에게 [RougeIshmaelEclose]이 있으면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수가 15 미만이면, 최대 체력의 3 x (15 - 현재 [ChargeRougeAlly] 횟수)%만큼 체력을 소모하여 [ChargeRougeAlly] 횟수가 15로 증가\n[WhenUse] 자신의 [ChargeRougeAlly] 횟수를 15 소모하여 코인 위력 +3\n[WhenUse] 대상의 [Laceration] 6당 코인 위력 +1 (최대 2)\n[BeforeAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 피해량 +40%\n- [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모 후 발동",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 횟수 2 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "자신에게 [RougeIshmaelEclose]이 있으면, 이 코인 1회 재사용 (스킬당 1회)"
+                      },
+                      {
+                        "desc": "[OnSucceedAttack] 이 코인 최종 피해량의 (자신의 [ChargeRougeAlly] 위력 x 10)% 만큼 색욕 피해 (최대 30%)"
+                      },
+                      {
+                        "desc": "[ReUseOnSucceedAttack] 최대 체력의 ([ChargeRougeAlly] 위력 x 4)%만큼 체력 회복 (최대 20%)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081604,
+          "kr": {
+            "id": 1081604,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "역시.. 이 세상에 의미는 있던 거죠?",
+                "desc": "[DuelCounter]\n[StartBattle] 자신의 현재 체력이 최대 체력의 10% 이하면, [RougeIshmaelCocoon] 2를 얻고 [RougeIshmaelCocoon] 상태가 됨 (전투당 1회)\n[StartBattle] 자신에게 [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모하고 다음 턴에 이 슬롯의 [Aggro] 10 증가 (턴당 1회)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "역시.. 이 세상에 의미는 있던 거죠?",
+                "desc": "[DuelCounter]\n[StartBattle] 자신의 현재 체력이 최대 체력의 10% 이하면, [RougeIshmaelCocoon] 2를 얻고 [RougeIshmaelCocoon] 상태가 됨 (전투당 1회)\n[StartBattle] 자신에게 [RougeIshmaelEclose]이 없으면, 자신의 체력을 최대 체력의 20%만큼 소모하고 다음 턴에 이 슬롯의 [Aggro] 10 증가 (턴당 1회)\n<style=\"highlight\">[WhenUse] 자신의 [ChargeRougeAlly] 위력 2당 최종 위력 +1 (최대 2)\n[WhenUse] 대상의 [Laceration] 4당 피해량 +10% (최대 40%)</style>",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] 자신의 [ChargeRougeAlly] 횟수 4 증가"
+                      }
+                    ]
+                  },
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                      },
+                      {
+                        "desc": "<style=\"highlight\">[OnSucceedAttack] 자신에게 [RougeIshmaelEclose]이 있으면, 최대 체력의 10%만큼 체력 회복 (턴당 1회)</style>"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 1081605,
+          "kr": {
+            "id": 1081605,
+            "levelList": [
+              {
+                "level": 1,
+                "name": "목소리에 따라 기꺼이 나의 안으로",
+                "desc": "[RougeIshmaelCocoon] 전용 스킬\n[CanDuelGuard]\n[StartBattle] 자신의 [ChargeRougeAlly] 횟수가 10 이상이면, 10 소모하여 다음 턴에 편성 순서가 가장 빠른 아군 2명에게 [ResultEnhancement] 1 부여 (턴당 1회)\n[StartBattle] 자신의 최대 체력의 50%만큼 체력 회복 (턴당 1회)\n[WinDuel] 자신의 [ChargeRougeAlly] 횟수 5 증가 (턴당 4회)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[SuperCoin]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "level": 4,
+                "name": "목소리에 따라 기꺼이 나의 안으로",
+                "desc": "[RougeIshmaelCocoon] 전용 스킬\n[CanDuelGuard]\n[StartBattle] 자신의 [ChargeRougeAlly] 횟수가 10 이상이면, 10 소모하여 다음 턴에 편성 순서가 가장 빠른 아군 2명에게 [ResultEnhancement] 1 부여 (턴당 1회)\n<style=\"highlight\">- 대상이 르루주 소속이면, 다음 턴에 자신의 [ChargeRougeAlly] 횟수가 5 증가하고, 대상에게 [AttackDmgUp] 1 추가 부여</style>\n[StartBattle] 자신의 최대 체력의 <style=\"highlight\">100%</style>만큼 체력 회복 (턴당 1회)\n<style=\"highlight\">[WinDuel] 자신에게 부여된 해제 가능한 부정적인 효과 중 무작위 1개 제거 (턴당 1회)</style>\n[WinDuel] 자신의 [ChargeRougeAlly] 횟수 5 증가 (턴당 4회)",
+                "coinlist": [
+                  {
+                    "coindescs": [
+                      {
+                        "desc": "[SuperCoin]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "SkillTag.json": {
+      "missing_items": [
+        {
+          "id": "AlwaysUseEGOPassive",
+          "kr": {
+            "id": "AlwaysUseEGOPassive",
+            "name": "[상시 효과]"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "StageChapterText.json": {
+      "missing_items": [
+        {
+          "id": "chapter_n_110",
+          "kr": {
+            "id": "chapter_n_110",
+            "company": "N사",
+            "area": "14구",
+            "chapter": "10장",
+            "chapterNumber": "10",
+            "chaptertitle": "바라보아지는",
+            "timeline": "985-03"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "chapter_n_9128",
+          "kr": {
+            "id": "chapter_n_9128",
+            "company": "N사",
+            "area": "14구",
+            "chapter": "10장",
+            "chapterNumber": "10",
+            "chaptertitle": "바라보아지는",
+            "timeline": "985-03"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "StoryTheaterMain.json": {
+      "missing_items": [
+        {
+          "id": "CHAPTER_110",
+          "kr": {
+            "id": "CHAPTER_110",
+            "title": "바라보아지는",
+            "desc": "회색빛 사슬이 절그렁거린다.\n옥죄어진 자는 여전히 침묵한다.\n나는 순간 아득함을 느끼며,\n하늘을 올려다 보았다.\n햇살이, 따가웠다."
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "StoryTheaterMirrorWorldStoryTitle.json": {
+      "missing_items": [
+        {
+          "id": "MirrorWorld_Story_Title_P10616",
+          "kr": {
+            "id": "MirrorWorld_Story_Title_P10616",
+            "content": "동부 섕크 협회 3과, 홍루 이야기"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "MirrorWorld_Story_Title_P10416",
+          "kr": {
+            "id": "MirrorWorld_Story_Title_P10416",
+            "content": "오트쿠튀르::르누아르 신발관, 료슈 이야기"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "MirrorWorld_Story_Title_P10816",
+          "kr": {
+            "id": "MirrorWorld_Story_Title_P10816",
+            "content": "오트쿠튀르::르루주 부티크, 이스마엘 이야기"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "StoryTheaterUIText.json": {
+      "missing_items": [
+        {
+          "id": "MainStoryOpenCondition_110",
+          "kr": {
+            "id": "MainStoryOpenCondition_110",
+            "content": "10-1 스테이지 클리어"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": "A",
+          "kr": {
+            "id": "A",
+            "content": "A"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "UnlockCode-1.json": {
+      "missing_items": [
+        {
+          "id": 912722,
+          "kr": {
+            "id": 912722,
+            "openCondition": "사영전투][투전영사 - 삽시호 Normal 난이도 클리어"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 912723,
+          "kr": {
+            "id": 912723,
+            "openCondition": "사영전투][투전영사 - 삽시호 Hard 난이도 클리어"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "UserBanner.json": {
+      "missing_items": [
+        {
+          "id": 90,
+          "kr": {
+            "id": 90,
+            "name": "시즌 8 시작 기념 배너",
+            "desc": "시즌 8 푼크툼 무료 보상 1레벨에 획득"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 91,
+          "kr": {
+            "id": 91,
+            "name": "시즌 8 완료 기념 배너",
+            "desc": "시즌 8 푼크툼 림버스 패스 보상 120레벨에 획득"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 92,
+          "kr": {
+            "id": 92,
+            "name": "시즌 8 림버스 패키지 특별 배너",
+            "desc": "시즌 8 푼크툼 림버스 패스 패키지 구매 시 획득"
+          },
+          "reason": "missing_id"
+        },
+        {
+          "id": 93,
+          "kr": {
+            "id": 93,
+            "name": "삽시호",
+            "desc": "사영전투][투전영사 - 삽시호 Normal 난이도 24턴 이하로 클리어 시 획득"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "UserTicket-EGOBg.json": {
+      "missing_items": [
+        {
+          "id": 83,
+          "kr": {
+            "id": 83,
+            "name": "삽시호",
+            "desc": "사영전투][투전영사 - 삽시호 Hard 난이도 클리어 시 획득"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "UserTicket-L.json": {
+      "missing_items": [
+        {
+          "id": 83,
+          "kr": {
+            "id": 83,
+            "name": "삽시호",
+            "desc": "사영전투][투전영사 - 삽시호 Hard 난이도 클리어 시 획득"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    },
+    "UserTicket-R.json": {
+      "missing_items": [
+        {
+          "id": 83,
+          "kr": {
+            "id": 83,
+            "name": "삽시호",
+            "desc": "사영전투][투전영사 - 삽시호 Hard 난이도 클리어 시 획득"
+          },
+          "reason": "missing_id"
+        }
+      ],
+      "untranslated_items": []
+    }
+  },
+  "summary": {
+    "scanned_kr_files": 911,
+    "matched_zh_files": 849,
+    "missing_file_count": 62,
+    "missing_item_count": 167,
+    "untranslated_item_count": 252
+  }
+}

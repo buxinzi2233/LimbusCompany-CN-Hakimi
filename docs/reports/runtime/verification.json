@@ -1,0 +1,29 @@
+{
+  "recorded_at": "2026-09-18T01:26:30.000000+08:00",
+  "client_build": "25345468",
+  "client_version_from_screen": "v1.114.0",
+  "observed_window_id": 171,
+  "startup_title_screen": "verified",
+  "chinese_startup_labels": "visually_verified",
+  "named_font_mount": "not_verified",
+  "main_lobby": "not_verified",
+  "new_season_ui": "not_verified",
+  "story": "not_verified",
+  "rpg_dialogue": "not_verified",
+  "combat_tooltips": "not_verified",
+  "limitation": "Native in-game controls cannot be operated through stable control IDs with the currently available automation. No post-login scenarios were exercised.",
+  "log_counts": {
+    "Curl error": 6,
+    "Sharing violation": 0,
+    "JsonDataList": 0,
+    "Exception": 0,
+    "ChineseFont": 0
+  },
+  "network_observation": "TLS certificate verification errors remain in startup logs; whether login is blocked has not been verified.",
+  "language_directories": [
+    "LLC_zh-CN"
+  ],
+  "deployed_files_verified": 2163,
+  "deployed_sha256_matches_workspace": true,
+  "staging_fix": "The staging/retained directory was moved outside Lang after it appeared in the language picker; deployment code and real integration test now enforce that only the actual language directory is exposed."
+}

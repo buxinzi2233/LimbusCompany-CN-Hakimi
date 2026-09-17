@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "main_ui_rpg_battle_defeated_title",
+      "content": "战斗失败"
+    },
+    {
+      "id": "main_ui_rpg_battle_defeated_desc",
+      "content": "<color=#990000>所有罪人均已阵亡。</color>\n请选择后续操作。"
+    },
+    {
+      "id": "main_ui_rpg_retry",
+      "content": "重新挑战"
+    },
+    {
+      "id": "main_ui_rpg_retry_desc",
+      "content": "从头重新开始该场战斗"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat",
+      "content": "放弃"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat_desc",
+      "content": "返回至最后保存状态的泉水处"
+    },
+    {
+      "id": "ContinueConfirm_Desc_Rpg_Stage",
+      "content": "在10-4关卡中，即便战斗中使用继续挑战功能，\n最终通关时仍将被记录为EX通关。\n\n但使用继续挑战后，<color=#990000>若未进行重新挑战、未失败且未放弃并获得胜利保存进度</color>，\n<color=#990000>即便中途放弃10-4关卡，继续挑战消耗的道具也不会返还。</color>\n此外，消耗的狂气不支持退款。"
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned_desc",
+      "content": "当前持有的E.G.O资源数量。"
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned",
+      "content": "持有E.G.O资源"
+    },
+    {
+      "id": "9128_chapter_notice_button_title",
+      "content": "章节注意事项"
+    },
+    {
+      "id": "9128_chapter_notice_popup_title",
+      "content": "当前正在游玩的章节是<color=#3246AB>[第{0}章 {1}]</color>。"
+    },
+    {
+      "id": "9128_chapter_notice_enter_title",
+      "content": "确定要进入<color=#3246AB>[第{0}章 {1}]</color>吗？"
+    },
+    {
+      "id": "9128_chapter_notice_popup_desc",
+      "content": "◆ 即使尚未通关先前章节，<color=#ff6000><mark=#ff000040><b><u>亦可直接游玩主线剧情第10章</u></b></mark></color>。\n◆ 文本中包含<color=#ff6000><mark=#ff000040><b><u>第9.5章为止的剧透内容</u></b></mark></color>。\n◆ 通关第10章时，若先前章节未通关，则镜牢、镜折铁道、采掘、映射战斗等<color=#ff6000><mark=#ff000040><b><u>需要通关先前章节方可解锁的内容将无法游玩。</u></b></mark></color>为游玩全部内容，请达成相应解锁条件。\n◆ 以通关第10章为解锁条件的内容(预计后续更新)，请<color=#ff6000><mark=#ff000040><b><u>通关第10章与9.5-26关卡</u></b></mark></color>。\n◆ 游玩第10章时，<color=#ff6000><mark=#ff000040><b><u>将提供默尔索的部分助战人格</u></b></mark></color>。(助战人格与E.G.O适用同步/异想解析第4阶段。)\n◆ 游玩第10章时，<color=#ff6000><mark=#ff000040><b><u>所有友方人格提供同步第3阶段支援</u></b></mark></color>。E.G.O不会额外补正异想解析等级。"
+    }
+  ]
+}

@@ -1,0 +1,1382 @@
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.3.12f1 (fca03ac9b0d5)
+[Subsystems] Discovering subsystems at path S:/common/Limbus Company/LimbusCompany_Data/UnitySubsystems
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA GeForce RTX 4070 Laptop GPU
+[D3D12 Device Filter] Driver Version: 35.0.19.9999
+[D3D12 Device Filter] Feature Level: 12.2
+[D3D12 Device Filter] Graphics Memory: 8188 MB
+[D3D12 Device Filter] Processor Count: 24
+[D3D12 Device Filter] Device Type: Discrete
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+d3d12: could not load DirectML.dll.
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2820)
+    Vendor:          NVIDIA
+    VRAM:            8188 MB
+    App VRAM Budget: 7719 MB
+    Driver:          35.0.19.9999
+D3D12 MachineLearning context creation failure : null DML device.[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.068800 ms
+prevState : None, nextState : PlayVideo
+RenderGraph is now disabled.
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. S:\common\Limbus Company\LimbusCompany_Data\sharedassets0.resource
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+prevState : PlayVideo, nextState : PlayWarningAnim
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+prevState : PlayWarningAnim, nextState : PlayDone
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.160800 ms
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+IOException: Sharing violation on path S:\common\Limbus Company\LimbusCompany_Data\Lang\config.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.IO.File.WriteAllText (System.String path, System.String contents) [0x00000] in <00000000000000000000000000000000>:0 
+  at ProjectMoon.CustomLocalization.CustomLocalizeConfigFile.GetConfig () [0x00000] in <00000000000000000000000000000000>:0 
+  at ProjectMoon.CustomLocalization.CustomLocalizeManager.GetLastSelected () [0x00000] in <00000000000000000000000000000000>:0 
+  at ProjectMoon.CustomLocalization.CustomLocalizeManager.Get () [0x00000] in <00000000000000000000000000000000>:0 
+  at TextLibrary.TextDataConverter..ctor (System.String remoteLocalizeFolderLabel, System.String remoteLocalizeFileLiseName, System.String localizeFolderPath) [0x00000] in <00000000000000000000000000000000>:0 
+  at TextDataSet..ctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.RuntimeConstructorInfo.InternalInvoke (System.Object obj, System.Object[] parameters, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Activator.CreateInstance[T] () [0x00000] in <00000000000000000000000000000000>:0 
+  at Singleton`1[T].get_Instance () [0x00000] in <00000000000000000000000000000000>:0 
+  at UITextDataLoader.SetText () [0x00000] in <00000000000000000000000000000000>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.RuntimeConstructorInfo.InternalInvoke (System.Object obj, System.Object[] parameters, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Activator.CreateInstance[T] () [0x00000] in <00000000000000000000000000000000>:0 
+  at Singleton`1[T].get_Instance () [0x00000] in <00000000000000000000000000000000>:0 
+  at UITextDataLoader.SetText () [0x00000] in <00000000000000000000000000000000>:0 
+
+IOException: Sharing violation on path S:\common\Limbus Company\LimbusCompany_Data\Lang\config.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.IO.File.WriteAllText (System.String path, System.String contents) [0x00000] in <00000000000000000000000000000000>:0 
+  at ProjectMoon.CustomLocalization.CustomLocalizeManager.SetLastSelectedAndReturn (System.String value) [0x00000] in <00000000000000000000000000000000>:0 
+  at ProjectMoon.CustomLocalization.CustomLocalizeManager.Get () [0x00000] in <00000000000000000000000000000000>:0 
+  at TextLibrary.TextDataConverter..ctor (System.String remoteLocalizeFolderLabel, System.String remoteLocalizeFileLiseName, System.String localizeFolderPath) [0x00000] in <00000000000000000000000000000000>:0 
+  at TextDataSet..ctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.RuntimeConstructorInfo.InternalInvoke (System.Object obj, System.Object[] parameters, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Activator.CreateInstance[T] () [0x00000] in <00000000000000000000000000000000>:0 
+  at Singleton`1[T].get_Instance () [0x00000] in <00000000000000000000000000000000>:0 
+  at UITextDataLoader.SetText () [0x00000] in <00000000000000000000000000000000>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.RuntimeConstructorInfo.InternalInvoke (System.Object obj, System.Object[] parameters, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic, System.Boolean wrapExceptions) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Activator.CreateInstance[T] () [0x00000] in <00000000000000000000000000000000>:0 
+  at Singleton`1[T].get_Instance () [0x00000] in <00000000000000000000000000000000>:0 
+  at UITextDataLoader.SetText () [0x00000] in <00000000000000000000000000000000>:0 
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 18215.
+Total: 5.401600 ms (FindLiveObjects: 0.731200 ms CreateObjectMapping: 0.205700 ms MarkObjects: 4.415500 ms  DeleteObjects: 0.048400 ms)
+
+SetLoginInfo : STEAM
+[FMOD] Please add an 'FMOD Studio Listener' component to your camera in the scene for correct 3D positioning of sounds.
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+WindowsVideoMedia error 0x80004004 while reading S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+
+Context: WindowsVideoMedia::DiscardSamplesUntilTargetTime ReadSample
+Error details: <Empty>
+Track types:
+   Audio Track, type: %10%16
+   Video Track [1920 x 1080], type: H264
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+WindowsVideoMedia error 0x80004004 while reading S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+
+Context: WindowsVideoMedia::DiscardSamplesUntilTargetTime ReadSample
+Error details: <Empty>
+Track types:
+   Audio Track, type: %10%16
+   Video Track [1920 x 1080], type: H264
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+WindowsVideoMedia error 0x80004004 while reading S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+
+Context: WindowsVideoMedia::DiscardSamplesUntilTargetTime ReadSample
+Error details: <Empty>
+Track types:
+   Audio Track, type: %10%16
+   Video Track [1920 x 1080], type: H264
+WindowsVideoMedia error 0x80004004 while reading S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+
+Context: WindowsVideoMedia::DiscardSamplesUntilTargetTime ReadSample
+Error details: <Empty>
+Track types:
+   Audio Track, type: %10%16
+   Video Track [1920 x 1080], type: H264
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+CheckAgreementTermsVersion true
+Exception: Attempting to use an invalid operation handle
+  at UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle.get_InternalOp () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle.InternalGetDownloadStatus (System.Collections.Generic.HashSet`1[T] visited) [0x00000] in <00000000000000000000000000000000>:0 
+  at Addressable.AddressableManager.UpdateDownloadSpeed (UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle downloadHandle) [0x00000] in <00000000000000000000000000000000>:0 
+  at Cysharp.Threading.Tasks.UniTaskCompletionSourceCore`1[TResult].TrySetResult (TResult result) [0x00000] in <00000000000000000000000000000000>:0 
+  at Cysharp.Threading.Tasks.UniTask+DelayPromise.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at Cysharp.Threading.Tasks.Internal.PlayerLoopRunner.RunCore () [0x00000] in <00000000000000000000000000000000>:0 
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Cysharp.Threading.Tasks.UniTaskScheduler:PublishUnobservedTaskException(Exception)
+Cysharp.Threading.Tasks.ExceptionHolder:Finalize()
+
+No Class for unlockcode
+No Class for dante-ability-common-data
+No Class for story-dungeon-detail
+No Class for sync-stagenodereward
+No Class for error-code-table
+No Class for sync-subchapter
+No Class for stagenode-ending-map
+Bank not exists || S:/common/Limbus Company/LimbusCompany_Data/StreamingAssets/Assets/Sound/FMODBuilds/Desktop/SFX_12.bank
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+SoundManager:LoadBankFromLocal(String, Boolean, Boolean)
+<LoadBanksAsync>d__17:MoveNext()
+UnityEngine.StateMachineBox`1:DoMoveNext()
+SoundManager:LoadBanksAsync(IEnumerable`1, Single)
+LimbusCompany.LoadingLibs.<LoadSoundAsync>d__6:MoveNext()
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Bank not exists || S:/common/Limbus Company/LimbusCompany_Data/StreamingAssets/Assets/Sound/FMODBuilds/Desktop/SFX_12.assets.bank
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+SoundManager:LoadBankFromLocal(String, Boolean, Boolean)
+<LoadBanksAsync>d__17:MoveNext()
+UnityEngine.StateMachineBox`1:DoMoveNext()
+SoundManager:LoadBanksAsync(IEnumerable`1, Single)
+LimbusCompany.LoadingLibs.<LoadSoundAsync>d__6:MoveNext()
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Bank not exists || S:/common/Limbus Company/LimbusCompany_Data/StreamingAssets/Assets/Sound/FMODBuilds/Desktop/Voice_Battle_Announcer_S9.bank
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+SoundManager:LoadBankFromLocal(String, Boolean, Boolean)
+<LoadBanksAsync>d__17:MoveNext()
+UnityEngine.StateMachineBox`1:DoMoveNext()
+SoundManager:LoadBanksAsync(IEnumerable`1, Single)
+LimbusCompany.LoadingLibs.<LoadSoundAsync>d__6:MoveNext()
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+Bank not exists || S:/common/Limbus Company/LimbusCompany_Data/StreamingAssets/Assets/Sound/FMODBuilds/Desktop/Voice_Battle_Announcer_S9.assets.bank
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+SoundManager:LoadBankFromLocal(String, Boolean, Boolean)
+<LoadBanksAsync>d__17:MoveNext()
+UnityEngine.StateMachineBox`1:DoMoveNext()
+SoundManager:LoadBanksAsync(IEnumerable`1, Single)
+LimbusCompany.LoadingLibs.<LoadSoundAsync>d__6:MoveNext()
+Cysharp.Threading.Tasks.NextFramePromise:MoveNext()
+Cysharp.Threading.Tasks.Internal.PlayerLoopRunner:RunCore()
+
+The referenced script (TextMeshProMaterialSetterFinder) on this Behaviour is missing!
+The referenced script (NullOrMissingSpriteFinder) on this Behaviour is missing!
+The referenced script (StageIconEditor) on this Behaviour is missing!
+ID: [CHAPTER_107]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [55]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [44]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [45]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [46]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [47]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [60]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [61]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [62]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [63]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [64]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [65]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [69]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [70]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [38]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [39]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [40]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [52]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [53]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [54]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [55]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [56]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [57]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [60]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [61]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [52]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [53]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [54]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [55]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [56]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [57]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [60]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [61]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [38]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [39]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [40]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [52]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [53]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [54]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [55]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [56]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [57]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [60]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [61]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [38]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [39]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ID: [40]가 중복으로 정의되어 있습니다.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+JsonDataList`1:SetDictionary(LocalizeTextDataRoot`1, LocalizeTextDataRoot`1)
+TextAssetPatch.<ProcessLoadLocalizeDataAsync>d__75`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+The referenced script on this Behaviour (Game Object '[UIPresenter]StageUIPresenter_a1c5-5_Renewal') is missing!
+A scripted object (probably NullOrMissingSpriteFinder?) has a different serialization layout when loading. (Read 32 bytes but expected 36 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object '[Rect]StageIcons') is missing!
+A scripted object (probably StageIconEditor?) has a different serialization layout when loading. (Read 32 bytes but expected 192 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object '[UIPresenter]StageUIPresenter_a1c5-5_Renewal') is missing!
+A scripted object (probably TextMeshProMaterialSetterFinder?) has a different serialization layout when loading. (Read 32 bytes but expected 84 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (Test.StaticDataChecker) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Checker') is missing!
+Unloading 6 Unused Serialized files (Serialized files now loaded: 5)
+UnloadTime: 0.659400 ms
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 175079.
+Total: 177.210500 ms (FindLiveObjects: 6.780000 ms CreateObjectMapping: 9.598200 ms MarkObjects: 160.522100 ms  DeleteObjects: 0.309800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 13)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 175079.
+Total: 174.805200 ms (FindLiveObjects: 7.022300 ms CreateObjectMapping: 8.278400 ms MarkObjects: 159.367200 ms  DeleteObjects: 0.136600 ms)
+
+The character with Unicode value \uCDE8 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Confirm].
+The character with Unicode value \uC18C was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Confirm].
+The character with Unicode value \uD655 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Confirm].
+The character with Unicode value \uC778 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Confirm].
+The character with Unicode value \uC81C was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uBAA9 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \u7A00 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6709 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5EA6 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+The character with Unicode value \u540C was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6B65 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u9636 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6BB5 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6280 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u80FD was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u7C7B was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u578B was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6280 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u80FD was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5C5E was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6027 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5173 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u952E was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u8BCD was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u7A00 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6709 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5EA6 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5F02 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u60F3 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u89E3 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6790 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u9636 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6BB5 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u7C7B was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u578B was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5C5E was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u6027 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u5173 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u952E was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \u8BCD was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+The character with Unicode value \uB808 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uBCA8 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uC120 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uD0DD was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uCDE8 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Cancel].
+The character with Unicode value \uC18C was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Cancel].
+The character with Unicode value \uD655 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Confirm].
+The character with Unicode value \uC778 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[LocalizeText]Confirm].
+The character with Unicode value \uC804 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uD22C was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uC2A4 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+The character with Unicode value \uD0B5 was not found in the [AddressableFallbackFont] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [TilteText].
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script (NullOrMissingSpriteFinder) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '[UIPresenter]StageUIPresenter_a1c5-5_Renewal') is missing!
+The referenced script (StageIconEditor) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '[Rect]StageIcons') is missing!
+The referenced script (TextMeshProMaterialSetterFinder) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '[UIPresenter]StageUIPresenter_a1c5-5_Renewal') is missing!
+Material FX_Mat_UI_Main_EnkephalinBar doesn't have _Stencil property
+SaveType : LocalSave.UserLocalPersonalityLevelLimitReleaseUISaveModel
+SaveType : UserLocalNoticeRedDotModel
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. archive:/CAB-8cfcff97a981410e0d21a400aa826388/CAB-8cfcff97a981410e0d21a400aa826388.resource
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+레이어 3 is using a shader without GPU deformation support. Switching the renderer over to CPU deformation.
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+TextData_StageChapter :: cannot find idchapter_h_9123
+The character with Unicode value \u8FDB was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[Text]ChpaterProgress].
+The character with Unicode value \u5EA6 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[Text]ChpaterProgress].
+The character with Unicode value \u901A was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[Text]ExclearProgressTitle].
+The character with Unicode value \u5173 was not found in the [SCDream5 SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [[Text]ExclearProgressTitle].
+Material UI_ExchangeEffect_Ver3 doesn't have _Stencil property
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/arm_long.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/arm_long.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/popup_inner_panel_light.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/popup_inner_panel_light.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/popup_limbus_logo.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/popup_limbus_logo.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/arm_down.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/arm_down.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/popup_inner_panel_dark.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/popup_inner_panel_dark.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/scrollbar_bg_no_outline.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/scrollbar_bg_no_outline.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/arm_long.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/arm_long.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/popup_inner_panel_light.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/popup_inner_panel_light.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/popup_limbus_logo.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/popup_limbus_logo.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/arm_down.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/arm_down.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/popup_inner_panel_dark.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/popup_inner_panel_dark.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=DUI/sprites/Default/Common/scrollbar_bg_no_outline.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityEngine.AddressableAssets.AddressablesImpl:LogException(AsyncOperationHandle, Exception)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.CompletedOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.ResourceManager:CreateCompletedOperationInternal(TObject, Boolean, Exception, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:LoadAssetAsync(Object)
+UnityEngine.AddressableAssets.Addressables:LoadAssetAsync(Object)
+Addressable.AddressableManager:LoadTemplate(D, Transform, Boolean, Nullable`1)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+DUI/sprites/Default/Common/scrollbar_bg_no_outline.png is Not Exist
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Addressable.AddressableManager:LoadAssetSyncByKey(String, Transform, String, Boolean, Nullable`1)
+DUI.SpriteLibs.DUISpriteGetter:GetSprite(DUITheme, String)
+DUI.SpriteLibs.DUISpriteManager:SetSprite(IDUISpriteSetter)
+DUI.SpriteLibs.DUISpriteManager:SetTheme(DUITheme)
+DUI.DUIManager:SetTheme(DUITheme, Boolean)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:ChangeViewingSkin(Int32)
+MainUI.UIPopups.SelectDUIThemeLibs.SelectDUIThemeUI:OnClickModeButton(LiteUIButton)
+LiteUIButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Quit Local Save...
+Save..
+SaveType : UserLocalNoticeRedDotModel
+SaveType : LocalSave.UserLocalPersonalityLevelLimitReleaseUISaveModel
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.

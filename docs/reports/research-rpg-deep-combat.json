@@ -1,0 +1,2312 @@
+{
+  "changes": [
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2002",
+      "index": 11,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "是黑色的东西呢。虽说无法填饱我们的饥肠辘辘就是了……",
+      "new": "是黑色的东西。虽然还填不饱我们的肚子……",
+      "source_ko": "검은 것들이죠. 저희의 허기짐을 채울 순 없겠지만…",
+      "source_en": "We are feasting on the Noir. Though this will hardly sate our hunger...",
+      "reason": "허기짐 means hunger; remove the ungrammatical 填饱饥肠辘辘 without adding the faction name absent in KR."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2003",
+      "index": 0,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "至少等提升了等级再来敲门的话，届时我们再依据各位的条件予以商榷吧。",
+      "new": "至少提升等级再来敲门，到时我们会重新审核各位的条件。",
+      "source_ko": "적어도 등급을 올리고 문을 두들긴다면 그때 다시 그대들의 조건에 대해 심사하도록 하죠.",
+      "source_en": "Raise your Prestige Rank first and come knocking again. Then, perhaps, we will reconsider your qualifications.",
+      "reason": "심사 is to assess eligibility, not negotiate; retain the exclusionary retail tone."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20041",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "<color=#515aee>在这里……这般……</color>",
+      "new": "<color=#515aee>在这里……这样……</color>",
+      "source_ko": "<color=#515aee>여기에서는… 이렇게…</color>",
+      "source_en": "<color=#515aee>For this floor...</color>",
+      "reason": "Preserve the fragmentary voice; 这样 is the plain deictic 이렇게."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2005",
+      "index": 2,
+      "field": "text",
+      "speaker": "希斯克利夫",
+      "old": "没、没有啦，我就跟洗手间里的那群家伙赌舌头能不能碰到手肘而已……",
+      "new": "没、没有，我就是跟洗手间里的那群家伙打赌，看舌头能不能碰到手肘……咳。",
+      "source_ko": "아, 아니 화장실에 있는 놈들이랑 팔꿈치에 혀가 닿는지 안 닿는지 내기하자고… 크흠.",
+      "source_en": "L-listen, me and the lads in the restroom were just, uhm, doin' a bet, that's all. Tryin' to see if it's possible to lick one's own elbow... *cough*",
+      "reason": "Restore the final 크흠 cough and remove the softened 没有啦 from Heathcliff."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2006",
+      "index": 1,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "大概……极大概率是到达了与我们身处的这处2层所不同的另一个2层。",
+      "new": "大概……他很可能到达了与我们不同的另一个2层。",
+      "source_ko": "아마도… 저희가 있는 이곳과는 다른 2층에 도달했을 확률이 높습니다.",
+      "source_en": "It is likely that he has arrived at... a different \"second floor\" from ours.",
+      "reason": "Keep probability and spatial uncertainty; remove redundant 极大概率/这处所不同 in Meursault speech."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2006",
+      "index": 6,
+      "field": "text",
+      "speaker": null,
+      "old": "默尔索仿佛认同浮士德所言那般，微微颔首。",
+      "new": "默尔索轻轻点了点头，似乎认同浮士德的说法。",
+      "source_ko": "뫼르소는 파우스트의 말이 맞다는 듯, 가볍게 고개를 끄덕였다.",
+      "source_en": "Meursault gave a light nod, affirming Faust's explanation.",
+      "reason": "Narrator reports an observed nod; no elevated 颔首/所言那般 phrasing."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2007",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "由骨骼与血肉筑成的墙挡住了去路。隔着墙，隐约能看见倒下的雷诺阿的尸体。",
+      "new": "由骨骼与血肉筑成的墙挡住了去路。隔着墙，隐约能看见倒下的黑派的尸体。",
+      "source_ko": "뼈와 살점으로 이루어진 벽이 길을 막고 있다. 벽 너머로, 쓰러진 르누아르들의 시체가 얼핏 보인다.",
+      "source_en": "A wall made of flesh and bone blocks the way. There are bodies of dead Noirs splayed around the floor past the wall.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2026",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "由骨骼与血肉筑成的墙挡住了去路。墙后，原先守在这里的勒鲁日，以及倒下的雷诺阿的尸体，都已不见踪影。",
+      "new": "由骨骼与血肉筑成的墙挡住了去路。墙后，原先守在这里的红派，以及倒下的黑派的尸体，都已不见踪影。",
+      "source_ko": "뼈와 살점으로 이루어진 벽이 길을 막고 있다. 벽 너머, 이곳을 지키던 르루주들과 쓰러진 르누아르들의 시체는 더 이상 보이지 않는다.",
+      "source_en": "A wall made of flesh and bone blocks the way. The Rouges who'd been guarding this place and the corpses of the Noirs both are nowhere to be seen.",
+      "reason": "Source-confirmed faction name follows explicit user terminology. Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2009",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "<color=#7d7d7d>雷诺阿们将永世辉耀。</color>",
+      "new": "<color=#7d7d7d>黑派们将永世辉耀。</color>",
+      "source_ko": "<color=#7d7d7d>르누아르들은 영구히 빛날 것이다.</color>",
+      "source_en": "<color=#7d7d7d>Bask in the eternal light shall the Noir.</color>",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2009",
+      "index": 3,
+      "field": "text",
+      "speaker": "浮士德",
+      "old": "看起来杀戮的进程似乎比先前更加推进了呢。",
+      "new": "看来这里的屠杀比之前更进一步了。",
+      "source_ko": "이전보다 학살이 진척된 모습으로 보이는군요.",
+      "source_en": "The massacre has progressed further than it had on our last visit.",
+      "reason": "Objective Faust observation, not 进程更加推进了呢."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 4,
+      "field": "text",
+      "speaker": "乌马尔",
+      "old": "自当驱逐那些企图蚕食维持百货公司的黄金松脂、贪得无厌的勒鲁日。",
+      "new": "自当驱逐那些企图蚕食维持百货公司的黄金松脂、贪得无厌的红派。",
+      "source_ko": "백화점을 유지하는 황금송진을 그저 뜯어먹기만 하려는 저 탐욕스러운 르루주를 몰아내야지.",
+      "source_en": "Thus, we have marched here to cut off once and for all the voracious maws of the Rouge that greedily gnaw at the Golden Resin.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 5,
+      "field": "text",
+      "speaker": "乌马尔",
+      "old": "依书信所托，名品馆内的衣物不取分文眼球，尽数奉予尔等。",
+      "new": "依书信所托，名品馆的衣物将交予尔等，不收一只眼球。",
+      "source_ko": "서신의 부탁대로, 명품관에 있는 옷은 눈알 한 짝 받지 않고 그대들에게 넘겨줄지어다.",
+      "source_en": "As written in this letter, we shall offer you all the items in this Luxury Hall without charging a single pair of eyeballs.",
+      "reason": "KR 눈알 한 짝 states not one eyeball; preserve the currency unit rather than 不取分文眼球."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 6,
+      "field": "text",
+      "speaker": "乌马尔",
+      "old": "……只需用那柄黄金钉，将勒鲁日正在筑造的虚假之神撕裂扯碎便足够了。",
+      "new": "……只需用那柄黄金钉，将红派正在筑造的虚假之神撕裂扯碎便足够了。",
+      "source_ko": "…르루주가 만들어내고 있는 거짓 신을 그 황금의 못으로 찢어발겨 주기만 한다면 될 일이다.",
+      "source_en": "... You need only take the Golden Nail and rip apart the horrible false god the blasphemous Rouge are birthing into this world.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 9,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<冷静地说，对我们而言无论是勒鲁日还是雷诺阿……哪一方正确并非至关重要之事。>",
+      "new": "<冷静地说，对我们而言，无论是红派还是黑派……哪边正确，似乎都不是那么重要。>",
+      "source_ko": "<냉정하게 말해서, 우리에겐 르루주든 르누아르든… 어느 쪽이 옳은지는 별로 중요한 일이 아닌 것 같아.>",
+      "source_en": "<If I'm being honest, it doesn't really seem all that important to me if we're working for the right side, whether that's the Rouges or the Noirs.>",
+      "reason": "Dante practical choice discussion; retain uncertainty and replace bureaucratic 至关重要之事."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 11,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<……以及达成将默尔索从这里带出来的目标罢了。>",
+      "new": "<……我们的目标，也只是把默尔索从这里带出去。>",
+      "source_ko": "<…뫼르소를 여기서 끄집어내야 한다는 목표가 있을 뿐이니까.>",
+      "source_en": "<... and escape this place alongside Meursault.>",
+      "reason": "Keep rescue objective in plain first-person speech."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 13,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<在如今能做的选择中，距离那个目标最近的……似乎唯有答应雷诺阿的请求了。>",
+      "new": "<目前能做的选择里，最接近那个目标的……似乎只有答应黑派的请求了。>",
+      "source_ko": "<지금 할 수 있는 선택 중에는, 그 목표에 제일 가까운 게… 르누아르의 부탁을 들어주는 것뿐인 것 같네.>",
+      "source_en": "<It just so happens that right now, working with the Noirs seems to give us the best chance at achieving that goal.>",
+      "reason": "Keep the limited-choice comparison, without elevating it into an ethical endorsement."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 24,
+      "field": "text",
+      "speaker": null,
+      "old": "以此言为终结，默尔索默默走向了前方。",
+      "new": "说完，默尔索便默默走上前去。",
+      "source_ko": "그 말을 끝으로 뫼르소는 묵묵히 앞으로 나섰다.",
+      "source_en": "Meursault strode forward without saying another word.",
+      "reason": "그 말을 끝으로 marks the end of speaking, not a formal concluding proclamation."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20091",
+      "index": 25,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "让娜大概会伤心吧。",
+      "new": "让娜会伤心的。",
+      "source_ko": "잔느가 슬퍼하겠군.",
+      "source_en": "Jeanne will be saddened.",
+      "reason": "A restrained prediction, not a new emotionless rule; retain Meursault concern present in 슬퍼하겠군."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2010",
+      "index": 1,
+      "field": "speaker",
+      "speaker": "黑派",
+      "old": "雷诺阿",
+      "new": "黑派",
+      "source_ko": "르누아르",
+      "source_en": "Le Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2011",
+      "index": 2,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "我正为其吟唱摇篮曲，为了不让其受冻而覆上摇篮……",
+      "new": "我正为那位大人唱摇篮曲，盖好摇篮，以免受冷……",
+      "source_ko": "자장가를 불러드리고 춥지 않게 요람을 덮어드리고 있으니…",
+      "source_en": "Do not worry. They are sound asleep in their cradle, listening to the tender rhythms of lullabies, wrapped in the softest layers...",
+      "reason": "Restore clear actions and object; retain nurturing tone rather than detached 其."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2011",
+      "index": 3,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "我正在拆解各位的皮肤并重新缝合。一切皆为了回归包裹那位大人的摇篮。",
+      "new": "我正在拆开各位的皮肤，再重新缝好。一切都会回归那包裹着那位大人的摇篮……",
+      "source_ko": "저는 모든 분들의 살갗을 풀고 새롭게 기우고 있어요. 모든 것들은 그분을 덮기 위한 요람으로 돌아가는 거죠…",
+      "source_en": "I unravel the flesh of all life and weave them anew, so that they may return as blankets to enwrap the Slumbering One in their cradle.",
+      "reason": "Keep the actual becoming/returning of material; avoid turning the statement into purpose only."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2011",
+      "index": 4,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "自这处温热的巢穴中，那平稳均匀传来的睡息……各位难道听不见吗？",
+      "new": "这个暖和的巢里，传来的轻轻呼吸声……各位听不见吗？",
+      "source_ko": "이 따끈한 둥지에서 새근새근 들려오는 숨소리가… 들리지 않나요?",
+      "source_en": "Don't you hear it, too? The somnolent, rhythmic inhale... and exhale, enveloped by the warmth of this nest?",
+      "reason": "새근새근 is soft breathing, preserve intimate lullaby imagery without inflated phrasing."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2011",
+      "index": 9,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "在卖场筹备开业之际，竟敢以泥足擅自闯入。",
+      "new": "卖场还在筹备营业，各位竟踩着一脚泥进来。",
+      "source_ko": "매장의 운영을 준비 중인데 흙발로 들어선다니요.",
+      "source_en": "It seems you still lack the manners to be permitted entry.",
+      "reason": "흙발 literally muddy feet; reduce artificial 以泥足擅自闯入 while preserving rebuke."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2011",
+      "index": 12,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "我已记下了各位的面容。往后即便这处空间的改装宣告终结，亦绝不将各位视作顾客。",
+      "new": "我记住各位的脸了。今后即便这里改装完毕，也不会再接待各位。",
+      "source_ko": "그대들의 얼굴을 기억했어요. 이제부터 이 공간의 리모델링이 마무리되더라도, 당신들은 고객으로 맞이하지 않겠어요.",
+      "source_en": "I have committed your countenances to my memory. You will never be permitted entry to this hall as its customers, even after the completion of the renovation project.",
+      "reason": "Preserve blacklist refusal; remove 宣告终结/亦绝不 editorial ornament."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2011",
+      "index": 13,
+      "field": "text",
+      "speaker": "品牌总监",
+      "old": "与那些裹着令人窒息的漆黑布料的雷诺阿们一起……",
+      "new": "与那些裹着令人窒息的漆黑布料的黑派们一起……",
+      "source_ko": "저 답답할 정도로 검은 원단을 두른 르누아르들과 함께…",
+      "source_en": "Along with the Noirs in that stifling black fabric...",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20111",
+      "index": 0,
+      "field": "speaker",
+      "speaker": "垂死的黑派",
+      "old": "垂死的雷诺阿",
+      "new": "垂死的黑派",
+      "source_ko": "죽어가는 르누아르",
+      "source_en": "Dying Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20111",
+      "index": 1,
+      "field": "speaker",
+      "speaker": "垂死的黑派",
+      "old": "垂死的雷诺阿",
+      "new": "垂死的黑派",
+      "source_ko": "죽어가는 르누아르",
+      "source_en": "Dying Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20111",
+      "index": 5,
+      "field": "text",
+      "speaker": "希斯克利夫",
+      "old": "再怎么厉害也觉得莫名缺少紧迫感……原来只是守在金库前而已啊。",
+      "new": "我就说她再怎么厉害，怎么一点都不紧张……原来就是守在保险柜前面啊。",
+      "source_ko": "아무리 세더라도 묘하게 긴장감이 없다 싶더니… 금고 앞에서 저러고 있는 거네, 그냥.",
+      "source_en": "So there <i>was</i> somethin' else she was bankin' on aside from herself... She's basically guarding a safe.",
+      "reason": "KR 긴장감 없다 describes the guards lack of tension/confidence in the barrier, not general lack of urgency; EN confirms reliance on the safe."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D201111",
+      "index": 0,
+      "field": "speaker",
+      "speaker": "垂死的黑派",
+      "old": "垂死的雷诺阿",
+      "new": "垂死的黑派",
+      "source_ko": "죽어가는 르누아르",
+      "source_en": "Dying Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D201111",
+      "index": 1,
+      "field": "speaker",
+      "speaker": "垂死的黑派",
+      "old": "垂死的雷诺阿",
+      "new": "垂死的黑派",
+      "source_ko": "죽어가는 르누아르",
+      "source_en": "Dying Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D201111",
+      "index": 2,
+      "field": "speaker",
+      "speaker": "垂死的黑派",
+      "old": "垂死的雷诺阿",
+      "new": "垂死的黑派",
+      "source_ko": "죽어가는 르누아르",
+      "source_en": "Dying Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2012",
+      "index": 3,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "雷诺阿的巨人已经做出决定了。",
+      "new": "黑派的巨人已经做出决定了。",
+      "source_ko": "르누아르의 거인이 결정을 내렸군요.",
+      "source_en": "The Giant of Le Noir has made the judgment call.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2020",
+      "index": 10,
+      "field": "text",
+      "speaker": "品牌经理",
+      "old": "3层的雷诺阿言道，不久之后下方将筑造出虚假的偶像，因此此刻正当揭开面纱。",
+      "new": "3层的黑派言道，不久之后下方将筑造出虚假的偶像，因此此刻正当揭开面纱。",
+      "source_ko": "3층의 르누아르가 가로되 곧 아래에서 거짓 우상이 만들어질지어다 하니 이는 베일을 벗겨낼 시간이라.",
+      "source_en": "The Le Noir of the third floor spake thus: soon shall a false idol be wrought in the depths below. The hour hath therefore come to draw back the veil.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2020",
+      "index": 16,
+      "field": "text",
+      "speaker": "品牌经理",
+      "old": "奔向此处的勒鲁日将由我来阻挡，尔等速去践行宿命吧。",
+      "new": "奔向此处的红派将由我来阻挡，尔等速去践行宿命吧。",
+      "source_ko": "이곳으로 오는 르루주들은 내가 막을 테니, 그대들은 서둘러 운명을 다하게.",
+      "source_en": "I shall hold back the Rouges making for this place. Make haste, and see your ordained fate fulfilled.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2020",
+      "index": 23,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "那道屏障既无法撕裂，亦无法踏入。我们当如何通行？",
+      "new": "那道屏障既撕不开，也进不去。我们要怎么通过？",
+      "source_ko": "저 막은 찢을 수도, 들어설 수도 없다. 우리는 어떻게 통행하지?",
+      "source_en": "The tabernacle's barrier cannot be torn nor permeated. How are we to progress?",
+      "reason": "Meursault concrete obstacle and question, not archaic 当如何/亦无法."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20201",
+      "index": 1,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<我们……在某种程度上能够摆脱此地的常识与规则。既不属于勒鲁日也不属于雷诺阿，不正是因为哪边都不属于吗？>",
+      "new": "<我们……能在一定程度上摆脱这里的常识与规则。而且既不属于红派，也不属于黑派。>",
+      "source_ko": "<우리는… 이곳의 상식과 규칙을 어느 정도는 벗어날 수 있어. 르루주와 르누아르, 어디에도 속해있지 않고.>",
+      "source_en": "<We... can slip beyond some of the rules and common sense that govern this place. And we belong to neither the Rouges nor the Noirs.>",
+      "reason": "Remove the invented rhetorical causal claim 不正是因为哪边都不属于吗; source states two observations."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20201",
+      "index": 3,
+      "field": "text",
+      "speaker": "浮士德",
+      "old": "若楼层移动的自由与不隶属于任何一方具有相同的隐喻。",
+      "new": "……如果自由往来各层与不属于任何一方，指向的是同一种意义。",
+      "source_ko": "층의 이동에서 자유로웠던 것과 어디에도 속하지 않음이 같은 의미를 시사한다면.",
+      "source_en": "If the freedom to travel between floors is equivalent to estrangement and the lack of belonging thereof...",
+      "reason": "시사 means indicate; avoid prematurely declaring 隐喻 while preserving the conditional hypothesis."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20201",
+      "index": 4,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "那么面对阻挡雷诺阿的帷幕，我们亦有可能不受其束缚。",
+      "new": "那么，我们也可能不受阻挡黑派的帷幕限制。",
+      "source_ko": "르누아르를 막는 장막에서도 자유로울 수 있을 가능성이 있다.",
+      "source_en": "There is a possibility that we may likewise be exempt from the barrier that blocks the Noirs.",
+      "reason": "Retain 가능성이 있다 possibility; plain Meursault reasoning."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D20202",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "宛如谎言一般，他毫无阻碍地被吸纳了进去。",
+      "new": "不可思议的是，他就这样毫无阻力地被吸了进去。",
+      "source_ko": "거짓말처럼 그는 아무런 저항 없이 안으로 빨려들어갔다.",
+      "source_en": "... and was sucked inside as though the wall itself was but an illusion.",
+      "reason": "거짓말처럼 is an idiom for seemingly impossible, not literal 宛如谎言."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2021",
+      "index": 1,
+      "field": "speaker",
+      "speaker": "黑派战锤",
+      "old": "雷诺阿战锤",
+      "new": "黑派战锤",
+      "source_ko": "르누아르 망치",
+      "source_en": "Le Noir Hammer",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2014",
+      "index": 6,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "……没有久留凝视的理由。",
+      "new": "……没有必要一直看着。",
+      "source_ko": "…눈에 오래 담을 이유는 없을 거다.",
+      "source_en": "There is no point in letting it linger in your eyes.",
+      "reason": "Plain Meursault request; no 久留凝视 literary embellishment."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2602",
+      "index": 0,
+      "field": "speaker",
+      "speaker": "黑派安保",
+      "old": "雷诺阿安保",
+      "new": "黑派安保",
+      "source_ko": "르누아르 경비",
+      "source_en": "Le Noir Guard",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2902",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于勒鲁日之人的尸体。锋利的手臂全被折断，散落在地。",
+      "new": "隶属于红派之人的尸体。锋利的手臂全被折断，散落在地。",
+      "source_ko": "르루주에 속해있던 자의 시체다. 날카로운 팔들이 모두 분질러진 채 바닥에 널브러져 있다.",
+      "source_en": "The corpse of a Rouge. The bladed arms have all been snapped apart, leaving the body sprawled across the floor.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2903",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于勒鲁日之人的尸体。脸上附着的触手爬出一段距离后便停滞了动静。",
+      "new": "隶属于红派之人的尸体。脸上附着的触手爬出一段距离后便停滞了动静。",
+      "source_ko": "르루주에 속해있던 자의 시체다. 얼굴에 붙어있던 촉수들이 기어나오다가 이내 움직임을 멈춘다.",
+      "source_en": "The corpse of a Rouge. The tentacles attached to their face begin to crawl outward, only to fall still moments later.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2904",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于勒鲁日之人的尸体。全身被沉重的锤子砸得粉碎，几乎辨不出形状。",
+      "new": "隶属于红派之人的尸体。全身被沉重的锤子砸得粉碎，几乎辨不出形状。",
+      "source_ko": "르루주에 속해있던 자의 시체다. 묵직한 망치에 온몸이 으깨져 형체를 알아보기 힘들다.",
+      "source_en": "The corpse of a Rouge. The entire body has been crushed beneath a heavy hammer, mangled beyond recognition.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2030",
+      "index": 0,
+      "field": "text",
+      "speaker": "赤神",
+      "old": "快些长大……为我歌唱吧……",
+      "new": "快些睡吧……唱给我听……",
+      "source_ko": "어서 자라… 불러 다오…",
+      "source_en": "Be fast asleep... and sing to us...",
+      "reason": "자라 ambiguous between sleep/grow; EN Be fast asleep and matching lullaby D2031:2 establish sleep here, unlike explicit 무럭무럭 grow at D2030:3."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2031",
+      "index": 8,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "雷诺阿将彻底掌控百货公司。那样一来……",
+      "new": "黑派将彻底掌控百货公司。那样一来……",
+      "source_ko": "르누아르가 백화점을 차지할 것입니다. 그러고 나면…",
+      "source_en": "Le Noir will now assume full control of the Grand Magasin. And once that happens...",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2031",
+      "index": 12,
+      "field": "text",
+      "speaker": "浮士德",
+      "old": "为何不曾告知此事？管理者浮士德们到底作何打算……",
+      "new": "为什么没有告诉我？管理者浮士德们到底在想什么……",
+      "source_ko": "이걸 왜 알려주지 않았던 거죠? 관리자 파우스트들은 도대체 무슨 생각으로…",
+      "source_en": "Why wasn't I told of this? Why would the Administrator Fausts— What...",
+      "reason": "Preserve first-person surprise and question; no invented ban on Faust emotional language."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2031",
+      "index": 13,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<浮士德？是关于格塞尔夏夫特（Gesellschaft）的事吗？>",
+      "new": "<浮士德？是格塞尔夏夫特的事吗？>",
+      "source_ko": "<파우스트? 게젤샤프트 관련한 거야?>",
+      "source_en": "<Faust? Is this about the Gesellschaft?>",
+      "reason": "Remove untranslated parenthetical Gesellschaft absent in source while retaining established proper name."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2031",
+      "index": 14,
+      "field": "text",
+      "speaker": "浮士德",
+      "old": "……这座百货公司即将迎来永恒呢。但是那样的话……",
+      "new": "……这座百货公司要成为永恒的了。可那样的话……",
+      "source_ko": "…이 백화점이 영원해지는군요. 하지만 그래서야…",
+      "source_en": "... I see, the Grand Magasin will now be eternal. But... that means...",
+      "reason": "Preserve realization and interrupted concern without softening 呢."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2906",
+      "index": 4,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<虽说是偶然间把勒鲁日的情报交给了雷诺阿作为开端……>",
+      "new": "<虽说是偶然间把红派的情报交给了黑派作为开端……>",
+      "source_ko": "<우연히 르누아르에게 르루주의 정보를 준 게 시작이긴 했지만…>",
+      "source_en": "<It started with us accidentally tipping the Noirs off about the Rouges...>",
+      "reason": "Source-confirmed faction name follows explicit user terminology. Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2906",
+      "index": 8,
+      "field": "text",
+      "speaker": "希斯克利夫",
+      "old": "再次动身吧。",
+      "new": "走，再试一次。",
+      "source_ko": "다시, 가보자고.",
+      "source_en": "Right. Let's have another go.",
+      "reason": "Heathcliff short colloquial retry, not 再次动身吧."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2907",
+      "index": 1,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "因为已经死亡过一次，故而恢复成了与此前相同的头部形态。",
+      "new": "因为已经死过一次，我的头恢复了原来的样子。",
+      "source_ko": "이미 죽었기 때문에, 이전과 동일한 형태의 머리로 돌아왔다.",
+      "source_en": "As I had already died, my head has returned to the same state it was in previously.",
+      "reason": "Preserve death/reset fact in concise Meursault speech, without 因为故而/头部形态."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2907",
+      "index": 2,
+      "field": "text",
+      "speaker": "但丁",
+      "old": "<放弃进入里面吧。能打赢的对手……目前看来似乎也算不上。>",
+      "new": "<先放弃进去吧。那似乎也不是我们现在……能打赢的对手。>",
+      "source_ko": "<안으로 들어가는 건 포기하자. 이길 만한 상대도… 아직은 아닌 것 같고.>",
+      "source_en": "<Let's give up on going in there. I don't think that's an opponent we can beat... not yet, anyway.>",
+      "reason": "Correct awkward predicate so current inability remains clear."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2907",
+      "index": 3,
+      "field": "text",
+      "speaker": "希斯克利夫",
+      "old": "啧。无可奈何啊。",
+      "new": "啧。没办法。",
+      "source_ko": "쯧. 별수 없지.",
+      "source_en": "Tsk. Can't be helped, then.",
+      "reason": "Colloquial Heathcliff response to no available alternative."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "key": "D2033",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "阻挡在名品馆前方的勒鲁日倒下了。",
+      "new": "阻挡在名品馆前方的红派倒下了。",
+      "source_ko": "명품관을 막고 있었던 르루주가 쓰러졌다.",
+      "source_en": "The Rouge who had been guarding the entrance to the Luxury Hall lies defeated.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20201560",
+      "index": 0,
+      "field": "text",
+      "speaker": "调色盘",
+      "old": "哎呀……！",
+      "new": "哎哟……！",
+      "source_ko": "아야…!",
+      "source_en": "Oww...!",
+      "reason": "아야/EN Oww is a pain cry, not surprise 哎呀."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20220301",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "小巧的顾客们正排队等待着。要是打算硬挤进去，恐怕会被那些针扎得够呛。",
+      "new": "小小的顾客们正排队等着。想进去的话，恐怕会被那些针扎到。",
+      "source_ko": "조그만 고객들이 줄을 선 채 기다리고 있다. 들어가려고 하면, 저 바늘에 찔릴 것 같다.",
+      "source_en": "A line of tiny customers waits ahead. They'll probably prick us with those needles if we try to squeeze past.",
+      "reason": "Remove invented 强挤/扎得够呛 intensity; retain risk."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20220401",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "<通往染料仓库的通道。目前正紧紧闭锁着。>",
+      "new": "<通往染料仓库的通道。现在关得很严。>",
+      "source_ko": "<염료 창고로 이어지는 통로. 지금은 굳게 닫혀 있다.>",
+      "source_en": "<A passage leading to the dye storage. It's sealed tight for now.>",
+      "reason": "Plain environmental inspection, not 紧紧闭锁着."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20220901",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "[未使用] 通往地下3层的自动扶梯。死死地停滞着。",
+      "new": "[未使用] 通往地下3层的自动扶梯。停得纹丝不动。",
+      "source_ko": "[미사용] 지하 3층으로 내려가는 에스컬레이터. 굳게 멈춰 있다.",
+      "source_en": "[미사용] 지하 3층으로 내려가는 에스컬레이터. 굳게 멈춰 있다.",
+      "reason": "Preserve immobility without unnatural 死死地停滞着."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-3",
+      "index": 3,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "吼哦。",
+      "new": "哦？",
+      "source_ko": "호오.",
+      "source_en": "Oho?",
+      "reason": "호오/EN Oho is interest, not roaring 吼哦."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-3",
+      "index": 8,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "我所做的，仅是记住良秀曾使用过的、且已被解读出的缩写结果并作答而已。对于全新的缩写，我无法掌握。",
+      "new": "我只是记住良秀用过的缩写及其已有的解释，再据此回答。新的缩写无法解读。",
+      "source_ko": "내가 수행하고 있는 것은 료슈가 이미 사용했던, 그리고 그것이 해석된 결과를 기억하여 답변하는 것뿐. 새로운 것은 파악할 수 없다.",
+      "source_en": "My comprehension extends only to abbreviations Ryōshū has previously used and that have been interpreted by Sinclair or through other means. New abbreviations remain undecipherable.",
+      "reason": "Keep explicit memory-only limitation; avoid treating it as a novel interpretation ability."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-3",
+      "index": 9,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "别像乌·合一样，先解·此·处，时钟。",
+      "new": "别像乌·合那样，先解·此·处，时钟。",
+      "source_ko": "어. 떠. 들처럼 굴지 말고 여. 어. 설. 해라, 시계.",
+      "source_en": "Stop fumbling like a M.B. and tell me W.W.A., Clock.",
+      "reason": "Retain abbreviations and the following full explanation, repair ungrammatical 像乌合一样."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-3",
+      "index": 13,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "沟通问题或许能够得以解决了呢，管理者大人。",
+      "new": "沟通问题或许能解决了，管理者大人。",
+      "source_ko": "소통 문제는 해결될지도 모르겠군요, 관리자님.",
+      "source_en": "This should somewhat mitigate the communication issues, Executive Manager.",
+      "reason": "Keep officers conditional report without doubled auxiliaries and unnecessary 呢."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-4",
+      "index": 3,
+      "field": "text",
+      "speaker": "克罗默姐姐",
+      "old": "因为这里是只向雷诺阿的知名品牌供货的线团巢穴所在地嘛。",
+      "new": "因为这里有只向黑派知名品牌供应丝线的线团巢穴。",
+      "source_ko": "여기가 르누아르의 유명 브랜드에게만 실을 납품하는 타래둥지가 있는 곳이거든.",
+      "source_en": "This floor is where the Skein Nest is, folks. The one that supplies threads only to Le Noir's most illustrious labels.",
+      "reason": "Restore explicit 실 threads omitted by generic 供货."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-4",
+      "index": 8,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "说得像有不·能·磨蹭的理由一样。",
+      "new": "说得像有什么不·该·磨的理由。",
+      "source_ko": "꾸. 말. 이유라도 있는 것처럼 말하는군.",
+      "source_en": "Any reason we shouldn't D.D.?",
+      "reason": "Abbreviation now matches following explanation 不该磨蹭, not divergent 不能磨."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2000-6",
+      "index": 3,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "……虽然简略地图磨损得颇为严重，但只要朝着右侧前行，推测便能抵达目的地。",
+      "new": "……地图虽然破损得很严重，但往右走，应该就能到。",
+      "source_ko": "…약도가 많이 해져 있긴 합니다만 오른쪽으로 향하다 보면, 도착할 수 있을 것 같습니다.",
+      "source_en": "The map is quite worn, but we will be able to reach our destination if we follow the route to the right.",
+      "reason": "Keep source direction and uncertainty; concise Meursault factual reply."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2002-2",
+      "index": 4,
+      "field": "text",
+      "speaker": "克罗默姐姐",
+      "old": "哈啊。太好了。现在你们可以继续去磨蹭你们最喜欢的磨蹭啦。",
+      "new": "哈。真好，现在你们可以尽情磨蹭了。",
+      "source_ko": "흐핫. 잘됐네. 이제 너희 좋아하는 꾸물거리기 해도 되겠다.",
+      "source_en": "Hehe, now that that's sorted, you're all free to dilly-dally like you wanted!",
+      "reason": "Remove duplicated 磨蹭你们最喜欢的磨蹭 while preserving mocking enjoyment."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2002-2",
+      "index": 7,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "那是何意……？",
+      "new": "那是什么意思……？",
+      "source_ko": "그게 무슨 소리지…?",
+      "source_en": "What is that supposed to mean...?",
+      "reason": "Outis direct question, not archaic 何意."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2002-3",
+      "index": 3,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "总是在不知不觉间现身呢。是因为扮作神明，就真的想举止如神一般了吗？还是说玩弄神明游戏玩到最后终究同化了呢？",
+      "new": "总是叫人不知道你什么时候就来了。是装神装久了，真想像神一样行动，还是扮神扮到最后就变得一样了？",
+      "source_ko": "언제부터 있었는지도 모르게 나타나는군. 신 행세를 하다 보니 정말 신같이 행동하고 싶은 건가, 아니면 신 놀이를 하다 보면 결국 같아지는 건가?",
+      "source_en": "You seem to be fond of making an appearance without so much as a hint. Do you just enjoy playing god, or have you been indulging yourself for so long that it's become who you are?",
+      "reason": "Preserve two alternative questions rather than jargon 同化 and 玩弄神明游戏."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2002-3",
+      "index": 5,
+      "field": "text",
+      "speaker": null,
+      "old": "<color=#ebcaa2>怎么会呢？我现在也是忙得不可开交，刚才的话几乎全错过了呢。</color>",
+      "new": "<color=#ebcaa2>怎么会？我现在也很忙，刚才的话大半都没听见呢。</color>",
+      "source_ko": "<color=#ebcaa2>그럴 리가? 지금도 바빠서 이야기 대부분을 놓쳤는데 말이야.</color>",
+      "source_en": "<color=#ebcaa2>Oh, hardly. I've been so busy that I missed most of what you were saying just now.</color>",
+      "reason": "忙 does not imply 忙得不可开交; retain potentially evasive claim without embellishment."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2003-1",
+      "index": 1,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "是叫丝·巢来着？倒确实名副其实。",
+      "new": "线·巢，是这么叫吧？倒是名副其实。",
+      "source_ko": "타. 둥. 이라고 했나? 이름값은 하는군.",
+      "source_en": "S.N., was it, this place? Lives up to the name.",
+      "reason": "타래둥지 abbreviated to match current full locale name 线团巢穴, not 丝巢."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2003-1",
+      "index": 3,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "若是雷诺阿那些人未曾撒谎，那家伙应该就是能纺制出黄金线团的人。",
+      "new": "如果黑派那些人没有说谎，那人应该就能制作黄金线团。",
+      "source_ko": "르누아르, 그자들이 거짓을 고한 게 아니라면, 저자가 황금 실타래를 만들 수 있는 자일 겁니다.",
+      "source_en": "If those Noirs spoke the truth, that one should be capable of producing the Golden Skein.",
+      "reason": "Keep Outis conditional practical assessment without unnecessarily elevated vocabulary."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2006-1",
+      "index": 1,
+      "field": "text",
+      "speaker": "工作中的针人2",
+      "old": "[未使用] 下一个顺位是……奈基德来着？听说是由雷诺阿接收的。",
+      "new": "[未使用] 下一个顺位是……奈基德来着？听说是由黑派接收的。",
+      "source_ko": "[미사용] 다음 대기순번이… 네이키드였나? 르누아르에서 받아간다곤 들었는데.",
+      "source_en": "[미사용] 다음 대기순번이… 네이키드였나? 르누아르에서 받아간다곤 들었는데.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2006-4",
+      "index": 0,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "[未使用] 把关于内·德那家伙所知道的全部说出来。",
+      "new": "[未使用] 把你知道的基·德那家伙的事说出来。",
+      "source_ko": "[미사용] 이.드. 라는 놈에 대해 아는 대로 말해라.",
+      "source_en": "[미사용] 이.드. 라는 놈에 대해 아는 대로 말해라.",
+      "reason": "이드 is a shortened fragment of 네이키드; use the fragment of current Chinese 奈基德 rather than unrelated 内德."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2006-4",
+      "index": 1,
+      "field": "text",
+      "speaker": "工作中的针人",
+      "old": "[未使用] 内德？奈基德？",
+      "new": "[未使用] 基德？奈基德？",
+      "source_ko": "[미사용] 이드? 네이키드?",
+      "source_en": "[미사용] 이드? 네이키드?",
+      "reason": "Keep recognition of the shortened name in the immediately preceding Ryoshu line."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2006-4",
+      "index": 3,
+      "field": "text",
+      "speaker": "工作中的针人",
+      "old": "[未使用] 你说的是在地下2层晃荡的那个晦气的雷诺阿吗？",
+      "new": "[未使用] 你说的是在地下2层晃荡的那个晦气的黑派吗？",
+      "source_ko": "[미사용] 지하 2층을 돌아다니는 그 재수 없는 르누아르를 말하는 거야?",
+      "source_en": "[미사용] 지하 2층을 돌아다니는 그 재수 없는 르누아르를 말하는 거야?",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2008-1",
+      "index": 0,
+      "field": "speaker",
+      "speaker": "黑派等候者",
+      "old": "雷诺阿等候者",
+      "new": "黑派等候者",
+      "source_ko": "르누아르 대기자",
+      "source_en": "Queueing Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2008-1",
+      "index": 1,
+      "field": "speaker",
+      "speaker": "黑派等候者",
+      "old": "雷诺阿等候者",
+      "new": "黑派等候者",
+      "source_ko": "르누아르 대기자",
+      "source_en": "Queueing Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2008-1",
+      "index": 2,
+      "field": "speaker",
+      "speaker": "黑派等候者",
+      "old": "雷诺阿等候者",
+      "new": "黑派等候者",
+      "source_ko": "르누아르 대기자",
+      "source_en": "Queueing Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2008-1",
+      "index": 3,
+      "field": "speaker",
+      "speaker": "黑派等候者",
+      "old": "雷诺阿等候者",
+      "new": "黑派等候者",
+      "source_ko": "르누아르 대기자",
+      "source_en": "Queueing Noir",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 10,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "……哈啊，是这种类型的机制吗。管理者大人，在您看来这染料是什么颜色的？",
+      "new": "……哈啊，是这么回事吗。管理者大人，您看到的染料是什么颜色？",
+      "source_ko": "…하아 그런 계열인 건가. 혹시 이 염료의 색이 어떻게 보이십니까, 관리자님.",
+      "source_en": "... *sigh* I see what's happening here. Executive Manager, what color does this dye appear to you?",
+      "reason": "계열 is category/type; no need to insert implementation-like 机制 into character dialogue."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 20,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "污·水。",
+      "new": "误·水。",
+      "source_ko": "오, 물.",
+      "source_en": "S.L.O.P.",
+      "reason": "Chinese pun transcreation: 误水/污水 differ only in the first tone; preserves a misunderstood remark without the chemically stronger anhydrous claim 无水."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 21,
+      "field": "text",
+      "speaker": "调色盘",
+      "old": "你在说什么啊？！把人家用心做出的染料叫做污水什么的……",
+      "new": "你说什么？！竟然把我精心做的染料叫成污水……",
+      "source_ko": "뭐라는 거야?! 정성껏 만든 염료를 지금 오물이라고…",
+      "source_en": "What do you mean, \"slop?!\" Do you have any idea how much work went into that dye?!",
+      "reason": "Retain Palette hearing the preceding phrase as insulting 污水; source is a mishearing setup."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 22,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "我是说，“哦，不是水”。",
+      "new": "我是说，“误认成水了”。",
+      "source_ko": "오, 물은 아니군… 이라고 했다.",
+      "source_en": "I'm saying it's not water-based.",
+      "reason": "Resolves 误水 as initially mistaking the liquid for water; follows source realization 오, 물은 아니군 and next observation of oil-based dye."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 23,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "从黏稠度和分量来看，是油系染料吧。",
+      "new": "看黏度和分量，是油性染料。",
+      "source_ko": "점도와 무게감으로 보아서는 기름계 염료로군.",
+      "source_en": "\"Seems Like Oil Pigment.\" Judging by the viscosity and the weight.",
+      "reason": "Concise technical observation; no speculative 吧 absent in conclusive 군."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 27,
+      "field": "text",
+      "speaker": null,
+      "old": "良秀点了点头，拎起调色盘推过来的染料桶，径直朝着门大步流星地走去。",
+      "new": "良秀点着头，拎起调色盘放下的染料桶，径直朝门口走去。",
+      "source_ko": "료슈는 끄덕거리면서 팔레트가 내놓은 염료통을 집어 들더니, 그대로 문을 향해 뚜벅뚜벅 걸어갔다.",
+      "source_en": "Nodding along, Ryōshū picked up the bucket of dye Palette had placed before her and marched straight toward the door.",
+      "reason": "Source 내놓은 is placed/offered, not pushed; avoid extra 大步流星."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2010-1",
+      "index": 34,
+      "field": "text",
+      "speaker": null,
+      "old": "阿赖耶似乎并不赞同这番见解，剑鞘左右晃动着……不过正如良秀所说，唯有去问奈基德本人才能知晓真相，这倒也是事实。",
+      "new": "阿赖耶似乎不同意，剑鞘左右摇晃……不过良秀说得没错，问过奈基德本人才能知道。",
+      "source_ko": "아라야는 그 의견에는 동의하지 못하는지, 좌우로 검집이 흔들렸지만… 료슈의 말대로 네이키드 본인에게 물어봐야 알 수 있는 건 사실이다.",
+      "source_en": "Araya's scabbard swayed from side to side, evidently disagreeing. Still, Ryōshū was right about one thing—we would not know until we asked Naked himself. ",
+      "reason": "Plain narrator; no elevated 知晓真相 inserted into trade uncertainty."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2011-1",
+      "index": 6,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "将这等宝物交出去，简直令我痛心疾首。您的运气实在太好了。若非为了雷诺阿的大义急需黄金染料，我们早就带着这染料返回地表层了！",
+      "new": "将这等宝物交出去，简直令我痛心疾首。您的运气实在太好了。若非为了黑派的大义急需黄金染料，我们早就带着这染料返回地表层了！",
+      "source_ko": "이걸 넘겨야 한다는 게 아까워 죽겠군. 당신은 운이 아주 좋아. 르누아르의 대의를 위해 황금염료가 필요하지 않았다면, 우린 이 염료를 가지고 지상층으로 가버렸을 테니!",
+      "source_en": "It pains me to surrender it—but you are extraordinarily fortunate. If Golden Dye were not essential to Le Noir's cause, we would have taken this treasure straight back to the upper floors!",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2011-1",
+      "index": 13,
+      "field": "text",
+      "speaker": "奈基德",
+      "old": "真是令人感动得心驰神往。",
+      "new": "真是喜欢得让我感动。",
+      "source_ko": "감격스러울 만큼 마음에 드는군.",
+      "source_en": "I'm in awe. It appeals to the senses in every way possible...",
+      "reason": "감격스러울 만큼 마음에 들다 states deep liking, not 心驰神往 yearning."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2013-1",
+      "index": 2,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "呼……正在把丝线生生榨出来么。可不是合我心意的那种悦耳哀鸣啊。",
+      "new": "呼……在榨取丝线吗。算不上合我口味的悦耳惨叫。",
+      "source_ko": "후우… 실을 쥐어짜내고 있나. 썩 듣기 좋은 내 취향의 비명은 아니군.",
+      "source_en": "*puff* It's being wrung for the thread. Not the sort of scream that appeals to my tastes.",
+      "reason": "Keep Ryoshu explicit aesthetic judgment without added poetic 哀鸣."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2013-1",
+      "index": 3,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "……管理者，走廊那边传来了什么东西汹涌而来的声音。",
+      "new": "……管理者，我听见有东西从走廊涌来。",
+      "source_ko": "…관리자님, 복도에서 무언가 몰려오는 소리가 들립니다.",
+      "source_en": "... Manager, I hear something rushing toward us from the corridor.",
+      "reason": "Preserve the sensory report, remove redundant 什么东西汹涌而来的声音."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2015-1",
+      "index": 0,
+      "field": "text",
+      "speaker": "地下2层楼层经理",
+      "old": "如此一来……便全数纺拔出来了。",
+      "new": "这样……就全抽出来了。",
+      "source_ko": "이걸로… 모두 뽑아내었다.",
+      "source_en": "With this... every last strand has been drawn.",
+      "reason": "뽑아내다 is draw out; 纺拔 is an invented unnatural verb."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-SH109002",
+      "index": 0,
+      "field": "text",
+      "speaker": "奈基德",
+      "old": "有几根针于我无用，我就特别卖给你们吧。",
+      "new": "有些东西我用不着，就破例卖给你们吧。",
+      "source_ko": "몇 개는 나한테 필요 없으니, 특별히 너희에게 팔아주도록 하지.",
+      "source_en": "I've got some things I have no use for. I'll let you purchase those from me, as a special favor.",
+      "reason": "몇 개 does not specify needles; EN some things confirms inventory-general reference."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221401",
+      "index": 4,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "唔……虽然不甚明了其原理，但大体结构属下已然心中有数。",
+      "new": "嗯……原理还不清楚，但结构大致明白了。",
+      "source_ko": "음… 원리는 모르겠지만, 구조는 대충 알겠군.",
+      "source_en": "Hm... I do not yet understand the operating principle, but I have a general grasp of the structure.",
+      "reason": "Outis practical assessment, remove exaggerated 已然心中有数 and unnecessary 属下."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221411",
+      "index": 1,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "哈。看来并非凡·平·之·丝啊。",
+      "new": "哈。看来不是普·通·丝。",
+      "source_ko": "하. 평.실.은 아니었나 보군.",
+      "source_en": "Huh. These threads are O. of a K.",
+      "reason": "평.실. abbreviated ordinary thread; 凡平 is not a Chinese adjective."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221419",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "弹出了染料不足的警告。",
+      "new": "弹出了没有染料的警告。",
+      "source_ko": "염료가 없다는 경고문이 뜬다.",
+      "source_en": "A warning states that no dye is available.",
+      "reason": "없다 means none, not merely insufficient."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221420",
+      "index": 0,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "……属下冒昧请教，管理者大人此举究竟是何意图？",
+      "new": "……管理者大人，可以请问您的意图吗？",
+      "source_ko": "…혹시 의도를 여쭤도 되겠습니까.",
+      "source_en": "With all due respect, Executive Manager... may I ask what exactly it is that you intend to accomplish?",
+      "reason": "Retain respectful query without invented deferential 属下冒昧 and accusatory 究竟."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221601",
+      "index": 1,
+      "field": "text",
+      "speaker": null,
+      "old": "一旁如提示一般写着“测试中的染料。若要试用，请仅取微量……”。",
+      "new": "旁边像是告示一样写着：“测试中的染料。想试的话，就舀一点走……”",
+      "source_ko": "옆에는 안내문처럼, 테스트 중인 염료. 써볼 거면 조금만 퍼가…'라고 적혀 있다.",
+      "source_en": "A note beside it reads, \"Dye under testing. If you intend to use it, take only a little...\"",
+      "reason": "Preserve informal source instruction, not formal micro-quantity 微量 absent in 조금."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221601",
+      "index": 2,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "……不错。在美学上有其鉴赏价值。",
+      "new": "……不错。有鉴赏的价值。",
+      "source_ko": "…제법이군. 미학적으로 볼 만한 가치가 있어.",
+      "source_en": "... Not bad. It has some aesthetic value.",
+      "reason": "Keep Ryoshu aesthetic assessment in concise speech, not academic 在美学上有其."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221803",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "是蓝色的染料。或许是因为与小指育儿室见到的光芒相似，良秀不悦地扭过头去。",
+      "new": "是蓝色的染料。或许因为像在小指房间里见过的光，良秀不悦地扭过头去。",
+      "source_ko": "파란색 염료다. 소지의 방에서 보았던 빛과 비슷해서인지, 료슈는 마음에 들지 않는 듯 고개를 돌렸다.",
+      "source_en": "Blue dye. Ryōshū turns her head away, looking displeased. Perhaps the azure hue reminded her of the blue glow of the Pinky Nursefather's Corridor.",
+      "reason": "KR 소지의 방 only specifies Pinky room; avoid adding nursery identity from speculation."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2042",
+      "index": 4,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "若是后退半步……丝缕的纺制或许会受到干扰。",
+      "new": "如果后退……可能会妨碍线团的制作。",
+      "source_ko": "뒤로 물러났다간… 실타래 제작이 방해받을지도 모릅니다.",
+      "source_en": "Withdrawing from this position will compromise the production of the skein, Executive Manager.",
+      "reason": "No 半步 distance in source; retain consequence and probability."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2045",
+      "index": 2,
+      "field": "text",
+      "speaker": "地下2层楼层经理",
+      "old": "如今摆在眼前，确实令人垂涎三尺呢。",
+      "new": "如今摆在眼前，实在让人想要。",
+      "source_ko": "이렇게 눈앞에 두니 실로 탐이 나는구나.",
+      "source_en": "I find myself coveting it in earnest, now that I see it with my own eyes.",
+      "reason": "탐나다 is covet, not literal salivating; no food imagery needed."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2802",
+      "index": 3,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "既然都死了，索性把每种颜色全都被染一遍才好。",
+      "new": "既然都死过了，不如每种颜色都染一遍。",
+      "source_ko": "이왕 죽은 거, 색별로 모두 칠해지는 게 좋겠어.",
+      "source_en": "Let's try dying at least once to each color. That should do us good.",
+      "reason": "Repair 被染 grammar; keep Ryoshu macabre proposal without inserting an exact death count."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2803",
+      "index": 4,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "确实被吞食了。但依然留存在肩膀之上。",
+      "new": "被吞掉了。但仍在肩上。",
+      "source_ko": "잡아먹혔습니다. 하지만 여전히 어깨에 남아있습니다.",
+      "source_en": "It was devoured. But the cocoon still remains above my shoulder.",
+      "reason": "Keep Meursault factual paradox, remove 留存在肩膀之上 ornament."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2804",
+      "index": 4,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "既然楼层经理坐镇其中，它定然无法肆无忌惮地闯入。",
+      "new": "有楼层经理在，它应该无法贸然闯入。",
+      "source_ko": "플로어 매니저가 있는 만큼, 무작정 진입할 수는 없을 것이다.",
+      "source_en": "That is the Floor Manager's room. It will not find it an easy place to enter.",
+      "reason": "Preserve future inference, not absolute 定然 guarantee."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-209061",
+      "index": 0,
+      "field": "text",
+      "speaker": "奈基德",
+      "old": "难不成是勒鲁日派来的吗？妄图窃取我独创的设计……这些该死的异乡人……！",
+      "new": "难不成是红派派来的吗？妄图窃取我独创的设计……这些该死的异乡人……！",
+      "source_ko": "설마 르루주에서 보낸 건가? 내 독자적인 디자인을 가로채려고… 이 망할 이방인들이…!",
+      "source_en": "It... it can't be...! Were you Rouge spies all along, after my personal designs...? Damned strangers!",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1014",
+      "index": 0,
+      "field": "text",
+      "speaker": "???",
+      "old": "……（默默注视着我，脸上浮现出平缓的微笑，可以明白她对我们抱有善意）",
+      "new": "……（默默地看着我，脸上平静的微笑表明她对我们抱有善意）",
+      "source_ko": "……. (말 없이 나를 바라보고 있다, 얼굴에 잔잔한 미소는, 우리를 우호적으로 생각하고 있음을 알 수 있다)",
+      "source_en": "... (She gazes at me without a word. The serene smile on her face suggests that she regards us favorably.)",
+      "reason": "Natural narration with source evidence, no awkward 平缓的微笑/可以明白."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10141",
+      "index": 3,
+      "field": "text",
+      "speaker": "???",
+      "old": "……（虽未言语，唯有微笑一如既往地浮现在脸上）",
+      "new": "……（没有说话，但脸上依旧带着微笑）",
+      "source_ko": "……. (말은 없지만 미소만큼은 여전히 유지하고 있다)",
+      "source_en": "... (She says nothing more, but her smile lingers still.>",
+      "reason": "Simple observed smile; remove 唯有 and literary verbosity."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10142",
+      "index": 0,
+      "field": "text",
+      "speaker": "???",
+      "old": "……顺着繁星追寻下去的话，终有一日……",
+      "new": "……沿着那颗星走下去，总有一天……",
+      "source_ko": "… 별을 따라가다 보면 언젠가…",
+      "source_en": "... Keep following the star, then someday...",
+      "reason": "EN singular star disambiguates KR 별; avoid invented multiple stars 繁星."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10142",
+      "index": 1,
+      "field": "text",
+      "speaker": "辛克莱",
+      "old": "……繁星……",
+      "new": "……星星……",
+      "source_ko": "…별을…",
+      "source_en": "... Star...",
+      "reason": "Repeat the same star motif rather than a constellation."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10143",
+      "index": 0,
+      "field": "text",
+      "speaker": "???",
+      "old": "……（并未回答。尝试探寻其正身似乎是徒劳之举）",
+      "new": "……（没有回答。看来无法问出她的身份）",
+      "source_ko": "… (답하지 않는다. 정체를 파악하려는 시도는 소용이 없을 것 같다)",
+      "source_en": "(She does not reply. It seems any attempt to uncover her identity will prove futile.)",
+      "reason": "Identity query not mystical 正身; plain narration."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1008",
+      "index": 0,
+      "field": "text",
+      "speaker": "李箱",
+      "old": "正如以实玛利小姐所言，先出去看看较为妥当呢。",
+      "new": "依以实玛利女士所言，还是先出去为好。",
+      "source_ko": "이스마엘 양의 말대로 우선 밖으로 나가는 것이 좋을 것 같소.",
+      "source_en": "It seems wisest to venture outside as Miss Ishmael suggests.",
+      "reason": "Keep Yi Sang respectful tone and normative 女士, avoid archaic plus chatty 呢 mixture."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10086",
+      "index": 0,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "old": "如此高规格的洗手间，吾还是头一次见到！若洗手间尚且如此，外边该有多么华丽啊……管理者大人！咱们快些出发吧！",
+      "new": "如此豪华的盥洗室，吾还是头一次见！盥洗室尚且如此，外面该多么华丽……管理者老爷！快些出发吧！",
+      "source_ko": "이렇게 고급스러운 화장실은 처음 본다네! 화장실이 이 정도라면 바깥은 얼마나 화려할지… 관리자 나리! 어서 나가세나!",
+      "source_en": "Verily, never before have I beheld a privy of such splendor! If the privy alone boasteth such grandeur, what wonders must await beyond... Manager Esquire! Let us sally forth at once!",
+      "reason": "Don 나리 is the established 老爷 honorific, not generic 大人; preserve theatrical energy."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10088",
+      "index": 0,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "以这里为据点，先对周边进行侦察较为妥当，管理者。",
+      "new": "管理者大人，建议先以这里为据点，侦察周边。",
+      "source_ko": "우선 이곳을 거점으로 주변부터 정찰하는 편이 좋을 것 같습니다, 관리자님.",
+      "source_en": "We should establish this location as a forward base and reconnoiter the surrounding area first, Executive Manager.",
+      "reason": "Outis respectful tactical recommendation; restore her role-specific honorific."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1009",
+      "index": 0,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "……出·钟。",
+      "new": "……出·时。",
+      "source_ko": "…나.시.",
+      "source_en": "... G.G., C.H.",
+      "reason": "Both 나갈 시간 and 나가라 시계 share 나시; Chinese 出时 supports 出门时间 and 出门吧时钟."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1009",
+      "index": 2,
+      "field": "text",
+      "speaker": null,
+      "old": "大概是“该出发了”，或者“滚出去吧时钟”……这样的意思吧。",
+      "new": "大概是“出门的时间到了”，或者“出去吧，时钟”……的意思。",
+      "source_ko": "아마도 나갈 시간이다, 아니면 나가라 시계… 겠지.",
+      "source_en": "It's probably \"Gotta Go, Chore Hour.\" or more probably... \"Get Going, Clockhead.\"",
+      "reason": "Match the two expanded meanings to 出时, do not add hostile 滚 absent in source."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10001",
+      "index": 0,
+      "field": "text",
+      "speaker": "李箱",
+      "old": "但丁。虽知情势艰险……但还是及早寻得默尔索君为宜吧。",
+      "new": "但丁。我知道眼下处境艰难……但还是尽快找到默尔索君为好吧。",
+      "source_ko": "단테. 힘든 상황임은 알고 있으나… 뫼르소 군을 서둘러 찾는 편이 좋지 않겠는가.",
+      "source_en": "Dante. I am well aware that circumstances weigh heavily upon us... But ought we not hasten to find Meursault?",
+      "reason": "Keep Yi Sang courteous old-style white speech without excessive 及早寻得情势艰险."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10002",
+      "index": 0,
+      "field": "text",
+      "speaker": "浮士德",
+      "old": "浮士德似乎没有更多需要向您说明的部分了。",
+      "new": "我似乎没有更多需要说明的了。",
+      "source_ko": "제가 더 설명드릴 부분은 없을 것 같군요.",
+      "source_en": "No further explanation from my side is necessary.",
+      "reason": "KR 제가 is first person; do not impose third-person Faust as an absolute rule against source."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10006",
+      "index": 0,
+      "field": "text",
+      "speaker": "辛克莱",
+      "old": "那个……管理者。我们是不是该快点去找默尔索先生了？",
+      "new": "那个……管理者先生。我们是不是该快点找到默尔索先生？",
+      "source_ko": "저… 관리자님. 뫼르소 씨를 빨리 찾아야 하지 않을까요?",
+      "source_en": "Um... Manager... Shouldn't we hurry and start looking for Meursault?",
+      "reason": "Sinclair respectful address per source 관리자님 and role style."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10009",
+      "index": 0,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "若是感到疲惫，稍作休憩亦无妨，管理者。只要您下达命令，我即刻抽调人员……",
+      "new": "累了的话，您可以再休息一会儿，管理者大人。只要您下令，我就抽调人员……",
+      "source_ko": "힘드시다면 더 쉬셔도 괜찮습니다, 관리자님. 명령만 내려주신다면 인원을 차출해…",
+      "source_en": "Please rest more if you remain fatigued, Executive Manager. Give the order, and I, Outis, shall detach a search party and...",
+      "reason": "Outis deference preserved, remove archaic 休憩亦无妨."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10009",
+      "index": 2,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "不愧是管理者。足以成为他人楷模的姿态……",
+      "new": "不愧是管理者大人。这正是他人的榜样……",
+      "source_ko": "역시 관리자님이십니다. 타의 모범이 되는 자세…",
+      "source_en": "As expected of our Executive Manager. You are an example to every unit under your command...",
+      "reason": "Outis praise present in KR, restore honorific without added praise."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10092",
+      "index": 0,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "出·钟？",
+      "new": "出·时？",
+      "source_ko": "나.시?",
+      "source_en": "G.G., C.H.",
+      "reason": "Same double-reading abbreviation as D1009."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D10092",
+      "index": 1,
+      "field": "text",
+      "speaker": null,
+      "old": "是“要出门吗，时钟”……还是“到出门的时间了？”呢……",
+      "new": "是“出门吗，时钟”……还是“出门的时间到了吗”……",
+      "source_ko": "나갈 거냐, 시계일까… 아니면 나갈 시간인가? 일까…",
+      "source_en": "Gotta Go, Chore Hour? Or... Get Going, Clockhead...?",
+      "reason": "Keep both expansions sharing 出时."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1930",
+      "index": 0,
+      "field": "text",
+      "speaker": "李箱",
+      "old": "此处静谧得甚是奇异。休息之室……当真是一处歇息的空间么。",
+      "new": "这里安静得有些奇异。休息之室……当真是供人歇息的地方么。",
+      "source_ko": "이곳은 기이하리만치 조용하구료. 레스트-룸. 그야말로 휴식의 공간인가.",
+      "source_en": "This place is quiet to an uncanny degree. A \"room of rest\"... Truly, a chamber wherein one may rest freely.",
+      "reason": "Preserve restroom/rest room wordplay and Yi Sang reflection without overblown 静谧甚是."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1934",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "似乎正津津有味地倾听着堂吉诃德的高谈阔论。",
+      "new": "似乎正津津有味地听着堂吉诃德讲故事。",
+      "source_ko": "돈키호테의 이야기를 즐겁게 듣고 있는 것 같다.",
+      "source_en": "Hong Lu seems to be listening to whatever story Don Quixote's telling with genuine delight.",
+      "reason": "Remove dismissive 高谈阔论 not supported by 즐겁게 듣고."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1936",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "嘴里说着“绝不会让汝等感到无聊！”，正在热火朝天地讲述着收尾人的故事。",
+      "new": "说着不会让大家无聊，正起劲地讲着收尾人的故事。",
+      "source_ko": "지루하지 않게 해주겠다며, 해결사 이야기를 열심히 말하고 있다.",
+      "source_en": "Don Quixote is recounting the acts and miracles of Fixers animatedly, in an effort to keep everyone's mood alight.",
+      "reason": "Narration paraphrases speech; remove fabricated direct quotation and added exclamation."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1003",
+      "index": 6,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "问得真是理所当然啊。每当遇到这种状况，不顾前后用球棒砸个稀巴烂难道不是你这家伙的特长吗？",
+      "new": "这还用问？每次遇上这种情况，不管三七二十一先拿球棒砸开，不正是你的特长吗？",
+      "source_ko": "당연한 걸 묻는군. 이런 상황이 올 때마다 앞뒤 가리지 않고 방망이로 부수고 보는 게 네놈의 특기 아니었나?",
+      "source_en": "What an absurd question. An obstacle emerges—you and that bat of yours terminate it without any thought given to the risk involved or the tactics available. Isn't that supposed to be your day-to-day doctrine of action?",
+      "reason": "당연한 걸 묻는군 rebukes an obvious question; 问得理所当然 reverses the idiom."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1003",
+      "index": 7,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "不知道里面会潜藏什么，请管理者稍向后退。门就由希斯克利夫，那家伙来处理。",
+      "new": "还不知道里面有什么，管理者大人，请再往后退些。门就交给希斯克利夫处理。",
+      "source_ko": "안에 무엇이 있을지 모르니, 관리자님께서는 좀 더 뒤로 물러나십시오. 문은 히스클리프, 저자가 처리할 겁니다.",
+      "source_en": "The location beyond is yet to be screened, Executive Manager. Please fall back to a defensible distance. Heathcliff shall breach the door and scout ahead.",
+      "reason": "Outis safety instruction; restore honorific and avoid 潜藏 unsupported threat."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1003",
+      "index": 9,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "唔。言之有理。事情就是这样了，管理者。门对面的确认容后再议……",
+      "new": "嗯，有道理。情况就是这样，管理者大人。门后的情况留待之后确认……",
+      "source_ko": "음. 일리가 있군. 그렇게 됐습니다, 관리자님. 문 너머의 확인은 차후에…",
+      "source_en": "Hm. You make a valid point. As the man says, Executive Manager. Reconnaissance beyond this door should be postponed...",
+      "reason": "Outis immediate change of plan, avoid 容后再议 pseudo-classical register."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1005",
+      "index": 1,
+      "field": "text",
+      "speaker": "格里高尔",
+      "old": "为何如此大惊小怪，管理者阁下？",
+      "new": "怎么吓成这样，经理兄？",
+      "source_ko": "왜 그렇게 놀라는 거야, 관리자 양반?",
+      "source_en": "What's got you rattled, Manager Bud?",
+      "reason": "Gregor 관리자 양반 is familiar Manager Bud, not formal 管理者阁下 or criticism 大惊小怪."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1006",
+      "index": 0,
+      "field": "text",
+      "speaker": "希斯克利夫",
+      "old": "时钟脑壳！光盯着洗手间的门看能有什么变化啊？",
+      "new": "钟表头！光盯着盥洗室的门看，能有什么变化？",
+      "source_ko": "시계 대가리! 화장실 문만 들여다보면 뭐가 달라지냐?",
+      "source_en": "Enough, Clockhead! What d'you reckon gawping inside those toilet stalls is going to do?",
+      "reason": "Heathcliff 시계 대가리 matches established 钟表头."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1006",
+      "index": 1,
+      "field": "text",
+      "speaker": "奥提斯",
+      "old": "管理者这是在更加仔细地搜寻！因为其中说不定混杂着至关重要的线索！",
+      "new": "管理者大人是在仔细检查！说不定藏着什么重要线索！",
+      "source_ko": "관리자님은 더 꼼꼼하게 살피시려는 거다! 중요한 힌트라도 섞여있을지도 모르니!",
+      "source_en": "The Executive Manager is executing a methodical search pattern! Even these fixtures may conceal hints of intelligence decisive to the operation!",
+      "reason": "Retain Outis praise/defense, restore honorific and remove mixed 混杂."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1006",
+      "index": 2,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "呼……那种东西本名侦探在进门时便已经全部审视过了。这间洗手间已经没有什么值得看的东西了。钟·头。",
+      "new": "呼……本名侦探进门时就看过了。这间盥洗室没什么可看的了，钟·头。",
+      "source_ko": "후… 그건 이미 이 명탐정의 눈으로 들어올 때부터 살펴보았다. 이 화장실엔 더 이상 볼 게 없어. 시. 대.",
+      "source_en": "*puff* This master detective inspected this entire restroom the moment we entered. There is nothing left to see, C.H.",
+      "reason": "Keep the source master-detective joke, shorten invented elevated 审视全部."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D1007",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "门紧闭着的洗手间。",
+      "new": "门关着的盥洗室隔间。",
+      "source_ko": "문이 닫힌 화장실이다.",
+      "source_en": "A stall with a closed door.",
+      "reason": "Context inspecting restroom stalls; EN stall clarifies closed unit rather than whole restroom."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D91002_A",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "一个孩子在■散落成了水。",
+      "new": "一个孩子从■散落而下，化成了水。",
+      "source_ko": "한 아이가 ■에서 물로 흩어져 내렸다.",
+      "source_en": "Once, a child descended from a ■■■■ and rained down as water.",
+      "reason": "Restore 출발점 ■에서 and downward 내렸다, not merely occurring 在■."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D91020_A",
+      "index": 3,
+      "field": "text",
+      "speaker": null,
+      "old": "若真如此，便不仅能够治疗我所诞生的■■，更能治疗这座都市那深入骨髓的痛苦。",
+      "new": "若真如此，不仅能治疗我出生的■■，也能治疗这座都市深重的痛苦。",
+      "source_ko": "그렇다면 내가 태어난 ■■ 뿐만 아니라, 이 도시의 지독한 고통을 치료할 수 있다.",
+      "source_en": "If so, it may be possible to heal not only ■ ■■■■., where I was born, but also the terrible suffering that has enveloped the City itself.",
+      "reason": "Keep terrible suffering without invented bodily metaphor 深入骨髓."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D90005",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于雷诺阿之人的尸体。似乎唯有留存下的帽子在诉说着死者生前的阶级。",
+      "new": "隶属于黑派之人的尸体。似乎唯有留存下的帽子在诉说着死者生前的阶级。",
+      "source_ko": "르누아르에 속해있던 자의 시체다. 남겨진 모자만이 생전 이자의 계급을 말해주는 것 같다.",
+      "source_en": "The corpse of a Noir. The only remaining proof of their existence is this abandoned hat, signifying their rank.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D90007",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于雷诺阿之人的尸体。厚重的布料甚至连鲜血都无法渗透。",
+      "new": "隶属于黑派之人的尸体。厚重的布料甚至连鲜血都无法渗透。",
+      "source_ko": "르누아르에 속해있던 자의 시체다. 두터운 원단엔 피조차 스며들지 못한다.",
+      "source_en": "The corpse of a Noir. The fabric used to weave their clothing is so thick that not even blood seeps into it.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D3901",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于雷诺阿之人的尸体。被鲜血浸透的衣衫正缓缓褪变为黑红之色。",
+      "new": "隶属于黑派之人的尸体。被鲜血浸透的衣衫正缓缓褪变为黑红之色。",
+      "source_ko": "르누아르에 속해있던 자의 시체다. 피로 흠뻑 젖은 옷이 서서히 검붉은 색으로 변해가고 있다.",
+      "source_en": "The corpse of a Noir. Blood seeps into the black suit, turning it dark crimson.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "key": "D3903",
+      "index": 0,
+      "field": "text",
+      "speaker": null,
+      "old": "隶属于勒鲁日之人的尸体。曾蠕动着的血管停歇了律动，正渐渐干瘪萎缩。",
+      "new": "隶属于红派之人的尸体。曾蠕动着的血管停歇了律动，正渐渐干瘪萎缩。",
+      "source_ko": "르루주에 속해있던 자의 시체다. 꿈틀거리던 혈관들이 움직임을 멈춘 채, 서서히 말라붙고 있다.",
+      "source_en": "The corpse of a Rouge. Their veins have stopped writhing, turning dry and grey.",
+      "reason": "Source-confirmed faction name follows explicit user terminology."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "key": "D999999",
+      "index": 17,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "回答您的问题，罪人们不记得的理由是因为我们“回来了”。",
+      "new": "回答您的问题：罪人们不记得，是因为我们“回来了”。",
+      "source_ko": "물음에 답하자면, 수감자들이 기억하지 못하는 이유는 돌아왔기 때문입니다.",
+      "source_en": "To answer your question, the reason the other Sinners have no memory of what occurred is because we were \"returned.\"",
+      "reason": "Avoid redundant 理由是因为; retain causal reset explanation."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "key": "D999999",
+      "index": 20,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "这通常是绝大多数存在无法察觉的现象，但我和管理者似乎属于例外。",
+      "new": "大多数存在无法察觉这一现象，但我和管理者似乎是例外。",
+      "source_ko": "이는 대부분의 존재가 인식할 수 없는 현상입니다만, 저와 관리자님은 예외인 것 같군요.",
+      "source_en": "This appears to be a phenomenon that most are incapable of perceiving. You and I, however, appear to be exceptions.",
+      "reason": "Preserve qualified exception; no unnecessary 通常 widening."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "key": "D999998",
+      "index": 4,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "……虽然并非那种性质，但若这般理解亦无妨。",
+      "new": "……虽然不同，但这样理解也无妨。",
+      "source_ko": "…그것과는 다르지만, 그렇게 이해해도 무관하다.",
+      "source_en": "... That would be an inaccurate classification. However, if it aids your understanding, there is no practical issue with regarding it as such.",
+      "reason": "Plain Meursault response, not 若这般理解亦无妨."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221301",
+      "index": 1,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "……地上掉着没·用·的……哈。是那家伙落下的吗？",
+      "new": "……地上掉着没·用的“噗哈哈”。是那家伙落下的吗？",
+      "source_ko": "…바닥에 쓸.없.파하하가 떨어져있군. 그놈이 흘리고 갔나?",
+      "source_en": "Worthless B.S. on the floor. Did that woman drop it?",
+      "reason": "KR 쓸.없.파하하 includes the item name 파하하, item I990922/displayName=噗哈哈; old translation dropped the collectible name and treated it as laughter."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221414",
+      "index": 1,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "打算把它解·成·丝吗？",
+      "new": "想要丝·解吗？",
+      "source_ko": "실. 분. 을 노리는 건가?",
+      "source_en": "You want it S.I.T.?",
+      "reason": "Match the nested acronym in the later remembered 神·丝·解, preserving reuse as evidence for Meursault memory explanation."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D20221414",
+      "index": 2,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "她是在问您是否想要将其分解为丝线，管理者。",
+      "new": "她是在问，您是否想把它化为丝线、分解开来，管理者。",
+      "source_ko": "실로 분해되는 것을 노리고 있지 않은지 묻고 있습니다, 관리자님.",
+      "source_en": "She is asking whether your objective is to have the skin \"split into threads,\" Manager.",
+      "reason": "Match abbreviated 丝解 to the explanation without changing the object or action."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2803",
+      "index": 6,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "呼……时·让。",
+      "new": "呼……时·移。",
+      "source_ko": "후우… 시. 비.",
+      "source_en": "*puff* T.M.",
+      "reason": "Preserve shared acronym: 시.비 can mean 시계 비켜 or 시간이 비틀렸나; 时移 can be expanded to 时钟移开 or 时间错移."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2803",
+      "index": 7,
+      "field": "text",
+      "speaker": "默尔索",
+      "old": "该缩写曾被用来表示“时钟，让开”，管理者。",
+      "new": "该缩写曾表示“时钟，移开”，管理者。",
+      "source_ko": "시계, 비켜… 라는 의미로 쓰인 적이 있습니다, 관리자님.",
+      "source_en": "That acronym has been used to convey \"Timepiece, Move,\" Manager.",
+      "reason": "The remembered old expansion must share both Chinese acronym characters."
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "key": "D-2803",
+      "index": 9,
+      "field": "text",
+      "speaker": "良秀",
+      "old": "啧。我是指“时间被扭曲了吗”。",
+      "new": "啧。我是说，“时间错移了吗”。",
+      "source_ko": "쯧. 시간이 비틀렸나, 라는 뜻이다.",
+      "source_en": "Tsk. I meant \"time manipulated.\"",
+      "reason": "The new expansion describes temporal displacement, preserving the clue to the subsequent reset realization. Translation tradeoff: 错移 expresses warped temporal order rather than literal twisting."
+    }
+  ],
+  "coverage": [
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "dialogue_groups": 44,
+      "body_fields_reviewed": 222,
+      "all_body_fields_reviewed": true
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "dialogue_groups": 128,
+      "body_fields_reviewed": 436,
+      "all_body_fields_reviewed": true
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "dialogue_groups": 77,
+      "body_fields_reviewed": 174,
+      "all_body_fields_reviewed": true
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "dialogue_groups": 2,
+      "body_fields_reviewed": 39,
+      "all_body_fields_reviewed": true
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-theater.json",
+      "dialogue_groups": 1,
+      "body_fields_reviewed": 1,
+      "all_body_fields_reviewed": true
+    }
+  ],
+  "validation": [
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "fatal": 0,
+      "error": 0,
+      "warning": 0,
+      "passed": true,
+      "structure_and_identifiers_unchanged": true,
+      "sha256": "435fc741d6b6c1e495ec2759af077f1904a08a8b2fc57691946aefae8e6dc7b3"
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "fatal": 0,
+      "error": 0,
+      "warning": 0,
+      "passed": true,
+      "structure_and_identifiers_unchanged": true,
+      "sha256": "1bc893a569ce3caf70f1bf016e1e91e6cf2cfbb3b97f6e753fdd41b41575233a"
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "fatal": 0,
+      "error": 0,
+      "warning": 0,
+      "passed": true,
+      "structure_and_identifiers_unchanged": true,
+      "sha256": "317a2b41c2a3fde0e8cb083bd61fa02f72e0678bfb973d3bc6869ce1867a27a8"
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "fatal": 0,
+      "error": 0,
+      "warning": 0,
+      "passed": true,
+      "structure_and_identifiers_unchanged": true,
+      "sha256": "090ccf859c19c451767663b60ef26d17bb3aa4a67aeb9bf79b571e9e3bbbebbb"
+    },
+    {
+      "path": "RPGSystem/rpg-loc-dialogue-theater.json",
+      "fatal": 0,
+      "error": 0,
+      "warning": 0,
+      "passed": true,
+      "structure_and_identifiers_unchanged": true,
+      "sha256": "287206988eb0306b0422c5c08ec97ad5833fa41fc73cf2f88410eec3202947a3"
+    }
+  ],
+  "backup_root": "backups/faction-terminology-20260918/rpg-combat/RPGSystem",
+  "total_body_fields_reviewed": 872,
+  "research_read": [
+    "docs/reports/meursault_research_1_camus_archetype.md",
+    "docs/reports/meursault_research_2_official_pv_and_settings.md",
+    "docs/reports/meursault_research_3_canto10_lore_and_localization_audit.md"
+  ],
+  "style_sources_read": [
+    "docs/reports/sinners/01_yi_sang.md",
+    "docs/reports/sinners/02_faust.md",
+    "docs/reports/sinners/03_don_quixote.md",
+    "docs/reports/sinners/04_ryoshu.md",
+    "docs/reports/sinners/05_meursault.md",
+    "docs/reports/sinners/06_hong_lu.md",
+    "docs/reports/sinners/07_heathcliff.md",
+    "docs/reports/sinners/08_ishmael.md",
+    "docs/reports/sinners/09_rodion.md",
+    "docs/reports/sinners/10_sinclair.md",
+    "docs/reports/sinners/11_outis.md",
+    "docs/reports/sinners/12_gregor.md",
+    "docs/reports/sinners/13_dante.md",
+    "docs/reports/sinners/14_vergilius.md",
+    "docs/reports/sinners/15_charon.md",
+    "docs/reports/observation/obs_faust.md",
+    "docs/reports/observation/obs_meursault.md",
+    "docs/reports/observation/obs_outis.md",
+    "docs/reports/observation/obs_overview_and_nicknames.md",
+    "docs/reports/observation/obs_yi_sang.md"
+  ],
+  "topic_mapping": [
+    {
+      "research": "DOC-RES-01 §1 absurdity, suicide and clear-eyed revolt",
+      "scenes": [
+        "route-a D999998:1-10",
+        "route-a D999999:17-23",
+        "floor-2 D20091:9-23"
+      ],
+      "decision": "Preserve the practical return/death mechanism and explicit freedom of judgment. Do not insert an anti-suicide moral judgment or claim every death resets time: source distinguishes returning after death from choice-triggered resets."
+    },
+    {
+      "research": "DOC-RES-01 §2 mother, sensory violence, judgment and emotional outbreak",
+      "scenes": [
+        "floor-2 D2014:0-7",
+        "floor-2 D2030:0-6",
+        "floor-2 D2031:0-14",
+        "common D9006/D9007"
+      ],
+      "decision": "Mother-associated voice and dying-child lullaby remain compassionate/disturbing as in source. 자라 is disambiguated by EN and adjacent lullaby, not assumed always growth. No invented beach, murder confession or reconciliation with the world."
+    },
+    {
+      "research": "DOC-RES-01 §3 Sisyphus cycle and §4 revolt/deicide",
+      "scenes": [
+        "route-a D999999",
+        "route-a D999998",
+        "floor-2 D2020",
+        "floor-2 D20201",
+        "floor-2 D2016",
+        "floor-2 D2031"
+      ],
+      "decision": "Keep reset as source explanation with seems/probably intact; preserve chain-bound choices, Golden Nail/cradle action, and uncertain consequence of eternal store. Do not declare a completed philosophical awakening from the research alone."
+    },
+    {
+      "research": "DOC-RES-02 §1 settings, obedience, mechanical memory",
+      "scenes": [
+        "floor-b2 D-2000-3:7-11",
+        "floor-b2 D20221414:2-5",
+        "floor-b2 D-2801:3-4",
+        "floor-b2 D-2803:6-9"
+      ],
+      "decision": "Meursault repeats memorized explanations but cannot decipher new acronyms. Ensure Chinese abbreviations match both the old and the new expansions. Preserve first-person answers and contextual uncertainty."
+    },
+    {
+      "research": "DOC-RES-02 §2 PV history and §3 EGO philosophy",
+      "scenes": [
+        "route-a D999999:23",
+        "floor-2 D2016",
+        "common D91001_A through D91021_A"
+      ],
+      "decision": "Only the explicit chain, nail, tree/mind/light imagery is preserved. The five files contain no direct Capote/Regret/Screwloose/Chains-of-Others description or PV quotation; no corresponding named EGO or literary allusion is inserted."
+    },
+    {
+      "research": "DOC-RES-02 §4 voice rules; sinners and observation reports",
+      "scenes": [
+        "floor-2 D2006:1",
+        "floor-2 D2020:23",
+        "common D1005:1",
+        "common D10086:0",
+        "common D10002:0",
+        "floor-2 D20091:25"
+      ],
+      "decision": "Simplify inflated Meursault prose, restore Gregor familiarity and Don knight honorific. Reject absolute no-I/no-emotion prescriptions where KR speaks in first person or anticipates Jeanne sadness. Observation-log bullets/closing formulas do not apply to spoken RPG dialogue."
+    },
+    {
+      "research": "DOC-RES-03 §1 Punctum, gaze and mother motifs",
+      "scenes": [
+        "common D91004_A:7-8",
+        "common D9006/D9007",
+        "floor-2 D2020:21-27",
+        "floor-2 D2014:0-7"
+      ],
+      "decision": "Preserve direct gaze/light imagery; keep censored squares exactly and do not decode them from speculative literary associations. No explicit Studium/Punctum term in these scenes, so none added."
+    },
+    {
+      "research": "DOC-RES-03 §2 symbolic space, commodification, giants, cycles and finale",
+      "scenes": [
+        "floor-2 D2002:9-18",
+        "floor-2 D2011/D20111",
+        "common D_VIPUP_AMETHYST",
+        "floor-b2 D-2009-1 through D-2011-1",
+        "floor-b2 D-2803",
+        "route-a D999998"
+      ],
+      "decision": "Keep retail status/body-as-material and false-god cradle imagery. Dye trick remains initially opaque; LIncolore stays transliterated until the source reveals it is colorless. Practical reset and symbolic subject remain factual source-based explanations."
+    },
+    {
+      "research": "DOC-RES-03 §3 terminology audit and §4 summary/§5 delivery",
+      "scenes": [
+        "floor-b2 D-2002-3:7-12",
+        "floor-b2 D-2000-4",
+        "floor-2 D20091:25",
+        "all five files faction name fields"
+      ],
+      "decision": "Keep 让娜/玛普丝, preserve source 克罗默 as spoken even when identifying the sister; source speaker labels retain 克罗默姐姐 where KR says so. User overrides old faction terms with 红派/黑派. No Mimosa or shoe-rank conflict occurs in this five-file body scope; those are not artificially introduced."
+    }
+  ],
+  "conflict_evidence": [
+    {
+      "source": "floor-2 D20091:25",
+      "ko": "잔느가 슬퍼하겠군.",
+      "decision": "Translate Jeanne will be saddened; do not strip the meaning based on research no-emotion rule."
+    },
+    {
+      "source": "common D10002:0",
+      "ko": "제가 더 설명드릴 부분은 없을 것 같군요.",
+      "decision": "Keep first-person 我; research third-person-only rule conflicts with 제가."
+    },
+    {
+      "source": "floor-b2 D-2002-3:7",
+      "ko": "크로머.",
+      "decision": "Keep 克罗默, not automatically 克罗默姐姐 based on research §3.2."
+    },
+    {
+      "source": "floor-2 D2020 and D20121",
+      "decision": "KR archaic/religious verb forms and EN biblical register support elevated wording here; reducing all characters to plain speech would erase an intentional distinction."
+    },
+    {
+      "source": "floor-b2 D-2010-1:20-23",
+      "ko": "오, 물. / 오물이라고 / 오, 물은 아니군 / 기름계 염료",
+      "decision": "误水/污水 functional near-homophone avoids introducing an anhydrous chemistry claim; records an explicit transcreation tradeoff."
+    },
+    {
+      "source": "floor-b2 D-2803:6-9",
+      "ko": "시. 비. / 시계, 비켜 / 시간이 비틀렸나",
+      "decision": "时移 reused for moving the clock aside and temporal displacement; the ambiguity is essential to the reset realization."
+    },
+    {
+      "source": "common D91001_A through D91021_A",
+      "decision": "Masked words remain masked, all KR counts retained (ten fruits, three domains); no imported theory fills missing information."
+    }
+  ],
+  "cross_scope_findings": [
+    {
+      "source": "RPGSystem/rpg-loc-item-common-a1c10p1.json I992806",
+      "ko_name": "깊은 바다 염료",
+      "en_name": "Deep-sea Dye",
+      "decision": "Item is Deep-sea Dye, not 무색염료. Quest descriptions that use 无色染料 for 랭콜로르 should follow dialogue 兰科洛尔 to preserve the delayed reveal; parent owns those files.",
+      "resolved_by": "cross_file_followup"
+    },
+    {
+      "source": "RPGSystem/rpg-loc-location-floor-b2.json",
+      "decision": "Location uses 线绞巢穴, dialogue currently uses 线团巢穴. Parent should settle cross-surface proper-name standard; this review has preserved the dialogue form pending coordination.",
+      "resolved_by": "cross_file_followup"
+    }
+  ],
+  "limits": [
+    "This is a full review of the 872 body fields in the five listed files, not all RPG dialogue or all workspace prose.",
+    "Literary/historical research is treated as context, not independently verified factual authority.",
+    "No game launch, deployment or runtime text rendering performed."
+  ],
+  "stopped_writing": true,
+  "cross_file_followup": {
+    "scope": "Only B2 quest/location naming and one EN-explicit Palette pronoun in same edited quest field. No dialogue, item or Story display-name changes.",
+    "changes": [
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2001",
+        "field": [
+          "title"
+        ],
+        "old": "前往线绞巢穴",
+        "new": "前往线团巢穴",
+        "kr": "타래둥지로 향하기",
+        "en": "Head to the Skein Nest",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2001",
+        "field": [
+          "description"
+        ],
+        "old": "下到了地下2层。从克罗默的姐姐那里，听说了名为线绞巢穴的地方。朝左边走吧。",
+        "new": "下到了地下2层。从克罗默姐姐那里，听说了名为线团巢穴的地方。朝左边走吧。",
+        "kr": "지하 2층으로 내려왔다. 크로머의 언니로부터 타래둥지라는 곳에 대한 이야기를 들었다. 왼쪽으로 가보자.",
+        "en": "We've made it down to B2F. Kromer's older sister mentioned a place called the Skein Nest. Let's head to the left.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2001",
+        "field": [
+          "steps",
+          0,
+          "goalDescription1"
+        ],
+        "old": "前往位于左侧的线绞巢穴",
+        "new": "前往位于左侧的线团巢穴",
+        "kr": "왼쪽에 있는 타래둥지로 향하기",
+        "en": "Head to the Skein Nest to the Left",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2002",
+        "field": [
+          "description"
+        ],
+        "old": "前往线绞巢穴时，一个来历不明的巨大怪物追上来，杀死了我们。似乎是因为我们随身带着的黄金茧。先离开盥洗室，寻找解决办法吧。",
+        "new": "前往线团巢穴时，一个来历不明的巨大怪物追上来，杀死了我们。似乎是因为我们随身带着的黄金茧。先离开盥洗室，寻找解决办法吧。",
+        "kr": "타래둥지로 향했지만 정체불명의 거대한 괴물이 쫓아와 우리를 죽였다. 우리가 갖고 다니는 황금고치 때문인 것 같았다. 일단 화장실을 나와 방법을 찾아보자.",
+        "en": "We tried to reach the Skein Nest, but a massive monster chased us down and killed us. It seemed to be after the Golden Cocoon we're carrying. For now, let's leave the Restroom and figure out another way through.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2003",
+        "field": [
+          "title"
+        ],
+        "old": "前往线绞巢穴 2",
+        "new": "前往线团巢穴 2",
+        "kr": "타래둥지로 향하기 2",
+        "en": "Head to the Skein Nest (2)",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2003",
+        "field": [
+          "description"
+        ],
+        "old": "幸好，怪物似乎暂时离开了。趁这个机会，再去一次线绞巢穴吧。",
+        "new": "幸好，怪物似乎暂时离开了。趁这个机会，再去一次线团巢穴吧。",
+        "kr": "다행히도 괴물은 잠깐 자리를 비운 것 같다. 이 틈을 타서 다시 한 번 타래둥지로 가보자.",
+        "en": "Looks like the monster has stepped away for the moment. Let's use this chance to make another run for the Skein Nest.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2003",
+        "field": [
+          "steps",
+          0,
+          "goalDescription1"
+        ],
+        "old": "再次前往线绞巢穴",
+        "new": "再次前往线团巢穴",
+        "kr": "타래둥지로 다시 향하기",
+        "en": "Head Back to the Skein Nest",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2004",
+        "field": [
+          "description"
+        ],
+        "old": "顺利抵达了线绞巢穴。看见了地下2层的楼层经理。问问他能否用黄金茧制作黄金线团吧。",
+        "new": "顺利抵达了线团巢穴。看见了地下2层的楼层经理。问问他能否用黄金茧制作黄金线团吧。",
+        "kr": "타래둥지로 무사히 향했다. 지하 2층의 플로어 매니저가 보인다. 그자에게 황금고치로부터 황금 실타래를 만들 수 있는지를 물어보자.",
+        "en": "We made it safely to the Skein Nest. B2F's Floor Manager is here. Let's ask whether the Golden Cocoon can be spun into Golden Thread.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2008",
+        "field": [
+          "description"
+        ],
+        "old": "向在线绞巢穴前排长队的顾客们打探深海染料的情报。",
+        "new": "向在线团巢穴前排长队的顾客们打探深海染料的情报。",
+        "kr": "타래둥지에 줄 서 있는 사람들에게 깊은 바다 염료에 대해 물어보자.",
+        "en": "",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2009",
+        "field": [
+          "title"
+        ],
+        "old": "询问调色盘能否取得无色染料",
+        "new": "询问调色盘能否取得兰科洛尔",
+        "kr": "팔레트에게 랭콜로르 염료를 얻을 수 있냐고 부탁하기",
+        "en": "Ask Palette for L'Incolore Dye",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2009",
+        "field": [
+          "description"
+        ],
+        "old": "奈基德似乎不肯轻易交出黄金染料。他说，如果找来一种叫无色染料的染料，就愿意拿黄金染料交换。返回调色盘身边，问问能否取得无色染料吧。",
+        "new": "奈基德似乎不肯轻易交出黄金染料。他说，如果找来一种叫兰科洛尔的染料，就愿意拿黄金染料交换。返回调色盘身边，问问能否取得兰科洛尔吧。",
+        "kr": "네이키드는 순순히 황금염료를 넘기지 않으려는 모양이다. 대신에 랭콜로르라는 염료를 가지고 온다면 황금염료와 바꿔준다고 한다. 팔레트에게 돌아가 랭콜로르를 얻을 수 있는지 물어보자.",
+        "en": "Naked has no intention of giving up the Golden Dye for free. He'll trade it for a dye called L'Incolore instead. Let's return to Palette and ask if she can make some.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2009",
+        "field": [
+          "steps",
+          0,
+          "goalDescription1"
+        ],
+        "old": "询问调色盘能否取得无色染料",
+        "new": "询问调色盘能否取得兰科洛尔",
+        "kr": "팔레트에게 랭콜로르 염료를 얻을 수 있냐고 부탁하기",
+        "en": "Ask Palette for L'Incolore Dye",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2010",
+        "field": [
+          "description"
+        ],
+        "old": "幸好，调色盘说可以立刻制作无色染料。但他要求我们按颜色分别击破泪滴。这些泪滴似乎就在右侧的染色仓库里。收集黄色、红色、蓝色染料各2份，交给调色盘吧。",
+        "new": "幸好，调色盘说可以立刻制作兰科洛尔。但她要求我们按颜色分别击破泪滴。这些泪滴似乎就在右侧的染色仓库里。收集黄色、红色、蓝色染料各2份，交给调色盘吧。",
+        "kr": "다행히도 팔레트는 랭콜로르를 바로 만들어줄 수 있다고 한다. 대신에 눈물을 색깔별로 터뜨려 달라고 한다. 눈물들은 오른쪽에 있는 염색창고에서부터 얻을 수 있는 것 같다. 노란 염료, 빨간 염료, 파란 염료를 각각 2개씩 모아서 팔레트에게 가져가자.",
+        "en": "Luckily, Palette says she can make L'Incolore right away. In exchange, she wants us to burst Tears of different colors. They can apparently be found in the Dye Storage to the right. Collect 2 Yellow, 2 Red, and 2 Blue Dye, then bring them back to Palette.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2011",
+        "field": [
+          "description"
+        ],
+        "old": "从调色盘那里取得了无色染料。虽然在我眼里看不出任何颜色……总之先拿给奈基德，问问能否换到黄金染料吧。",
+        "new": "从调色盘那里取得了兰科洛尔。虽然在我眼里看不出任何颜色……总之先拿给奈基德，问问能否换到黄金染料吧。",
+        "kr": "팔레트로부터 랭콜로르 염료를 얻었다. 내 눈에는 어떤 색도 보이지 않지만… 일단 네이키드에게 가져가서 황금염료와 교환할 수 있을지를 물어보자.",
+        "en": "Palette gave us the L'Incolore. I can't see any color in it at all, but... let's bring it to Naked and see if he'll trade us the Golden Dye.",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "key": "Q-2011",
+        "field": [
+          "steps",
+          0,
+          "goalDescription1"
+        ],
+        "old": "找奈基德用无色染料置换黄金染料",
+        "new": "找奈基德用兰科洛尔置换黄金染料",
+        "kr": "네이키드에게 가서 황금염료와 랭콜로르를 교환하기",
+        "en": "Trade L'Incolore for Golden Dye with Naked",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-location-floor-b2.json",
+        "key": "220200",
+        "field": [
+          "text"
+        ],
+        "old": "线绞巢穴",
+        "new": "线团巢穴",
+        "kr": "타래둥지",
+        "en": "Skein Nest",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      },
+      {
+        "file": "RPGSystem/rpg-loc-location-floor-b2.json",
+        "key": "221500",
+        "field": [
+          "text"
+        ],
+        "old": "线绞巢穴走廊",
+        "new": "线团巢穴走廊",
+        "kr": "타래둥지 복도",
+        "en": "Skein Nest Corridor",
+        "basis": "Source proper-name identity; Palette gender is explicitly she in EN for Q-2010."
+      }
+    ],
+    "validation": [
+      {
+        "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+        "backup": "backups/faction-terminology-20260918/rpg-combat-followup/RPGSystem/rpg-loc-quest-floor-b2.json",
+        "before_sha256": "8f9026c328bff5c4a5d748c9e24cfbef8e2b784ea44bdefe67c6bb15f4241997",
+        "after_sha256": "c845b6d8fc39ad0a1c3d7655f273f7f80cd9113b87446c34e80587c114436bca",
+        "string_paths_and_ids_preserved": true,
+        "lint": {
+          "fatal": 0,
+          "error": 0,
+          "warn": 0
+        }
+      },
+      {
+        "file": "RPGSystem/rpg-loc-location-floor-b2.json",
+        "backup": "backups/faction-terminology-20260918/rpg-combat-followup/RPGSystem/rpg-loc-location-floor-b2.json",
+        "before_sha256": "ed71f9376f5038940bd85831df723045039c0de86c1c5d33cade271c3ad5199b",
+        "after_sha256": "b6a998d1b86ecf413d8f4925ce3d8d3bb63636e5f3620dd60ad0c8bd80f68cd1",
+        "string_paths_and_ids_preserved": true,
+        "lint": {
+          "fatal": 0,
+          "error": 0,
+          "warn": 0
+        }
+      }
+    ],
+    "decisions": [
+      "타래둥지 / Skein Nest is the source name shared by dialogue, locations and quests; unified as 线团巢穴.",
+      "랭콜로르 / L'Incolore remains 兰科洛尔 before dialogue reveals its nature.",
+      "I992806 깊은 바다 염료 / Deep-sea Dye remains 深海染料.",
+      "Q-2001 크로머의 언니 refers to the same NPC; use 克罗默姐姐. Q1012 explicitly says 친언니 and its 克罗默的亲姐姐 is preserved."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+# Backups & Archives
+backups/
+dist/
+references/LLC-2026090501*
+.LLC-verified-*
+
+# Agent / Tool state
+.agents/
+.mimosa/
+.v2c/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Large generated lint/coverage dumps (>5MB)
+docs/reports/*-lint*.json
+docs/reports/*-release-check*.json
+docs/reports/final-polish-release-check.json
+docs/reports/takeover-coverage.json
+docs/reports/*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

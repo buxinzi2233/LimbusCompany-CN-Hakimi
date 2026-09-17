@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-09-17T13:32:24.456026+00:00",
+  "client_build": "25345468",
+  "baseline_commit": "231a8bcfc347273e7769b70ebc4f9f3e2fecaa5a",
+  "baseline_kr": "/home/buxinzi/Documents/巴士汉化-哈基米版/references/baseline-KR",
+  "baseline_zh": "/home/buxinzi/Documents/巴士汉化-哈基米版/references/baseline-zh-CN",
+  "official_release_tag": "2026090501",
+  "official_release_archive_sha256": "01622aa3a607b0d10e5daba7bb4110c0c47b408cbe03780c05c6c51fb52f9ce6",
+  "backup": "/home/buxinzi/Documents/巴士汉化-哈基米版/backups/20260917-204256",
+  "backup_manifest_sha256": "bedd60775a7827e57f4ec264d44d2a642e85d39b9dd3fa80c658a849bc67059b",
+  "scope": "All additions and changes in installed Korean resources versus frozen baseline; legacy Chinese only for delivery blockers."
+}

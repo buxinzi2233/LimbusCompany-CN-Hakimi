@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "N202031",
+      "displayName": "红针怪"
+    },
+    {
+      "key": "N202031Alt",
+      "displayName": "红针怪"
+    },
+    {
+      "key": "N202032",
+      "displayName": "绿针怪"
+    },
+    {
+      "key": "N112001",
+      "displayName": "溃烂的黄泪"
+    },
+    {
+      "key": "N112002",
+      "displayName": "化脓的红泪"
+    },
+    {
+      "key": "N112003",
+      "displayName": "溢出的蓝泪"
+    },
+    {
+      "key": "N202034",
+      "displayName": "黑线"
+    }
+  ]
+}

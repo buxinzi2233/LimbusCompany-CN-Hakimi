@@ -1,0 +1,1275 @@
+{
+  "李箱": {
+    "total_lines": 1940,
+    "story_line_count": 1559,
+    "voice_line_count": 381,
+    "top_pronouns": {
+      "我": 489,
+      "女士": 68,
+      "浮士德": 30,
+      "小姐": 7
+    },
+    "top_endings": {
+      "。": 897,
+      "…": 426,
+      "？": 180
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/SDUMMY.json",
+        "id": 0,
+        "teller": "[이상]",
+        "text": "此为伪文件。"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 30,
+        "teller": "[이상다침]",
+        "text": "……与那些散落的玩具包装纸无异吗。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 11,
+        "teller": "[이상]",
+        "text": "此处是……"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 13,
+        "teller": "[이상]",
+        "text": "蜘蛛巢，并无其名所示的阴森恐怖……倒像是巢中超市亦或仓库。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 16,
+        "teller": "[이상]",
+        "text": "所谓玩具，即唯有亲自玩耍，方才拥有其意义之物。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 17,
+        "teller": "[이상]",
+        "text": "然而为何……竟连包装都未拆开就堆放在此。如此一来，连欣赏的意义都显得淡薄了。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 39,
+        "teller": "[이상]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 49,
+        "teller": "[이상]",
+        "text": "抵达此地，并无分毫巧合。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Yisang_Wcorp_10106.json",
+        "id": "get_10106_1",
+        "teller": "李箱人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Yisang_Wcorp_10106.json",
+        "id": "lobby_morning_10106_1",
+        "teller": "李箱人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Yisang_Wcorp_10106.json",
+        "id": "lobby_noon_10106_1",
+        "teller": "李箱人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Yisang_Wcorp_10106.json",
+        "id": "lobby_night_10106_1",
+        "teller": "李箱人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "浮士德": {
+    "total_lines": 2981,
+    "story_line_count": 2599,
+    "voice_line_count": 382,
+    "top_pronouns": {
+      "我": 583,
+      "浮士德": 204,
+      "先生": 73,
+      "小姐": 55
+    },
+    "top_endings": {
+      "。": 2030,
+      "…": 370,
+      "？": 101
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/SDUMMY.json",
+        "id": 1,
+        "teller": "[파우스트]",
+        "text": "为什么会出现伪文件？"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 32,
+        "teller": "[파우스트]",
+        "text": "所谓纠缠……"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 33,
+        "teller": "[파우스트]",
+        "text": "是超越空间和距离，乃至观念的关系。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 34,
+        "teller": "[파우스트]",
+        "text": "所以，只要还有纠缠着的一方存在，任何事物都无法完全消失。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 35,
+        "teller": "[파우스트]",
+        "text": "只要那些事物的痕迹还在都市中徘徊……总有一天……"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 36,
+        "teller": "[파우스트]",
+        "text": "它们会再度显现。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 38,
+        "teller": "[파우스트]",
+        "text": "是的，只要刀鞘还存在……"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 68,
+        "teller": "冷静又聪慧的浮士德",
+        "text": "……很久没有用语音进行交流了。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Faust_Zwei_10205.json",
+        "id": "get_10205_1",
+        "teller": "浮士德人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Faust_Zwei_10205.json",
+        "id": "lobby_morning_10205_1",
+        "teller": "浮士德人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Faust_Zwei_10205.json",
+        "id": "lobby_noon_10205_1",
+        "teller": "浮士德人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Faust_Zwei_10205.json",
+        "id": "lobby_night_10205_1",
+        "teller": "浮士德人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "堂吉诃德": {
+    "total_lines": 2061,
+    "story_line_count": 1722,
+    "voice_line_count": 339,
+    "top_pronouns": {
+      "吾": 610,
+      "老爷": 89,
+      "我": 37,
+      "先生": 31
+    },
+    "top_endings": {
+      "！": 626,
+      "…": 509,
+      "。": 332
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/SDUMMY.json",
+        "id": 2,
+        "teller": "[돈키호테]",
+        "text": "因为此处没有故事文件！"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 12,
+        "teller": "[돈키호테]",
+        "text": "哦、哦哦！特色老爷！上！请看上方！"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 24,
+        "teller": "[돈키호테]",
+        "text": "……这是何等暴行！"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 25,
+        "teller": "[돈키호테]",
+        "text": "竟以自己的子嗣作为诱饵……身为重视忠义之手指，为何做出此等低劣卑鄙之行径……"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 48,
+        "teller": "[돈키호테]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 49,
+        "teller": "[돈키호테]",
+        "text": "……汝之身躯已断作两截，理应动弹不得了。"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 50,
+        "teller": "[돈키호테]",
+        "text": "只需卧于一旁观看便是。"
+      },
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 51,
+        "teller": "[돈키호테]",
+        "text": "从此刻起……吾等会向汝等展示何为真正的帅气。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Donquixote_WCorp5_10302.json",
+        "id": "get_10302_1",
+        "teller": "堂吉诃德人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Donquixote_WCorp5_10302.json",
+        "id": "lobby_morning_10302_1",
+        "teller": "堂吉诃德人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Donquixote_WCorp5_10302.json",
+        "id": "lobby_noon_10302_1",
+        "teller": "堂吉诃德人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Donquixote_WCorp5_10302.json",
+        "id": "lobby_night_10302_1",
+        "teller": "堂吉诃德人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "良秀": {
+    "total_lines": 2526,
+    "story_line_count": 2167,
+    "voice_line_count": 359,
+    "top_pronouns": {
+      "我": 563,
+      "钟表头": 2
+    },
+    "top_endings": {
+      "。": 1435,
+      "…": 377,
+      "？": 275
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S951B.json",
+        "id": 12,
+        "teller": "[료슈9장이후담배]",
+        "text": "呼……"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 21,
+        "teller": "[료슈9장이후담배]",
+        "text": "是啊。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 23,
+        "teller": "[료슈9장이후담배]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 24,
+        "teller": "[료슈9장이후반담배]",
+        "text": "哎，至少这次的作战“无倦无乏”……不，差不多还算有趣。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 27,
+        "teller": "[료슈9장이후담배]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 28,
+        "teller": "[료슈9장이후반담배]",
+        "text": "无·趣。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 30,
+        "teller": "[료슈9장이후반담배]",
+        "text": "这样比较好。和原来一样。"
+      },
+      {
+        "source": "StoryData/S950I2.json",
+        "id": 3,
+        "teller": "[료슈]",
+        "text": "你说得……好像我会留下似的。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ryoshu_Yurodivy_10409.json",
+        "id": "get_10409_1",
+        "teller": "良秀人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ryoshu_Yurodivy_10409.json",
+        "id": "lobby_morning_10409_1",
+        "teller": "良秀人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ryoshu_Yurodivy_10409.json",
+        "id": "lobby_noon_10409_1",
+        "teller": "良秀人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ryoshu_Yurodivy_10409.json",
+        "id": "lobby_night_10409_1",
+        "teller": "良秀人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "默尔索": {
+    "total_lines": 1196,
+    "story_line_count": 863,
+    "voice_line_count": 333,
+    "top_pronouns": {
+      "我": 221,
+      "先生": 2,
+      "浮士德": 2
+    },
+    "top_endings": {
+      "。": 744,
+      "…": 81,
+      "？": 18
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S949B.json",
+        "id": 34,
+        "teller": "[뫼르소]",
+        "text": "嗯。"
+      },
+      {
+        "source": "StoryData/S949B.json",
+        "id": 35,
+        "teller": "[뫼르소]",
+        "text": "……被斩断的只是和经理的契约，和边狱公司的合同条款并未失去效力。"
+      },
+      {
+        "source": "StoryData/S949A.json",
+        "id": 12,
+        "teller": "[뫼르소]",
+        "text": "如果存在仅凭斩击便能切去概念的事物……想必没有比那更为便利的技术了吧。"
+      },
+      {
+        "source": "StoryData/S949A.json",
+        "id": 36,
+        "teller": "[뫼르소]",
+        "text": "嗯……能确认到那人在断气前抓住经理脚踝的行为，而经理也一样并未发出滴答声……"
+      },
+      {
+        "source": "StoryData/S948B.json",
+        "id": 15,
+        "teller": "[뫼르소]",
+        "text": "没有问题。只需听从经理的命令。"
+      },
+      {
+        "source": "StoryData/S940B.json",
+        "id": 1,
+        "teller": "[뫼르소]",
+        "text": "虽然罕有生活痕迹，但可以确认到定期打扫的迹象。"
+      },
+      {
+        "source": "StoryData/S940B.json",
+        "id": 49,
+        "teller": "[뫼르소]",
+        "text": "并不是遗失。只是前来取回被夺走的东西。"
+      },
+      {
+        "source": "StoryData/S939B.json",
+        "id": 4,
+        "teller": "[뫼르소]",
+        "text": "按照作战计划，我们要在这里原地待命直到LCA抵达，随后才能去找回金枝。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Meursault_Wcorp_10503.json",
+        "id": "get_10503_1",
+        "teller": "默尔索人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Meursault_Wcorp_10503.json",
+        "id": "lobby_morning_10503_1",
+        "teller": "默尔索人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Meursault_Wcorp_10503.json",
+        "id": "lobby_noon_10503_1",
+        "teller": "默尔索人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Meursault_Wcorp_10503.json",
+        "id": "lobby_night_10503_1",
+        "teller": "默尔索人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "鸿璐": {
+    "total_lines": 2475,
+    "story_line_count": 2118,
+    "voice_line_count": 357,
+    "top_pronouns": {
+      "我": 790,
+      "先生": 78,
+      "小姐": 76,
+      "浮士德": 13
+    },
+    "top_endings": {
+      "。": 1194,
+      "？": 384,
+      "…": 383
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S944I1.json",
+        "id": 46,
+        "teller": "[홍루다침]",
+        "text": "……我会为她使用治疗药的。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 5,
+        "teller": "[홍루]",
+        "text": "堂吉诃德小姐，请调整好呼吸。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 15,
+        "teller": "[홍루]",
+        "text": "我还看到了小时候双亲给我买过的玩具呢。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 78,
+        "teller": "[홍루]",
+        "text": "……真是不可思议呢。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 80,
+        "teller": "[홍루]",
+        "text": "看着周围散落的垃圾，我便不禁好奇你为什么会拥有那种东西。\n遗物这类东西本就非常稀少而昂贵，据我所知，若是品质上乘的遗物，就连鸿园的四大家族都不一定能拥有几件。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 107,
+        "teller": "[홍루]",
+        "text": "即便如此……良秀小姐还是毅然离开了蜘蛛巢。"
+      },
+      {
+        "source": "StoryData/S938B.json",
+        "id": 108,
+        "teller": "[홍루]",
+        "text": "而其中的理由……你又知道吗？"
+      },
+      {
+        "source": "StoryData/S936B.json",
+        "id": 24,
+        "teller": "[홍루]",
+        "text": "希望大家都能平安无事地再次相见。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Honglu_Yurodivy_10609.json",
+        "id": "get_10609_1",
+        "teller": "鸿璐人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Honglu_Yurodivy_10609.json",
+        "id": "lobby_morning_10609_1",
+        "teller": "鸿璐人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Honglu_Yurodivy_10609.json",
+        "id": "lobby_noon_10609_1",
+        "teller": "鸿璐人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Honglu_Yurodivy_10609.json",
+        "id": "lobby_night_10609_1",
+        "teller": "鸿璐人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "希斯克利夫": {
+    "total_lines": 2777,
+    "story_line_count": 2364,
+    "voice_line_count": 413,
+    "top_pronouns": {
+      "我": 858,
+      "钟表头": 43,
+      "大叔": 4,
+      "小姐": 4
+    },
+    "top_endings": {
+      "。": 923,
+      "…": 594,
+      "？": 585
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S945B.json",
+        "id": 55,
+        "teller": "[히스클리프다침2]",
+        "text": "喂！等会，看那里……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 56,
+        "teller": "[히스클리프다침2]",
+        "text": "确实能感觉到有人在那……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 57,
+        "teller": "[히스클리프다침2]",
+        "text": "一动不动有点奇怪……喂，胡茬叔，还好吗？"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 62,
+        "teller": "[히스클리프다침2]",
+        "text": "什么？"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 70,
+        "teller": "[히스클리프다침2]",
+        "text": "向导，告诉我们吧。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 71,
+        "teller": "[히스클리프다침2]",
+        "text": "告诉我们只要豁出性命就能……把他打到清醒。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 72,
+        "teller": "[히스클리프다침2]",
+        "text": "和上次那个没穿好鞋子的家伙一样……和那个装模作样的研究员一样……还有和……我变成那样的时候一样……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 73,
+        "teller": "[히스클리프다침2]",
+        "text": "但是……那个东西……真的还能变回来吗……？"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Heathcliff_WCorp_10713.json",
+        "id": "get_10713_1",
+        "teller": "希斯克利夫人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Heathcliff_WCorp_10713.json",
+        "id": "lobby_morning_10713_1",
+        "teller": "希斯克利夫人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Heathcliff_WCorp_10713.json",
+        "id": "lobby_noon_10713_1",
+        "teller": "希斯克利夫人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Heathcliff_WCorp_10713.json",
+        "id": "lobby_night_10713_1",
+        "teller": "希斯克利夫人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "以实玛利": {
+    "total_lines": 2853,
+    "story_line_count": 2494,
+    "voice_line_count": 359,
+    "top_pronouns": {
+      "我": 839,
+      "先生": 73,
+      "小姐": 68,
+      "浮士德": 19
+    },
+    "top_endings": {
+      "。": 1162,
+      "…": 660,
+      "？": 502
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S943B.json",
+        "id": 26,
+        "teller": "[이스마엘다침]",
+        "text": "阿莉莎小姐……！"
+      },
+      {
+        "source": "StoryData/S943B.json",
+        "id": 40,
+        "teller": "[이스마엘다침]",
+        "text": "呃……"
+      },
+      {
+        "source": "StoryData/S943B.json",
+        "id": 65,
+        "teller": "[이스마엘다침]",
+        "text": "霍恩海姆先生，你在……说什么……"
+      },
+      {
+        "source": "StoryData/S943B.json",
+        "id": 66,
+        "teller": "[이스마엘다침]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S943B.json",
+        "id": 67,
+        "teller": "[이스마엘다침]",
+        "text": "我要用安瓿治疗失去意识的浮士德小姐了。经理现在……好像在关注其他事情。"
+      },
+      {
+        "source": "StoryData/S943B.json",
+        "id": 139,
+        "teller": "[이스마엘다침]",
+        "text": "好了……我和浮士德小姐都恢复得差不多了。再一次……呃……！"
+      },
+      {
+        "source": "StoryData/S943A.json",
+        "id": 14,
+        "teller": "[이스마엘다침]",
+        "text": "什么……"
+      },
+      {
+        "source": "StoryData/S943A.json",
+        "id": 15,
+        "teller": "[이스마엘다침]",
+        "text": "这是怎么……回事？浮士德小姐，你也能看到他吗？还是说是我失血过多产生了幻觉……"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ishmael_Zwei_10810.json",
+        "id": "get_10810_1",
+        "teller": "以实玛利人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ishmael_Zwei_10810.json",
+        "id": "lobby_morning_10810_1",
+        "teller": "以实玛利人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ishmael_Zwei_10810.json",
+        "id": "lobby_noon_10810_1",
+        "teller": "以实玛利人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Ishmael_Zwei_10810.json",
+        "id": "lobby_night_10810_1",
+        "teller": "以实玛利人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "罗佳": {
+    "total_lines": 2346,
+    "story_line_count": 1961,
+    "voice_line_count": 385,
+    "top_pronouns": {
+      "我": 630,
+      "先生": 22,
+      "浮士德": 6,
+      "小姐": 5
+    },
+    "top_endings": {
+      "？": 636,
+      "。": 612,
+      "…": 399
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S945B.json",
+        "id": 54,
+        "teller": "[로쟈다침]",
+        "text": "格雷格！你去哪了……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 58,
+        "teller": "[로쟈다침]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 59,
+        "teller": "[로쟈다침]",
+        "text": "有人吗……？"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 60,
+        "teller": "[로쟈다침]",
+        "text": "不……不止是这样，希斯……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 61,
+        "teller": "[로쟈다침]",
+        "text": "那声音……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 63,
+        "teller": "[로쟈다침]",
+        "text": "那声音……你也听到了吧。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 64,
+        "teller": "[로쟈다침]",
+        "text": "在地上爬行的……咯吱咯吱的声音……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 67,
+        "teller": "[로쟈다침]",
+        "text": "那个，真的是格雷格吗？"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Rodion_Zwei_10906.json",
+        "id": "get_10906_1",
+        "teller": "罗佳人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Rodion_Zwei_10906.json",
+        "id": "lobby_morning_10906_1",
+        "teller": "罗佳人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Rodion_Zwei_10906.json",
+        "id": "lobby_noon_10906_1",
+        "teller": "罗佳人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Rodion_Zwei_10906.json",
+        "id": "lobby_night_10906_1",
+        "teller": "罗佳人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "辛克莱": {
+    "total_lines": 2190,
+    "story_line_count": 1829,
+    "voice_line_count": 361,
+    "top_pronouns": {
+      "我": 653,
+      "小姐": 119,
+      "先生": 90,
+      "浮士德": 19
+    },
+    "top_endings": {
+      "…": 664,
+      "。": 623,
+      "？": 342
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S951B.json",
+        "id": 25,
+        "teller": "[싱클레어]",
+        "text": "啊，意思是这次不让人感到厌倦和乏……嗯？"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 26,
+        "teller": "[싱클레어]",
+        "text": "哇，良秀小姐。你现在的缩写已经很自然了呢，哈哈。"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 29,
+        "teller": "[싱클레어]",
+        "text": "欸？"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 31,
+        "teller": "[싱클레어]",
+        "text": "不……为什么你一被夸奖就……不是因为我夸你才这样吧？不是吧？"
+      },
+      {
+        "source": "StoryData/S943I2.json",
+        "id": 3,
+        "teller": "[각성싱클레어1]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S943I2.json",
+        "id": 4,
+        "teller": "[각성싱클레어1]",
+        "text": "很粗劣呢。"
+      },
+      {
+        "source": "StoryData/S943I2.json",
+        "id": 5,
+        "teller": "[각성싱클레어1]",
+        "text": "就和我最近的生活里司空见惯的那些一样。"
+      },
+      {
+        "source": "StoryData/S943I2.json",
+        "id": 8,
+        "teller": "[각성싱클레어2]",
+        "text": "只靠口头说明应该也没有意义吧。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Sinclair_Zwei_11003.json",
+        "id": "get_11003_1",
+        "teller": "辛克莱人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Sinclair_Zwei_11003.json",
+        "id": "lobby_morning_11003_1",
+        "teller": "辛克莱人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Sinclair_Zwei_11003.json",
+        "id": "lobby_noon_11003_1",
+        "teller": "辛克莱人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Sinclair_Zwei_11003.json",
+        "id": "lobby_night_11003_1",
+        "teller": "辛克莱人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "奥提斯": {
+    "total_lines": 2211,
+    "story_line_count": 1854,
+    "voice_line_count": 357,
+    "top_pronouns": {
+      "我": 540,
+      "浮士德": 6,
+      "女士": 3
+    },
+    "top_endings": {
+      "。": 1077,
+      "…": 328,
+      "？": 258
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/TS817I.json",
+        "id": 0,
+        "teller": "[오티스]",
+        "text": "呼……现在只剩你这家伙了。"
+      },
+      {
+        "source": "StoryData/TS817I.json",
+        "id": 1,
+        "teller": "[오티스]",
+        "text": "老实交代。谁派你们来的？"
+      },
+      {
+        "source": "StoryData/S949B.json",
+        "id": 30,
+        "teller": "[오티스]",
+        "text": "……这之后，您准备怎么做。"
+      },
+      {
+        "source": "StoryData/S949B.json",
+        "id": 31,
+        "teller": "[오티스]",
+        "text": "如果经理的话属实……那么那人已经……"
+      },
+      {
+        "source": "StoryData/S949B.json",
+        "id": 37,
+        "teller": "[오티스]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S949A.json",
+        "id": 5,
+        "teller": "[오티스]",
+        "text": "与我的认知进行比对的话……这并非记忆消除，执行经理。"
+      },
+      {
+        "source": "StoryData/S949A.json",
+        "id": 6,
+        "teller": "[오티스]",
+        "text": "蜘蛛巢希望将良秀，将她制成……"
+      },
+      {
+        "source": "StoryData/S949A.json",
+        "id": 7,
+        "teller": "[오티스]",
+        "text": "某种与概念焚化炉相似的事物。"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Outist_SevenAsso6_11104.json",
+        "id": "get_11104_1",
+        "teller": "奥提斯人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Outist_SevenAsso6_11104.json",
+        "id": "lobby_morning_11104_1",
+        "teller": "奥提斯人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Outist_SevenAsso6_11104.json",
+        "id": "lobby_noon_11104_1",
+        "teller": "奥提斯人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Outist_SevenAsso6_11104.json",
+        "id": "lobby_night_11104_1",
+        "teller": "奥提斯人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "格里高尔": {
+    "total_lines": 2104,
+    "story_line_count": 1721,
+    "voice_line_count": 383,
+    "top_pronouns": {
+      "我": 572,
+      "小姐": 56,
+      "先生": 40,
+      "经理兄": 38
+    },
+    "top_endings": {
+      "。": 754,
+      "…": 446,
+      "？": 441
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S945B.json",
+        "id": 0,
+        "teller": "[그레고르다침]",
+        "text": "唔……！"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 6,
+        "teller": "[그레고르다침]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 17,
+        "teller": "[그레고르다침]",
+        "text": "咳……你也是……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 18,
+        "teller": "[그레고르다침]",
+        "text": "烟霾战争……的参战者吗。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 32,
+        "teller": "[그레고르다침]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 41,
+        "teller": "[그레고르다침]",
+        "text": "别……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 43,
+        "teller": "[그레고르다침]",
+        "text": "别靠近……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 45,
+        "teller": "[그레고르다침]",
+        "text": "别靠近我……"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Gregor_Zwei_11206.json",
+        "id": "get_11206_1",
+        "teller": "格里高尔人格",
+        "text": "获得人格"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Gregor_Zwei_11206.json",
+        "id": "lobby_morning_11206_1",
+        "teller": "格里高尔人格",
+        "text": "早间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Gregor_Zwei_11206.json",
+        "id": "lobby_noon_11206_1",
+        "teller": "格里高尔人格",
+        "text": "午间问候"
+      },
+      {
+        "source": "PersonalityVoiceDlg/Voice_Gregor_Zwei_11206.json",
+        "id": "lobby_night_11206_1",
+        "teller": "格里高尔人格",
+        "text": "晚间问候"
+      }
+    ]
+  },
+  "但丁": {
+    "total_lines": 3174,
+    "story_line_count": 3174,
+    "voice_line_count": 0,
+    "top_pronouns": {
+      "我": 742,
+      "浮士德": 88,
+      "小姐": 9,
+      "先生": 6
+    },
+    "top_endings": {
+      "。": 3,
+      "…": 2,
+      "？": 1
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/TS817I.json",
+        "id": 4,
+        "teller": "[단테]",
+        "text": "<……！>"
+      },
+      {
+        "source": "StoryData/TS817I.json",
+        "id": 5,
+        "teller": "[단테]",
+        "text": "<他不知道。罪人们可以复活。>"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 20,
+        "teller": "[단테]",
+        "text": "<这次也……顺利回收了金枝。>"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 22,
+        "teller": "[단테]",
+        "text": "<感觉怎么样，良秀？>"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 37,
+        "teller": "[단테]",
+        "text": "<也就是说……>"
+      },
+      {
+        "source": "StoryData/S951B.json",
+        "id": 39,
+        "teller": "[단테]",
+        "text": "<只要巴士还在行驶……>"
+      },
+      {
+        "source": "StoryData/S950B.json",
+        "id": 13,
+        "teller": "[단테]",
+        "text": "<不是的，良秀。>"
+      },
+      {
+        "source": "StoryData/S950B.json",
+        "id": 14,
+        "teller": "[단테]",
+        "text": "<你还紧紧握着它呢，就在你手中。>"
+      }
+    ]
+  },
+  "维吉里乌斯": {
+    "total_lines": 937,
+    "story_line_count": 937,
+    "voice_line_count": 0,
+    "top_pronouns": {
+      "我": 289,
+      "女士": 27,
+      "浮士德": 26,
+      "小姐": 3
+    },
+    "top_endings": {
+      "。": 729,
+      "…": 134,
+      "？": 66
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S945B.json",
+        "id": 66,
+        "teller": "[베르길리우스3]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 69,
+        "teller": "[베르길리우스3]",
+        "text": "……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 74,
+        "teller": "[베르길리우스3]",
+        "text": "……我不知道。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 75,
+        "teller": "[베르길리우스3]",
+        "text": "这不是扭曲，也不是E.G.O……并不是展现了什么新的力量。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 78,
+        "teller": "[베르길리우스3]",
+        "text": "这是本应成为却未能成为的，13号罪人所怀抱的东西。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 79,
+        "teller": "[베르길리우스3]",
+        "text": "正因如此，那些不该有梦想的事物也一直做着梦……"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 80,
+        "teller": "[베르길리우스3]",
+        "text": "如今正为了毁灭，振翅而飞。"
+      },
+      {
+        "source": "StoryData/S945B.json",
+        "id": 87,
+        "teller": "[베르길리우스3]",
+        "text": "希望如此。"
+      }
+    ]
+  },
+  "卡戎": {
+    "total_lines": 161,
+    "story_line_count": 161,
+    "voice_line_count": 0,
+    "top_pronouns": {
+      "我": 11,
+      "布隆布隆": 11,
+      "大叔": 1
+    },
+    "top_endings": {
+      "。": 136,
+      "？": 12,
+      "…": 11
+    },
+    "sample_lines": [
+      {
+        "source": "StoryData/S708B.json",
+        "id": 74,
+        "teller": "[카론]",
+        "text": "哦。滴答滴答。"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 89,
+        "teller": "[카론]",
+        "text": "我的乘客们说要去游乐园。"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 90,
+        "teller": "[카론]",
+        "text": "游乐园。是比巴士更有趣的地方吗？"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 93,
+        "teller": "[카론]",
+        "text": "为什么？"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 96,
+        "teller": "[카론]",
+        "text": "那个。鲁莽驾驶。"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 97,
+        "teller": "[카론]",
+        "text": "司机的实力比卡戎差。肯定。"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 105,
+        "teller": "[카론]",
+        "text": "什么时候，在哪里？"
+      },
+      {
+        "source": "StoryData/S708B.json",
+        "id": 108,
+        "teller": "[카론]",
+        "text": "在那里……卡戎……"
+      }
+    ]
+  }
+}

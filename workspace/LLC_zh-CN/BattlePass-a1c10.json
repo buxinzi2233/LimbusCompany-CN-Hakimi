@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": "battlepass_season_8",
+      "content": "刺点"
+    },
+    {
+      "id": "battle_pass_season_8_product_package_with_limbus_desc_summary",
+      "content": "◆ 第8赛季 边狱通行证\n◆ 购买后立即提升10级通行证等级\n◆ 人格特殊强化礼券 VI\n◆ 边狱礼包特别横幅"
+    },
+    {
+      "id": "battle_pass_season_8_product_package_without_limbus_desc_summary",
+      "content": "◆ 购买后立即提升10级通行证等级\n◆ 人格特殊强化礼券 VI\n◆ 边狱礼包特别横幅"
+    },
+    {
+      "id": "until_season_8_start",
+      "content": "- 至第9赛季更新前"
+    },
+    {
+      "id": "until_season_8_end_on_shop",
+      "content": "至第9赛季\n更新前"
+    }
+  ]
+}

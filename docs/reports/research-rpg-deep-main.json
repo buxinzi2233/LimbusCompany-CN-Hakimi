@@ -1,0 +1,1090 @@
+{
+  "research_read": [
+    "meursault_research_1_camus_archetype.md",
+    "meursault_research_2_official_pv_and_settings.md",
+    "meursault_research_3_canto10_lore_and_localization_audit.md"
+  ],
+  "method": "全文逐句 KR/ZH 对照，EN 仅用于歧义查证；主代理复核 floor-1 全671条及 floor-4 全598条；未改动结构、ID、索引或说话人字段。",
+  "coverage": [
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "groups_reviewed": 153,
+      "body_fields_reviewed": 671,
+      "before_sha256": "5913ad625c23d3b38d756095df6564120cb902145c7af7e3fed15ac5d643df2d",
+      "after_sha256": "bac45ba09f1988bccfc75d67b4805608eb5c7fdffbca8be5dcf78877033dcff8",
+      "backup": "backups/research-rpg-main-20260918/rpg-loc-dialogue-floor-1.json"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "groups_reviewed": 124,
+      "body_fields_reviewed": 598,
+      "before_sha256": "48496d948518d51c821e19e08db3152e6da2fc4c61f318488521ff3da330bce0",
+      "after_sha256": "ccfc3a8b6a753a5ee38228d90d77479e6f73c223b33410d8b97c58852517af44",
+      "backup": "backups/research-rpg-main-20260918/rpg-loc-dialogue-floor-4.json"
+    }
+  ],
+  "changes": [
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D10221",
+      "index": 31,
+      "field": "text",
+      "speaker": "以实玛利",
+      "before": "唉……就按默尔索先生说的办吧。虽然不知道为什么，但您似乎很了解这里。",
+      "after": "哈啊……就按默尔索先生说的办吧。虽然不知道为什么，但您似乎很了解这里。",
+      "source_kr": "하아… 뫼르소 씨 말대로 하죠. 왜인지는 몰라도 이 장소에 대해 잘 알고 계신 것 같고.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D102311",
+      "index": 4,
+      "field": "text",
+      "speaker": "默尔索",
+      "before": "无法规定答案，却能够作为认知流通，从这一点上说，两者是同构的。",
+      "after": "两者相同之处在于：无法给出确定的答案，却都能被认知所接受。",
+      "source_kr": "답을 정해둘 수 없지만 인식으로 통용된다는 점에서는 상동한 말이다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D10432",
+      "index": 0,
+      "field": "text",
+      "speaker": "古斯塔夫",
+      "before": "大约九个年轮季度之前，百货公司突然开始开裂，衰败的时代降临了……",
+      "after": "九个树季之前，百货公司突然开始开裂，衰败的时代降临了……",
+      "source_kr": "바야흐로 아홉 그루 시즌 전, 백화점에 갑자기 금이 가기 시작하며 몰락의 시대가 왔습니다…",
+      "reason": "保留九个树季这一非常规计时单位，去除约数，不擅折算为三年。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D10501",
+      "index": 23,
+      "field": "text",
+      "speaker": "奎利安",
+      "before": "有个红派原本在这一带开店，这次入驻了奢侈品馆。那家伙的打版和设计本事比我差远了，我甚至还亲手教过他。",
+      "after": "有个红派原本在这家店里，这次入驻了名品馆。那家伙的打版和设计本事比我差远了，我甚至还亲手教过对方。",
+      "source_kr": "원래 이 매장에 있다가 이번에 명품관에 입점한 르루주가 있어요. 그자는 저보다 패턴을 뜨거나 설계를 짜는 실력은 한참 부족했죠. 심지어 제가 손수 가르쳐주기까지 했다니까요?",
+      "reason": "KR 无性别标记，EN they；不推定性别，并统一名品馆地点名。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D10501",
+      "index": 24,
+      "field": "text",
+      "speaker": "奎利安",
+      "before": "可有一天……他在自己做的所有衣服上……",
+      "after": "可有一天……那家伙在自己做的所有衣服上……",
+      "source_kr": "그런데 어느 날… 자신이 만든 모든 옷에…",
+      "reason": "KR 无性别标记，EN they；不推定性别，并统一名品馆地点名。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D1962",
+      "index": 3,
+      "field": "text",
+      "speaker": "以实玛利",
+      "before": "唉……原来那种颤抖是一种警告。",
+      "after": "哈啊……原来那种颤抖是一种警告。",
+      "source_kr": "하아… 부들부들 떨고 있는 게 일종의 경고였던 거네요.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "key": "D1085",
+      "index": 3,
+      "field": "text",
+      "speaker": "以实玛利",
+      "before": "……喂，误会别人，至少道个歉……唉……算了。",
+      "after": "……喂，误会别人，至少道个歉……哈啊……算了。",
+      "source_kr": "…저기요, 오해했으면 사과라도… 하아… 말을 말죠.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40213",
+      "index": 24,
+      "field": "text",
+      "speaker": "四足",
+      "before": "每次在地下1层重新睁开眼时，我都抱着“这一次定能成为单足”的希望苟延残喘着……",
+      "after": "每次在地下1层重新睁开眼时，我都抱着“这一次或许能成为单足”的希望生活着……",
+      "source_kr": "다시 지하 1층에서 눈을 뜰 때마다 이번에야말로 원레그가 될 수 있을지에 대한 희망을 가지며 살아왔지만…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40213",
+      "index": 29,
+      "field": "text",
+      "speaker": "四足",
+      "before": "未曾在此鞋履馆驻留之人，是永远无法体会这等绝望的吧……",
+      "after": "没住在这鞋履馆的人，永远不会明白吧……",
+      "source_kr": "이곳 신발관에 머물지 않는 분은 영영 모르겠죠…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 7,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>你也知道的吧，玛普丝。当年N公司可是打算立刻对你求处西西弗斯刑的。尽管如此，我为了阻止这一切究竟费了多大周折……你想必一清二楚吧。</color>",
+      "after": "<color=#ebcaa2>你也知道吧，玛普丝。当时N公司打算立刻要求判处你西西弗斯刑。尽管如此，我为了阻止这件事费了多少力气……你应该很清楚。</color>",
+      "source_kr": "<color=#ebcaa2>알겠지만, 마 퓌스. 그 당시에 N사는 당신에게 곧바로 시지프형을 구형하려고 했어. 그럼에도 불구하고 내가 그걸 막기 위해 얼마나 애를 썼는지는… 잘 알 텐데.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 12,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>其一，便是墙壁各处浮现出的裂痕。百货公司的所有人皆陷入了混乱与恐慌之中。</color>",
+      "after": "<color=#ebcaa2>其中之一，就是墙壁各处出现了裂痕。百货公司的所有人都开始陷入混乱。</color>",
+      "source_kr": "<color=#ebcaa2>그중 하나가 벽 곳곳에 생긴 균열. 백화점의 모두가 혼란스러워하기 시작했지.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 13,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>因此我们找来了名为金枝的物件，将它插在了你母亲每天上班坐着的空缺席位上。权且作为权宜之计。毕竟要寻觅足以支撑西西弗斯的合格巨人，可不是一件容易的事呢。</color>",
+      "after": "<color=#ebcaa2>所以我们找来了名为金枝的东西，插在你母亲每天上班时坐着的那个空位上，只是暂时应急。毕竟要找到能撑起西西弗斯的巨人适格者，可不容易。</color>",
+      "source_kr": "<color=#ebcaa2>그래서 우리들은 황금가지라는 걸 구해서 당신 어머니가 매일 출근하며 앉아 오던 그 빈자리에 꽂아 넣었지. 임시방편으로 말이야. 시지프를 떠받칠 거인 적합자를 구하는 게 여간 어려운 일이 아니었거든.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 19,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>从那时起，被称为黑派的人们开始陷入恐惧与战栗，而被称为红派的人们则开始暗中搜寻机遇。</color>",
+      "after": "<color=#ebcaa2>从那时起，被称为黑派的人们开始恐惧战栗，而被称为红派的人们则开始寻找机会。</color>",
+      "source_kr": "<color=#ebcaa2>그때부터 르누아르라고 불리는 자들은 공포에 떨기 시작했고 르루주라고 불리는 자들은 기회를 찾기 시작했지.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 22,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>这令N公司陷入了莫大的困境。毕竟用于生产经验罐头的原料势必会日益枯竭。</color>",
+      "after": "<color=#ebcaa2>这给N公司带来了很大的麻烦。毕竟用来生产经验罐头的原料会越来越少。</color>",
+      "source_kr": "<color=#ebcaa2>그래서 N사가 이만저만 곤란해진 게 아니야. 경험 통조림을 생산할 수 있는 재료들이 점점 줄어들게 될 테니까.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 24,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>其余三名巨人所需支撑的力量自然也变得愈发沉重了。</color>",
+      "after": "<color=#ebcaa2>其余三位巨人自然也得出更多力，才能撑住这里。</color>",
+      "source_kr": "<color=#ebcaa2>나머지 세 명의 거인들이 지탱하는 힘이 더 필요해진 건 당연한 거고.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40220",
+      "index": 26,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>为何不主动将这一事实说出来呢？你早在一开始便知晓自己乃是巨人的适格者吧。</color>",
+      "after": "<color=#ebcaa2>为什么不主动说出来？你不是早就知道自己是巨人的适格者了吗？</color>",
+      "source_kr": "<color=#ebcaa2>왜 자진해서 그 사실을 말하지 않았어? 당신이 거인의 적합자라는 사실은 예전부터 알고 있던 사실이었잖아.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40222",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>那么事到如今，你倒不妨重新权衡一下其必要性吧。</color>",
+      "after": "<color=#ebcaa2>那就趁现在想想有没有必要吧。</color>",
+      "source_kr": "<color=#ebcaa2>그럼 이제라도 필요성을 생각해봐.</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40222",
+      "index": 1,
+      "field": "text",
+      "speaker": "",
+      "before": "<color=#ebcaa2>抑或是说，你已经开始渐渐中意起在这座百货公司里的生活了呢？</color>",
+      "after": "<color=#ebcaa2>还是说，你已经开始渐渐喜欢上这家百货公司的生活了？</color>",
+      "source_kr": "<color=#ebcaa2>아니면 이 백화점의 생활이 점점 마음에 들기라도 시작한 거야?</color>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40222",
+      "index": 2,
+      "field": "text",
+      "speaker": "",
+      "before": "语毕，让娜的声音便彻底归于沉寂，再未响起。",
+      "after": "说完这些，便听不见让娜的声音了。",
+      "source_kr": "그 말을 끝으로 더 이상 잔느의 목소리는 들려오지 않았다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40222",
+      "index": 5,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "唔嗯……填补裂痕的松脂既已消逝……崩塌想必亦是大势所趋吧……",
+      "after": "唔嗯……填补裂痕的松脂会消失……如此一来，想必便会崩塌……",
+      "source_kr": "으음… 균열을 채우던 송진이 사라질 테니… 무너지는 게 수순일 테지…",
+      "reason": "将尚未发生的松脂消失恢复为未来条件，不能译成既已消逝。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40222",
+      "index": 8,
+      "field": "text",
+      "speaker": "但丁",
+      "before": "<既然金枝不在百货公司内部而是在外面，等将其拔出之时自然便见分晓了。>",
+      "after": "<金枝应该在百货公司外面，而不在这里，等拔出来就知道了。>",
+      "source_kr": "<황금가지는 이 백화점이 아니라 바깥에 있을 거니까, 그걸 뽑고 나면 알게 되겠지.>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40230",
+      "index": 5,
+      "field": "text",
+      "speaker": "单足",
+      "before": "若不立刻退去……我便亲自领教各位的高招。",
+      "after": "若不离开……我就亲自对付你们。",
+      "source_kr": "퇴거하지 않는다면… 내가 직접 너희를 상대하지.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40231",
+      "index": 8,
+      "field": "text",
+      "speaker": "单足",
+      "before": "难怪那些家伙近来总在鬼鬼祟祟地密谋着离奇的企图。前后全都对得上了。",
+      "after": "所以那些家伙才一直在策划奇怪的事。前后对得上了。",
+      "source_kr": "그래서 그것들이 자꾸 이상한 계획을 꾸미고 있었던 건가. 앞뒤가 맞아.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40231",
+      "index": 13,
+      "field": "text",
+      "speaker": "单足",
+      "before": "原以为不过是疯言疯语而嗤之以鼻，但听了你们的一番话，看来倒绝非能等闲视之之事呢。既然是失去了声音的亡命之徒，为了目的定然不择手段。",
+      "after": "我原以为那只是胡言乱语，还嗤之以鼻。但听了你们的话，看来不能就这么置之不理。那些失去声音的家伙，什么事都可能做得出来。",
+      "source_kr": "헛소리일 뿐이라 생각하고 코웃음을 쳤으나 너희의 이야기를 들으니 마냥 넘길 만한 이야기는 아닌 듯하군. 목소리를 잃은 것들이니 무슨 짓이든 할 수 있겠지.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40231",
+      "index": 21,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "管理者大人说是这样哦~",
+      "after": "是这么说的呢~",
+      "source_kr": "그렇다고 하시네요~",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40231",
+      "index": 28,
+      "field": "text",
+      "speaker": "单足",
+      "before": "虽因过季未曾深究追究，但传闻在他们夺走的东西里，有一件能够撕裂世间一切布料的、极其罕见而珍贵的神兵利器。",
+      "after": "东西早已过季，我便没再追究。不过，他们拿走的东西里，似乎有件十分贵重的传说之物，能撕裂任何布料。",
+      "source_kr": "유행이 지나버려서 따져 묻진 않았지만, 그들이 가져간 것 중에는 아주 귀중한, 어떤 옷감이라도 찢을 수 있는 전설적인 물건도 있는 모양이다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 3,
+      "field": "text",
+      "speaker": "默尔索",
+      "before": "在此处，所有人皆既是顾客亦是商品，既是售货员亦是人体模型，仅需作此理解即可。",
+      "after": "在这里，只需认为所有人既是顾客，也是商品、售货员和人体模特。",
+      "source_kr": "이곳에선 그저 모두가 고객이자 상품이자 판매자이자 마네킹이라고 생각하면 된다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 9,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "虽然我的背脊佝偻着，但正因如此，对于渴望小憩的客人而言，恰好能从最适宜的高度洒下柔和的光芒哦。",
+      "after": "我的背虽然弯了，但正好能从合适的高度，为想休息的客人照明。",
+      "source_kr": "등은 굽었어도 그 덕에 휴식을 원하는 손님에게 적절한 높이에서 빛을 비추어 줄 수 있다네.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 15,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "那可……真是一桩令人心旷神怡的美事啊。看来我比周围那些随处可见的平庸家具要出挑得多呢。",
+      "after": "那可……真让人高兴。说明我与旁边那些普通家具不一样。",
+      "source_kr": "그건… 기분 좋은 일이군 그래. 내가 저 주변에 널려 있는 평범한 가구들과는 결이 다르다는 뜻이니까.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 19,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "仅需区区4000眼球即可。若想享受到无与伦比的惬意安宁，世间再无他物能比我这具身躯更胜一筹了。",
+      "after": "只要4000眼球。想要最舒适的享受，没有哪盏灯能比得上我。",
+      "source_kr": "단 4000눈알이면 되네. 최고의 안락함을 느끼기에는 이 몸만 한 조명이 없지.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 26,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "……果然唯有从那家伙手中获得绝妙的华服披在身上……才能迅速被识货之人买走啊……",
+      "after": "……果然，只要从那家伙那里拿件好衣服穿上……很快就能卖出去了。",
+      "source_kr": "… 역시 그자에게 빼어난 옷을 받아 입는다면… 금방 팔릴 수 있을 거야.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 29,
+      "field": "text",
+      "speaker": "但丁",
+      "before": "<……不，我都说了好几次了，我们压根没打算买，而且这也还是贵得离谱啊！>",
+      "after": "<……都说了几次，我们不打算买，而且还是很贵。>",
+      "source_kr": "<…아니, 여러 번 말했지만 살 생각도 없을뿐더러 여전히 비싼데.>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40311",
+      "index": 30,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "不过托此之福，我们倒是有借口去拜会一下这里的主人了呢。",
+      "after": "不过，这样就能去见见这里的主人了呢。",
+      "source_kr": "하지만 그 덕에 이곳의 주인을 만나러 갈 순 있겠네요.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40410",
+      "index": 4,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "那个，听闻若是来此处，便能寻得那位照明先生想要披戴的衣物，所以我们便前来了……",
+      "after": "那个，听说到这里就能找到适合那位照明先生穿的衣服，所以我们就来了~",
+      "source_kr": "저기, 저 조명님이 걸칠 옷을 여기로 가면 볼 수 있다고 해서 왔는데요~",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40410",
+      "index": 6,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "难道是无法开口言语吗？",
+      "after": "是不能说话吗？",
+      "source_kr": "말을 못 하시는 걸까요?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40411",
+      "index": 3,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "说不定……是在示意我们随意挑选取用呢。",
+      "after": "说不定……是让我们拿走呢。",
+      "source_kr": "어쩌면… 가져가라고 하는 것일지도 모르겠네요.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 8,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "……我的心肠恰如我这暖白色的灯泡一般温暖祥和。请讲吧。",
+      "after": "……我的心肠就像我这乳白色的灯泡一样温暖。说吧。",
+      "source_kr": "…나는 내 주백색 전구만큼이나 마음씨가 따스한 편이지. 말해보게.",
+      "reason": "对应 KR 주백색 与 EN ivory-white，保留灯泡颜色与暖心比喻，避免把情感暖意当作色温。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 19,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "既然如此，何如在这楼层之中静静等候，长眠不醒，直至某位富贵之人将我买下呢……",
+      "after": "那还不如就留在这一层，静静睡着，等有人把我买走……",
+      "source_kr": "그렇다면 이 층에서 가만히 기다리며 누군가 나를 사줄 때까지 잠들어 있는 편이 제일 좋지 않겠나…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 21,
+      "field": "text",
+      "speaker": "默尔索",
+      "before": "为何放弃了长眠，突然在此刻醒转？",
+      "after": "为什么不继续睡着，却突然醒了过来？",
+      "source_kr": "잠들어 있는 것을 포기하고 왜 갑자기 깨어나게 된 거지?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 22,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "那是因为……不知从何时起，有一束温暖和煦的阳光直直照耀在了此处。",
+      "after": "那是因为……不知从什么时候起，温暖的阳光照到了这边。",
+      "source_kr": "그건… 언제부터인지 따스한 햇빛이 이쪽을 향해 내리쬐었으니까.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 24,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "托其所赐，我被唤醒了……活动起酸痛的身躯，彼时那家伙便朝向我们敞开了胸怀。",
+      "after": "我就这样被唤醒了……当我撑起酸痛的身子时，那家伙便朝我们展开了身体。",
+      "source_kr": "그 탓에 잠이 깨어서 말이야… 찌뿌둥한 몸을 일으키니, 그때 저자가 우리를 향해 몸을 열더군.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 25,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "你们可知晓……？保持清醒乃是何等痛彻心扉的煎熬啊。",
+      "after": "你们知道吗……？醒着，实在很痛苦。",
+      "source_kr": "알고 있나…? 깨어 있다는 건 정말 괴로운 일일세.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 26,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "真想早日被买走……在富足之中……惬意地……长眠下去啊……",
+      "after": "真想早点被买走……过得富足些，悠闲地……睡上一觉……",
+      "source_kr": "빨리 팔려서… 부유한 채로 느긋하게… 자고 싶군…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 32,
+      "field": "text",
+      "speaker": "???",
+      "before": "我们可没有那家伙那么好的福气能沐浴到阳光……所以也分给我们一点吧……",
+      "after": "我们没那家伙晒到的阳光多……所以，也给我们带过来吧……",
+      "source_kr": "우린 저 녀석만큼 햇빛이 들지 않아… 그러니 가져다 줘…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40510",
+      "index": 37,
+      "field": "text",
+      "speaker": "但丁",
+      "before": "<至少为了像刚才那样套出情报，眼下也唯有依从那些家具的要求了。>",
+      "after": "<想像刚才那样再问出点什么，也只能先答应那些家具的要求了。>",
+      "source_kr": "<적어도 지금처럼 무언가를 알아내기라도 하려면, 저 가구들의 말을 들어주는 수밖에 없겠어.>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40611",
+      "index": 5,
+      "field": "text",
+      "speaker": "但丁",
+      "before": "<意思是悉听尊便吧……？>",
+      "after": "<……是说没关系吗？>",
+      "source_kr": "<별 상관없다는 걸까…?>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40712",
+      "index": 7,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "我亦以酷~绝之姿相询，那折后几何？",
+      "after": "那吾便酷~地问一句，折后要多少钱？",
+      "source_kr": "쿨~하게 묻네만, 그러면 얼마가 되는가?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40713",
+      "index": 3,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "我们只是按照顺眼看到的顺序……",
+      "after": "我们只是按看到的先后顺序……",
+      "source_kr": "저희는 그냥, 눈에 띄는 대로…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40813",
+      "index": 5,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "若是换作堂吉诃德小姐，为了帮助他人，哪怕是自己珍藏的徽章也会毫不犹豫地奉献出来吧？",
+      "after": "堂吉诃德小姐，如果是为了帮助别人，您愿意送出那些珍藏的徽章吗？",
+      "source_kr": "돈키호테 씨는 사람들을 돕기 위해서라면 소중하게 모았던 배지들을 내어주실 수 있나요?",
+      "reason": "恢复开放询问，原文没有毫不犹豫献出徽章的预设。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40813",
+      "index": 6,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "唔嗯……若是为了拯救苍生，自当义不容辞……！",
+      "after": "唔嗯……若是为了帮助他人，那当然……！",
+      "source_kr": "으음… 사람들을 돕는 거라면 당연히…!",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40811",
+      "index": 2,
+      "field": "text",
+      "speaker": "惬意的皮革床",
+      "before": "要想在这阳光变得更加灼热之前被卖出去……光拿一件可远远不够啊。",
+      "after": "要想在这阳光变得更暖之前被买走……只拿一件可不够啊。",
+      "source_kr": "이 햇빛이 더 따스해지기 전에 팔리려면… 하나만 받는 거론 부족하다고.",
+      "reason": "따스해지다 为变暖，不能强化为灼热；保留阳光与醒来的感官线索。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40814",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "……甚至容不得我们出手阻拦，它们便一把推开我们，如狼似虎地扑向了那个敞开身躯纹丝不动的存在。",
+      "after": "……还没来得及阻拦，它们就推开我们，扑向那个展开身体、一动不动的人。",
+      "source_kr": "…손을 쓸 새도 없이, 그들은 우리를 밀치고 몸을 펼친 채 미동도 하지 않고 있는 자를 덮친다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40814",
+      "index": 2,
+      "field": "text",
+      "speaker": "",
+      "before": "尽管那具身躯被推倒在地，却依然未曾将胸膛合拢。",
+      "after": "那人倒在了地上，却仍未合拢身体。",
+      "source_kr": "그자는 바닥에 쓰러졌지만, 여전히 몸을 접지 않는다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40812",
+      "index": 15,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "唯有那个才是至高无上、无可替代的华服啊。若能将其穿在身上……！",
+      "after": "那可是最珍贵的衣服。要是能穿上它……！",
+      "source_kr": "그거야말로 제일 귀중한 옷이지. 그걸 입을 수 있다면…!",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40812",
+      "index": 17,
+      "field": "text",
+      "speaker": "弧形落地灯",
+      "before": "只要拥有了那颗心脏，我定然能够成为名花有主的家具……",
+      "after": "有了那颗心脏，我一定能成为有主人的家具……",
+      "source_kr": "그 심장이 있다면 나는 분명 주인 있는 가구가 될 수 있을 걸세…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40818",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "正当我们目睹着眼前的惨剧之时，眼前的景致仿佛场景切换一般骤然变幻。",
+      "after": "正看着这惨烈的一幕时，眼前的一切却突然变了模样，仿佛切换了场景。",
+      "source_kr": "그 참혹함을 시야에 담고 있던 때, 장면이 전환되듯 갑작스레 눈앞의 모든 것이 다르게 보이기 시작했다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40819",
+      "index": 8,
+      "field": "text",
+      "speaker": "默尔索",
+      "before": "所有的巨人皆是……",
+      "after": "巨人们全都是……",
+      "source_kr": "거인들은 모두…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40819",
+      "index": 10,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "心怀恐惧，恐惧着什么呢？",
+      "after": "害怕？在害怕什么呢？",
+      "source_kr": "무서워하다니, 무엇을요?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 2,
+      "field": "text",
+      "speaker": "",
+      "before": "唯有咀嚼吞咽食物的细微声响在黑暗中隐隐回荡。",
+      "after": "只有吃东西的声音从黑暗中传来。",
+      "source_kr": "그리고 무언가 먹는 소리만 어둠 속에서 들린다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 9,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "我很害怕。即使像现在这样和你依偎在一起。",
+      "after": "我很害怕。即使就这样和你待在一起。",
+      "source_kr": "무서워. 이렇게 당신과 함께 있는데도.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 10,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "就算分食着同一罐落日经验罐头……我所看见的这一抹落日，当真能被称为与你的落日是同一种事物吗？",
+      "after": "就算分着吃同一罐落日经验罐头，我看到的这片落日，能说和你看到的一样吗？",
+      "source_kr": "같은 노을 경험 통조림을 나눠 먹어도, 내가 보고 있는 이 노을이, 당신의 노을과 같은 것이라고 할 수 있을까?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 12,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "我对一切都心怀恐惧。",
+      "after": "我害怕一切。",
+      "source_kr": "난 모든 게 무서워.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 14,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "我为何会这般恐惧呢？",
+      "after": "为什么我会害怕？",
+      "source_kr": "왜 나는 무서워하는 거야?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 15,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "为何非得诞生为这般任凭感觉与杂念肆意滋生、决堤喷涌的……",
+      "after": "为什么我偏偏要生来就是……这些感觉和想法会自顾自冒出来、涌出来的……",
+      "source_kr": "왜 이런 감각과 생각이 멋대로 피어나오고 터져 나오는…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 16,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "名为人类的存在不可呢？",
+      "after": "名为人类的东西？",
+      "source_kr": "인간이라는 것으로 태어나야만 했던 거야?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40815",
+      "index": 19,
+      "field": "text",
+      "speaker": "让娜",
+      "before": "我知道的，无论是这座都市，还是你，皆绝不会回答这个问题吧。永远。",
+      "after": "我知道，无论是这座都市，还是你，都不会回答这个问题吧。永远不会。",
+      "source_kr": "알아, 이 도시도, 당신도 이 물음에 답을 해주는 일은 없겠지. 영원히.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40816",
+      "index": 6,
+      "field": "text",
+      "speaker": "",
+      "before": "听到了锁链相互碰撞发出哗啦啦声响的声音，那是默尔索正在摆弄着自己的锁链。",
+      "after": "哗啦……传来了默尔索摆弄自己锁链的声音。",
+      "source_kr": "절그렁… 하고 뫼르소가 자신의 사슬을 만지작거리는 소리가 들렸다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41324",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "“黄金面料与长钉，将唤醒万物，亦将抚慰万物长眠。”",
+      "after": "“黄金面料与长钉，将唤醒一切，也将使一切入睡。”",
+      "source_kr": "'황금원단과 못, 모든 것을 깨우고 모든 것을 재우리라.'",
+      "reason": "去除原文没有的抚慰与永久长眠，保留唤醒/使入睡的对应。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41324",
+      "index": 2,
+      "field": "text",
+      "speaker": "但丁",
+      "before": "<难道这便是那单足所说的那件传奇兵刃吗……？>",
+      "after": "<这会是单足说的那件传说中的武器吗……？>",
+      "source_kr": "<이게 원레그가 말했던 그 전설의 무기일까…?>",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41325",
+      "index": 0,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "说不定正是如此呢。",
+      "after": "说不定呢。",
+      "source_kr": "그럴지도 모르겠네요.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41330",
+      "index": 2,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "哎……您如今不再推销自己了吗？",
+      "after": "呃……您现在不卖自己了吗？",
+      "source_kr": "어… 이제는 본인을 파시지는 않는 건가요?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41331",
+      "index": 9,
+      "field": "text",
+      "speaker": "单足",
+      "before": "那可是极其高贵圣洁的楼层。穿着这等粗鄙寒酸的行头，可绝不容许贸然擅登。",
+      "after": "那是十分高贵的楼层。穿成这样，可不能随便上去。",
+      "source_kr": "그곳은 아주 고귀한 층이야. 그런 복장으로 함부로 오를 수 없지.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41331",
+      "index": 14,
+      "field": "text",
+      "speaker": "默尔索",
+      "before": "彼处如今正处于无法购置任何物品的状态。",
+      "after": "那里目前无法购买东西。",
+      "source_kr": "그곳은 당장 무언가를 구입할 수 없을 만한 상태였다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41925",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "与以往所见到的黑色鞋履不同，显得格外华丽奢靡。",
+      "after": "与之前见到的黑色鞋子不同，这些鞋子看起来很华丽。",
+      "source_kr": "봐오던 검정 신발과는 달리, 화려해 보이는 신발들이다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41928",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "极其华美的鞋履。可以说是……相当常见之物。",
+      "after": "华丽的鞋子。应该能说是……一般的鞋子。",
+      "source_kr": "화려한 신발들이다. 일반적이라고… 할 수 있을 법하다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41929",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "并非是黄金皮革格外显眼的鞋子。看了看价签，价格意外地亲民。",
+      "after": "这些鞋子的黄金皮革并不显眼。看了价签，似乎还便宜一些。",
+      "source_kr": "황금가죽이 도드라져 보이는 신발은 아니다. 가격표를 보니 조금 저렴한 것 같기도 하다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41944",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "[未使用] 皮革……不对，肌肉被紧紧绷直拉扯的声音从四面八方传来。",
+      "after": "[未使用] 传来皮革……不，肌肉被绷紧的声音……",
+      "source_kr": "[미사용] 가죽…아니, 근육이 팽팽하게 당겨지는 소리가 들린다…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40741",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "即便上前搭话也是纹丝不动。似乎是觉得很嫌烦。",
+      "after": "即使搭话也一动不动。似乎觉得很烦。",
+      "source_kr": "말을 걸어도 미동조차 없다. 귀찮아하는 것 같다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40751",
+      "index": 0,
+      "field": "text",
+      "speaker": "",
+      "before": "即便上前搭话也是纹丝不动。似乎是觉得很嫌烦。",
+      "after": "即使搭话也一动不动。似乎觉得很烦。",
+      "source_kr": "말을 걸어도 미동조차 없다. 귀찮아하는 것 같다.",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40910",
+      "index": 0,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "哎呀管理者阁下，为何来到4层了呢？莫非此处还有未了之事吗？",
+      "after": "哎呀，管理者老爷，为何来到4层了呢？莫非此处还有未了之事？",
+      "source_kr": "오잉 관리자 나리, 왜 4층으로 오셨는가? 이곳에 남은 볼일이라도 있는 것이오?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41950",
+      "index": 4,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "唔？管理者阁下未曾把什么要紧之物放进过花盆里吗？",
+      "after": "唔？管理者老爷未曾把什么要紧之物放进花盆里吗？",
+      "source_kr": "음? 관리자 나리는 화분에 무언가 중요한 물건을 넣어본 적이 없는 겐가?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41950",
+      "index": 6,
+      "field": "text",
+      "speaker": "鸿璐",
+      "before": "我放过哦。小的时候，捡到惜春送给我的好看石头或是花瓣，我总是会悄悄藏在怡红院的花盆缝隙里呢。",
+      "after": "我放过哦。小时候，惜春会把捡到的漂亮石头或花瓣送给我，我总会藏在怡红院的花盆之间。",
+      "source_kr": "저는 있답니다. 어렸을 적에 시춘이가 준 예쁜 돌이나 꽃잎을 주우면, 항상 이홍원의 화분 사이에 숨겨뒀었거든요.",
+      "reason": "EN 明确由惜春拾得并赠予，避免鸿璐捡到礼物的错误主语。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D41952",
+      "index": 2,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "管理者阁下，这个不能由吾等带走吗？",
+      "after": "管理者老爷，这个可否由吾等带走？",
+      "source_kr": "관리자 나리, 이건 우리가 가져가면 안 되겠는가?",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "key": "D40756",
+      "index": 0,
+      "field": "text",
+      "speaker": "堂吉诃德",
+      "before": "呜呜……竟然卑鄙地从黑暗死角里窜出来……",
+      "after": "呜……竟然卑鄙地从黑暗死角里窜出来……",
+      "source_kr": "으윽… 비겁하게 어두운 사각에서 튀어나오다니…",
+      "reason": "按连续场景复核原文意义与人物口吻，移除无依据强化、文言堆叠或指代预设，保留原文信息与情绪。"
+    }
+  ],
+  "limitations": [
+    "未独立验证调研中的原著版本或PV来源。",
+    "没有把原著评论或推测写入没有对应事实的游戏文本。",
+    "当前轮校对尚未进行游戏内显示验证。"
+  ],
+  "cross_file_consistency": {
+    "backup": "backups/research-crossrefs-20260918",
+    "changes": [
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+        "path": "dataList[key=D10501].texts[index=21].text",
+        "before": "是啊，很多顾客都想去奢侈品店。我理解。我也曾经为了进入奢侈品馆，发疯似的攒眼球……",
+        "after": "是啊，很多顾客都想去奢侈品店。我理解。我也曾经为了进入名品馆，发疯似的攒眼球……",
+        "source_kr": "맞아요, 많은 고객들이 명품 매장을 가고 싶어 하죠. 이해해요. 저도 한때는 명품관을 가고 싶어서 눈알들을 미친 듯이 모았던 때가 있었으니까…",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+        "path": "dataList[key=D10521].texts[index=12].text",
+        "before": "等各位前往奢侈品馆的时候……应该很快就能在橱窗里见到我了。啊啊……真高兴……",
+        "after": "等各位前往名品馆的时候……应该很快就能在橱窗里见到我了。啊啊……真高兴……",
+        "source_kr": "고객님들이 명품관으로 갈 때쯤이면… 저도 머지않아 쇼윈도에서 만날 수 있겠네요. 아아… 기뻐요…",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+        "path": "dataList[key=D3094].texts[index=8].text",
+        "before": "<color=#ebcaa2>精品馆里高级阶的红派众人心里多少也有数吧……</color>",
+        "after": "<color=#ebcaa2>名品馆里高级阶的红派众人心里多少也有数吧……</color>",
+        "source_kr": "<color=#ebcaa2>명품관에 있는 등급 높은 르루주들은 어느 정도 짐작하고 있었겠지만…</color>",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+        "path": "dataList[key=D3090].texts[index=4].text",
+        "before": "为何我们的品牌始终无法跻身精品馆……我们苦思冥想了很久。",
+        "after": "为何我们的品牌始终无法跻身名品馆……我们苦思冥想了很久。",
+        "source_kr": "우리 브랜드가 왜 명품관에 합류하지 못했는가… 오래도록 고민했어.",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+        "path": "dataList[key=D41410].texts[index=6].text",
+        "before": "失去声音的红派众人竟然潜入精品馆，企图炮制崭新的声音……",
+        "after": "失去声音的红派众人竟然潜入名品馆，企图炮制崭新的声音……",
+        "source_kr": "목소리를 잃은 르루주들이 명품관에 숨어들어 새로운 목소리를 만들고 있다니…",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+        "path": "dataList[key=D41410].texts[index=8].text",
+        "before": "千真万确。若依照上层尊贵之人的说法……只要提前撕裂那道全新的声音，便能将精品馆彻底纳为黑派的所有物。",
+        "after": "千真万确。若依照上层尊贵之人的说法……只要提前撕裂那道全新的声音，便能将名品馆彻底纳为黑派的所有物。",
+        "source_kr": "확실하군. 상층의 고귀한 자의 이야기대로면… 그 새로운 목소리를 사전에 찢어놓는 것으로 명품관을 르누아르의 것으로 만들 수 있을 것이다.",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+        "path": "dataList[key=D3156].texts[index=3].text",
+        "before": "我也从未踏足过精品馆。虽能下行至那层，却从未能获准入内。",
+        "after": "我也从未踏足过名品馆。虽能下行至那层，却从未能获准入内。",
+        "source_kr": "나도 명품관은 한 번도 가본 적이 없어. 내려갈 순 있었어도, 한 번도 입장할 수는 없었지.",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+        "path": "dataList[key=D3156].texts[index=7].text",
+        "before": "若准备停当，便前往精品馆吧。",
+        "after": "若准备停当，便前往名品馆吧。",
+        "source_kr": "준비가 된다면 명품관으로 향하도록 해.",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+        "path": "dataList[key=I990801].description",
+        "before": "奢侈品馆遭到袭击了！红派突袭了黑派占据的奢侈品馆，正在那里大摆宴席！",
+        "after": "名品馆遭到袭击了！红派突袭了黑派占据的名品馆，正在那里大摆宴席！",
+        "source_kr": "명품관에서 습격이 발생했다! 르누아르가 차지하고 있던 명품관을 르루주가 급습하여 잔치를 벌이고 있다!",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+        "path": "dataList[key=I990814].description",
+        "before": "绘有楼层通道、可用于突袭奢侈品馆的地图。然而已经使用过，无法辨认了。西西弗斯系统由多层叠加而成，这种多层结构使许多顾客陷入沉睡。这张地图由极少数能够分析多层结构的人绘制而成，价值高得惊人。红派得到了它。",
+        "after": "绘有楼层通道、可用于突袭名品馆的地图。然而已经使用过，无法辨认了。西西弗斯系统由多层叠加而成，这种多层结构使许多顾客陷入沉睡。这张地图由极少数能够分析多层结构的人绘制而成，价值高得惊人。红派得到了它。",
+        "source_kr": "명품관까지 급습할 수 있는 층의 통로가 그려진 지도. 허나 이미 사용되어 알아볼 수 없다. 시지프 시스템은 여러 겹으로 중첩되어 있으며 이러한 다층 구조로 인해 많은 고객들이 잠들어 있다. 다층 구조를 분석할 수 있는 아주 극소수의 인원만이 만든 이 지도는 천문학적인 가치를 지닌다. 르루주는 이것을 손에 넣었다.",
+        "reason": "同一 명품관 与地点、任务固定译名名品馆一致，不改泛称 명품 매장。"
+      },
+      {
+        "file": "StoryData/S1001B.json",
+        "path": "dataList[id=38].content",
+        "before": "所以……去哪儿才能找到默默？",
+        "after": "所以……去哪儿才能找到默尔？",
+        "source_kr": "그래서… 뫼르는 어딜 가면 만날 수 있는 건데?",
+        "reason": "罗佳的 뫼르 简称沿用冻结LLC：8D102B id55、PC03B id10，均译默尔。"
+      },
+      {
+        "file": "StoryData/S1003B.json",
+        "path": "dataList[id=97].content",
+        "before": "既然知道，为什么不早点说！明知道默默不是会主动开口的人……！",
+        "after": "既然知道，为什么不早点说！明知道默尔不是会主动开口的人……！",
+        "source_kr": "알고 있었다면 좀 미리 말해주지 그랬어! 뫼르가 먼저 말 꺼낼 사람이 아니라는 거 알면서도…!",
+        "reason": "罗佳的 뫼르 简称沿用冻结LLC：8D102B id55、PC03B id10，均译默尔。"
+      },
+      {
+        "file": "StoryData/S1004B.json",
+        "path": "dataList[id=336].content",
+        "before": "所以浮浮，你知道吗？那边的默默……会去哪里？",
+        "after": "所以浮浮，你知道吗？那边的默尔……会去哪里？",
+        "source_kr": "그래서 파우, 당신은 알아? 저기 있는 뫼르…가 어디로 가는지?",
+        "reason": "罗佳的 뫼르 简称沿用冻结LLC：8D102B id55、PC03B id10，均译默尔。"
+      },
+      {
+        "file": "StoryData/S1005B.json",
+        "path": "dataList[id=154].content",
+        "before": "我也不情愿……不过，他们两个说得对。总得先救默默出来。",
+        "after": "我也不情愿……不过，他们两个说得对。总得先救默尔出来。",
+        "source_kr": "나도 내키진 않는데… 두 사람 말이 맞는 것 같아. 일단 뫼르는 구해야 하잖아.",
+        "reason": "罗佳的 뫼르 简称沿用冻结LLC：8D102B id55、PC03B id10，均译默尔。"
+      }
+    ]
+  },
+  "final_validation": {
+    "source_delta_files": 152,
+    "introduced_blockers": 0,
+    "coverage_problems": 0,
+    "all_working_and_deployed_files_verified": 2163,
+    "linter_tests_passed": 67,
+    "resource_integration_tests_passed": 3,
+    "static_e2e_tests_passed": 116,
+    "runtime_verified": false,
+    "final_resource_manifest": "docs/reports/takeover-release-check.json",
+    "research_input_sha256": {
+      "docs/reports/meursault_research_1_camus_archetype.md": "90aa66d9d3e8d747d103c6aeed273bea6df24c8feb13f0c23c5954d912fb8d6c",
+      "docs/reports/meursault_research_2_official_pv_and_settings.md": "158a07e3f809a8622be83e852eb21d156fe318d0d1285e6be8f90a268ab4feb0",
+      "docs/reports/meursault_research_3_canto10_lore_and_localization_audit.md": "5a28e3bc835b16944591f7579e51417dc942303c6a1f1f0709acdd02b38e2559"
+    }
+  }
+}

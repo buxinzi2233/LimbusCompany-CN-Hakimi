@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "select_all",
+      "content": "全选"
+    },
+    {
+      "id": "deselect_all",
+      "content": "取消全选"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "剧情语音管理"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "请选择需要应用语音的项目。"
+    },
+    {
+      "id": "story_voice_process_confirm_title",
+      "content": "剧情语音管理"
+    },
+    {
+      "id": "story_voice_process_confirm_main_title",
+      "content": "将根据以下内容更改语音数据。\n确定要继续吗？"
+    },
+    {
+      "id": "story_voice_process_confirm_line",
+      "content": "[{0}] {1} - {2}"
+    },
+    {
+      "id": "story_voice_process_delete_label",
+      "content": "删除"
+    },
+    {
+      "id": "story_voice_process_download_label",
+      "content": "下载"
+    },
+    {
+      "id": "story_voice_process_progress_title",
+      "content": "剧情语音管理"
+    },
+    {
+      "id": "story_voice_process_progress_desc",
+      "content": "正在更新下载状态……"
+    },
+    {
+      "id": "story_voice_process_applying_label",
+      "content": "应用中"
+    },
+    {
+      "id": "story_voice_process_complete_title",
+      "content": "剧情语音管理"
+    },
+    {
+      "id": "story_voice_process_complete_desc",
+      "content": "已更新所选章节的语音文件状态。"
+    },
+    {
+      "id": "story_voice_process_progress_count",
+      "content": "{0}/{1}"
+    }
+  ]
+}

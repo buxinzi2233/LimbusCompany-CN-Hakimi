@@ -1,0 +1,1024 @@
+{
+  "dataList": [
+    {
+      "id": 500101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "拳打",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标额外造成3点打击伤害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标额外造成3点打击伤害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脚踢",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标额外造成5点打击伤害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标额外造成5点打击伤害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层[Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "偿还",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标失去5点理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "注意背后！",
+          "desc": "若目标的理智值低于0点，则使本技能的硬币威力+3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身恢复10点理智值"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[Binding]与2层[Reduction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标失去20点理智值"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "全员集合",
+          "desc": "[StartBattle] 下回合召唤2名友方单位",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "铭刻于身",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我的理发啊啊啊券！！！",
+          "desc": "[DefeatDuel] 使本技能造成的最终伤害-30%，且本技能造成的伤害不会使目标陷入混乱",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的混乱阈值前移30"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 下回合对目标施加1层[Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[RicardoBookRaid]层数减少5层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "铭刻痛苦",
+          "desc": "优先指定[RicardoBookRaid]层数最高的目标\n[WhenUse] 若目标的<color=#ff6000><mark=#ff000040><b><u>[RicardoBookRaid]层数不低于3层，</u></b></mark></color>\n则使本技能的所有硬币转化为[SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 本回合与下回合对目标施加1层[Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 本回合与下回合对目标施加1层[Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标额外造成(其[RicardoBookRaid]层数×3)点打击伤害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[RicardoBookRaid]层数减少3层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "游戏到此为止",
+          "desc": "[StartBattle] 使自身恢复20点理智值\n[EndBattle] 下回合使自身获得5层[Enhancement]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "全员，处刑！！！",
+          "desc": "[DefeatDuel] 使本技能造成的最终伤害-30%，且本技能造成的伤害不会使目标陷入混乱",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 目标每带有1层[RicardoBookRaid]，对其造成其体力上限3%的伤害"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[RicardoBookRaid]层数减少10层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "原来是我们的家人啊",
+          "desc": "[StartBattle] 使全体属于中指的单位恢复10点理智值",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "你们骗了我吗！！！",
+          "desc": "[StartBattle] 使自身失去20点理智值\n[StartBattle] 使自身获得6层[AttackUp]\n[StartBattle] 对自身施加4层[Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500113,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "牢记仇怨",
+          "desc": "[EndBattle] 下回合使自身获得3层[AttackUp]\n- <color=#ff6000><mark=#ff000040><b><u>若有攻击技能的主要目标指定</u></b></mark></color>使用本技能的行动槽，\n则令该效果获得的[AttackUp]层数减少1层",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500114,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "即刻处刑！",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目标每带有1层[RicardoBookRaid]，对其造成其体力上限1%的伤害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目标每带有1层[RicardoBookRaid]，对其造成其体力上限1%的伤害"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 目标每带有1层[RicardoBookRaid]，对其造成其体力上限1%的伤害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500115,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "试炼结束了",
+          "desc": "[WhenUse] 下回合使自身获得3层[HitDamageUp]\n[WhenUse] 若主要目标的<color=#ff6000><mark=#ff000040><b><u>[RicardoBookRaid]层数不低于5层，</u></b></mark></color>\n则使本技能的所有硬币转化为[SuperCoin]",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500116,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "大哥的慈悲",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>使目标的[RicardoBookRaid]层数减少10层</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>使目标陷入混乱</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "及锋而试",
+          "desc": "[BeforeHit] 目标每带有1层[MiddleFingerBook]，使自身获得5点护盾(每回合最多1次，最多50点)\n[WhenUse] 若目标的[MiddleFingerBook]层数不低于5层，则使本技能的基础威力+3并对目标施加4层[DefenseDown]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加倍奉还",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "断熊脊",
+          "desc": "[WhenUse] 若自身的[Breath]强度不低于8级，则使本技能暴击时造成的伤害+40%\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>若自身的[ChoiSwordsmanship]层数不低于7层，则使本技能的所有硬币转化为[SuperCoin]，暴击时造成的伤害+100%</color></mark></b></u>\n[DefeatDuel]\n- 使本技能造成的伤害-80%\n- 使本技能不会触发暴击\n- 使本技能造成的伤害不会使目标陷入混乱",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 本回合与下回合对目标施加1层[SlashResistDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加5级[Laceration]强度并对其施加3层[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斩虎",
+          "desc": "[WhenUse] 若自身的[Breath]强度不低于8级，则使本技能暴击时造成的伤害+40%\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>若自身的[ChoiSwordsmanship]层数不高于3层，则使本技能的所有硬币转化为[SuperCoin]，暴击时造成的伤害+100%</color></mark></b></u>\n[DefeatDuel]\n- 使本技能造成的伤害-80%\n- 使本技能不会触发暴击\n- 使本技能造成的伤害不会使目标陷入混乱",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加2层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加2层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[Binding]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 本回合与下回合对目标施加1层[SlashResistDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "本国剑[肉]-重整态势",
+          "desc": "本技能不受[ChoiSwordsmanship]影响\n若目标的技能为[SupportProtect]专用技能，则使本技能转化为[SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>使自身失去3层[ChoiSwordsmanship]</color></mark></b></u>\n- 若目标的技能为[SupportProtect]专用技能，则该效果不会触发\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>单方面攻击或攻击命中使用了[SupportProtect]专用技能的目标时，使自身获得2层[ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "本国剑[肉]-磨剑",
+          "desc": "本技能不受[ChoiSwordsmanship]影响\n若目标的技能为[SupportProtect]专用技能，则使本技能转化为[SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>使自身获得3层[ChoiSwordsmanship]</color></mark></b></u>\n- 若目标的技能为[SupportProtect]专用技能，则该效果不会触发\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>单方面攻击或攻击命中使用了[SupportProtect]专用技能的目标时，使自身失去2层[ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "断熊脊",
+          "desc": "[WhenUse] 若自身的[Breath]强度不低于8级，则使本技能暴击时造成的伤害+40%\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChoiSwordsmanship]层数高于6层，则每超过1层，使本技能的最终威力+1(最多+3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>若自身的[ChoiSwordsmanship]层数不低于7层，则使本技能的所有硬币转化为[SuperCoin]，暴击时造成的伤害+100%</color></mark></b></u>\n[DefeatDuel]\n- 使本技能造成的伤害-80%\n- 使本技能不会触发暴击\n- 使本技能造成的伤害不会使目标陷入混乱",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 本回合与下回合对目标施加1层[SlashResistDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加5级[Laceration]强度并对其施加3层[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "山君亦将在此刀锋之下一分为二",
+          "desc": "优先指定[Laceration]强度最高的敌方目标\n[WhenUse] 直到本技能结束时，自身不会因受到伤害而陷入混乱\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+3)\n[WhenUse] 若自身的[ChoiSwordsmanship]层数高于6层，则每超过1层，使本技能的最终威力+2(最多+6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>本技能不消耗[Breath]层数，硬币必定朝向正面，且必定暴击命中</color></mark></b></u>\n[BeforeAttack] 自身每带有2层[ChoiSwordsmanship]，使本技能暴击时造成的伤害+30%(最多+120%)\n[DefeatDuel]\n- 使本技能造成的伤害-80%\n- 使本技能不会触发暴击\n- 使本技能造成的伤害不会使目标陷入混乱 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标造成本硬币最终伤害量(自身的[Breath]强度×10)%的斩击伤害(最多100%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标造成本硬币最终伤害量(目标的[Laceration]强度×10)%的色欲伤害(最多100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斩虎",
+          "desc": "[WhenUse] 若自身的[Breath]强度不低于8级，则使本技能暴击时造成的伤害+40%\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>若自身的[ChoiSwordsmanship]层数不高于3层，则使本技能的所有硬币转化为[SuperCoin]，暴击时造成的伤害+100%</color></mark></b></u>\n[DefeatDuel]\n- 使本技能造成的伤害-80%\n- 使本技能不会触发暴击\n- 使本技能造成的伤害不会使目标陷入混乱",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加2层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度并对其施加2层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[Binding]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 本回合与下回合对目标施加1层[SlashResistDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斩落各方山虎之肉",
+          "desc": "优先指定[Laceration]强度最高的敌方目标\n<color=#ff6000><mark color=#ff000040><b><u>可无视速度值与本技能拼点</color></mark></b></u>\n[WhenUse] 直到本技能结束时，自身不会因受到伤害而陷入混乱\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>本技能不消耗[Breath]层数，硬币必定朝向正面，且必定暴击命中</color></mark></b></u>\n[BeforeAttack] 自身每带有2级[Breath]强度，使本技能暴击时造成的伤害+30%(最多+120%)\n[DefeatDuel]\n- 使本技能造成的伤害-80%\n- 使本技能不会触发暴击\n- 使本技能造成的伤害不会使目标陷入混乱 ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若主要目标的[Laceration]强度不低于10级，则对本硬币命中的目标施加8层[Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加8层[Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "本国剑[肉]-重整态势",
+          "desc": "本技能不受[ChoiSwordsmanship]影响\n若目标的技能为[SupportProtect]专用技能，则使本技能转化为[SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>使自身失去3层[ChoiSwordsmanship]</color></mark></b></u>\n- 若目标的技能为[SupportProtect]专用技能，则该效果不会触发\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>单方面攻击或攻击命中使用了[SupportProtect]专用技能的目标时，使自身获得2层[ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "本国剑[肉]-磨剑",
+          "desc": "本技能不受[ChoiSwordsmanship]影响\n若目标的技能为[SupportProtect]专用技能，则使本技能转化为[SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>使自身获得3层[ChoiSwordsmanship]</color></mark></b></u>\n- 若目标的技能为[SupportProtect]专用技能，则该效果不会触发\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>单方面攻击或攻击命中使用了[SupportProtect]专用技能的目标时，使自身失去2层[ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "二连斩",
+          "desc": "目标的[Combustion] 与[Vibration] 之和每有4点，最终威力+1 (最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration] 强度 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration] 强度 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "三连击",
+          "desc": "目标的[Combustion] 与[Vibration] 之和每有4点，最终威力+1 (最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Vibration] 层数增加2层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Vibration] 强度，使目标的[Vibration] 层数增加2层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 触发[VibrationExplosion] 。使目标的[Vibration] 层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "二连斩-爆[爆]",
+          "desc": "目标的[Combustion] 与[Vibration] 之和每有4点，最终威力+1 (最多+4)\n[DefeatDuel] 自身的[BulletPropellant] 减少1枚",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration] 强度 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion] 强度，使目标的[Combustion] 层数增加2层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration] 强度，使目标的[Vibration] 层数增加2层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "三连击-爆[爆]",
+          "desc": "目标的[Combustion] 与[Vibration] 之和每有4点，最终威力+1 (最多+4)\n[DefeatDuel] 自身的[BulletPropellant] 减少1枚",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Vibration] 层数增加2层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion] 强度，使目标的[Combustion] 层数增加2层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration] 强度，使目标的[Vibration] 层数增加2层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion] 强度，使目标的[Combustion] 层数增加2层"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 触发2次[VibrationExplosion] 。使目标的[Vibration] 层数减少2层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "爆碎斩 [爆碎斬]",
+          "desc": "优先以带有[Prey_leiheng] 的目标为指定对象\n<color=#ff6000><mark=#ff000040><b><u>不论速度高低均可与该技能进行拼点</u></b></mark></color>\n目标的[Combustion] 与[Vibration] 之和每有6点，硬币威力+1 (最多+3)\n[DefeatDuel] 自身理智值减少10点",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion] 强度 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration] 强度 "
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加4级[Vibration] 强度，使目标的[Vibration] 层数增加4层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Combustion] 层数增加3层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Vibration] 层数增加3层"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的震颤通过[Switch_Vibration] 转化为[VibrationIgnition] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>若通过该硬币效果消耗了[BulletPropellant] ，则伤害量+50%</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion] 强度，使目标的[Combustion] 层数增加3层"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] </u></b></mark></color> 触发2次[VibrationExplosion] 。使目标的[Vibration] 层数减少2层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "快刀乱麻 [快刀亂麻]",
+          "desc": "优先以带有[Prey_leiheng] 的目标为指定对象\n<color=#ff6000><mark=#ff000040><b><u>不论速度高低均可与该技能进行拼点，且在使用该技能前不会陷入混乱状态</u></b></mark></color>\n[WhenUse] 消耗全部[BattleSense] 。根据消耗的层数：\n- 达到10层：每10层使攻击容量+1 (最多+2)\n- 为25层：主要目标的[Combustion] 与[Vibration] 之和每有4点，最终威力+1 (最多+5)\n[DefeatDuel] 自身获得1层[Paralysis] \n[DefeatDuel] 造成的伤害量降低80%且该技能造成的伤害无法使目标混乱，<color=#ff6000><mark=#ff000040><b><u>施加的[Combustion] 强度与层数、[Vibration] 强度与层数的施加量减半</u></b></mark></color> (因其他效果增加的数值除外)\n[EndSkill] [FullReload] (每回合最多1次)\n- 若带有[BulletPropellantSpecial] ，则改为[ReloadKeepAmmo] (每回合最多1次)\n[EndSkill] 结束本回合",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "消耗全部[BulletPropellant] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Combustion] 强度、[Combustion] 层数、[Vibration] 强度和[Vibration] 层数均增加消耗的[BulletPropellant] 数量"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的震颤通过[Switch_Vibration] 转化为[VibrationIgnition] "
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] </u></b></mark></color> 触发3次[VibrationExplosion] 。使目标的[Vibration] 层数减少3层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "超绝猛虎杀击乱斩 [超絕猛虎殺擊亂斬]",
+          "desc": "优先以带有[Prey_leiheng] 的目标为指定对象\n<color=#ff6000><mark=#ff000040><b><u>不论速度高低均可与该技能进行拼点，且在使用该技能前不会陷入混乱状态</u></b></mark></color>\n[WhenUse] 消耗全部[BattleSense] 。根据消耗的层数：\n- 达到10层：每10层使攻击容量+1 (最多+4)\n- 达到25层：主要目标的[Combustion] 与[Vibration] 之和每有4点，最终威力+1 (最多+6)\n- 为50层：硬币威力+1，伤害量+50%\n[DefeatDuel] 自身获得6层[Paralysis] \n[DefeatDuel] 造成的伤害量降低80%且该技能造成的伤害无法使目标混乱，<color=#ff6000><mark=#ff000040><b><u>施加的[Combustion] 强度与层数、[Vibration] 强度与层数的施加量减半</u></b></mark></color> (因其他效果增加的数值除外)\n[EndSkill] [FullReload] (每回合最多1次)\n- 若带有[BulletPropellantSpecial] ，则改为[ReloadKeepAmmo] (每回合最多1次)\n[EndSkill] 结束本回合",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加6级[Combustion] 强度 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Combustion] 层数增加6层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加6级[Vibration] 强度 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Vibration] 层数增加6层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的震颤通过[Switch_Vibration] 转化为[VibrationIgnition] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin] "
+                },
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] </u></b></mark></color> 触发5次[VibrationExplosion] 。使目标的[Vibration] 层数减少5层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "天退星刀 装填",
+          "desc": "[DuelCounter] \n[DefeatDuel] 自身的[BulletPropellant] 减少1枚\n[EndBattle] [FullReload] (每回合最多1次)\n- 若带有[BulletPropellantSpecial] ，则改为[ReloadKeepAmmo] (每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration] 强度 "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[BulletPropellant] 消耗1枚"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion] 强度 "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[Vibration] 层数增加3层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 502001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "猛虎豹弹 支援",
+          "desc": "[EndBattle] 使雷横获得6枚[BulletPropellantSpecial] \n[EndBattle] [DisengageCombat] ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

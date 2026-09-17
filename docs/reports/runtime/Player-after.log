@@ -1,0 +1,60 @@
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.3.12f1 (fca03ac9b0d5)
+[Subsystems] Discovering subsystems at path S:/common/Limbus Company/LimbusCompany_Data/UnitySubsystems
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA GeForce RTX 4070 Laptop GPU
+[D3D12 Device Filter] Driver Version: 35.0.19.9999
+[D3D12 Device Filter] Feature Level: 12.2
+[D3D12 Device Filter] Graphics Memory: 8188 MB
+[D3D12 Device Filter] Processor Count: 24
+[D3D12 Device Filter] Device Type: Discrete
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+d3d12: could not load DirectML.dll.
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2820)
+    Vendor:          NVIDIA
+    VRAM:            8188 MB
+    App VRAM Budget: 7718 MB
+    Driver:          35.0.19.9999
+D3D12 MachineLearning context creation failure : null DML device.[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.123400 ms
+prevState : None, nextState : PlayVideo
+RenderGraph is now disabled.
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. S:\common\Limbus Company\LimbusCompany_Data\sharedassets0.resource
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+prevState : PlayVideo, nextState : PlayWarningAnim
+prevState : PlayWarningAnim, nextState : PlayDone
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.206100 ms
+Direct audio output mode not yet supported for this VideoPlayer backend. Use the AudioSource output mode instead.
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 18214.
+Total: 5.389600 ms (FindLiveObjects: 0.724500 ms CreateObjectMapping: 0.188400 ms MarkObjects: 4.408800 ms  DeleteObjects: 0.067500 ms)
+
+SetLoginInfo : STEAM
+[FMOD] Please add an 'FMOD Studio Listener' component to your camera in the scene for correct 3D positioning of sounds.
+WindowsVideoMedia error 0x80004004 while reading S:/common/Limbus Company/LimbusCompany_Data/resources.resource
+
+Context: WindowsVideoMedia::DiscardSamplesUntilTargetTime ReadSample
+Error details: <Empty>
+Track types:
+   Audio Track, type: %10%16
+   Video Track [1920 x 1080], type: H264
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7

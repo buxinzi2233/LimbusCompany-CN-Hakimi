@@ -1,0 +1,40 @@
+{
+  "factions": {
+    "Thumb": "拇指",
+    "Index": "食指",
+    "Middle": "中指",
+    "Ring": "无名指",
+    "Pinky": "小指",
+    "Cinq": "五协会",
+    "Shi": "四协会",
+    "Liu": "六协会",
+    "Dieci": "十协会",
+    "Devyat": "九协会"
+  },
+  "mechanics": {
+    "Combustion": "烧伤 ",
+    "Laceration": "流血 ",
+    "Vibration": "震颤 ",
+    "Burst": "破裂 ",
+    "Sinking": "沉沦 ",
+    "Poise": "呼吸法 ",
+    "Charge": "充能 ",
+    "UnBrokenCoin": "不可破坏硬币",
+    "SuperCoin": "强力硬币",
+    "ClashPower": "拼点威力",
+    "BasePower": "基础威力",
+    "CoinPower": "硬币威力",
+    "FinalPower": "最终威力"
+  },
+  "bossraid_season": {
+    "Leiheng": "雷横",
+    "Chachiho": "插翅虎",
+    "Cheontoeseong": "天退星",
+    "Hopyotan": "虎豹弹",
+    "Kaidoranma": "快刀乱麻",
+    "ChojeolMaenghosalgyeokNanchan": "超绝猛虎杀击乱斩",
+    "Jeolchan": "切斩",
+    "Dianxue": "点穴",
+    "WitnessDuel": "见证决斗"
+  }
+}

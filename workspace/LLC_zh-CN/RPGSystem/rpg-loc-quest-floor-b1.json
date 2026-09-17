@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "A1 : 前往地下1层",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "踏入地下1层食品馆"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "食品馆进入对话"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "前往地下2层",
+      "description": "得到了布歇烹饪的黄金茧。现在必须寻找下到地下2层的方法。去刚才经过的走廊下方那条路看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "寻找前往地下2层的通路"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "寻找下行的自动扶梯",
+      "description": "来到了一个满是自动扶梯的地方。调查这些扶梯，找出通往地下2层的那一部吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查自动扶梯"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "前往美食广场",
+      "description": "下到了地下1层。这里的景象与地上的店铺截然不同。要寻找茧，去名为美食广场的地方看看似乎不错。朝地面绘有蜗牛壳的地方走吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往美食广场"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "追赶副厨师长",
+      "description": "遇到了一个叫副厨师长的人。他说曾在布歇的仓库中见过黄金茧。追上逃跑的副厨师长，进一步打听黄金茧的消息吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "追赶副厨师长"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "拜访布歇",
+      "description": "从副厨师长那里，得知了地下1层楼层经理布歇的情况。去找布歇，询问取得黄金茧的方法吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "拜访布歇"
+        }
+      ]
+    },
+    {
+      "key": "Q-1006",
+      "title": "取回猎物的沉思",
+      "description": "要取得布歇手中的黄金茧，就必须找来名为“猎物的沉思”的肉。它挂在鲜肉区的某个地方，找到后交给布歇吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "取回猎物的沉思"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "返回自动扶梯室",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回自动扶梯室"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "自动扶梯室回归对话"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "定义自动扶梯",
+      "description": "照让娜的说法，我们似乎不是要寻找下行的自动扶梯，而是要为自动扶梯赋予定义。梯子、山丘，或是鞋子。该让默尔索把它定义成哪一种呢？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "将自动扶梯定义为梯子、山丘、鞋子中的一种"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "启动自动扶梯",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "启动自动扶梯"
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "搭乘自动扶梯下行",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "搭乘扶梯前往地下2层"
+        }
+      ]
+    }
+  ]
+}

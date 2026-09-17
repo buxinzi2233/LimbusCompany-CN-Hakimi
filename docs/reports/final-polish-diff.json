@@ -1,0 +1,385 @@
+{
+  "total_polished_fields": 42,
+  "snapshot_note": "润色阶段快照，依据本轮修正前备份对账；后续18字段修正见style-alignment-diff.json",
+  "snapshot_backup": "backups/style-alignment-20260918-033140/LLC_zh-CN",
+  "edits": [
+    {
+      "file": "BattleAnnouncerDlg/Announcer_CallistoAlbina_53.json",
+      "item_id": "announcer_enemy_adv_53_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_enemy_adv_53_1].dlg",
+      "old": "让我们保持距离，通过异化来找回客观性吧。\n太过沉浸其中的话，反而会错失某些东西。稍稍离远一些吧。",
+      "new": "让我们拉开距离，在陌生化中重拾客观性吧。\n若是陷得太深，反而会看不清很多东西。暂时退远些观望吧。",
+      "reason": "陌生化精准对应韩文낯설게 하다的文学美学批评概念，语句更生动"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_CallistoAlbina_53.json",
+      "item_id": "announcer_enemy_specialskill_53_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_enemy_specialskill_53_1].dlg",
+      "old": "强烈的刺激有时会成为极佳的灵感。\n就连即将到来的苦痛也被升华为艺术。",
+      "new": "强烈的刺激有时会成为极佳的灵感。\n就连即将到来的苦痛，也要将其升华为艺术。",
+      "reason": "使口吻更具艺术家主动掌控苦难的从容与锐气"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "item_id": "announcer_danger_55_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_danger_55_1].dlg",
+      "old": "各位顾客请注意。巨蟒季即将结束。为了在下一季为各位顾客带来更优质的体验，我们将竭尽所能。谢谢。",
+      "new": "各位顾客请注意。蟒蛇季即将结束。为了在下一季为各位顾客提供更为优质的体验，我们将竭尽全力。谢谢大家。",
+      "reason": "严格遵循零协会信字原则，剔除加戏脑补的百货主语与客套话，还原客观广播质感"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "item_id": "announcer_advatk_attr_55_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_advatk_attr_55_1].dlg",
+      "old": "西西弗斯百货公司的所有商品在本季亦于适宜的形态与位置正常销售。",
+      "new": "西西弗斯百货公司的所有商品，本季也正以适宜的形态陈列于相应位置正常销售。",
+      "reason": "增强语流顺畅度"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "item_id": "announcer_ally_specialbuff_55_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_ally_specialbuff_55_1].dlg",
+      "old": "美食广场在季度末前夕正在进行限时特惠。寻觅怀念之味的顾客，请移步至地下1楼。",
+      "new": "时逢季度末前夕，美食广场正开展限时特惠。寻觅怀念滋味的顾客，请移步至地下1楼。",
+      "reason": "消除在季度末前夕正在进行的杂糅病句"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "item_id": "announcer_round_givebigdmg_55_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_round_givebigdmg_55_1].dlg",
+      "old": "由于与人体模型的频繁接触，橱窗处即将暂时安装遮挡帘。请各位在购物与参观时予以参考。",
+      "new": "由于与人体模型的频繁接触，橱窗即将暂时安装遮帘。敬请各位在购物与参观时留意。",
+      "reason": "将予以参考润色为地道广播用语敬请留意"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "item_id": "announcer_round_givebigdmg_55_2",
+      "field": "dlg",
+      "path": "dataList[id=announcer_round_givebigdmg_55_2].dlg",
+      "old": "为了给各位顾客提供更舒适的购物环境，部分卖场正在调整人体模型数量。回收的人体模型将用作布料，或单独存放于地下停车场。",
+      "new": "为了给各位顾客提供更为舒适的购物环境，部分卖场正在调整人体模型数量。回收的人体模型将用作面料，或单独存放于地下停车场。",
+      "reason": "更自然的百货广播表述"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "item_id": "announcer_multikillenemy_55_1",
+      "field": "dlg",
+      "path": "dataList[id=announcer_multikillenemy_55_1].dlg",
+      "old": "对于消费业绩达到基准值的顾客，会员等级重审正在进行中。",
+      "new": "对消费业绩达标的顾客，会员等级复审正在进行中。",
+      "reason": "消除对于...正在进行中的翻译腔"
+    },
+    {
+      "file": "BattlePass-a1c10.json",
+      "item_id": "until_season_8_end_on_shop",
+      "field": "content",
+      "path": "dataList[id=until_season_8_end_on_shop].content",
+      "old": "至第9赛季更新\n前",
+      "new": "至第9赛季\n更新前",
+      "reason": "优化换行，避免割裂更新与前"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "111",
+      "field": "name",
+      "path": "dataList[id=111].name",
+      "old": "第8赛季 - 3星人格必出提取礼券",
+      "new": "第8赛季 - 3星人格必出提取券",
+      "reason": "补录实际已部署修改：提取礼券改为冻结LLC同源的提取券"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "111",
+      "field": "flavor",
+      "path": "dataList[id=111].flavor",
+      "old": "提取礼券上方印有某种特殊标识的特殊物品。能够确定性地提取存在于稀薄可能性世界中的人格。纸张正在剧烈摇晃并跳动着。",
+      "new": "票面上盖有某种特殊标记的特殊提取券。能够必定提取出存在于渺茫可能性世界中的人格。纸页正剧烈地震颤、脉动着。",
+      "reason": "消除同义反复，统一使用零协会标准词'提取券'，渺茫可能性与剧烈震颤脉动更贴合边狱公司抽取氛围"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "1108",
+      "field": "flavor",
+      "path": "dataList[id=1108].flavor",
+      "old": "罪人的自我碎片被随机采集并封存于箱子中。没人知道其中装着谁的碎片。\n将它拿到安静的地方，似乎还能隐约听见喃喃的细语声。",
+      "new": "罪人的自我碎片被随机采集并封存于箱中。谁也不知道里面究竟装着谁的碎片。\n若在安静的地方捧起它，似乎还能隐约听见里面传来的细微骚动。",
+      "reason": "依据韩文原文자그마한 소란润色为细微骚动，语感更具空间神秘感"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "1208",
+      "field": "flavor",
+      "path": "dataList[id=1208].flavor",
+      "old": "能获得任一罪人自我碎片的箱子。\n据浮士德所述，其结果会根据经理开箱时的选择而定。",
+      "new": "能够获得指定罪人自我碎片的箱子。\n据浮士德所述，其结果将由开箱时管理者的选择所决定。",
+      "reason": "统一管理者称谓，消除生硬句式"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10108",
+      "field": "flavor",
+      "path": "dataList[id=10108].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10208",
+      "field": "flavor",
+      "path": "dataList[id=10208].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10308",
+      "field": "flavor",
+      "path": "dataList[id=10308].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10408",
+      "field": "flavor",
+      "path": "dataList[id=10408].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10508",
+      "field": "flavor",
+      "path": "dataList[id=10508].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10608",
+      "field": "flavor",
+      "path": "dataList[id=10608].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10708",
+      "field": "flavor",
+      "path": "dataList[id=10708].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10808",
+      "field": "flavor",
+      "path": "dataList[id=10808].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "10908",
+      "field": "flavor",
+      "path": "dataList[id=10908].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "11008",
+      "field": "flavor",
+      "path": "dataList[id=11008].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "11108",
+      "field": "flavor",
+      "path": "dataList[id=11108].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "Items-a1c10p1.json",
+      "item_id": "11208",
+      "field": "flavor",
+      "path": "dataList[id=11208].flavor",
+      "old": "罪人们的某一天以碎片的形式显现之物。碎片漂浮着。\n可能性若不紧握在手中，便仅仅只是漂浮的可能性。",
+      "new": "罪人们不知何时的一日以碎片形式显化之物。碎片静静漂浮着。\n大概是因为，可能性若不紧握于手中，便终究只能任由其虚无漂浮吧。",
+      "reason": "忠实补齐韩文기 때문일 것이다的哲思余韵，语言更显深沉"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Honglu_EastCinq_10616.json",
+      "item_id": "smalltalk_10616_3",
+      "field": "dlg",
+      "path": "dataList[id=smalltalk_10616_3].dlg",
+      "old": "您不觉得决斗是很棒的事吗？武术若是不遵从规则战斗便只是对某人造成伤害……但在决斗下却能做到彼此以礼相待，当一切结束后再握手言和，不存芥蒂地回归日常生活。\n毕竟，三段决斗并不是那么常见的嘛？",
+      "new": "您不觉得决斗是很棒的事吗？武术若是不讲规则胡乱争斗，便只会伤及他人……但决斗却能让双方以礼相待，事了之后还能握手言和，毫无芥蒂地回归日常生活。\n哎呀，三段决斗本来也不是经常发生的事嘛？",
+      "reason": "严格按韩文누군가를 상처입히다精准对齐为伤及他人，剔除四字成语强塞的害己，保留世家公子从容口吻"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Honglu_EastCinq_10616.json",
+      "item_id": "smalltalk_10616_4",
+      "field": "dlg",
+      "path": "dataList[id=smalltalk_10616_4].dlg",
+      "old": "请选择您想要的武器。选顺手的就可以啦。啊，哪怕这里没有，您也可以尽管说需要什么，支部那儿很快就会送来的。\n很遗憾，您应该是没办法通过提出些冷门的武器来让决斗告吹的。因为我们能为您准备任何武器。",
+      "new": "请挑选您中意的武器。尽量选顺手的最好啦。啊，即便这里没有现成的，您只要说明需要什么，支部那边很快就会送来的。\n很遗憾，想通过报出些稀奇古怪的武器来赖掉决斗，可是行不通的哦。因为无论什么武器，我们都能为您备妥。",
+      "reason": "地道传神还原말도 안 되는 무기与决斗代理人游刃有余的俏皮风范"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Honglu_EastCinq_10616.json",
+      "item_id": "smalltalk_10616_5",
+      "field": "dlg",
+      "path": "dataList[id=smalltalk_10616_5].dlg",
+      "old": "呼呼，这不过是个二段决斗，不用那么激动啦。规则上根本不用拼上性命吧？还是先乖乖投降，随后……\n如果您指定我做您复仇战的代理人，我可以算您五折哦，呵。",
+      "new": "呼呼，这不过是场二段决斗，不用那么火冒三丈啦。规则上根本不必赌上性命吧？不如顺顺当当地认输，随后……\n若是在接下来的复仇战中指定我担任代理，我可以给您打个五折哦，呵。",
+      "reason": "消除生硬直译，增加鸿璐式商贾与收尾人精明的调侃语气"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "item_id": "battle_select_10816_1",
+      "field": "dlg",
+      "path": "dataList[id=battle_select_10816_1].dlg",
+      "old": "穿着那种过时的搭配，在任何地方可都是难以受欢迎的哦……不顺道来我们卖场逛上一圈吗？",
+      "new": "那种过时的穿搭，放在哪里可都不会受欢迎哦……不顺道来我们卖场逛上一圈吗？",
+      "reason": "消除生硬被动式与翻译腔"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "item_id": "battle_defeat_10816_1",
+      "field": "dlg",
+      "path": "dataList[id=battle_defeat_10816_1].dlg",
+      "old": "啊啊……声音……又听不见了……没有回应我，您到底去哪儿了？不行……！必须再次、重新默念。那位大人的声音、那位大人的话语！",
+      "new": "啊啊……声音……又听不见了……您未曾回应我，到底去哪儿了？不行……！必须一遍又一遍地重温默念。那位大人的声音、那位大人的圣言！",
+      "reason": "贴近信徒虔敬而癫狂的心境，以重温默念与圣言传达加缪式的狂信氛围"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "item_id": "lobby_morning_10416_1",
+      "field": "dlg",
+      "path": "dataList[id=lobby_morning_10416_1].dlg",
+      "old": "……只隔了一个季度，卖场又变脏了。啧。早该把那些多脚的下等货色彻底挡在门外的。",
+      "new": "……不过隔了一个季度，卖场就又变脏了。啧。早该把那些多足的下等货色彻底拒之门外的。",
+      "reason": "良秀凌厉孤傲口吻润色"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "item_id": "neglect_10416_1",
+      "field": "dlg",
+      "path": "dataList[id=neglect_10416_1].dlg",
+      "old": "……这名顾客是用双足行走的吗。哈，比起四足爬虫那些令人作呕的步态……倒还勉强看得过眼。",
+      "new": "……这次的顾客是用双足行走的吗。哈，比起四足爬虫那令人作呕的步态……倒还勉强看得过去。",
+      "reason": "消除口语别扭表达"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "item_id": "D1093",
+      "field": "text",
+      "path": "dataList[key=D1093].texts[index=0].text",
+      "old": "该死，我没有空瓶了。你上个季度还借了我三个，什么时候还？",
+      "new": "该死，我手头没有多余的空瓶了。你上个季度不是还管我借了三个吗，打算什么时候还？",
+      "reason": "顾客市井催债对话口吻优化"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "item_id": "D1010",
+      "field": "text",
+      "path": "dataList[key=D1010].texts[index=18].text",
+      "old": "她说，就算处于这种蠢样，收拾四处游荡的顾客还是没问题的……",
+      "new": "她说，就算落到这副蠢样，对付到处乱逛的顾客也绰绰有余……",
+      "reason": "辛克莱翻译良秀黑话的口语自然度优化"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "item_id": "11",
+      "field": "content",
+      "path": "dataList[id=11].content",
+      "old": "说是勒卡其……未免太懵懂。说是人体模特，又太能说话。",
+      "new": "说是勒卡其……未免太懵懂。说是人体模型，又未免太能言善道。",
+      "reason": "统一为人体模型并优化前后对仗韵律"
+    },
+    {
+      "file": "StoryData/S1002B.json",
+      "item_id": "82",
+      "field": "content",
+      "path": "dataList[id=82].content",
+      "old": "等得我脖子都快长了。你们究竟什么时候才认得出我啊！",
+      "new": "等得我脖子都长了。你们究竟什么时候才认得出我啊！",
+      "reason": "与后续第100句“等得脖子都长了”首尾呼应"
+    },
+    {
+      "file": "StoryData/S1003B.json",
+      "item_id": "50",
+      "field": "content",
+      "path": "dataList[id=50].content",
+      "old": "嫌疑人默尔索，在永久驱逐令已经生效的情况下，涉嫌擅自在N公司滞留。",
+      "new": "嫌疑人默尔索，现涉嫌无视已生效的永久驱逐令擅自滞留N公司。",
+      "reason": "消除在...情况下病句，确立法律公文的严正口吻"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "item_id": "73",
+      "field": "content",
+      "path": "dataList[id=73].content",
+      "old": "……真的就要这样在没有律师的情况下开始审判吗？",
+      "new": "……真的就要在连辩护律师都没有的情况下，就这么直接开始审判吗？",
+      "reason": "增强格里高尔焦急反问的口语自然感"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "item_id": "225",
+      "field": "content",
+      "path": "dataList[id=225].content",
+      "old": "检察官同样没有多说什么。因为那部分工作已经被浮士德代劳了……作为检察官大概还挺感激的吧。",
+      "new": "检察官同样没再多言。毕竟连那份差事都被浮士德代劳了……站在检察官的立场上，大概反而感激得很吧。",
+      "reason": "消除生硬直译，替换北方俚语'活计'为标准语'差事'，保持但丁统一叙述质感"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "item_id": "299",
+      "field": "content",
+      "path": "dataList[id=299].content",
+      "old": "呈绞刑架样貌的时间测量机器吊起默尔索的那一幕，时常被我们作为荒唐的回忆拿来调侃。",
+      "new": "默尔索曾被吊在形如绞刑架的时间测量机器上，那件事时常作为我们之间荒唐可笑的往事被拿来调侃。",
+      "reason": "优化主谓叙事节奏，重现但丁回忆的荒诞与温和"
+    },
+    {
+      "file": "StoryData/S1014B.json",
+      "item_id": "36",
+      "field": "content",
+      "path": "dataList[id=36].content",
+      "old": "他们已经提供了相当多的资金。在没有任何成果的情况下，恐怕很难获得新的援助。",
+      "new": "对方已经提供了相当多的资金。若毫无实质成果，恐怕很难再申请到新的援助了。",
+      "reason": "消除在没有任何成果的情况下的翻译腔，符合奥提斯军旅作风"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "item_id": "14",
+      "field": "content",
+      "path": "dataList[id=14].content",
+      "old": "我之所以抓住黄金皮革，将它撕下……没错，就是这样。",
+      "new": "我抓住黄金皮革并将其撕扯下来的理由……没错，正是如此。",
+      "reason": "消除之所以...是因为的生硬句式"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "dataList": [
+    {
+      "id": "attendance_check_s7_special_reward_condition",
+      "content": "在活动期间\n通关映射战斗-插翅虎\n普通难度时获得"
+    },
+    {
+      "id": "attendance_event_s7_desc",
+      "content": "※ 活动期间，您可以根据累计出勤天数获得相应奖励。"
+    }
+  ]
+}

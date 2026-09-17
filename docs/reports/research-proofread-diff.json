@@ -1,0 +1,5392 @@
+{
+  "baseline": "backups/proofread-20260918-014718",
+  "summary": {
+    "changed_files": 62,
+    "changed_string_fields": 845,
+    "structure_and_nontext_changes": 0
+  },
+  "files": [
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "before_sha256": "3c6d2e1e683e4cef9924130570e093645b976bcd036fbab064cec4a77674c70a",
+      "after_sha256": "9d5d7a2b91e1ead9997a67a05f0eb724020793280dd0c739c71abb8ffa8ab539"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "before_sha256": "6fee26aed9afb445c802518c9d942fdb3236f547a841e764ce5cee4c1aa45d87",
+      "after_sha256": "13420e113bc61975788a7cce2e267cc3c2b364f6e9b7c1afb679d4fa5e52bb91"
+    },
+    {
+      "file": "BattleKeywords.json",
+      "before_sha256": "6f5db40b769c2a103e30ca38b5e0a59a4cf5a30fff4283971ee0314479774305",
+      "after_sha256": "c7dc04228b886db747b8850f4b1afca9e1f28ad0f3bd1769bc60c06aa8fcb1d2"
+    },
+    {
+      "file": "BattleSpeechBubbleDlg-a1c10p1.json",
+      "before_sha256": "19b5a04ee024c1f385db955a9e0e7829ee4abbdaca61ecfc109bcf2f990279bf",
+      "after_sha256": "f0d737b80e13c9cb0c9c14f38864700ced922504694c0c6d8d1fd9de79fdc8be"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "before_sha256": "03a5b2789135d02eb92abceb7515d514cbd1d4faf855b293c161d7c4aead761c",
+      "after_sha256": "3c86e9b16e34b724009a06782192055471769b5c41d87afc44a663f998b8c7ec"
+    },
+    {
+      "file": "Bufs.json",
+      "before_sha256": "a3829483331884b7970aa4543c9a7c37f2c362bacfc9d9f33765e25ac64b0f1d",
+      "after_sha256": "44d4f5f45922c0a487c345394c19800c73df89e834c607d6be51dc8519292cfa"
+    },
+    {
+      "file": "Enemies-a1c10p1.json",
+      "before_sha256": "fb0ed83c0ef20527910b5a50a39c681b6c07627188e83cd00e11423602b93f7f",
+      "after_sha256": "31b7142c76ed5e4b5796704c1c5ea32c94b5442bde82d57e8b765ef08017642a"
+    },
+    {
+      "file": "GachaTitle.json",
+      "before_sha256": "5ddcc723098aeb0a14596f966022c723d8140306d39069512d29fa72e1dac69e",
+      "after_sha256": "d0aca50c838d91094c42e8b09503285b331d46cb7c50850718f54250a05ade83"
+    },
+    {
+      "file": "IAPProduct-a1c10.json",
+      "before_sha256": "1deed5e8f5b748e2120b46f35c77c98fd761f50416a5648d9f898f26871cfe7c",
+      "after_sha256": "f54ca981ea19befcafb3ddc95af6aff0c2ae7cb6645f8e1f2b58da6276ed66e8"
+    },
+    {
+      "file": "IntroductionPreset.json",
+      "before_sha256": "7387e3510ad83f25be6e67b5a201d2f814ad2d3f4098ff15a4a9f67c93e8de2e",
+      "after_sha256": "5d6d4380ae08189f0d1934f08c91948988b137c2384aa2aa5554b55e4b6b8c7a"
+    },
+    {
+      "file": "Passives.json",
+      "before_sha256": "02d687b45f432c9917e346b35c7d5af05c05ae537e1c321e6e7dd42fa7e68511",
+      "after_sha256": "18cbf22b39cda23c52e5ffaea2b6b14d972a7ad9efd3ca48cacb5a686be69c5c"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "before_sha256": "1bf1fe867dfb9fa5c8f2da0b3ca994dec92fff8c1a1898881e8c3211e25007d0",
+      "after_sha256": "3a6713a17202f1840879a1d3b7da2f205aa76424dde2141de57ccc99b9136e98"
+    },
+    {
+      "file": "Passives_Enemy-a1c10p1.json",
+      "before_sha256": "f6e6b98b7fedd237ed7bebd914e4b658379dd77c611222d7dd57bdd48aded474",
+      "after_sha256": "cef18adf10e3394543887919aef3c7a30a16bf1670ce104a90a56571f6fca2ec"
+    },
+    {
+      "file": "Personalities.json",
+      "before_sha256": "fbf1d0237aef9618501f78a919e1a18eb5a40dd6b2f7d3ebb8ef907e21cbe9a0",
+      "after_sha256": "b603b8af19900bc42ba2707e632f4f67f2d3d5bdbb373c3304e0ab362d23f7e1"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "before_sha256": "448cc1fdbfcdb4bc61970f26048713fa4d8bdbdcb334500326a60f0261c6e1ff",
+      "after_sha256": "04cb5c32894a898f1df2f0a6c6ae17fb7e796e7f3336fe6bfd6d8c9d78c4f290"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "before_sha256": "e4ba4a6644f3f46c83a87a6e62590104e35fb4b535f520aa544e9c1c7a911051",
+      "after_sha256": "93c7c84bf0d083d42c4ac4694bbe371379b56c5ccb102fe88626ac33d0696cd5"
+    },
+    {
+      "file": "Personality_Get_Condition.json",
+      "before_sha256": "5d8d9172609629355137fa9ed7bf8ea09199b51c3b9eac0b214a63d39f19db56",
+      "after_sha256": "b76b94d1faf9498d9a67f9da827b2fa0c75ffafe8fd1b43dfc25c7424db3781f"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "before_sha256": "75c8404108e61b61e70305418393826c75ab048c7f2b386323a12c5767edc5cf",
+      "after_sha256": "317a2b41c2a3fde0e8cb083bd61fa02f72e0678bfb973d3bc6869ce1867a27a8"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "before_sha256": "8a0f07cdf0d5f6b14ccee7cd56f19c5b8df6bc6cfb92bc5bd5258776bdbeef88",
+      "after_sha256": "bac45ba09f1988bccfc75d67b4805608eb5c7fdffbca8be5dcf78877033dcff8"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "before_sha256": "b7bf9dc1f19ed2dec74036bbec7a5e144b21887b328249e4eb1972ef75377fc6",
+      "after_sha256": "435fc741d6b6c1e495ec2759af077f1904a08a8b2fc57691946aefae8e6dc7b3"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "before_sha256": "791a1e5e93d25223456fe1bf9a94868b9edc6251de73348603266be7b1b9b26b",
+      "after_sha256": "46a6ae44a5b648d6f07166f25e894b2c27e6ae1350304d2d354478762deda67f"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "before_sha256": "af5cb4d4e658b80e2f1d5cabb24dd639eb8ed47be3dda8d321dc2ad398628421",
+      "after_sha256": "ccfc3a8b6a753a5ee38228d90d77479e6f73c223b33410d8b97c58852517af44"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "before_sha256": "00ac4d258784a5dfe571fb41d8d4e5e4f12154bc48c6f1469d36fb58a691839b",
+      "after_sha256": "698764e4f124deb5d99c2595d8df5a6d5ef71bffeda8a295841511202dc7cae7"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "before_sha256": "6aa382d616b82f55393c6d088f490c78023ae6392965c56a56ba84692b96fe9c",
+      "after_sha256": "1bc893a569ce3caf70f1bf016e1e91e6cf2cfbb3b97f6e753fdd41b41575233a"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "before_sha256": "025399741d8cee55b1878f5efdcceb6853da92252caa6f093464a79d19856abc",
+      "after_sha256": "090ccf859c19c451767663b60ef26d17bb3aa4a67aeb9bf79b571e9e3bbbebbb"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "before_sha256": "ea2d10a6dbb66c2b2f56877a40c188b6a37f7dc1007a0648ba5d89cd27d93e4f",
+      "after_sha256": "0179a80ed7645f0bd9bb366a3af3a6e6607d77a934aff2a036c7363c5b29d262"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-1.json",
+      "before_sha256": "e8f9e2e7557bc356469f613bf0ee85e48b3b6e1fe96400fcaa9ca9431ebe4a26",
+      "after_sha256": "df63c70e3fb1220f3d6c88e18ea0675d2ffb509bf11947f7ce94e18e48126017"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-3.json",
+      "before_sha256": "055f91236165c5899a8df4fe580ef2e2127d8d2055afc534c0bdd2490c3f6dca",
+      "after_sha256": "6d15ef8c84fbf151c017793be70248e01065c783de589d348085c6922f2335f4"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-b2.json",
+      "before_sha256": "ed71f9376f5038940bd85831df723045039c0de86c1c5d33cade271c3ad5199b",
+      "after_sha256": "b6a998d1b86ecf413d8f4925ce3d8d3bb63636e5f3620dd60ad0c8bd80f68cd1"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
+      "before_sha256": "dca79ca23b57989388f3944d7f0036fd6d6f838b8b12501b9ed6c62bcf2c9d63",
+      "after_sha256": "3e384e22fdf656b3e6acdc55bd19ef6c23ddeec98fa87e4d09dcb9def259cb03"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "before_sha256": "2074ed929198ebbcfeb16269e1d4f1d5e3ebab0c716b019902b395bbb3ce0978",
+      "after_sha256": "43ea8a065a278383ebebcec4d41d4e1ddce838b18bcf6bfed9e9cb27b8adbff4"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "before_sha256": "abaa808ac0443b08c642ccc2fc1dd3f42940bf0135d97d63ea2d98f9cccfe917",
+      "after_sha256": "419a769f6e81c11992aa44a65fc07089ecb35843b31dce76b95d8634322063d9"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
+      "before_sha256": "68ddb39911b40cefe79f95a7c13865f85c694577727b0e69860802fa5b7c5b0f",
+      "after_sha256": "82843e561f4de8010102d97c71dd91b85ffcfd743cc81e7bbccac576b7240151"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b1.json",
+      "before_sha256": "33f115d7a9fa6a52582d2a20ee05fed442ec1a39e208abd7eabe2bb73d99d067",
+      "after_sha256": "80e77c42beeda4f0357e593596a8f1e5af3a8acb7dcc2e771bce47a0d2240518"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b2.json",
+      "before_sha256": "d9993435a8aeabad627568de57620bee56f077aca3e773f8b9fdfd258cb8e47d",
+      "after_sha256": "85d2de35579e1b0197c70be8f6686ddb0bdccde1d97ac39ccf46590dca365ba6"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "before_sha256": "a3d2b0c4ae4999dca08853b36ee3b495b14cf3fc4b937917a6df8ba203f51050",
+      "after_sha256": "715c67ebc3c117c6290a20f719e083ed6870691c035bf9b243d325243eb4c224"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "before_sha256": "30149ba74d12d89b0b17520bf983953f94be7ea9c2cccceb13c1a5e369850671",
+      "after_sha256": "f8483926551c4b0e4091dd5f0bbf195b0f304da0d2a0b13d45ec7c91fd9f8f2d"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "before_sha256": "b14114893afa1389f4644aabb72e7dfced4ee207cc3b4bef842aa85d9c317a2d",
+      "after_sha256": "654c5cd7ee08082b0508831d86308774622c8333801eb1fca17d07fa09a61d5b"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-4.json",
+      "before_sha256": "ef58c6c7e1e49dadcc9a81ec09af73941c4735d59bd7dcc3fd84954f1fbe862f",
+      "after_sha256": "f1e8967d84a51b7888efa39c1f745adbeff15ffe7b707c15fe7eebab7423f9d6"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "before_sha256": "10d1d5c7a478bb53763a2e9f7a2a93a270b2e137d523a135055865fd04310174",
+      "after_sha256": "c845b6d8fc39ad0a1c3d7655f273f7f80cd9113b87446c34e80587c114436bca"
+    },
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "before_sha256": "95cad15148a1c121c6d66492f816c2b404b1309237975d91eb317778b29e0991",
+      "after_sha256": "433c6cde14e4c0db3c69afe491822f0ecc5b2a3ad4b98bbd61ea7e1286dc99ee"
+    },
+    {
+      "file": "Skills_Abnormality-a1c10p1.json",
+      "before_sha256": "4886f8097130434604e909f39d6504ce5ef7bc545243921954d308c4dd2615f9",
+      "after_sha256": "f61c05667abebf910b89899b7a376e5eb95d820e2721cf9c8ecb7d77831bc49b"
+    },
+    {
+      "file": "Skills_personality-08.json",
+      "before_sha256": "35b0d6832c0dedffed12724ae62cd27d95866e5a2cbe00d4e0e3d32f0e072d0e",
+      "after_sha256": "2ac1c8d7b5108a7db57283b1357a0aad4b540ccfb49050e7b787983558d8cda3"
+    },
+    {
+      "file": "StoryData/E920B.json",
+      "before_sha256": "0011d2cba9b93ce24eb7cc63062bdfe45e7301ee1d4424eff057b56ef3abb7f1",
+      "after_sha256": "69b28a9fa5325c4bf55a5bd46528c2b7bd08740fe9c637345c0e7a7dfdb67f4f"
+    },
+    {
+      "file": "StoryData/E927B.json",
+      "before_sha256": "7d96166522e9a79df1d489f25b7500b68d2df6e47762d05cdd83cbde400f3224",
+      "after_sha256": "47e7b9d660052e55c44607d85ae4ccaba6ac7ff840da628e35133126b7b3a5ef"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "before_sha256": "a6cd063318c91fcb3234c33dadd25ffa91d7eab77b78db08004293cbd4f3f129",
+      "after_sha256": "c4781559eadadea939aad80667e35acefbcc10987807eda74e67dfa8c53c80bc"
+    },
+    {
+      "file": "StoryData/P10616.json",
+      "before_sha256": "045485dad109e48b66830a38a0ffb54f1e7cc7d004bbf064a5f96852448287e6",
+      "after_sha256": "8b8d2b2de154753c9093dc75133fba7d04fada8f94013537d35062e4575fca6a"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "before_sha256": "86d13e42bd107fdcbc9b56bf66cb8c2ccac717d8656dc744112bebfaf899a4d5",
+      "after_sha256": "019e1e33576169ba8fe3cc237c90b77ebdb2a08b21a89fc2451686872a4c9233"
+    },
+    {
+      "file": "StoryData/S1001B.json",
+      "before_sha256": "d90231684372d87d5b0bf1da6c122c9603ede9a408a9a4616e1a70dc761124f1",
+      "after_sha256": "4d8a4bc2714482667c70bbe7c691953854cbcf46bad2203de398d508e92760b0"
+    },
+    {
+      "file": "StoryData/S1003B.json",
+      "before_sha256": "60cc9133772f1eaa82dae242a030dd60f4a10007c58bdfd2c073f08d271920e3",
+      "after_sha256": "b627c31b3581e6dde805a1e951d9699c4724384d0218d4eb3660c343eb1f712b"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "before_sha256": "6e114ee58440e520989d1faf1b20288fbbfa193a9b3dfa29594c862a72b776af",
+      "after_sha256": "f817ee36fd64ddd44b0ae0c003c2e6c6704893e2279f603117b2c80cda6198d5"
+    },
+    {
+      "file": "StoryData/S1005B.json",
+      "before_sha256": "c5b52508f754c56424993241f3d160c3eb8e97ad7293b7830230f038ffd8cfaf",
+      "after_sha256": "7fdafc8ef1c2c15e96f31599da14aa7b4dd1f113043ea41ac45fa01557f66c04"
+    },
+    {
+      "file": "StoryData/S1009B.json",
+      "before_sha256": "a8d36cacee4f67cfee592b0a4b308b5bad27facad36f57dc33bad65992221fdb",
+      "after_sha256": "6be9496b56bc9b263971d77759c6a00452f20f88a2fe288e800a582df01d3454"
+    },
+    {
+      "file": "StoryData/S1010B.json",
+      "before_sha256": "4b59f189b48f03f5ec6b9c1e35e50b08dbced5d623af6d05161e9a96e36265ae",
+      "after_sha256": "33454caeff1d605be5e8e8a1e6049ce344aa41a6f16141b31953f035c99d50e7"
+    },
+    {
+      "file": "StoryData/S1013B.json",
+      "before_sha256": "12f7ad2b0d8f57f755167bb461556fb217baf7f17357373cddcfa4abcf20c368",
+      "after_sha256": "dd2f028e3753855ea064a5e8bdd7708851652d7935b7c25ac6ec9190ca9752e6"
+    },
+    {
+      "file": "StoryData/S1014B.json",
+      "before_sha256": "8f1d11d082c0adacf82e5d2565eba360f8c8dcd100f36293f7f6e377b5cfcc4a",
+      "after_sha256": "f55949db395a197bd5807c744c7ad56ddee6904f224389afcd63dc075f0cfe14"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "before_sha256": "2d628996f69ec0ffc3b13ab62fc4fe8d8ce327cb9b13137f8d9b03ee278951fc",
+      "after_sha256": "e2d8a3c33da3517ba467d7c0078b6df4517d7210a954ac83aaa50a4c8dd09857"
+    },
+    {
+      "file": "StoryData/S1061B.json",
+      "before_sha256": "ca4d9269d4c54fdfda43d3be8b59ded576e7f3b584e01a40c88d9fc55e12f55e",
+      "after_sha256": "222d4f0c20a4eaff4e32b44382dd68d5898d821d89adf7b746c9293e36f4d0d7"
+    },
+    {
+      "file": "StoryData/S9991B.json",
+      "before_sha256": "cc8ddb7400bd7806de100e002e16e8d63f44e8e20f49fae930c0ddeb6ce901f3",
+      "after_sha256": "730ad22a1da20bd7ba74e9810e7b9552c0cfcad25e91b639957dd8e82036efd8"
+    },
+    {
+      "file": "StoryTheaterDanteNoteDetail_13.json",
+      "before_sha256": "240273674591fbacbd3446382f63327eb2eaab9babf6d7b399af061a24bca26b",
+      "after_sha256": "a3d1fb6064036a0de8fd57ac5829258130a33a4ec39ebac88e1682427e807923"
+    },
+    {
+      "file": "StoryTheaterMirrorWorldStoryTitle.json",
+      "before_sha256": "42573c02c0c3fc1ebd6a15a4e28b1704ad753bf0ba7aeb3cff1389fae5dfdc59",
+      "after_sha256": "3c1450dc26c6d6d3be03e9059754cd3c6ed6cd0675967916a4ffa5d0e406184d"
+    },
+    {
+      "file": "UnitKeyword-a1c10p1.json",
+      "before_sha256": "ed686b0574e2c5ee0daf84350c85e60f7e71a4e2f7ac696782b711278727abed",
+      "after_sha256": "d6e3d02f41e942e3d4701ffc2f59a100dbf92263e5177414cec453e8f304f5a6"
+    }
+  ],
+  "changes": [
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "path": "dataList[id=announcer_cheer_55_1].dlg",
+      "before": "雷诺阿本季系列以克制的色调与精湛的剪裁为核心精心构筑。追求紧缚心脏般穿着体验的顾客，请移步至1楼雷诺阿当代馆。",
+      "after": "黑派本季系列以克制的色调与精湛的剪裁为核心精心构筑。追求紧缚心脏般穿着体验的顾客，请移步至1楼黑派当代馆。"
+    },
+    {
+      "file": "BattleAnnouncerDlg/Announcer_Emporium_55.json",
+      "path": "dataList[id=announcer_cheer_55_2].dlg",
+      "before": "勒鲁日呈现的条纹季限定系列，正突显着肌肤与骨骼的优美曲线。追求宛如交错曲线般独特版型的顾客，请移步至1楼勒鲁日当代馆。",
+      "after": "红派呈现的条纹季限定系列，正突显着肌肤与骨骼的优美曲线。追求宛如交错曲线般独特版型的顾客，请移步至1楼红派当代馆。"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "path": "dataList[id=NoirBindArmor].name",
+      "before": "雷诺阿精纺面料",
+      "after": "黑派精纺面料"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "path": "dataList[id=NoirBindArmor].flavor",
+      "before": "雷诺阿面料如铠甲般坚实沉稳，以固定的轮廓修饰顾客的体态。",
+      "after": "黑派面料如铠甲般坚实沉稳，以固定的轮廓修饰顾客的体态。"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "path": "dataList[id=NoirSuit].name",
+      "before": "雷诺阿华达呢大衣",
+      "after": "黑派华达呢大衣"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "path": "dataList[id=Realisation].desc",
+      "before": "- 最大值：100\n- 回合开始时，每10点，恢复5点理智值\n- 回合开始时，每20点，获得1层[AttackUp] 与1层[DefenseUp] （各最多4层）\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 从转变后的下回合起，每回合结束时减少10\n- 数值降至0时，转变为雷诺阿华达呢大衣",
+      "after": "- 最大值：100\n- 回合开始时，每10点，恢复5点理智值\n- 回合开始时，每20点，获得1层[AttackUp] 与1层[DefenseUp] （各最多4层）\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 从转变后的下回合起，每回合结束时减少10\n- 数值降至0时，转变为黑派华达呢大衣"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "path": "dataList[id=Realisation].flavor",
+      "before": "阻止外界施加的力量波及穿着者的雷诺阿面料，最终为了祛除来自外界的变化而苏醒。\n释放积聚的能量，以祛除外在因由的方式运作。",
+      "after": "阻止外界施加的力量波及穿着者的黑派面料，最终为了祛除来自外界的变化而苏醒。\n释放积聚的能量，以祛除外在因由的方式运作。"
+    },
+    {
+      "file": "BattleKeywords-a1c10p1.json",
+      "path": "dataList[id=MeursaultBuffet].name",
+      "before": "钉刑之人",
+      "after": "嵌钉者"
+    },
+    {
+      "file": "BattleKeywords.json",
+      "path": "dataList[id=NoirSuitAlly].name",
+      "before": "雷诺阿华达呢大衣",
+      "after": "黑派华达呢大衣"
+    },
+    {
+      "file": "BattleKeywords.json",
+      "path": "dataList[id=RealisationAlly].desc",
+      "before": "- 最大值：100\n- 最小速度+2，最大速度+2\n- 每25点，攻击等级+1，防御等级+1\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 回合开始时，恢复8点理智值\n- 数值降至0时，转变为雷诺阿华达呢大衣",
+      "after": "- 最大值：100\n- 最小速度+2，最大速度+2\n- 每25点，攻击等级+1，防御等级+1\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 回合开始时，恢复8点理智值\n- 数值降至0时，转变为黑派华达呢大衣"
+    },
+    {
+      "file": "BattleKeywords.json",
+      "path": "dataList[id=RealisationAlly].flavor",
+      "before": "阻止外力传至穿戴者身上的雷诺阿布料，为了最终消除来自外界的变化而苏醒。\n它释放积蓄的能量，以消除外部因素为目的运作。",
+      "after": "阻止外力传至穿戴者身上的黑派布料，为了最终消除来自外界的变化而苏醒。\n它释放积蓄的能量，以消除外部因素为目的运作。"
+    },
+    {
+      "file": "BattleKeywords.json",
+      "path": "dataList[id=RougeIshmaelCocoon].flavor",
+      "before": "即便坚固，依然被动。在勒鲁日看来，被动之物无论多么坚固，都不堪一击。\n然而，为了改变，必须暂且停下脚步。因此，这个过程格外痛苦。",
+      "after": "即便坚固，依然被动。在红派看来，被动之物无论多么坚固，都不堪一击。\n然而，为了改变，必须暂且停下脚步。因此，这个过程格外痛苦。"
+    },
+    {
+      "file": "BattleSpeechBubbleDlg-a1c10p1.json",
+      "path": "dataList[id=10SV-010].dlg",
+      "before": "嗯唔哼唔唔嗯~ 这辛辣呛口的味道……最棒了！主厨想必也会很高兴的！",
+      "after": "嗯唔哼唔唔嗯~ 这辛辣呛口的味道……最棒了！布歇想必也会很高兴的！"
+    },
+    {
+      "file": "BattleSpeechBubbleDlg-a1c10p1.json",
+      "path": "dataList[id=10SV-158].dlg",
+      "before": "休要辩解。以为在头上顶个时钟我就认不出来了吗？那抹红色，定是勒鲁日无疑！",
+      "after": "休要辩解。以为在头上顶个时钟我就认不出来了吗？那抹红色，定是红派无疑！"
+    },
+    {
+      "file": "BattleSpeechBubbleDlg-a1c10p1.json",
+      "path": "dataList[id=10SV-160].desc",
+      "before": "第5回合开始时 (好像不是勒鲁日……)",
+      "after": "第5回合开始时 (好像不是红派……)"
+    },
+    {
+      "file": "BattleSpeechBubbleDlg-a1c10p1.json",
+      "path": "dataList[id=10SV-162].dlg",
+      "before": "务必！将我毫无用处的双腿！彻底斩除！",
+      "after": "务必！将我毫无用处的腿！彻底斩除！"
+    },
+    {
+      "file": "BattleSpeechBubbleDlg-a1c10p1.json",
+      "path": "dataList[id=10SV-164].dlg",
+      "before": "区区两条腿的异邦人，竟敢冒犯高贵的我？",
+      "after": "区区双足的异邦人，竟敢冒犯高贵的我？"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "path": "dataList[id=NoirBindArmor].name",
+      "before": "雷诺阿精纺面料",
+      "after": "黑派精纺面料"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "path": "dataList[id=NoirBindArmor].flavor",
+      "before": "雷诺阿面料如铠甲般坚实沉稳，以固定的轮廓修饰顾客的体态。",
+      "after": "黑派面料如铠甲般坚实沉稳，以固定的轮廓修饰顾客的体态。"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "path": "dataList[id=NoirSuit].name",
+      "before": "雷诺阿华达呢大衣",
+      "after": "黑派华达呢大衣"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "path": "dataList[id=Realisation].desc",
+      "before": "- 最大值：100\n- 回合开始时，每10点，恢复5点理智值\n- 回合开始时，每20点，获得1层[AttackUp] 与1层[DefenseUp] （各最多4层）\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 从转变后的下回合起，每回合结束时减少10\n- 数值降至0时，转变为雷诺阿华达呢大衣",
+      "after": "- 最大值：100\n- 回合开始时，每10点，恢复5点理智值\n- 回合开始时，每20点，获得1层[AttackUp] 与1层[DefenseUp] （各最多4层）\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 从转变后的下回合起，每回合结束时减少10\n- 数值降至0时，转变为黑派华达呢大衣"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "path": "dataList[id=Realisation].flavor",
+      "before": "阻止外界施加的力量波及穿着者的雷诺阿面料，最终为了祛除来自外界的变化而苏醒。\n释放积聚的能量，以祛除外在因由的方式运作。",
+      "after": "阻止外界施加的力量波及穿着者的黑派面料，最终为了祛除来自外界的变化而苏醒。\n释放积聚的能量，以祛除外在因由的方式运作。"
+    },
+    {
+      "file": "Bufs-a1c10p1.json",
+      "path": "dataList[id=MeursaultBuffet].name",
+      "before": "钉刑之人",
+      "after": "嵌钉者"
+    },
+    {
+      "file": "Bufs.json",
+      "path": "dataList[id=NoirSuitAlly].name",
+      "before": "雷诺阿华达呢大衣",
+      "after": "黑派华达呢大衣"
+    },
+    {
+      "file": "Bufs.json",
+      "path": "dataList[id=RealisationAlly].desc",
+      "before": "- 最大值：100\n- 最小速度+2，最大速度+2\n- 每25点，攻击等级+1，防御等级+1\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 回合开始时，恢复8点理智值\n- 数值降至0时，转变为雷诺阿华达呢大衣",
+      "after": "- 最大值：100\n- 最小速度+2，最大速度+2\n- 每25点，攻击等级+1，防御等级+1\n- 所有基础攻击技能的硬币转变为不可摧毁硬币\n- 回合开始时，恢复8点理智值\n- 数值降至0时，转变为黑派华达呢大衣"
+    },
+    {
+      "file": "Bufs.json",
+      "path": "dataList[id=RealisationAlly].flavor",
+      "before": "阻止外力传至穿戴者身上的雷诺阿布料，为了最终消除来自外界的变化而苏醒。\n它释放积蓄的能量，以消除外部因素为目的运作。",
+      "after": "阻止外力传至穿戴者身上的黑派布料，为了最终消除来自外界的变化而苏醒。\n它释放积蓄的能量，以消除外部因素为目的运作。"
+    },
+    {
+      "file": "Bufs.json",
+      "path": "dataList[id=RougeIshmaelCocoon].flavor",
+      "before": "即便坚固，依然被动。在勒鲁日看来，被动之物无论多么坚固，都不堪一击。\n然而，为了改变，必须暂且停下脚步。因此，这个过程格外痛苦。",
+      "after": "即便坚固，依然被动。在红派看来，被动之物无论多么坚固，都不堪一击。\n然而，为了改变，必须暂且停下脚步。因此，这个过程格外痛苦。"
+    },
+    {
+      "file": "Enemies-a1c10p1.json",
+      "path": "dataList[id=1465].name",
+      "before": "雷诺阿店员 古斯塔夫",
+      "after": "黑派店员 古斯塔夫"
+    },
+    {
+      "file": "Enemies-a1c10p1.json",
+      "path": "dataList[id=1494].name",
+      "before": "勒鲁日店员 米莫萨",
+      "after": "红派店员 米莫萨"
+    },
+    {
+      "file": "Enemies-a1c10p1.json",
+      "path": "dataList[id=91066].name",
+      "before": "雷诺阿店员[日光] ",
+      "after": "黑派店员[日光] "
+    },
+    {
+      "file": "Enemies-a1c10p1.json",
+      "path": "dataList[id=91067].name",
+      "before": "勒鲁日店员[日光] ",
+      "after": "红派店员[日光] "
+    },
+    {
+      "file": "GachaTitle.json",
+      "path": "dataList[id=296].content",
+      "before": "新人格定向提取 高级定制::勒鲁日精品店 以实玛利·高级定制::雷诺阿鞋履馆 良秀",
+      "after": "新人格定向提取 高级定制::红派精品店 以实玛利·高级定制::黑派鞋履馆 良秀"
+    },
+    {
+      "file": "IAPProduct-a1c10.json",
+      "path": "dataList[id=504].desc",
+      "before": "“新人格定向提取 高级定制::雷诺阿鞋履馆 良秀 · 高级定制::勒鲁日精品店 以实玛利”上线纪念商品，可获得以下道具：\n\n· 提取10次礼券 x 4",
+      "after": "“新人格定向提取 高级定制::黑派鞋履馆 良秀 · 高级定制::红派精品店 以实玛利”上线纪念商品，可获得以下道具：\n\n· 提取10次礼券 x 4"
+    },
+    {
+      "file": "IAPProduct-a1c10.json",
+      "path": "dataList[id=505].desc",
+      "before": "“新人格定向提取 高级定制::雷诺阿鞋履馆 良秀 · 高级定制::勒鲁日精品店 以实玛利”上线纪念商品，可获得以下道具：\n\n· 跳跃成长模组 - 人格同步 x 1\n· 人格训练礼券 IV x 90\n· 人格训练礼券 III x 40",
+      "after": "“新人格定向提取 高级定制::黑派鞋履馆 良秀 · 高级定制::红派精品店 以实玛利”上线纪念商品，可获得以下道具：\n\n· 跳跃成长模组 - 人格同步 x 1\n· 人格训练礼券 IV x 90\n· 人格训练礼券 III x 40"
+    },
+    {
+      "file": "IntroductionPreset.json",
+      "path": "dataList[id=introduce_word_261].content",
+      "before": "雷诺阿",
+      "after": "黑派"
+    },
+    {
+      "file": "IntroductionPreset.json",
+      "path": "dataList[id=introduce_word_262].content",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "Passives.json",
+      "path": "dataList[id=1041601].flavor",
+      "before": "雷诺阿相信，通过强烈震动动摇对手，就能使对方的价值崩塌。这是因为他们认为，震动越是剧烈，每时每刻经历的变化便越大。雷诺阿的战斗技术正是建立在这一理念之上的。\n\n虽然他们既不曾记得，也不曾体验，但在西西弗斯百货公司之外，也有以相同原理运作并发展而来的战斗技术。",
+      "after": "黑派相信，通过强烈震动动摇对手，就能使对方的价值崩塌。这是因为他们认为，震动越是剧烈，每时每刻经历的变化便越大。黑派的战斗技术正是建立在这一理念之上的。\n\n虽然他们既不曾记得，也不曾体验，但在西西弗斯百货公司之外，也有以相同原理运作并发展而来的战斗技术。"
+    },
+    {
+      "file": "Passives.json",
+      "path": "dataList[id=1041602].name",
+      "before": "雷诺阿华达呢布料",
+      "after": "黑派华达呢布料"
+    },
+    {
+      "file": "Passives.json",
+      "path": "dataList[id=1041603].name",
+      "before": "雷诺阿华达呢布料",
+      "after": "黑派华达呢布料"
+    },
+    {
+      "file": "Passives.json",
+      "path": "dataList[id=1041621].name",
+      "before": "雷诺阿的美德与价值",
+      "after": "黑派的美德与价值"
+    },
+    {
+      "file": "Passives.json",
+      "path": "dataList[id=1081621].name",
+      "before": "[勒鲁日高级定制女演员] ——礼服",
+      "after": "[红派高级定制女演员] ——礼服"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=146501].name",
+      "before": "雷诺阿面料",
+      "after": "黑派面料"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=146501].flavor",
+      "before": "雷诺阿面料如同铠甲般坚实固定，能有效修正顾客的体型。",
+      "after": "黑派面料如同铠甲般坚实固定，能有效修正顾客的体型。"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=146502].flavor",
+      "before": "雷诺阿通过严格的总部管理手册来接待各位顾客。",
+      "after": "黑派通过严格的总部管理手册来接待各位顾客。"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=149401].name",
+      "before": "勒鲁日夹克",
+      "after": "红派夹克"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=149301].name",
+      "before": "勒鲁日夹克",
+      "after": "红派夹克"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=146601].name",
+      "before": "勒鲁日精品店新款造型手册",
+      "after": "红派精品店新款造型手册"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=149201].name",
+      "before": "雷诺阿面料",
+      "after": "黑派面料"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=149201].flavor",
+      "before": "雷诺阿面料如同铠甲般坚实固定，能有效修正顾客的体型。",
+      "after": "黑派面料如同铠甲般坚实固定，能有效修正顾客的体型。"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=148201].name",
+      "before": "雷诺阿面料",
+      "after": "黑派面料"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=148201].flavor",
+      "before": "雷诺阿面料如同铠甲般坚实固定，能有效修正顾客的体型。",
+      "after": "黑派面料如同铠甲般坚实固定，能有效修正顾客的体型。"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=148301].name",
+      "before": "雷诺阿华达呢面料",
+      "after": "黑派华达呢面料"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=148301].flavor",
+      "before": "追求正统与坚韧的雷诺阿所推出的旗舰面料。",
+      "after": "追求正统与坚韧的黑派所推出的旗舰面料。"
+    },
+    {
+      "file": "Passives_Abnormality-a1c10p1.json",
+      "path": "dataList[id=148303].flavor",
+      "before": "雷诺阿坚信，令对方产生强烈的振动使其摇晃，便能令其价值崩溃。\n\n因为他们认为，目标振动得越剧烈，每一瞬间所经历的改变就越深刻。\n\n雷诺阿的战斗技巧正是建立在这份信念之上。",
+      "after": "黑派坚信，令对方产生强烈的振动使其摇晃，便能令其价值崩溃。\n\n因为他们认为，目标振动得越剧烈，每一瞬间所经历的改变就越深刻。\n\n黑派的战斗技巧正是建立在这份信念之上。"
+    },
+    {
+      "file": "Passives_Enemy-a1c10p1.json",
+      "path": "dataList[id=9106601].name",
+      "before": "雷诺阿面料",
+      "after": "黑派面料"
+    },
+    {
+      "file": "Passives_Enemy-a1c10p1.json",
+      "path": "dataList[id=9106601].flavor",
+      "before": "雷诺阿的布料以如铠甲般坚实、固定的轮廓，修饰顾客的体型。",
+      "after": "黑派的布料以如铠甲般坚实、固定的轮廓，修饰顾客的体型。"
+    },
+    {
+      "file": "Personalities.json",
+      "path": "dataList[id=10416].title",
+      "before": "高级定制::\n雷诺阿鞋履馆",
+      "after": "高级定制::\n黑派鞋履馆"
+    },
+    {
+      "file": "Personalities.json",
+      "path": "dataList[id=10816].title",
+      "before": "高级定制::\n勒鲁日精品店",
+      "after": "高级定制::\n红派精品店"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=get_10816_1].dlg",
+      "before": "您喜欢那件衣服吗？呵呵。摸一摸也没关系。勒鲁日的时尚，只有亲手触碰、细细体会，才能真正领略其价值。",
+      "after": "您喜欢那件衣服吗？呵呵。摸一摸也没关系。红派的时尚，只有亲手触碰、细细体会，才能真正领略其价值。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=lobby_morning_10816_1].dlg",
+      "before": "最近照在雷诺阿那边的阳光格外温暖呢。或许正是刮去、撕下他们擅自保存的黄金皮革的最佳季度。",
+      "after": "最近照在黑派那边的阳光格外温暖呢。或许正是刮去、撕下他们擅自保存的黄金皮革的最佳季度。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=smalltalk_10816_1].dlg",
+      "before": "单凭卖得再多，也是无法捕获更多眼球的吧。楼下那群家伙固然只要赶在季末特惠前迅速清空库存就万事大吉了，但……\n我们关心的可是面向何人、以何种形式售卖。在这一点上，我可比对面那群愚蠢的雷诺阿高明得多呢。",
+      "after": "单凭卖得再多，也是无法捕获更多眼球的吧。楼下那群家伙固然只要赶在季末特惠前迅速清空库存就万事大吉了，但……\n我们关心的可是面向何人、以何种形式售卖。在这一点上，我可比对面那群愚蠢的黑派高明得多呢。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=smalltalk_10816_5].dlg",
+      "before": "无论是那位大人向我低语呢喃之时，还是欣然收下我亲手缝制的手帕之时……我都感激得浑身如同要炸裂开来一般。\n我坚信着。那位大人一定会引领悲伤的我们……将百货公司里所有的黄金皮革撕扯下来，披在勒鲁日的身上。",
+      "after": "无论是那位大人向我低语呢喃之时，还是欣然收下我亲手缝制的手帕之时……我都感激得浑身如同要炸裂开来一般。\n我坚信着。那位大人一定会引领悲伤的我们……将百货公司里所有的黄金皮革撕扯下来，披在红派的身上。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=gacksung_10816_1].dlg",
+      "before": "渴求吧！吞噬吧！将雷诺阿糟蹋至今的黄金皮革全都剥扯下来，一片不留！",
+      "after": "渴求吧！吞噬吧！将黑派糟蹋至今的黄金皮革全都剥扯下来，一片不留！"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=battle_clear_10816_1].dlg",
+      "before": "本季度的销量……是我们勒鲁日领先了呢。不过那位大人绝不会满足于这种程度的。也不会就此止步。直到将他们的黄金皮革全部剥扯下来、尽数夺走为止……",
+      "after": "本季度的销量……是我们红派领先了呢。不过那位大人绝不会满足于这种程度的。也不会就此止步。直到将他们的黄金皮革全部剥扯下来、尽数夺走为止……"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ishmael_Contem_10816.json",
+      "path": "dataList[id=battle_clear_ex_10816_1].dlg",
+      "before": "虽然经历了漫长的季度，但仰仗那位大人的恩典，雷诺阿们终于要从这一层退场了呢。\n那么，就把这阴沉的黑色翻新为绚丽的红色吧。让更多顾客为勒鲁日的时尚狂热！",
+      "after": "虽然经历了漫长的季度，但仰仗那位大人的恩典，黑派们终于要从这一层退场了呢。\n那么，就把这阴沉的黑色翻新为绚丽的红色吧。让更多顾客为红派的时尚狂热！"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "path": "dataList[id=smalltalk_10416_2].dlg",
+      "before": "品牌经理说了……勒鲁日那帮家伙开始侍奉伪神了。说是那些卑贱不堪的家伙竟然也在名品馆占据了一席之地……一场颓靡堕落的时装秀就要开演了啊。黑与红的优劣，正好借此彻底分个高下。",
+      "after": "品牌经理说了……红派那帮家伙开始侍奉伪神了。说是那些卑贱不堪的家伙竟然也在名品馆占据了一席之地……一场颓靡堕落的时装秀就要开演了啊。黑与红的优劣，正好借此彻底分个高下。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "path": "dataList[id=smalltalk_10416_4].dlg",
+      "before": "雷诺阿的美学始于克制。那群急着显摆自己的勒鲁日蠢货，绝不可能理解这样的时尚。\n他们的穿搭亮点太多，让人不知该看哪里，总让我忍不住要踩·踏·粉·碎。",
+      "after": "黑派的美学始于克制。那群急着显摆自己的红派蠢货，绝不可能理解这样的时尚。\n他们的穿搭亮点太多，让人不知该看哪里，总让我忍不住要踩·踏·粉·碎。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "path": "dataList[id=smalltalk_10416_5].dlg",
+      "before": "鞋是为踏足大地而造的艺术……接触地面的面积越小，作品就越高雅，时尚的价值也越高。\n拒绝这份常识，肆无忌惮踩踏地面的勒鲁日设计师……让他们全·员·退·场，也毫不为过。",
+      "after": "鞋是为踏足大地而造的艺术……接触地面的面积越小，作品就越高雅，时尚的价值也越高。\n拒绝这份常识，肆无忌惮踩踏地面的红派设计师……让他们全·员·退·场，也毫不为过。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "path": "dataList[id=formation_10416_1].dlg",
+      "before": "该粉碎勒鲁日那群蠢货的异·端·诡·计了。",
+      "after": "该粉碎红派那群蠢货的异·端·诡·计了。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "path": "dataList[id=battle_clear_10416_1].dlg",
+      "before": "这般坚韧又贪婪的皮革……勒鲁日这帮家伙倒也不是毫无用处。毕竟当做鞋垫可没有比这更好的材料了。",
+      "after": "这般坚韧又贪婪的皮革……红派这帮家伙倒也不是毫无用处。毕竟当做鞋垫可没有比这更好的材料了。"
+    },
+    {
+      "file": "PersonalityVoiceDlg/Voice_Ryoshu_Contem_10416.json",
+      "path": "dataList[id=battle_defeat_10416_1].dlg",
+      "before": "真是令人……作呕……本应高贵至极的鞋履馆……竟然被勒鲁日这种恶心的下等货色踩在脚下……",
+      "after": "真是令人……作呕……本应高贵至极的鞋履馆……竟然被红派这种恶心的下等货色踩在脚下……"
+    },
+    {
+      "file": "Personality_Get_Condition.json",
+      "path": "dataList[id=10416_getCondition_normal].content",
+      "before": "获得高级定制::雷诺阿鞋履馆 良秀时",
+      "after": "获得高级定制::黑派鞋履馆 良秀时"
+    },
+    {
+      "file": "Personality_Get_Condition.json",
+      "path": "dataList[id=10416_getCondition_gacksung].content",
+      "before": "高级定制::雷诺阿鞋履馆 良秀达到同步化第3阶段",
+      "after": "高级定制::黑派鞋履馆 良秀达到同步化第3阶段"
+    },
+    {
+      "file": "Personality_Get_Condition.json",
+      "path": "dataList[id=10816_getCondition_normal].content",
+      "before": "获得高级定制::勒鲁日精品店 以实玛利时",
+      "after": "获得高级定制::红派精品店 以实玛利时"
+    },
+    {
+      "file": "Personality_Get_Condition.json",
+      "path": "dataList[id=10816_getCondition_gacksung].content",
+      "before": "高级定制::勒鲁日精品店 以实玛利达到同步化第3阶段",
+      "after": "高级定制::红派精品店 以实玛利达到同步化第3阶段"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1014].texts[index=0].text",
+      "before": "……（默默注视着我，脸上浮现出平缓的微笑，可以明白她对我们抱有善意）",
+      "after": "……（默默地看着我，脸上平静的微笑表明她对我们抱有善意）"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10141].texts[index=3].text",
+      "before": "……（虽未言语，唯有微笑一如既往地浮现在脸上）",
+      "after": "……（没有说话，但脸上依旧带着微笑）"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10142].texts[index=0].text",
+      "before": "……顺着繁星追寻下去的话，终有一日……",
+      "after": "……沿着那颗星走下去，总有一天……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10142].texts[index=1].text",
+      "before": "……繁星……",
+      "after": "……星星……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10143].texts[index=0].text",
+      "before": "……（并未回答。尝试探寻其正身似乎是徒劳之举）",
+      "after": "……（没有回答。看来无法问出她的身份）"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1008].texts[index=0].text",
+      "before": "正如以实玛利小姐所言，先出去看看较为妥当呢。",
+      "after": "依以实玛利女士所言，还是先出去为好。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10086].texts[index=0].text",
+      "before": "如此高规格的洗手间，吾还是头一次见到！若洗手间尚且如此，外边该有多么华丽啊……管理者大人！咱们快些出发吧！",
+      "after": "如此豪华的盥洗室，吾还是头一次见！盥洗室尚且如此，外面该多么华丽……管理者老爷！快些出发吧！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10088].texts[index=0].text",
+      "before": "以这里为据点，先对周边进行侦察较为妥当，管理者。",
+      "after": "管理者大人，建议先以这里为据点，侦察周边。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1009].texts[index=0].text",
+      "before": "……出·钟。",
+      "after": "……出·时。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1009].texts[index=2].text",
+      "before": "大概是“该出发了”，或者“滚出去吧时钟”……这样的意思吧。",
+      "after": "大概是“出门的时间到了”，或者“出去吧，时钟”……的意思。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10001].texts[index=0].text",
+      "before": "但丁。虽知情势艰险……但还是及早寻得默尔索君为宜吧。",
+      "after": "但丁。我知道眼下处境艰难……但还是尽快找到默尔索君为好吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10002].texts[index=0].text",
+      "before": "浮士德似乎没有更多需要向您说明的部分了。",
+      "after": "我似乎没有更多需要说明的了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10006].texts[index=0].text",
+      "before": "那个……管理者。我们是不是该快点去找默尔索先生了？",
+      "after": "那个……管理者先生。我们是不是该快点找到默尔索先生？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10009].texts[index=0].text",
+      "before": "若是感到疲惫，稍作休憩亦无妨，管理者。只要您下达命令，我即刻抽调人员……",
+      "after": "累了的话，您可以再休息一会儿，管理者大人。只要您下令，我就抽调人员……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10009].texts[index=2].text",
+      "before": "不愧是管理者。足以成为他人楷模的姿态……",
+      "after": "不愧是管理者大人。这正是他人的榜样……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10092].texts[index=0].text",
+      "before": "出·钟？",
+      "after": "出·时？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D10092].texts[index=1].text",
+      "before": "是“要出门吗，时钟”……还是“到出门的时间了？”呢……",
+      "after": "是“出门吗，时钟”……还是“出门的时间到了吗”……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1930].texts[index=0].text",
+      "before": "此处静谧得甚是奇异。休息之室……当真是一处歇息的空间么。",
+      "after": "这里安静得有些奇异。休息之室……当真是供人歇息的地方么。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1934].texts[index=0].text",
+      "before": "似乎正津津有味地倾听着堂吉诃德的高谈阔论。",
+      "after": "似乎正津津有味地听着堂吉诃德讲故事。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1936].texts[index=0].text",
+      "before": "嘴里说着“绝不会让汝等感到无聊！”，正在热火朝天地讲述着收尾人的故事。",
+      "after": "说着不会让大家无聊，正起劲地讲着收尾人的故事。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1003].texts[index=6].text",
+      "before": "问得真是理所当然啊。每当遇到这种状况，不顾前后用球棒砸个稀巴烂难道不是你这家伙的特长吗？",
+      "after": "这还用问？每次遇上这种情况，不管三七二十一先拿球棒砸开，不正是你的特长吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1003].texts[index=7].text",
+      "before": "不知道里面会潜藏什么，请管理者稍向后退。门就由希斯克利夫，那家伙来处理。",
+      "after": "还不知道里面有什么，管理者大人，请再往后退些。门就交给希斯克利夫处理。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1003].texts[index=9].text",
+      "before": "唔。言之有理。事情就是这样了，管理者。门对面的确认容后再议……",
+      "after": "嗯，有道理。情况就是这样，管理者大人。门后的情况留待之后确认……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1005].texts[index=1].text",
+      "before": "为何如此大惊小怪，管理者阁下？",
+      "after": "怎么吓成这样，经理兄？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1006].texts[index=0].text",
+      "before": "时钟脑壳！光盯着洗手间的门看能有什么变化啊？",
+      "after": "钟表头！光盯着盥洗室的门看，能有什么变化？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1006].texts[index=1].text",
+      "before": "管理者这是在更加仔细地搜寻！因为其中说不定混杂着至关重要的线索！",
+      "after": "管理者大人是在仔细检查！说不定藏着什么重要线索！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1006].texts[index=2].text",
+      "before": "呼……那种东西本名侦探在进门时便已经全部审视过了。这间洗手间已经没有什么值得看的东西了。钟·头。",
+      "after": "呼……本名侦探进门时就看过了。这间盥洗室没什么可看的了，钟·头。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D1007].texts[index=0].text",
+      "before": "门紧闭着的洗手间。",
+      "after": "门关着的盥洗室隔间。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D91002_A].texts[index=0].text",
+      "before": "一个孩子在■散落成了水。",
+      "after": "一个孩子从■散落而下，化成了水。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D91020_A].texts[index=3].text",
+      "before": "若真如此，便不仅能够治疗我所诞生的■■，更能治疗这座都市那深入骨髓的痛苦。",
+      "after": "若真如此，不仅能治疗我出生的■■，也能治疗这座都市深重的痛苦。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D90005].texts[index=0].text",
+      "before": "隶属于雷诺阿之人的尸体。似乎唯有留存下的帽子在诉说着死者生前的阶级。",
+      "after": "隶属于黑派之人的尸体。似乎唯有留存下的帽子在诉说着死者生前的阶级。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D90007].texts[index=0].text",
+      "before": "隶属于雷诺阿之人的尸体。厚重的布料甚至连鲜血都无法渗透。",
+      "after": "隶属于黑派之人的尸体。厚重的布料甚至连鲜血都无法渗透。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D3901].texts[index=0].text",
+      "before": "隶属于雷诺阿之人的尸体。被鲜血浸透的衣衫正缓缓褪变为黑红之色。",
+      "after": "隶属于黑派之人的尸体。被鲜血浸透的衣衫正缓缓褪变为黑红之色。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-common-a1c10p1.json",
+      "path": "dataList[key=D3903].texts[index=0].text",
+      "before": "隶属于勒鲁日之人的尸体。曾蠕动着的血管停歇了律动，正渐渐干瘪萎缩。",
+      "after": "隶属于红派之人的尸体。曾蠕动着的血管停歇了律动，正渐渐干瘪萎缩。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10221].texts[index=31].text",
+      "before": "唉……就按默尔索先生说的办吧。虽然不知道为什么，但您似乎很了解这里。",
+      "after": "哈啊……就按默尔索先生说的办吧。虽然不知道为什么，但您似乎很了解这里。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D102305].texts[index=1].text",
+      "before": "主流是被称为雷诺阿与勒鲁日的群体，此外，不属于任何一方的人称为勒卡其。还有一些既不露面，也不被提及的人。",
+      "after": "主流是被称为黑派与红派的群体，此外，不属于任何一方的人称为勒卡其。还有一些既不露面，也不被提及的人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D102307].texts[index=9].text",
+      "before": "我的身体此刻应当失去意识，存在于N公司某处的西西弗斯塔内的罐中。",
+      "after": "我的身体此刻处于无意识状态，位于N公司某处的西西弗斯塔内的罐中。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D102307].texts[index=10].text",
+      "before": "而包括管理者在内，十二位罪人的身体应当都在集体自杀售货机里。",
+      "after": "而管理者与其他罪人的身体，共计十二具，应当都在集体自杀售货机里。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D102311].texts[index=4].text",
+      "before": "无法规定答案，却能够作为认知流通，从这一点上说，两者是同构的。",
+      "after": "两者相同之处在于：无法给出确定的答案，却都能被认知所接受。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1040].texts[index=3].text",
+      "before": "在雷诺阿的店铺里，店员无需特意与顾客搭话。",
+      "after": "在黑派的店铺里，店员无需特意与顾客搭话。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1049].texts[index=2].text",
+      "before": "雷诺阿或勒鲁日的当代时装馆所售的衣服，会依照各自派别追求的时尚，保持一定程度的一致性。",
+      "after": "黑派或红派的当代时装馆所售的衣服，会依照各自派别追求的时尚，保持一定程度的一致性。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10421].texts[index=8].text",
+      "before": "勒鲁日竟敢闯入此处，扰乱秩序、肆意羞辱，难道想擅自撕毁那份古老的停战协定？",
+      "after": "红派竟敢闯入此处，扰乱秩序、肆意羞辱，难道想擅自撕毁那份古老的停战协定？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10421].texts[index=9].text",
+      "before": "我们连勒鲁日……是什么都不知道。我们谁也不是，哪边都不属于！",
+      "after": "我们连红派……是什么都不知道。我们谁也不是，哪边都不属于！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10421].texts[index=13].text",
+      "before": "应当与雷诺阿信奉的戒律有关。",
+      "after": "应当与黑派信奉的戒律有关。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10421].texts[index=16].text",
+      "before": "不可饶恕……我要亲手收回那灿烂的松脂，加固这座日渐褪色的殿堂……是的，我听到了，那个声音……我将在此，代表所有雷诺阿的意志……",
+      "after": "不可饶恕……我要亲手收回那灿烂的松脂，加固这座日渐褪色的殿堂……是的，我听到了，那个声音……我将在此，代表所有黑派的意志……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10430].texts[index=9].text",
+      "before": "我们渴求那光芒……但与屈服于卑俗欲望的勒鲁日不同，雷诺阿只是想守护那赐福的纹理，让它永久留存……",
+      "after": "我们渴求那光芒……但与屈服于卑俗欲望的红派不同，黑派只是想守护那赐福的纹理，让它永久留存……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10432].texts[index=0].text",
+      "before": "大约九个年轮季度之前，百货公司突然开始开裂，衰败的时代降临了……",
+      "after": "九个树季之前，百货公司突然开始开裂，衰败的时代降临了……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10432].texts[index=16].text",
+      "before": "而前方……请务必提高警惕。那是勒鲁日的领域。他们用卑俗的垂褶技法，连布料也固定不好，还擅自撕裂、拼接我们的黄金松脂，肆意亵渎……",
+      "after": "而前方……请务必提高警惕。那是红派的领域。他们用卑俗的垂褶技法，连布料也固定不好，还擅自撕裂、拼接我们的黄金松脂，肆意亵渎……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10432].texts[index=17].text",
+      "before": "……勒鲁日……好，我们会注意。",
+      "after": "……红派……好，我们会注意。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10501].texts[index=6].text",
+      "before": "我们品牌追求的是一种收紧般的解放感。您经过雷诺阿的店铺了吧？与他们用钢芯钉住、虚伪地束缚的做法，本质上便不同。",
+      "after": "我们品牌追求的是一种收紧般的解放感。您经过黑派的店铺了吧？与他们用钢芯钉住、虚伪地束缚的做法，本质上便不同。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10501].texts[index=9].text",
+      "before": "他一边炫耀，一边不停地咂着嘴。",
+      "after": "她一边炫耀，一边不停地咂着嘴。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10501].texts[index=21].text",
+      "before": "是啊，很多顾客都想去奢侈品店。我理解。我也曾经为了进入奢侈品馆，发疯似的攒眼球……",
+      "after": "是啊，很多顾客都想去奢侈品店。我理解。我也曾经为了进入名品馆，发疯似的攒眼球……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10501].texts[index=23].text",
+      "before": "有个勒鲁日原本在这一带开店，这次入驻了奢侈品馆。那家伙的打版和设计本事比我差远了，我甚至还亲手教过他。",
+      "after": "有个红派原本在这家店里，这次入驻了名品馆。那家伙的打版和设计本事比我差远了，我甚至还亲手教过对方。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10501].texts[index=24].text",
+      "before": "可有一天……他在自己做的所有衣服上……",
+      "after": "可有一天……那家伙在自己做的所有衣服上……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D10521].texts[index=12].text",
+      "before": "等各位前往奢侈品馆的时候……应该很快就能在橱窗里见到我了。啊啊……真高兴……",
+      "after": "等各位前往名品馆的时候……应该很快就能在橱窗里见到我了。啊啊……真高兴……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1029].texts[index=0].text",
+      "before": "迷路顾客指南：\n朝上方前进，可欣赏勒鲁日系列；朝下方前进，可欣赏雷诺阿系列。",
+      "after": "迷路顾客指南：\n朝上方前进，可欣赏红派系列；朝下方前进，可欣赏黑派系列。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1962].texts[index=3].text",
+      "before": "唉……原来那种颤抖是一种警告。",
+      "after": "哈啊……原来那种颤抖是一种警告。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1954].texts[index=0].text",
+      "before": "上面以优雅的手写体刻着：“勒鲁日本季度最为大胆的先锋之作。若您无法理解，那便是您尚未准备好迎接这份美。”",
+      "after": "上面以优雅的手写体刻着：“红派本季度最为大胆的先锋之作。若您无法理解，那便是您尚未准备好迎接这份美。”"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1964].texts[index=1].text",
+      "before": "默尔索收起了过季的勒鲁日衣服。",
+      "after": "默尔索收起了过季的红派衣服。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1917].texts[index=0].text",
+      "before": "曾属于勒鲁日的人留下的尸体。头无力抬起，血从脸上的窟窿中流出。",
+      "after": "曾属于红派的人留下的尸体。头无力抬起，血从脸上的窟窿中流出。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-1.json",
+      "path": "dataList[key=D1085].texts[index=3].text",
+      "before": "……喂，误会别人，至少道个歉……唉……算了。",
+      "after": "……喂，误会别人，至少道个歉……哈啊……算了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2002].texts[index=11].text",
+      "before": "是黑色的东西呢。虽说无法填饱我们的饥肠辘辘就是了……",
+      "after": "是黑色的东西。虽然还填不饱我们的肚子……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2003].texts[index=0].text",
+      "before": "至少等提升了等级再来敲门的话，届时我们再依据各位的条件予以商榷吧。",
+      "after": "至少提升等级再来敲门，到时我们会重新审核各位的条件。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20041].texts[index=0].text",
+      "before": "<color=#515aee>在这里……这般……</color>",
+      "after": "<color=#515aee>在这里……这样……</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2005].texts[index=2].text",
+      "before": "没、没有啦，我就跟洗手间里的那群家伙赌舌头能不能碰到手肘而已……",
+      "after": "没、没有，我就是跟洗手间里的那群家伙打赌，看舌头能不能碰到手肘……咳。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2006].texts[index=1].text",
+      "before": "大概……极大概率是到达了与我们身处的这处2层所不同的另一个2层。",
+      "after": "大概……他很可能到达了与我们不同的另一个2层。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2006].texts[index=6].text",
+      "before": "默尔索仿佛认同浮士德所言那般，微微颔首。",
+      "after": "默尔索轻轻点了点头，似乎认同浮士德的说法。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2007].texts[index=0].text",
+      "before": "由骨骼与血肉筑成的墙挡住了去路。隔着墙，隐约能看见倒下的雷诺阿的尸体。",
+      "after": "由骨骼与血肉筑成的墙挡住了去路。隔着墙，隐约能看见倒下的黑派的尸体。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2026].texts[index=0].text",
+      "before": "由骨骼与血肉筑成的墙挡住了去路。墙后，原先守在这里的勒鲁日，以及倒下的雷诺阿的尸体，都已不见踪影。",
+      "after": "由骨骼与血肉筑成的墙挡住了去路。墙后，原先守在这里的红派，以及倒下的黑派的尸体，都已不见踪影。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2009].texts[index=0].text",
+      "before": "<color=#7d7d7d>雷诺阿们将永世辉耀。</color>",
+      "after": "<color=#7d7d7d>黑派们将永世辉耀。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2009].texts[index=3].text",
+      "before": "看起来杀戮的进程似乎比先前更加推进了呢。",
+      "after": "看来这里的屠杀比之前更进一步了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=4].text",
+      "before": "自当驱逐那些企图蚕食维持百货公司的黄金松脂、贪得无厌的勒鲁日。",
+      "after": "自当驱逐那些企图蚕食维持百货公司的黄金松脂、贪得无厌的红派。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=5].text",
+      "before": "依书信所托，名品馆内的衣物不取分文眼球，尽数奉予尔等。",
+      "after": "依书信所托，名品馆的衣物将交予尔等，不收一只眼球。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=6].text",
+      "before": "……只需用那柄黄金钉，将勒鲁日正在筑造的虚假之神撕裂扯碎便足够了。",
+      "after": "……只需用那柄黄金钉，将红派正在筑造的虚假之神撕裂扯碎便足够了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=9].text",
+      "before": "<冷静地说，对我们而言无论是勒鲁日还是雷诺阿……哪一方正确并非至关重要之事。>",
+      "after": "<冷静地说，对我们而言，无论是红派还是黑派……哪边正确，似乎都不是那么重要。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=11].text",
+      "before": "<……以及达成将默尔索从这里带出来的目标罢了。>",
+      "after": "<……我们的目标，也只是把默尔索从这里带出去。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=13].text",
+      "before": "<在如今能做的选择中，距离那个目标最近的……似乎唯有答应雷诺阿的请求了。>",
+      "after": "<目前能做的选择里，最接近那个目标的……似乎只有答应黑派的请求了。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=23].text",
+      "before": "……无事。属下将遵从管理者的决断。",
+      "after": "……没什么。我会遵从管理者的判断。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=24].text",
+      "before": "以此言为终结，默尔索默默走向了前方。",
+      "after": "说完，默尔索便默默走上前去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20091].texts[index=25].text",
+      "before": "让娜大概会伤心吧。",
+      "after": "让娜会伤心的。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2010].texts[index=1].speaker",
+      "before": "雷诺阿",
+      "after": "黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=2].text",
+      "before": "我正为其吟唱摇篮曲，为了不让其受冻而覆上摇篮……",
+      "after": "我正为那位大人唱摇篮曲，盖好摇篮，以免受冷……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=3].text",
+      "before": "我正在拆解各位的皮肤并重新缝合。一切皆为了回归包裹那位大人的摇篮。",
+      "after": "我正在拆开各位的皮肤，再重新缝好。一切都会回归那包裹着那位大人的摇篮……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=4].text",
+      "before": "自这处温热的巢穴中，那平稳均匀传来的睡息……各位难道听不见吗？",
+      "after": "这个暖和的巢里，传来的轻轻呼吸声……各位听不见吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=9].text",
+      "before": "在卖场筹备开业之际，竟敢以泥足擅自闯入。",
+      "after": "卖场还在筹备营业，各位竟踩着一脚泥进来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=11].text",
+      "before": "若是稍有不慎未能接下那者的攻势，就此全军覆没的概率高达九成。",
+      "after": "若应对她的攻击时稍有差错，就此全军覆没的概率便有九成。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=12].text",
+      "before": "我已记下了各位的面容。往后即便这处空间的改装宣告终结，亦绝不将各位视作顾客。",
+      "after": "我记住各位的脸了。今后即便这里改装完毕，也不会再接待各位。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2011].texts[index=13].text",
+      "before": "与那些裹着令人窒息的漆黑布料的雷诺阿们一起……",
+      "after": "与那些裹着令人窒息的漆黑布料的黑派们一起……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20111].texts[index=0].speaker",
+      "before": "垂死的雷诺阿",
+      "after": "垂死的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20111].texts[index=1].speaker",
+      "before": "垂死的雷诺阿",
+      "after": "垂死的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20111].texts[index=5].text",
+      "before": "再怎么厉害也觉得莫名缺少紧迫感……原来只是守在金库前而已啊。",
+      "after": "我就说她再怎么厉害，怎么一点都不紧张……原来就是守在保险柜前面啊。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D201111].texts[index=0].speaker",
+      "before": "垂死的雷诺阿",
+      "after": "垂死的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D201111].texts[index=1].speaker",
+      "before": "垂死的雷诺阿",
+      "after": "垂死的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D201111].texts[index=2].speaker",
+      "before": "垂死的雷诺阿",
+      "after": "垂死的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2012].texts[index=3].text",
+      "before": "雷诺阿的巨人做出决断了呢。",
+      "after": "黑派的巨人已经做出决定了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2020].texts[index=10].text",
+      "before": "3层的雷诺阿言道，不久之后下方将筑造出虚假的偶像，因此此刻正当揭开面纱。",
+      "after": "3层的黑派言道，不久之后下方将筑造出虚假的偶像，因此此刻正当揭开面纱。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2020].texts[index=16].text",
+      "before": "奔向此处的勒鲁日将由我来阻挡，尔等速去践行宿命吧。",
+      "after": "奔向此处的红派将由我来阻挡，尔等速去践行宿命吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2020].texts[index=23].text",
+      "before": "那道屏障既无法撕裂，亦无法踏入。我们当如何通行？",
+      "after": "那道屏障既撕不开，也进不去。我们要怎么通过？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20201].texts[index=1].text",
+      "before": "<我们……在某种程度上能够摆脱此地的常识与规则。既不属于勒鲁日也不属于雷诺阿，不正是因为哪边都不属于吗？>",
+      "after": "<我们……能在一定程度上摆脱这里的常识与规则。而且既不属于红派，也不属于黑派。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20201].texts[index=3].text",
+      "before": "若楼层移动的自由与不隶属于任何一方具有相同的隐喻。",
+      "after": "……如果自由往来各层与不属于任何一方，指向的是同一种意义。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20201].texts[index=4].text",
+      "before": "那么面对阻挡雷诺阿的帷幕，我们亦有可能不受其束缚。",
+      "after": "那么，我们也可能不受阻挡黑派的帷幕限制。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D20202].texts[index=0].text",
+      "before": "宛如谎言一般，他毫无阻碍地被吸纳了进去。",
+      "after": "不可思议的是，他就这样毫无阻力地被吸了进去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2021].texts[index=1].speaker",
+      "before": "雷诺阿战锤",
+      "after": "黑派战锤"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2014].texts[index=6].text",
+      "before": "……没有久留凝视的理由。",
+      "after": "……没有必要一直看着。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2602].texts[index=0].speaker",
+      "before": "雷诺阿安保",
+      "after": "黑派安保"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2902].texts[index=0].text",
+      "before": "隶属于勒鲁日之人的尸体。锋利的手臂全被折断，散落在地。",
+      "after": "隶属于红派之人的尸体。锋利的手臂全被折断，散落在地。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2903].texts[index=0].text",
+      "before": "隶属于勒鲁日之人的尸体。脸上附着的触手爬出一段距离后便停滞了动静。",
+      "after": "隶属于红派之人的尸体。脸上附着的触手爬出一段距离后便停滞了动静。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2904].texts[index=0].text",
+      "before": "隶属于勒鲁日之人的尸体。全身被沉重的锤子砸得粉碎，几乎辨不出形状。",
+      "after": "隶属于红派之人的尸体。全身被沉重的锤子砸得粉碎，几乎辨不出形状。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2030].texts[index=0].text",
+      "before": "快些长大……为我歌唱吧……",
+      "after": "快些睡吧……唱给我听……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2031].texts[index=8].text",
+      "before": "雷诺阿将彻底掌控百货公司。那样一来……",
+      "after": "黑派将彻底掌控百货公司。那样一来……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2031].texts[index=12].text",
+      "before": "为何不曾告知此事？管理者浮士德们到底作何打算……",
+      "after": "为什么没有告诉我？管理者浮士德们到底在想什么……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2031].texts[index=13].text",
+      "before": "<浮士德？是关于格塞尔夏夫特（Gesellschaft）的事吗？>",
+      "after": "<浮士德？是格塞尔夏夫特的事吗？>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2031].texts[index=14].text",
+      "before": "……这座百货公司即将迎来永恒呢。但是那样的话……",
+      "after": "……这座百货公司要成为永恒的了。可那样的话……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2906].texts[index=4].text",
+      "before": "<虽说是偶然间把勒鲁日的情报交给了雷诺阿作为开端……>",
+      "after": "<虽说是偶然间把红派的情报交给了黑派作为开端……>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2906].texts[index=8].text",
+      "before": "再次动身吧。",
+      "after": "走，再试一次。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2907].texts[index=1].text",
+      "before": "因为已经死亡过一次，故而恢复成了与此前相同的头部形态。",
+      "after": "因为已经死过一次，我的头恢复了原来的样子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2907].texts[index=2].text",
+      "before": "<放弃进入里面吧。能打赢的对手……目前看来似乎也算不上。>",
+      "after": "<先放弃进去吧。那似乎也不是我们现在……能打赢的对手。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2907].texts[index=3].text",
+      "before": "啧。无可奈何啊。",
+      "after": "啧。没办法。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-2.json",
+      "path": "dataList[key=D2033].texts[index=0].text",
+      "before": "阻挡在名品馆前方的勒鲁日倒下了。",
+      "after": "阻挡在名品馆前方的红派倒下了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3115].texts[index=2].text",
+      "before": "问吧。",
+      "after": "我会回答。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3115].texts[index=4].text",
+      "before": "这也是刚才以实玛利问过的问题。毕竟无论谁来看，默尔索都对这里生疏奇诡的景象表现得极其熟稔，甚至能做出解释。",
+      "after": "这也是刚才以实玛利问过的问题。毕竟任谁看来，默尔索对这里陌生的景象都显得十分熟悉，还能作出解释。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3115].texts[index=5].text",
+      "before": "不，我从未进入过此处。",
+      "after": "不，我从未进过这里。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3115].texts[index=9].text",
+      "before": "那至少对方也是此处的有关人员吧。毕竟按理来说，“凡入内者皆不可外出”的规矩应当有其例外。",
+      "after": "那对方至少也是这里的相关人员吧。毕竟那人应该不受“一旦进入便无法离开”这条规则限制。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3114].texts[index=1].text",
+      "before": "随后就在那一刻，终于也向着我们……",
+      "after": "而就在那时，终于连我们也……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3114].texts[index=4].text",
+      "before": "<color=#ebcaa2>我的名字是……让娜。即是乐意向你们倾诉的这道声音之名。</color>",
+      "after": "<color=#ebcaa2>我的名字是……让娜。也就是这道愿意说话给你们听的声音的名字。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3002].texts[index=9].text",
+      "before": "你兴奋得有些多余了。在西西弗斯系统任职期间，我们开始了交往；而在被N公司永久放逐后，便自然而然地分开了。",
+      "after": "你太激动了。我们在西西弗斯系统工作时开始交往，被N公司永久放逐后，就自然而然地分开了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3002].texts[index=12].text",
+      "before": "与寻常恋人们别无二致。",
+      "after": "和普通的恋人没有区别。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3005].texts[index=0].text",
+      "before": "<color=#cf0000>渴求吧。如此便会化为披戴。</color>",
+      "after": "<color=#cf0000>渴求吧。如此便有衣可披。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3005].texts[index=2].text",
+      "before": "按照让娜小姐的说法，代表各个势力的……声音之一，这么说这位应该也是“巨人”般的存在吧。",
+      "after": "按照让娜小姐的说法，这是代表各个势力的……声音之一，那么这位应该也是名为“巨人”的存在吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=1].text",
+      "before": "我将迎战一切试图阻挡我们之物。如此一来，有朝一日您的声音定会传达至我身……",
+      "after": "我会对抗一切试图阻挡我们的事物。愿您的声音不久后也能传到我耳边……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=7].text",
+      "before": "没错……您所期望的绝不仅是这种程度的黄金皮革……如今我们勒鲁日的同胞们正代替我，在百货公司各处搜刮着黄金皮革……",
+      "after": "没错……您所期望的绝不仅是这种程度的黄金皮革……如今我们红派的同胞们正代替我，在百货公司各处搜刮着黄金皮革……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=10].text",
+      "before": "你仍旧懵然不知啊。都市里的信仰……是隐匿潜伏的。",
+      "after": "你还不明白。都市里的信仰……藏在暗处。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=11].text",
+      "before": "<隐匿潜伏？>",
+      "after": "<藏在暗处？>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=16].text",
+      "before": "她所渴求的声音，绝不会再重新响起了。",
+      "after": "她不会再听到自己期待的新话语。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=19].text",
+      "before": "因为我深知那道声音的主人是谁。",
+      "after": "因为我知道那道声音的主人是谁。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=23].text",
+      "before": "正是。",
+      "after": "是。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3006].texts[index=24].text",
+      "before": "那是我的母亲的声音。",
+      "after": "那是我母亲的声音。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=1].text",
+      "before": "再也听不到声音了。",
+      "after": "又听不到声音了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=5].text",
+      "before": "这是对愚蠢猜疑的代价。",
+      "after": "这是为愚蠢的怀疑付出的代价。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=7].text",
+      "before": "我的双眼妄图窥见太多，双腿也将四处徘徊探寻声音的去向……于是上层的勒鲁日们为了不让我再踏出这家店铺半步，慈悲地将我钉在此处固定住了。",
+      "after": "我的双眼妄图窥见太多，双腿也将四处徘徊探寻声音的去向……于是上层的红派众人为了不让我再踏出这家店铺半步，慈悲地将我钉在此处固定住了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=9].text",
+      "before": "在那人空洞的双目深处，仿佛有某种东西在微微凝聚闪烁。",
+      "after": "那人空洞的两处眼窝里，仿佛凝聚起了什么。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=11].text",
+      "before": "很奇怪不是吗。怎么可能会是这样呢。在被钉住之前，可从没有任何人像我这般拼命撕扯吞食雷诺阿、搜集黄金皮革啊……",
+      "after": "很奇怪不是吗。怎么可能会是这样呢。在被钉住之前，可从没有任何人像我这般拼命撕扯吞食黑派、搜集黄金皮革啊……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=13].text",
+      "before": "能替我去一趟这一层的广播室吗？曾经在那处，那位的声音比任何地方都要宏亮清晰。若前往那里，说不定能知晓些什么。",
+      "after": "能替我去一趟这一层的广播室吗？曾经在那里，那位的声音比任何地方都响亮、清晰。去那里说不定能知道些什么。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3007].texts[index=16].text",
+      "before": "面对信仰深重至此之人，说出真相恐怕毫无意义，管理者。",
+      "after": "对信仰如此坚定的人，恐怕说了也没有用。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3011].texts[index=0].text",
+      "before": "披戴吧啊啊……披戴多少就哦哦哦……",
+      "after": "披戴吧啊啊……披戴多少哦哦……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3011].texts[index=3].text",
+      "before": "前方立着一块指示牌，管理者。",
+      "after": "前方有一块牌子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3011].texts[index=7].text",
+      "before": "披戴多少就哦哦哦……",
+      "after": "披戴多少哦哦……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3011].texts[index=13].text",
+      "before": "披戴多少就哦哦哦……",
+      "after": "披戴多少哦哦……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3011R].texts[index=0].text",
+      "before": "披戴多少就哦哦哦……",
+      "after": "披戴多少哦哦……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3100].texts[index=1].text",
+      "before": "可曾与被夺去双目、钉在地面的勒鲁日接触过吗？",
+      "after": "可曾接触过那名被夺去双眼、钉在原地的红派成员？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3081].texts[index=3].text",
+      "before": "果然……果然是有原因的吧？那位绝不可能对像我这样为了黄金皮革向百货公司奉献了一切的勒鲁日移开视线……",
+      "after": "果然……果然是有原因的吧？那位绝不可能对像我这样为了黄金皮革向百货公司奉献了一切的红派移开视线……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=3].text",
+      "before": "<color=#ebcaa2>勒鲁日们自以为各自听到了不同的声音，但到头来不过是反反复复听着同样的内容罢了……</color>",
+      "after": "<color=#ebcaa2>红派众人自以为各自听到了不同的声音，但到头来不过是反反复复听着同样的内容罢了……</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=5].text",
+      "before": "<color=#ebcaa2>我并未在此生活过，因而无法确切知晓……</color>",
+      "after": "<color=#ebcaa2>我也没在这里生活过，所以不太清楚……</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=6].text",
+      "before": "<color=#ebcaa2>不过按照这座百货公司流逝的时间线来看，大概是……十年前录制的吧，或者两百年？嘛，说不定是五百年前呢。重要的是只要在他们感觉中流逝了足够漫长的时间便足矣。</color>",
+      "after": "<color=#ebcaa2>按这座百货公司里的时间来算，大概是……十年前录的吧，还是两百年？嗯，也可能是五百年前。关键只在于，对他们来说已经过了相当长的时间。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=7].text",
+      "before": "<color=#ebcaa2>不断重播又重播……如此反反复复，磁带自然而然会被拉扯到极限嘛。</color>",
+      "after": "<color=#ebcaa2>不停地播放、再播放……这样一遍又一遍，磁带当然会被拉长。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=8].text",
+      "before": "<color=#ebcaa2>精品馆里高级阶的勒鲁日们心里多少也有数吧……</color>",
+      "after": "<color=#ebcaa2>名品馆里高级阶的红派众人心里多少也有数吧……</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=9].text",
+      "before": "<color=#ebcaa2>可雷诺阿们在一旁虎视眈眈，他们又怎么可能亲口承认再也听不到崭新的声音，自己的巨人仿佛已经缺席了呢？</color>",
+      "after": "<color=#ebcaa2>可黑派众人在一旁虎视眈眈，他们又怎么可能亲口承认再也听不到崭新的声音，自己的巨人仿佛已经缺席了呢？</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=21].text",
+      "before": "<color=#ebcaa2>都令人晕眩、惊恐万状。未曾有过哪怕一瞬并非如此。</color>",
+      "after": "<color=#ebcaa2>都令人头晕、害怕。没有一刻不是这样。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=22].text",
+      "before": "<惊恐？>",
+      "after": "<害怕？>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3094].texts[index=27].text",
+      "before": "前往走廊右侧的场所看看如何，管理者。",
+      "after": "管理者大人，要不要去走廊右侧看看？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3084].texts[index=6].text",
+      "before": "<这两个家伙从一开始就是随心所欲地在讲话，所以根本难以理解啊。>",
+      "after": "<他们从一开始就是在直说，反倒不好理解啊。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3084].texts[index=16].text",
+      "before": "……拷问这种手段，有时候也是有必要的吧，管理者？",
+      "after": "……拷问这种手段，有时候也是有必要的吧，管理者先生？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3084].texts[index=24].text",
+      "before": "去修补室吧，管理者。",
+      "after": "去修补室，管理者大人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3085].texts[index=16].text",
+      "before": "若在外界定会当作无稽之谈置之不理，但在此处既然一切都具象为象征性的存在与沟通……",
+      "after": "放在外面，这话肯定会被当作无稽之谈……但这里的事物和交流都是以象征的方式实现的……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3086].texts[index=5].text",
+      "before": "虽然头脑稍有些发懵，但并无大碍。",
+      "after": "头有些发懵，但没有问题。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3088].texts[index=5].text",
+      "before": "直到上个季度末尾，我们一直逗留在1层。",
+      "after": "直到上个季度末，我们都在1层。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3088].texts[index=16].text",
+      "before": "真是不同寻常的顾客呢。那你们莫非也去了我们店铺隔壁的勒鲁日店铺吗？",
+      "after": "真是不同寻常的顾客呢。那你们莫非也去了我们店铺隔壁的红派店铺吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3088].texts[index=22].text",
+      "before": "我们在勒鲁日店铺遇见的那个家伙……正因再也听不清声音而深陷巨大的绝望之中。",
+      "after": "我们在红派店铺遇见的那个家伙……正因再也听不清声音而深陷巨大的绝望之中。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3088].texts[index=24].text",
+      "before": "唆使人们剥取神圣黄金松脂的声音听不真切了吗，这便是近来勒鲁日们行事急躁的缘由吗？",
+      "after": "唆使人们剥取神圣黄金松脂的声音听不真切了吗，这便是近来红派众人行事急躁的缘由吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3088].texts[index=29].text",
+      "before": "欲知后事如何……敬请期待。",
+      "after": "请期待……接下来的故事。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3089].texts[index=0].speaker",
+      "before": "失魂落魄的雷诺阿",
+      "after": "失魂落魄的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3089].texts[index=1].speaker",
+      "before": "失魂落魄的雷诺阿",
+      "after": "失魂落魄的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3090].texts[index=2].text",
+      "before": "……清理掉？汝是说要消灭他们吗？",
+      "after": "……清理掉？你是说要消灭他们？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3090].texts[index=4].text",
+      "before": "为何我们的品牌始终无法跻身精品馆……我们苦思冥想了很久。",
+      "after": "为何我们的品牌始终无法跻身名品馆……我们苦思冥想了很久。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3090].texts[index=9].text",
+      "before": "那里也是！这里也是！只要穿上我们品牌的衣服就误以为自己成了什么了不得的人物的蠢货。连一件奢侈品都不配披戴的劣等人……把品牌价值践踏得烂大街了。再这样下去，恐怕迟早要沦落到被贪婪的勒鲁日们生吞活剥的地步。",
+      "after": "那里也是！这里也是！只要穿上我们品牌的衣服就误以为自己成了什么了不得的人物的蠢货。连一件奢侈品都不配披戴的劣等人……把品牌价值践踏得烂大街了。再这样下去，恐怕迟早要沦落到被贪婪的红派众人生吞活剥的地步。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3090].texts[index=14].text",
+      "before": "那些满嘴疯话、根本不配被称为雷诺阿的家伙，更不配披戴本店的衣裳！异乡人们，若是帮我们达成这个心愿，我们便免收眼球，奉上一件极其特殊的珍品。",
+      "after": "那些满嘴疯话、根本不配被称为黑派的家伙，更不配披戴本店的衣裳！异乡人们，若是帮我们达成这个心愿，我们便免收眼球，奉上一件极其特殊的珍品。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=3].text",
+      "before": "是的，我们正有此意。",
+      "after": "是的，我们打算继续上去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=5].text",
+      "before": "这是……何物？",
+      "after": "这是……什么？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=6].text",
+      "before": "这是证明你们为我们雷诺阿立下了赫赫汗马功劳的鉴定评估书。既是告知勒鲁日现状的谢礼，也是协助我们完成召回的报酬。",
+      "after": "这是证明你们为我们黑派作出重大贡献的鉴定报告。既是告知红派现状的谢礼，也是协助召回的报酬。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=7].text",
+      "before": "只要出示此物，其他雷诺阿也会像我们一样对你们予以极尽体贴的款待。",
+      "after": "带上它，黑派成员就会像我们一样热情招待你们。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=9].text",
+      "before": "请将那位失去声音的勒鲁日的消息，转达给上层的雷诺阿吧。",
+      "after": "请将那位失去声音的红派的消息，转达给上层的黑派吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=13].text",
+      "before": "遵命，管理者。便悉听尊便吧。",
+      "after": "是，管理者大人。就按您的意思办。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3092].texts[index=17].text",
+      "before": "<阴差阳错间竟然博得了雷诺阿们的好感啊……>",
+      "after": "<阴差阳错间竟然博得了黑派众人的好感啊……>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3151].texts[index=0].text",
+      "before": "<color=#E1B643>暂且让她独自静一静吧。这孩子心头的创伤好不容易才结了痂呢。终究还需要一些时间吧。</color>",
+      "after": "<color=#E1B643>让她暂时独自待一会儿吧。这孩子心里的伤好不容易才结了痂，还需要些时间。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3151].texts[index=6].text",
+      "before": "也不知是因为默尔索吐露此言时脸上罕见地掺杂着不耐烦的神色，还是因为“阳光”一词令人联想到了什么端倪……",
+      "after": "不知是因为默尔索说这话时，脸上罕见地带着不耐烦，还是因为“阳光”这个词让她想到了什么……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3906].texts[index=0].text",
+      "before": "合二为一者化作了两人。变成两人的他们不再动弹了。",
+      "after": "一个变成了两个。变成两个的他们不再动弹了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3909].texts[index=0].text",
+      "before": "[坠落微分连作 第三号“斯托克曼” / 以百货公司坠落的某具人体模型为原型，展现了坠落时时间的连续性。] ",
+      "after": "[坠落微分连作 第3号“斯托克曼” / 以某位从百货公司坠落的人体模特为原型，表现坠落时的时间连续性。]"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3909].texts[index=7].text",
+      "before": "如今已然超越了同传翻译的职能，迈向心领神会的化境了啊……",
+      "after": "如今已不止于翻译，连她的想法都能理解了……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3914].texts[index=0].text",
+      "before": "[67' 总统标志性系列。重新诠释勒鲁日的往昔传承，在剧变的风潮中确立了相得益彰的身份。- 价格请垂询值班员工。] ",
+      "after": "[67' 总统标志性系列。重新诠释红派的往昔传承，在剧变的风潮中确立了相得益彰的身份。- 价格请垂询值班员工。] "
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3916].texts[index=1].text",
+      "before": "收获颇丰呢，管理者。这些东西最好都收起来备用。",
+      "after": "收获不错，管理者大人。最好把这些收起来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D39161].texts[index=10].text",
+      "before": "<color=#ebcaa2>你接梗的本领还是一点长进都没有呢。</color>",
+      "after": "<color=#ebcaa2>你还是那么不会接玩笑呢。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3919].texts[index=0].text",
+      "before": "似乎是用收集来的皮肤褶皱制成的衣服。价签上写着“赘肉”一词。",
+      "after": "似乎是用收集来的皮肤褶皱制成的衣服。价签上写着“中年赘肉”一词。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3934].texts[index=0].text",
+      "before": "[68' 标志性系列。彻底否定了67' 系列的复古主义，融入了勒鲁日独树一帜的解构主义视角。] ",
+      "after": "[68' 标志性系列。彻底否定了67' 系列的复古主义，融入了红派独树一帜的解构主义视角。] "
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3940].texts[index=6].text",
+      "before": "在手臂触及的距离内。这似乎是眼球。暂且由我保管。",
+      "after": "伸手就能碰到。这是眼球。我先拿着。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3977].texts[index=0].text",
+      "before": "刀刃紧绷锋利。与其说是剪刀，倒不如说更接近镰刀。",
+      "after": "刀刃十分锋利。与其说是剪刀，倒更像镰刀。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3806].texts[index=0].text",
+      "before": "一片死寂。看来是把其他声响给听茬了。",
+      "after": "一片安静。看来是听错了，把别的声音当成了这里的。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3811].texts[index=0].text",
+      "before": "[未使用] 仔细查探了所有的缝隙与孔洞，但并未发现有什么值得打捞之物。",
+      "after": "[未使用] 缝隙和孔洞都看过了，没发现什么值得拿的东西。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3817].texts[index=1].text",
+      "before": "依属下之见，此物应为手动通讯交换机，管理者。",
+      "after": "看起来是手动通讯交换机，管理者大人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3817].texts[index=5].text",
+      "before": "如今早已不再沿用。我也是久违得见。昔日……指挥控制室里也有过类似的设备。",
+      "after": "如今已经很少用了。我也很久没见过。以前……指挥控制室里有类似的设备。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3817].texts[index=6].text",
+      "before": "只要线路连接完好，便具备优于无线通讯的稳定性，即便在电波干扰等恶劣环境下亦能发挥效用。",
+      "after": "只要保持连接，稳定性就优于无线通讯。即使存在电波干扰等恶劣条件，也能使用。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3817].texts[index=7].text",
+      "before": "正是如此。也正因这一特性，在战壕间沿用了相当漫长的岁月。",
+      "after": "没错。因此在战场上也用了很长时间。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3819].texts[index=2].text",
+      "before": "拾起鸟儿时，那道声音戛然而止。",
+      "after": "拿起鸟时，声音响起，又中断了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3820].texts[index=1].text",
+      "before": "默尔索将手探入其中取出后，拿出了一台老旧的录音机。",
+      "after": "默尔索伸手进去，取出了一台老旧的录音机。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3821].texts[index=9].text",
+      "before": "关于勒鲁日那帮披着兽皮的奸猾之徒，日后若有更多情报，我可破例免收眼球为你指点迷津。",
+      "after": "关于红派那帮披着皮革的奸猾家伙，若再得到什么消息，我可以破例免费告诉你。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3833].texts[index=4].text",
+      "before": "说不定正如管理者所说，其实全都是一模一样的呢。",
+      "after": "说不定真像管理者先生说的，全都是一样的呢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3833].texts[index=5].text",
+      "before": "直指事物本质的冷峻洞察力……若是其他家伙定然无法察觉。不愧是管理者！",
+      "after": "洞穿本质的冷静目光……其他家伙恐怕都察觉不到。不愧是管理者大人！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3836].texts[index=1].text",
+      "before": "因为这是本季度的成衣陈列展台，管理者。",
+      "after": "因为这是本季度的成衣陈列台。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3850].texts[index=0].text",
+      "before": "样式看起来与柜台前的雷诺阿们所穿的衣服相似。",
+      "after": "样式看起来与柜台前的黑派众人所穿的衣服相似。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3857].texts[index=0].text",
+      "before": "宛如将凳子与抽屉糅合在一起的造物。当作坐凳亦或抽屉都显得不伦不类。",
+      "after": "像是凳子和抽屉拼在了一起。无论用来坐，还是当抽屉，都不太合适。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=1].text",
+      "before": "把我们的话转达给4层的雷诺阿了吗？",
+      "after": "把我们的话转达给4层的黑派了吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=5].text",
+      "before": "我们向焦躁不安的雷诺阿员工转达了所掌握的情报。",
+      "after": "我们向焦躁不安的黑派员工转达了所掌握的情报。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=6].text",
+      "before": "失去声音的勒鲁日们竟然潜入精品馆，企图炮制崭新的声音……",
+      "after": "失去声音的红派众人竟然潜入名品馆，企图炮制崭新的声音……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=7].text",
+      "before": "……而且为了挫败他们的阴谋与宿愿，能撕裂一切之物……唯有黄金原布与大钉。",
+      "after": "……而要阻止他们实现目标和夙愿，能撕裂一切的东西是……黄金面料和钉子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=8].text",
+      "before": "千真万确。若依照上层尊贵之人的说法……只要提前撕裂那道全新的声音，便能将精品馆彻底纳为雷诺阿的所有物。",
+      "after": "千真万确。若依照上层尊贵之人的说法……只要提前撕裂那道全新的声音，便能将名品馆彻底纳为黑派的所有物。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=13].text",
+      "before": "黄金原布我们此前也时常经手……只要委托修补师，偶尔确实能用于我们的作品中。",
+      "after": "我们也偶尔经手黄金面料……委托修补师后，极少数时候能把它用在我们的作品里。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=22].text",
+      "before": "无论如何，取得茧之后就去地下二层看看吧。那位楼层经理恰好是与我们雷诺阿共度了无数季度的协力者，只要出示鉴定评估书，便会施以援手。",
+      "after": "总之，拿到茧后就去地下2层看看。那里的楼层经理与我们黑派合作了许多个季度，出示鉴定报告，他就会帮忙。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=24].text",
+      "before": "对侧那个令人作呕的勒鲁日家伙正好派得上用场吧。把那家伙的脊椎骨抽出来当大钉使，好歹也算物尽其用了，我早就有此想法了。",
+      "after": "对侧那个令人作呕的红派家伙正好派得上用场吧。把那家伙的脊椎骨抽出来当大钉使，好歹也算物尽其用了，我早就有此想法了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=25].text",
+      "before": "听起来无论是哪一样，都是至今未曾获取过之物啊。",
+      "after": "不管哪一样，我们似乎都没拿到过。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=29].text",
+      "before": "管理者垂问，作为此次协力的成果，是否能确保前往5层。",
+      "after": "管理者大人想知道，完成这次合作后，是否就能前往5层。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41410].texts[index=30].text",
+      "before": "虽无法作保……但雷诺阿必将铭记这番莫大的功劳。",
+      "after": "虽无法作保……但黑派必将铭记这番莫大的功劳。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41420].texts[index=0].text",
+      "before": "大功告成。带上属于你们的璀璨黄金原布吧。",
+      "after": "大功告成。带上属于你们的璀璨黄金面料吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41420].texts[index=2].text",
+      "before": "雷诺阿店铺曾言……大钉正合适用这一层勒鲁日的脊椎……来充当。",
+      "after": "黑派店铺说过……这一层红派成员的脊椎……适合用来做钉子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41540].texts[index=0].text",
+      "before": "难道不该去见见勒鲁日员工吗？",
+      "after": "难道不该去见见红派员工吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41510].texts[index=2].text",
+      "before": "<color=#ebcaa2>这正是你们所做抉择的果报哦。就是这般呢。在疏忽不察之间，无数细微的变化不断累积，终有一日便会酿成事端。</color>",
+      "after": "<color=#ebcaa2>这就是你们选择的结果。事情就是这样。在不留意的时候，无数微小的变化不断积累，直到某天出事。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41610].texts[index=0].text",
+      "before": "从不再动弹的勒鲁日身上抽出了脊椎骨。",
+      "after": "从不再动弹的红派身上抽出了脊椎骨。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41610].texts[index=3].text",
+      "before": "正是。此物被定义为大钉。",
+      "after": "是。我们将它定义为钉子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D41610].texts[index=4].text",
+      "before": "我们将黄金原布缠绕在从勒鲁日处获取的大钉之上。",
+      "after": "我们将黄金面料缠绕在从红派处获取的大钉之上。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3155].texts[index=0].text",
+      "before": "<这便意味着无论何种面料都能尽数撕裂了吧……>",
+      "after": "<这就能撕裂任何布料了吧……>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3922].texts[index=0].text",
+      "before": "剪刀声如今已然销声匿迹。",
+      "after": "再也听不到剪刀声了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3923].texts[index=0].text",
+      "before": "隶属于雷诺阿之人的尸体。即便引以为豪的布料，也未能阻止这般结局。",
+      "after": "隶属于黑派之人的尸体。即便引以为豪的布料，也未能阻止这般结局。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3156].texts[index=2].text",
+      "before": "我们雷诺阿绝不会忘却这份恩情，将永远把各位顾客奉为永恒的VIP。",
+      "after": "我们黑派绝不会忘却这份恩情，将永远把各位顾客奉为永恒的VIP。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3156].texts[index=3].text",
+      "before": "我也从未踏足过精品馆。虽能下行至那层，却从未能获准入内。",
+      "after": "我也从未踏足过名品馆。虽能下行至那层，却从未能获准入内。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3156].texts[index=7].text",
+      "before": "若准备停当，便前往精品馆吧。",
+      "after": "若准备停当，便前往名品馆吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D-PB-FLOOR3MASTER].texts[index=2].text",
+      "before": "！进入阴影界战斗！",
+      "after": "！进入影界战斗！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3983].texts[index=1].text",
+      "before": "不仅速度迅捷，中途还会循着默尔索回避的方向陡然转向呢。",
+      "after": "不仅速度快，中途还会跟着默尔索改变方向。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3983].texts[index=2].text",
+      "before": "看来必须活用周遭的地形障碍，亦或采取更为变幻莫测的机动规避才行。",
+      "after": "看来需要利用周围的地形和障碍物，或是采用更难预测的移动方式。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3984].texts[index=3].text",
+      "before": "自当如此。",
+      "after": "我会的。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3985].texts[index=1].text",
+      "before": "管理者，您安然无恙否？",
+      "after": "管理者大人，您没事吧？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3985].texts[index=4].text",
+      "before": "感觉就像是头颅内被某种东西充盈膨胀了一般。",
+      "after": "感觉脑子里被什么东西填满，膨胀了起来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3985].texts[index=7].text",
+      "before": "<太好了。那么……稍事歇息片刻再出去吧。>",
+      "after": "<那就好。那么……稍微休息一下再出去吧。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3986].texts[index=1].text",
+      "before": "还是等那些家伙的会议结束为妙，管理者。",
+      "after": "最好等他们的会议结束，管理者大人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-3.json",
+      "path": "dataList[key=D3989].texts[index=0].text",
+      "before": "啊啊……声音啊，救救我……被剜去双眼钉死双腿还不够，如今我竟然连由头都不明就里，就要惨遭屠戮了吗！",
+      "after": "啊啊……声音啊，救救我……眼睛被挖走，双腿被绑住还不够，我现在连原因都不知道，就要惨死了！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40213].texts[index=24].text",
+      "before": "每次在地下1层重新睁开眼时，我都抱着“这一次定能成为单足”的希望苟延残喘着……",
+      "after": "每次在地下1层重新睁开眼时，我都抱着“这一次或许能成为单足”的希望生活着……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40213].texts[index=26].text",
+      "before": "若是没有重头再来的机会，我便只能永远停滞在这副躯壳之中了。",
+      "after": "如果无法再次睁开眼，我就只能永远维持着这几条腿的样子了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40213].texts[index=29].text",
+      "before": "未曾在此鞋履馆驻留之人，是永远无法体会这等绝望的吧……",
+      "after": "没住在这鞋履馆的人，永远不会明白吧……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=4].text",
+      "before": "你是在怪罪母亲的死吗。",
+      "after": "你是在因母亲的死而责怪我吗。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=7].text",
+      "before": "<color=#ebcaa2>你也知道的吧，玛普丝。当年N公司可是打算立刻对你求处西西弗斯刑的。尽管如此，我为了阻止这一切究竟费了多大周折……你想必一清二楚吧。</color>",
+      "after": "<color=#ebcaa2>你也知道吧，玛普丝。当时N公司打算立刻要求判处你西西弗斯刑。尽管如此，我为了阻止这件事费了多少力气……你应该很清楚。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=10].text",
+      "before": "我并没有请求过你的恩惠。",
+      "after": "我不记得曾请求你帮忙。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=12].text",
+      "before": "<color=#ebcaa2>其一，便是墙壁各处浮现出的裂痕。百货公司的所有人皆陷入了混乱与恐慌之中。</color>",
+      "after": "<color=#ebcaa2>其中之一，就是墙壁各处出现了裂痕。百货公司的所有人都开始陷入混乱。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=13].text",
+      "before": "<color=#ebcaa2>因此我们找来了名为金枝的物件，将它插在了你母亲每天上班坐着的空缺席位上。权且作为权宜之计。毕竟要寻觅足以支撑西西弗斯的合格巨人，可不是一件容易的事呢。</color>",
+      "after": "<color=#ebcaa2>所以我们找来了名为金枝的东西，插在你母亲每天上班时坐着的那个空位上，只是暂时应急。毕竟要找到能撑起西西弗斯的巨人适格者，可不容易。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=19].text",
+      "before": "<color=#ebcaa2>从那时起，被称为雷诺阿的人们开始陷入恐惧与战栗，而被称为勒鲁日的人们则开始暗中搜寻机遇。</color>",
+      "after": "<color=#ebcaa2>从那时起，被称为黑派的人们开始恐惧战栗，而被称为红派的人们则开始寻找机会。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=22].text",
+      "before": "<color=#ebcaa2>这令N公司陷入了莫大的困境。毕竟用于生产经验罐头的原料势必会日益枯竭。</color>",
+      "after": "<color=#ebcaa2>这给N公司带来了很大的麻烦。毕竟用来生产经验罐头的原料会越来越少。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=24].text",
+      "before": "<color=#ebcaa2>其余三名巨人所需支撑的力量自然也变得愈发沉重了。</color>",
+      "after": "<color=#ebcaa2>其余三位巨人自然也得出更多力，才能撑住这里。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=26].text",
+      "before": "<color=#ebcaa2>为何不主动将这一事实说出来呢？你早在一开始便知晓自己乃是巨人的适格者吧。</color>",
+      "after": "<color=#ebcaa2>为什么不主动说出来？你不是早就知道自己是巨人的适格者了吗？</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40220].texts[index=27].text",
+      "before": "……没有言说的必要。无论如何，我都弑杀了母亲，这一事实绝无更改。",
+      "after": "……没有必要说。因为我杀死了母亲的事实不会改变。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40222].texts[index=0].text",
+      "before": "<color=#ebcaa2>那么事到如今，你倒不妨重新权衡一下其必要性吧。</color>",
+      "after": "<color=#ebcaa2>那就趁现在想想有没有必要吧。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40222].texts[index=1].text",
+      "before": "<color=#ebcaa2>抑或是说，你已经开始渐渐中意起在这座百货公司里的生活了呢？</color>",
+      "after": "<color=#ebcaa2>还是说，你已经开始渐渐喜欢上这家百货公司的生活了？</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40222].texts[index=2].text",
+      "before": "语毕，让娜的声音便彻底归于沉寂，再未响起。",
+      "after": "说完这些，便听不见让娜的声音了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40222].texts[index=5].text",
+      "before": "唔嗯……填补裂痕的松脂既已消逝……崩塌想必亦是大势所趋吧……",
+      "after": "唔嗯……填补裂痕的松脂会消失……如此一来，想必便会崩塌……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40222].texts[index=8].text",
+      "before": "<既然金枝不在百货公司内部而是在外面，等将其拔出之时自然便见分晓了。>",
+      "after": "<金枝应该在百货公司外面，而不在这里，等拔出来就知道了。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40230].texts[index=5].text",
+      "before": "若不立刻退去……我便亲自领教各位的高招。",
+      "after": "若不离开……我就亲自对付你们。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231A].texts[index=1].text",
+      "before": "我们在3层从雷诺阿手中获得了此物。",
+      "after": "我们在3层从黑派手中获得了此物。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=0].text",
+      "before": "……雷诺阿的鉴定评估书。",
+      "after": "……黑派的鉴定评估书。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=1].text",
+      "before": "……我乃是单足，寻常是绝不接待像你们这般双足顾客的。不过……既然持有鉴定评估书，看来倒并非平庸的两足之辈呢。",
+      "after": "……我乃是单足，寻常是绝不接待像你们这般双足顾客的。不过……既然持有鉴定评估书，看来倒并非寻常的双足之辈呢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=6].text",
+      "before": "失去了声音的勒鲁日们么……",
+      "after": "失去了声音的红派众人么……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=8].text",
+      "before": "难怪那些家伙近来总在鬼鬼祟祟地密谋着离奇的企图。前后全都对得上了。",
+      "after": "所以那些家伙才一直在策划奇怪的事。前后对得上了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=10].text",
+      "before": "凡是在此处被我们撞见的勒鲁日，我们皆将其全数捕获并制成鞋垫。那些家伙比任何事物都要坚韧而贪婪，做出来的鞋垫可是上品呢。",
+      "after": "凡是在此处被我们撞见的红派，我们皆将其全数捕获并制成鞋垫。那些家伙比任何事物都要坚韧而贪婪，做出来的鞋垫可是上品呢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=13].text",
+      "before": "原以为不过是疯言疯语而嗤之以鼻，但听了你们的一番话，看来倒绝非能等闲视之之事呢。既然是失去了声音的亡命之徒，为了目的定然不择手段。",
+      "after": "我原以为那只是胡言乱语，还嗤之以鼻。但听了你们的话，看来不能就这么置之不理。那些失去声音的家伙，什么事都可能做得出来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=16].text",
+      "before": "<听说当时正处于室内装潢施工中……身后还躺着死去的雷诺阿职员呢。>",
+      "after": "<听说当时正处于室内装潢施工中……身后还躺着死去的黑派职员呢。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=19].text",
+      "before": "两足们。你们难道是雷诺阿的友军吗？",
+      "after": "两足们。你们难道是黑派的友军吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=21].text",
+      "before": "管理者大人说是这样哦~",
+      "after": "是这么说的呢~"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=22].text",
+      "before": "倘若能有可以在各楼层间穿梭的你们这群异乡人相助，雷诺阿之间传递情报便能轻而易举了。",
+      "after": "倘若能有可以在各楼层间穿梭的你们这群异乡人相助，黑派之间传递情报便能轻而易举了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=25].text",
+      "before": "若是有对我们雷诺阿有所裨益的情报，希望能立刻向我们通报。",
+      "after": "若是有对我们黑派有所裨益的情报，希望能立刻向我们通报。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=27].text",
+      "before": "在相当久远的几个季度前……聚集在家具馆生活的勒卡其们曾偷走过几件雷诺阿的物品。",
+      "after": "在相当久远的几个季度前……聚集在家具馆生活的勒卡其们曾偷走过几件黑派的物品。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=28].text",
+      "before": "虽因过季未曾深究追究，但传闻在他们夺走的东西里，有一件能够撕裂世间一切布料的、极其罕见而珍贵的神兵利器。",
+      "after": "东西早已过季，我便没再追究。不过，他们拿走的东西里，似乎有件十分贵重的传说之物，能撕裂任何布料。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40231].texts[index=30].text",
+      "before": "若能寻得那等武器，在同勒鲁日的战事中定能助我们一臂之力。毕竟那些家伙用掺杂着欲望的黄金松脂揉制而成的衣物……可绝非轻易便能撕裂的。",
+      "after": "若能寻得那等武器，在同红派的战事中定能助我们一臂之力。毕竟那些家伙用掺杂着欲望的黄金松脂揉制而成的衣物……可绝非轻易便能撕裂的。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=3].text",
+      "before": "在此处，所有人皆既是顾客亦是商品，既是售货员亦是人体模型，仅需作此理解即可。",
+      "after": "在这里，只需认为所有人既是顾客，也是商品、售货员和人体模特。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=9].text",
+      "before": "虽然我的背脊佝偻着，但正因如此，对于渴望小憩的客人而言，恰好能从最适宜的高度洒下柔和的光芒哦。",
+      "after": "我的背虽然弯了，但正好能从合适的高度，为想休息的客人照明。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=15].text",
+      "before": "那可……真是一桩令人心旷神怡的美事啊。看来我比周围那些随处可见的平庸家具要出挑得多呢。",
+      "after": "那可……真让人高兴。说明我与旁边那些普通家具不一样。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=19].text",
+      "before": "仅需区区4000眼球即可。若想享受到无与伦比的惬意安宁，世间再无他物能比我这具身躯更胜一筹了。",
+      "after": "只要4000眼球。想要最舒适的享受，没有哪盏灯能比得上我。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=26].text",
+      "before": "……果然唯有从那家伙手中获得绝妙的华服披在身上……才能迅速被识货之人买走啊……",
+      "after": "……果然，只要从那家伙那里拿件好衣服穿上……很快就能卖出去了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=29].text",
+      "before": "<……不，我都说了好几次了，我们压根没打算买，而且这也还是贵得离谱啊！>",
+      "after": "<……都说了几次，我们不打算买，而且还是很贵。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40311].texts[index=30].text",
+      "before": "不过托此之福，我们倒是有借口去拜会一下这里的主人了呢。",
+      "after": "不过，这样就能去见见这里的主人了呢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40410].texts[index=4].text",
+      "before": "那个，听闻若是来此处，便能寻得那位照明先生想要披戴的衣物，所以我们便前来了……",
+      "after": "那个，听说到这里就能找到适合那位照明先生穿的衣服，所以我们就来了~"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40410].texts[index=6].text",
+      "before": "难道是无法开口言语吗？",
+      "after": "是不能说话吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40411].texts[index=3].text",
+      "before": "说不定……是在示意我们随意挑选取用呢。",
+      "after": "说不定……是让我们拿走呢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=8].text",
+      "before": "……我的心肠恰如我这暖白色的灯泡一般温暖祥和。请讲吧。",
+      "after": "……我的心肠就像我这乳白色的灯泡一样温暖。说吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=19].text",
+      "before": "既然如此，何如在这楼层之中静静等候，长眠不醒，直至某位富贵之人将我买下呢……",
+      "after": "那还不如就留在这一层，静静睡着，等有人把我买走……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=21].text",
+      "before": "为何放弃了长眠，突然在此刻醒转？",
+      "after": "为什么不继续睡着，却突然醒了过来？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=22].text",
+      "before": "那是因为……不知从何时起，有一束温暖和煦的阳光直直照耀在了此处。",
+      "after": "那是因为……不知从什么时候起，温暖的阳光照到了这边。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=24].text",
+      "before": "托其所赐，我被唤醒了……活动起酸痛的身躯，彼时那家伙便朝向我们敞开了胸怀。",
+      "after": "我就这样被唤醒了……当我撑起酸痛的身子时，那家伙便朝我们展开了身体。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=25].text",
+      "before": "你们可知晓……？保持清醒乃是何等痛彻心扉的煎熬啊。",
+      "after": "你们知道吗……？醒着，实在很痛苦。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=26].text",
+      "before": "真想早日被买走……在富足之中……惬意地……长眠下去啊……",
+      "after": "真想早点被买走……过得富足些，悠闲地……睡上一觉……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=32].text",
+      "before": "我们可没有那家伙那么好的福气能沐浴到阳光……所以也分给我们一点吧……",
+      "after": "我们没那家伙晒到的阳光多……所以，也给我们带过来吧……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40510].texts[index=37].text",
+      "before": "<至少为了像刚才那样套出情报，眼下也唯有依从那些家具的要求了。>",
+      "after": "<想像刚才那样再问出点什么，也只能先答应那些家具的要求了。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40611].texts[index=5].text",
+      "before": "<意思是悉听尊便吧……？>",
+      "after": "<……是说没关系吗？>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40712].texts[index=7].text",
+      "before": "我亦以酷~绝之姿相询，那折后几何？",
+      "after": "那吾便酷~地问一句，折后要多少钱？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40713].texts[index=3].text",
+      "before": "我们只是按照顺眼看到的顺序……",
+      "after": "我们只是按看到的先后顺序……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40813].texts[index=5].text",
+      "before": "若是换作堂吉诃德小姐，为了帮助他人，哪怕是自己珍藏的徽章也会毫不犹豫地奉献出来吧？",
+      "after": "堂吉诃德小姐，如果是为了帮助别人，您愿意送出那些珍藏的徽章吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40813].texts[index=6].text",
+      "before": "唔嗯……若是为了拯救苍生，自当义不容辞……！",
+      "after": "唔嗯……若是为了帮助他人，那当然……！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40811].texts[index=2].text",
+      "before": "要想在这阳光变得更加灼热之前被卖出去……光拿一件可远远不够啊。",
+      "after": "要想在这阳光变得更暖之前被买走……只拿一件可不够啊。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40814].texts[index=0].text",
+      "before": "……甚至容不得我们出手阻拦，它们便一把推开我们，如狼似虎地扑向了那个敞开身躯纹丝不动的存在。",
+      "after": "……还没来得及阻拦，它们就推开我们，扑向那个展开身体、一动不动的人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40814].texts[index=2].text",
+      "before": "尽管那具身躯被推倒在地，却依然未曾将胸膛合拢。",
+      "after": "那人倒在了地上，却仍未合拢身体。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40812].texts[index=4].text",
+      "before": "根据视角的转换，概念本身便会极其浅薄地相互混淆。",
+      "after": "视角一变，对与错便会如此轻易地混淆。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40812].texts[index=15].text",
+      "before": "唯有那个才是至高无上、无可替代的华服啊。若能将其穿在身上……！",
+      "after": "那可是最珍贵的衣服。要是能穿上它……！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40812].texts[index=17].text",
+      "before": "只要拥有了那颗心脏，我定然能够成为名花有主的家具……",
+      "after": "有了那颗心脏，我一定能成为有主人的家具……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40818].texts[index=0].text",
+      "before": "正当我们目睹着眼前的惨剧之时，眼前的景致仿佛场景切换一般骤然变幻。",
+      "after": "正看着这惨烈的一幕时，眼前的一切却突然变了模样，仿佛切换了场景。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40819].texts[index=8].text",
+      "before": "所有的巨人皆是……",
+      "after": "巨人们全都是……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40819].texts[index=10].text",
+      "before": "心怀恐惧，恐惧着什么呢？",
+      "after": "害怕？在害怕什么呢？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=2].text",
+      "before": "唯有咀嚼吞咽食物的细微声响在黑暗中隐隐回荡。",
+      "after": "只有吃东西的声音从黑暗中传来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=9].text",
+      "before": "我很害怕。即使像现在这样和你依偎在一起。",
+      "after": "我很害怕。即使就这样和你待在一起。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=10].text",
+      "before": "就算分食着同一罐落日经验罐头……我所看见的这一抹落日，当真能被称为与你的落日是同一种事物吗？",
+      "after": "就算分着吃同一罐落日经验罐头，我看到的这片落日，能说和你看到的一样吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=12].text",
+      "before": "我对一切都心怀恐惧。",
+      "after": "我害怕一切。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=14].text",
+      "before": "我为何会这般恐惧呢？",
+      "after": "为什么我会害怕？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=15].text",
+      "before": "为何非得诞生为这般任凭感觉与杂念肆意滋生、决堤喷涌的……",
+      "after": "为什么我偏偏要生来就是……这些感觉和想法会自顾自冒出来、涌出来的……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=16].text",
+      "before": "名为人类的存在不可呢？",
+      "after": "名为人类的东西？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40815].texts[index=19].text",
+      "before": "我知道的，无论是这座都市，还是你，皆绝不会回答这个问题吧。永远。",
+      "after": "我知道，无论是这座都市，还是你，都不会回答这个问题吧。永远不会。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40816].texts[index=1].text",
+      "before": "是的，管理者大人。",
+      "after": "是的，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40816].texts[index=4].text",
+      "before": "是从母亲一边哭泣一边发出怪叫与哀嚎，将近满一年的那天……",
+      "after": "从母亲开始哭泣、发出怪叫与尖叫，快满一年的那天……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40816].texts[index=6].text",
+      "before": "听到了锁链相互碰撞发出哗啦啦声响的声音，那是默尔索正在摆弄着自己的锁链。",
+      "after": "哗啦……传来了默尔索摆弄自己锁链的声音。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41321].texts[index=2].text",
+      "before": "纸上画有图样，下方亦用蝇头小字写着些什么。管理者大人，查验一番想必更为妥当。",
+      "after": "纸上画有图案，下方还写着小字。建议查看一下，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41324].texts[index=0].text",
+      "before": "“黄金布匹与长钉，将唤醒万物，亦将抚慰万物长眠。”",
+      "after": "“黄金面料与长钉，将唤醒一切，也将使一切入睡。”"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41324].texts[index=1].text",
+      "before": "<黄金布匹与长钉……>",
+      "after": "<黄金面料与长钉……>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41324].texts[index=2].text",
+      "before": "<难道这便是那单足所说的那件传奇兵刃吗……？>",
+      "after": "<这会是单足说的那件传说中的武器吗……？>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41325].texts[index=0].text",
+      "before": "说不定正是如此呢。",
+      "after": "说不定呢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41325].texts[index=2].text",
+      "before": "遵命，管理者大人。",
+      "after": "遵命，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41330].texts[index=2].text",
+      "before": "哎……您如今不再推销自己了吗？",
+      "after": "呃……您现在不卖自己了吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41331].texts[index=5].text",
+      "before": "将这个……送去给低层的雷诺阿。",
+      "after": "将这个……送去给低层的黑派。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41331].texts[index=9].text",
+      "before": "那可是极其高贵圣洁的楼层。穿着这等粗鄙寒酸的行头，可绝不容许贸然擅登。",
+      "after": "那是十分高贵的楼层。穿成这样，可不能随便上去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41331].texts[index=10].text",
+      "before": "那等高处，即便是像我这般的单足亦难以轻易企及。纵使脚蹬世间独一无二的华美之履，亦必须配以与之相衬的极品衣裳才行。",
+      "after": "那等高处，即便是像我这样的单足也难以轻易企及。即使能穿着一只漂亮的鞋子前去，也还得配上出色的上衣和下装。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41331].texts[index=14].text",
+      "before": "彼处如今正处于无法购置任何物品的状态。",
+      "after": "那里目前无法购买东西。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41331].texts[index=15].text",
+      "before": "卑贱的你们眼下唯一能做的，便是将这便条送至低层的雷诺阿手中。",
+      "after": "卑贱的你们眼下唯一能做的，便是将这便条送至低层的黑派手中。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41925].texts[index=0].text",
+      "before": "与以往所见到的黑色鞋履不同，显得格外华丽奢靡。",
+      "after": "与之前见到的黑色鞋子不同，这些鞋子看起来很华丽。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41928].texts[index=0].text",
+      "before": "极其华美的鞋履。可以说是……相当常见之物。",
+      "after": "华丽的鞋子。应该能说是……一般的鞋子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41929].texts[index=0].text",
+      "before": "并非是黄金皮革格外显眼的鞋子。看了看价签，价格意外地亲民。",
+      "after": "这些鞋子的黄金皮革并不显眼。看了价签，似乎还便宜一些。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41944].texts[index=0].text",
+      "before": "[未使用] 皮革……不对，肌肉被紧紧绷直拉扯的声音从四面八方传来。",
+      "after": "[未使用] 传来皮革……不，肌肉被绷紧的声音……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40741].texts[index=0].text",
+      "before": "即便上前搭话也是纹丝不动。似乎是觉得很嫌烦。",
+      "after": "即使搭话也一动不动。似乎觉得很烦。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40751].texts[index=0].text",
+      "before": "即便上前搭话也是纹丝不动。似乎是觉得很嫌烦。",
+      "after": "即使搭话也一动不动。似乎觉得很烦。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40910].texts[index=0].text",
+      "before": "哎呀管理者阁下，为何来到4层了呢？莫非此处还有未了之事吗？",
+      "after": "哎呀，管理者老爷，为何来到4层了呢？莫非此处还有未了之事？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41950].texts[index=4].text",
+      "before": "唔？管理者阁下未曾把什么要紧之物放进过花盆里吗？",
+      "after": "唔？管理者老爷未曾把什么要紧之物放进花盆里吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41950].texts[index=6].text",
+      "before": "我放过哦。小的时候，捡到惜春送给我的好看石头或是花瓣，我总是会悄悄藏在怡红院的花盆缝隙里呢。",
+      "after": "我放过哦。小时候，惜春会把捡到的漂亮石头或花瓣送给我，我总会藏在怡红院的花盆之间。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41952].texts[index=2].text",
+      "before": "管理者阁下，这个不能由吾等带走吗？",
+      "after": "管理者老爷，这个可否由吾等带走？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41965].texts[index=0].text",
+      "before": "隶属于勒鲁日之人的尸体。虽坐拥如此繁多的鞋履，却没能对逃脱带来任何帮助。",
+      "after": "隶属于红派之人的尸体。虽坐拥如此繁多的鞋履，却没能对逃脱带来任何帮助。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D41964].texts[index=0].text",
+      "before": "隶属于勒鲁日之人的尸体。脱落的皮鞋里积着血水。",
+      "after": "隶属于红派之人的尸体。脱落的皮鞋里积着血水。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-4.json",
+      "path": "dataList[key=D40756].texts[index=0].text",
+      "before": "呜呜……竟然卑鄙地从黑暗死角里窜出来……",
+      "after": "呜……竟然卑鄙地从黑暗死角里窜出来……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1001].texts[index=13].text",
+      "before": "上面写着“生鲜精肉专柜”呢。",
+      "after": "上面写着“生鲜精肉专柜”。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1001].texts[index=22].text",
+      "before": "罪人选拔的背景依据虽难以揣测，但应该绝非出于此类理由。",
+      "after": "虽然难以推测选派罪人的依据，但应该不是出于这个理由，格里高尔先生。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1102].texts[index=0].text",
+      "before": "……那个，是雷诺阿吗？",
+      "after": "……那个，是黑派吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1102].texts[index=1].text",
+      "before": "不是！看那边那个钱包，明明是勒鲁日啦！",
+      "after": "不是！看那边那个钱包，明明是红派啦！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1102].texts[index=7].text",
+      "before": "那边那两件破烂衣服的仁兄！对！就是你们两个！",
+      "after": "那边那两位穿破衣服的仁兄！对！就是你们两个！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1103].texts[index=0].text",
+      "before": "默尔索向走近的两名顾客出示了配方中茧的照片。",
+      "after": "默尔索向走近的两名顾客展示了配方上茧的样子。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1103].texts[index=19].text",
+      "before": "原本想必是它们爬行过的场所。",
+      "after": "那里原本应该是它们爬行的地方。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1103].texts[index=23].text",
+      "before": "那么我们便前往美食广场吧。",
+      "after": "那么，前往美食广场。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1002].texts[index=2].text",
+      "before": "这可真是……光凭我们四个找上一整天也未必看得完啊。",
+      "after": "这可真是……咱们四个找上一整天，才勉强能看完吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1002].texts[index=5].text",
+      "before": "不过……若是运气好，说不定转瞬间便能结束呢。",
+      "after": "不过……运气好的话……也许很快就能结束。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1003].texts[index=0].text",
+      "before": "一眼望不到尽头的上行自动扶梯。究竟通向何处呢？",
+      "after": "一眼望不到尽头的上行自动扶梯。完全判断不出它通向哪里。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1009].texts[index=12].text",
+      "before": "是指金黄色的、宛如闪烁光芒的蛹一般的存在。",
+      "after": "金黄色、发光，形状像蛹的东西。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1009].texts[index=21].text",
+      "before": "啧。我们也是万分需要那个东西……真就没什么办法了吗？",
+      "after": "啧。可我们也很需要那东西啊……就没别的办法吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1009].texts[index=44].text",
+      "before": "<我……反对。单凭觉得能长出来就冒然行事……我总有种不祥的预感。>",
+      "after": "<我……反对。不能只想着还会长出来就这么做……我有种不好的预感。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1009].texts[index=48].text",
+      "before": "若是能够说明其他有意愿交换的品类……",
+      "after": "不过，如果能告诉我们还有哪些东西可以交换……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1009].texts[index=51].text",
+      "before": "既然如此，那就休怪我强行让你们做出贡献了！",
+      "after": "既然这样，就让你们不得不做贡献的！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1010].texts[index=7].text",
+      "before": "尚有诸多疑问未获解答，追上去应是最佳方策。",
+      "after": "还有很多事需要问，最好追上去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1026].texts[index=0].text",
+      "before": "美食广场……指的原是这种地方吗？",
+      "after": "美食广场……原来是这样的地方吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1028].texts[index=0].text",
+      "before": "呼……跑得可真够远的。我说，彼此都别白费力气搞得身心俱疲了吧。",
+      "after": "呼……跑得真远。喂，咱们就别互相折腾、白费力气了吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1028].texts[index=2].text",
+      "before": "若你能告知布歇身在何处，我们便不再靠近。",
+      "after": "告诉我们布歇在哪里，就不再靠近。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1028].texts[index=12].text",
+      "before": "管理者老兄，事不关己你倒是说得轻松啊。",
+      "after": "老兄，不能因为是别人的事，就说得这么轻松啊。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1028].texts[index=24].text",
+      "before": "管理者大人好奇布歇是怎样的人呢。",
+      "after": "管理者想知道，布歇是怎样的人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1011].texts[index=15].text",
+      "before": "意思是冲刷上岸的幼体终于见底了吗。前代的痕迹终究还是要毫无保留地彻底消逝了啊……",
+      "after": "是说已经没什么幼体会被冲过来了吗。这样一来，上个时代才算彻底消失，不留痕迹了吧……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1011].texts[index=22].text",
+      "before": "在这当中……被食者的思索，那块肉正合适。近来因获取不易而鲜少使用，想必足够新鲜。",
+      "after": "这几样里……就选被食者的思索，那块肉吧。最近不好弄到，几乎没用过，应该很新鲜。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1012].texts[index=0].text",
+      "before": "副厨师长，有事想请教。",
+      "after": "副厨师长，我有问题。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1012].texts[index=2].text",
+      "before": "我想请教“被食者的思索”属于何种品类，又该如何辨识。",
+      "after": "被食者的思索是哪一类，如何辨认？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1012].texts[index=4].text",
+      "before": "我们意在为鲜肉苏打做出贡献。还望您能不吝赐教。",
+      "after": "我们想为鲜肉苏打做贡献。请您提供些建议。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1012].texts[index=21].text",
+      "before": "格里高尔熟练地运用了劝导与威慑呢。浮士德学到了不少。",
+      "after": "格里高尔先生，您很善于运用说服和威胁。浮士德学到了一点。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1012].texts[index=22].text",
+      "before": "是非常行之有效的方法。",
+      "after": "这种方法很有效。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1013].texts[index=0].text",
+      "before": "干瘪枯槁的肉块。接近于肉干。说明上却大言不惭地写着极其新鲜。",
+      "after": "干透的肉。已经接近肉干了，说明却写着非常新鲜。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1017].texts[index=3].text",
+      "before": "毕竟是掺有极少量黄金皮革的肉，会引得众人垂涎，也很合理。",
+      "after": "虽然极少，但这肉里掺有黄金皮革。人人都想要也很合理。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1017].texts[index=4].text",
+      "before": "迅速返回向布歇交付吧。",
+      "after": "现在回布歇那里吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1017].texts[index=5].text",
+      "before": "<好，快走吧！>",
+      "after": "<好。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=3].text",
+      "before": "布歇听罢露出了满口獠牙的笑容，随后在玻璃窗后将副厨师长拿来的材料大肆乱刀剁碎。",
+      "after": "布歇听后咧嘴一笑，开始在玻璃窗后乱刀切剁副厨师长拿来的材料。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=8].text",
+      "before": "刚诞生的料理，这是理所当然的吧。诞生即是恐惧，恐惧之后便是孤独，而孤独自然伴随着啼哭。",
+      "after": "刚诞生的料理，当然如此。诞生是恐惧，是孤独，随之而来的就是哭泣。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=9].text",
+      "before": "……比起这个，我也差不多该准备开席了。若无他事，还请各位自便。",
+      "after": "……不过，我该准备做菜了。没有别的事，就请离开吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=15].text",
+      "before": "那便心怀感激地收下吧。",
+      "after": "那就收下了，谢谢。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=16].text",
+      "before": "如此一来，在这一层该办的事情便全部结束了吗？",
+      "after": "这一层的事已经办完了吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=17].text",
+      "before": "<将茧纺制成丝缕要在地下2层才能进行……想必是的。>",
+      "after": "<说是要在地下2层把茧做成线团……大概吧。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=19].text",
+      "before": "那么我们便前往走廊下方。",
+      "after": "那么，前往走廊下方。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=21].text",
+      "before": "在象征界之中，格里高尔先生按理并不会感受到实际的口渴呢。",
+      "after": "在象征界里，格里高尔先生应该感受不到实际的口渴。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=24].text",
+      "before": "浮士德也对那苏打的味道感到好奇呢。",
+      "after": "浮士德也很好奇那苏打的味道。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=26].text",
+      "before": "……我就不必了，管理者大人。",
+      "after": "……我就不必了，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=30].text",
+      "before": "即便它与想象中的价值无限接近。",
+      "after": "即便味道与想象中的价值无限接近。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=36].text",
+      "before": "你所想要表达的观点，我已经完全理解。但是……",
+      "after": "我完全理解你的意思。但是……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=37].text",
+      "before": "现在的我大概还做不到吧。",
+      "after": "现在的我，恐怕还做不到。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=39].text",
+      "before": "……那也是没有办法的事呢。",
+      "after": "……那就没办法了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=41].text",
+      "before": "是格里高尔的见解传达到了他的心中吗。",
+      "after": "格里高尔的意见起作用了吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=43].text",
+      "before": "回忆或许终究只是围绕着美好记忆重新剪辑出的产物罢了。",
+      "after": "所谓“怀念”，或许就是以美好的记忆为主重新编排而成的东西。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1104].texts[index=44].text",
+      "before": "若是连痛苦的记忆也历历在目地浮现，那么“回忆”这个词或许便毫无必要了吧。",
+      "after": "如果连痛苦的记忆也历历在目，那么“怀念”这个词或许便没有必要了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=0].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=1].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=2].text",
+      "before": "想向您请教这些布匹究竟是何物。",
+      "after": "想问一下，这些布是什么？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=3].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=5].text",
+      "before": "知晓如何前来，并不等同于知晓如何前去。不过此人两者皆知的概率看似很高。",
+      "after": "知道怎么来，和知道怎么去，是两回事。不过他很可能两者都知道。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=6].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=8].text",
+      "before": "这是……啊哈，看来各位是接到了3层的大人们的委托正要下行呢。自动扶梯直接往下走即可。只要心中明确要去往的目的地，便绝无迷途之理。",
+      "after": "这是……啊，看来各位是接受了3层那些人的委托，正准备下去。自动扶梯直接往下走就行。只要知道要去哪里，就不会迷路。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=8].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1053].texts[index=11].text",
+      "before": "雷诺阿的职员又重新开始整理起了布匹。",
+      "after": "黑派的职员又重新开始整理起了布匹。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1054].texts[index=0].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1054].texts[index=1].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1055].texts[index=0].speaker",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1056].texts[index=0].speaker",
+      "before": "勒鲁日搬运工",
+      "after": "红派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1056].texts[index=1].speaker",
+      "before": "勒鲁日搬运工",
+      "after": "红派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1056].texts[index=3].text",
+      "before": "想请教您在此处等候何物。",
+      "after": "想问一下，您在这里等什么？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1056].texts[index=4].speaker",
+      "before": "勒鲁日搬运工",
+      "after": "红派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1056].texts[index=5].speaker",
+      "before": "勒鲁日搬运工",
+      "after": "红派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1056].texts[index=6].text",
+      "before": "勒鲁日的搬运工推开我们，紧紧贴在墙壁上露出欣喜若狂的笑容。",
+      "after": "红派的搬运工推开我们，紧紧贴在墙壁上露出欣喜若狂的笑容。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1049].texts[index=1].text",
+      "before": "考量其方位，推开这扇门极有可能与食品馆……相连。",
+      "after": "从方向判断，开门后很可能通往食品馆……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1049].texts[index=2].text",
+      "before": "……但也无法百分之百确信。",
+      "after": "……但并不确定。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1049].texts[index=5].text",
+      "before": "管理者老兄……你该不会打算进去吧？",
+      "after": "老兄……你不是想进去吧？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1040].texts[index=2].text",
+      "before": "此处应是地下1层的另一处空间。若能满足特定条件或许便可前往……但目前尚属于无法获取的情报呢。",
+      "after": "那应该是地下1层的另一处空间。满足某些条件后或许就能过去……但目前还无法获取相关信息。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1036].texts[index=0].text",
+      "before": "美食广场即是地面绘有旋涡标记之处，管理者大人。",
+      "after": "美食广场在地面有旋涡标记的地方，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1074].texts[index=2].text",
+      "before": "虽然造成了些许皮肤撕裂伤，但并不影响行动。",
+      "after": "皮肤有些撕裂伤，不影响行动。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1075].texts[index=4].text",
+      "before": "确实感受到了门把手转动的触感与推门的触感。",
+      "after": "我感觉到了门把手转动，也感觉到了门被打开。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1075].texts[index=5].text",
+      "before": "那个……在楼上被打开的脑袋……是不是还没关严实啊……管理者老兄，要不给他转转时钟怎么样。",
+      "after": "那个……在楼上被打开的脑袋……是不是还没关严实啊……老兄，要不给他转转时钟？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1076].texts[index=0].text",
+      "before": "这家伙……暗地里还挺有搞笑细胞的嘛。",
+      "after": "这家伙……还挺想逗人笑的嘛。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1081].texts[index=0].text",
+      "before": "听到了金属相互碰撞碰撞发出的哐当哐当声。",
+      "after": "传来哐当哐当的金属碰撞声。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1081].texts[index=3].text",
+      "before": "那是多户住宅中通常用于丢弃垃圾的孔洞呢。也被称为垃圾管道。",
+      "after": "那是多户住宅里常用来丢垃圾的孔洞，也叫垃圾管道。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1081].texts[index=5].text",
+      "before": "那是都市中的常识呢，格里高尔。在作为象征界的此处理论常识，恐怕并无意义吧。",
+      "after": "那是都市的常识，格里高尔先生。在象征界里，很难用常识来判断吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1087].texts[index=0].text",
+      "before": "不知始末与尽头的自动扶梯。",
+      "after": "不知起点和终点在哪里的自动扶梯。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1105].texts[index=3].text",
+      "before": "<仔细辨别，避开攻击……迎战试试看吧。>",
+      "after": "<分清楚，试着避开……或者迎击吧。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1106].texts[index=2].text",
+      "before": "<感觉比1层的人体模特强上一些，又好像并非如此……>",
+      "after": "<比1层的人体模特好对付些吗，又好像不是……>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1107].texts[index=2].text",
+      "before": "其解剖手法确实配得上副厨师长之头衔。",
+      "after": "分解的手法配得上副厨师长这个头衔。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1107].texts[index=3].text",
+      "before": "……只要尚且在象征界中活动，作为外界因素想要干预除默尔索先生之外的罪人们本就极其困难。",
+      "after": "……我们在象征界里活动，外部因素很难影响默尔索先生以外的罪人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1107].texts[index=4].text",
+      "before": "反之想必亦然。",
+      "after": "反过来也一样。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b1.json",
+      "path": "dataList[key=D-1107].texts[index=6].text",
+      "before": "是的。不仅如此，只要由我作为主体，同样能够将其转交递送。",
+      "after": "是。并且，只要我是主体，也可以将其转交。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20201560].texts[index=0].text",
+      "before": "哎呀……！",
+      "after": "哎哟……！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20220301].texts[index=0].text",
+      "before": "小巧的顾客们正排队等待着。要是打算硬挤进去，恐怕会被那些针扎得够呛。",
+      "after": "小小的顾客们正排队等着。想进去的话，恐怕会被那些针扎到。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20220401].texts[index=0].text",
+      "before": "<通往染料仓库的通道。目前正紧紧闭锁着。>",
+      "after": "<通往染料仓库的通道。现在关得很严。>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20220901].texts[index=0].text",
+      "before": "[未使用] 通往地下3层的自动扶梯。死死地停滞着。",
+      "after": "[未使用] 通往地下3层的自动扶梯。停得纹丝不动。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-3].texts[index=0].text",
+      "before": "意思是“轮到我们了”，管理者大人。",
+      "after": "意思是“轮到我们了”，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-3].texts[index=3].text",
+      "before": "吼哦。",
+      "after": "哦？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-3].texts[index=8].text",
+      "before": "我所做的，仅是记住良秀曾使用过的、且已被解读出的缩写结果并作答而已。对于全新的缩写，我无法掌握。",
+      "after": "我只是记住良秀用过的缩写及其已有的解释，再据此回答。新的缩写无法解读。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-3].texts[index=9].text",
+      "before": "别像乌·合一样，先解·此·处，时钟。",
+      "after": "别像乌·合那样，先解·此·处，时钟。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-3].texts[index=11].text",
+      "before": "意思是“别像乌合之众一样，先解释一下这里是哪里，时钟”，管理者大人。",
+      "after": "意思是“别像乌合之众一样，先解释一下这里是哪里，时钟”，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-3].texts[index=13].text",
+      "before": "沟通问题或许能够得以解决了呢，管理者大人。",
+      "after": "沟通问题或许能解决了，管理者大人。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-4].texts[index=3].text",
+      "before": "因为这里是只向雷诺阿的知名品牌供货的线团巢穴所在地嘛。",
+      "after": "因为这里有只向黑派知名品牌供应丝线的线团巢穴。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-4].texts[index=8].text",
+      "before": "说得像有不·能·磨蹭的理由一样。",
+      "after": "说得像有什么不·该·磨的理由。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-4].texts[index=9].text",
+      "before": "意思是“不该磨蹭的……”，管理者大人。",
+      "after": "意思是“不该磨蹭的……”，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2000-6].texts[index=3].text",
+      "before": "……虽然简略地图磨损得颇为严重，但只要朝着右侧前行，推测便能抵达目的地。",
+      "after": "……地图虽然破损得很严重，但往右走，应该就能到。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2002-2].texts[index=4].text",
+      "before": "哈啊。太好了。现在你们可以继续去磨蹭你们最喜欢的磨蹭啦。",
+      "after": "哈。真好，现在你们可以尽情磨蹭了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2002-2].texts[index=7].text",
+      "before": "那是何意……？",
+      "after": "那是什么意思……？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2002-3].texts[index=3].text",
+      "before": "总是在不知不觉间现身呢。是因为扮作神明，就真的想举止如神一般了吗？还是说玩弄神明游戏玩到最后终究同化了呢？",
+      "after": "总是叫人不知道你什么时候就来了。是装神装久了，真想像神一样行动，还是扮神扮到最后就变得一样了？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2002-3].texts[index=5].text",
+      "before": "<color=#ebcaa2>怎么会呢？我现在也是忙得不可开交，刚才的话几乎全错过了呢。</color>",
+      "after": "<color=#ebcaa2>怎么会？我现在也很忙，刚才的话大半都没听见呢。</color>"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2003-1].texts[index=1].text",
+      "before": "是叫丝·巢来着？倒确实名副其实。",
+      "after": "线·巢，是这么叫吧？倒是名副其实。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2003-1].texts[index=3].text",
+      "before": "若是雷诺阿那些人未曾撒谎，那家伙应该就是能纺制出黄金线团的人。",
+      "after": "如果黑派那些人没有说谎，那人应该就能制作黄金线团。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2003-1].texts[index=5].text",
+      "before": "据我所知，是需要的，管理者大人。",
+      "after": "据我所知，是需要的，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2006-1].texts[index=1].text",
+      "before": "[未使用] 下一个顺位是……奈基德来着？听说是由雷诺阿接收的。",
+      "after": "[未使用] 下一个顺位是……奈基德来着？听说是由黑派接收的。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2006-4].texts[index=0].text",
+      "before": "[未使用] 把关于内·德那家伙所知道的全部说出来。",
+      "after": "[未使用] 把你知道的基·德那家伙的事说出来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2006-4].texts[index=1].text",
+      "before": "[未使用] 内德？奈基德？",
+      "after": "[未使用] 基德？奈基德？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2006-4].texts[index=3].text",
+      "before": "[未使用] 你说的是在地下2层晃荡的那个晦气的雷诺阿吗？",
+      "after": "[未使用] 你说的是在地下2层晃荡的那个晦气的黑派吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2008-1].texts[index=0].speaker",
+      "before": "雷诺阿等候者",
+      "after": "黑派等候者"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2008-1].texts[index=1].speaker",
+      "before": "雷诺阿等候者",
+      "after": "黑派等候者"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2008-1].texts[index=2].speaker",
+      "before": "雷诺阿等候者",
+      "after": "黑派等候者"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2008-1].texts[index=3].speaker",
+      "before": "雷诺阿等候者",
+      "after": "黑派等候者"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=10].text",
+      "before": "……哈啊，是这种类型的机制吗。管理者大人，在您看来这染料是什么颜色的？",
+      "after": "……哈啊，是这么回事吗。管理者大人，您看到的染料是什么颜色？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=20].text",
+      "before": "污·水。",
+      "after": "误·水。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=21].text",
+      "before": "你在说什么啊？！把人家用心做出的染料叫做污水什么的……",
+      "after": "你说什么？！竟然把我精心做的染料叫成污水……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=22].text",
+      "before": "我是说，“哦，不是水”。",
+      "after": "我是说，“误认成水了”。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=23].text",
+      "before": "从黏稠度和分量来看，是油系染料吧。",
+      "after": "看黏度和分量，是油性染料。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=27].text",
+      "before": "良秀点了点头，拎起调色盘推过来的染料桶，径直朝着门大步流星地走去。",
+      "after": "良秀点着头，拎起调色盘放下的染料桶，径直朝门口走去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=30].text",
+      "before": "意思是“真是奇怪的提问”，管理者大人。",
+      "after": "意思是“真是奇怪的提问”，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2010-1].texts[index=34].text",
+      "before": "阿赖耶似乎并不赞同这番见解，剑鞘左右晃动着……不过正如良秀所说，唯有去问奈基德本人才能知晓真相，这倒也是事实。",
+      "after": "阿赖耶似乎不同意，剑鞘左右摇晃……不过良秀说得没错，问过奈基德本人才能知道。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2011-1].texts[index=6].text",
+      "before": "将这等宝物交出去，简直令我痛心疾首。您的运气实在太好了。若非为了雷诺阿的大义急需黄金染料，我们早就带着这染料返回地表层了！",
+      "after": "将这等宝物交出去，简直令我痛心疾首。您的运气实在太好了。若非为了黑派的大义急需黄金染料，我们早就带着这染料返回地表层了！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2011-1].texts[index=13].text",
+      "before": "真是令人感动得心驰神往。",
+      "after": "真是喜欢得让我感动。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2013-1].texts[index=2].text",
+      "before": "呼……正在把丝线生生榨出来么。可不是合我心意的那种悦耳哀鸣啊。",
+      "after": "呼……在榨取丝线吗。算不上合我口味的悦耳惨叫。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2013-1].texts[index=3].text",
+      "before": "……管理者大人，走廊那边传来了什么东西汹涌而来的声音。",
+      "after": "……管理者，我听见有东西从走廊涌来。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2015-1].texts[index=0].text",
+      "before": "如此一来……便全数纺拔出来了。",
+      "after": "这样……就全抽出来了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-SH109002].texts[index=0].text",
+      "before": "有几根针于我无用，我就特别卖给你们吧。",
+      "after": "有些东西我用不着，就破例卖给你们吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221301].texts[index=1].text",
+      "before": "……地上掉着没·用·的……哈。是那家伙落下的吗？",
+      "after": "……地上掉着没·用的“噗哈哈”。是那家伙落下的吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221401].texts[index=4].text",
+      "before": "唔……虽然不甚明了其原理，但大体结构属下已然心中有数。",
+      "after": "嗯……原理还不清楚，但结构大致明白了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221411].texts[index=1].text",
+      "before": "哈。看来并非凡·平·之·丝啊。",
+      "after": "哈。看来不是普·通·丝。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221414].texts[index=1].text",
+      "before": "打算把它解·成·丝吗？",
+      "after": "想要丝·解吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221414].texts[index=2].text",
+      "before": "她是在问您是否想要将其分解为丝线，管理者大人。",
+      "after": "她是在问，您是否想把它化为丝线、分解开来，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221419].texts[index=0].text",
+      "before": "弹出了染料不足的警告。",
+      "after": "弹出了没有染料的警告。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221420].texts[index=0].text",
+      "before": "……属下冒昧请教，管理者大人此举究竟是何意图？",
+      "after": "……管理者大人，可以请问您的意图吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221601].texts[index=1].text",
+      "before": "一旁如提示一般写着“测试中的染料。若要试用，请仅取微量……”。",
+      "after": "旁边像是告示一样写着：“测试中的染料。想试的话，就舀一点走……”"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221601].texts[index=2].text",
+      "before": "……不错。在美学上有其鉴赏价值。",
+      "after": "……不错。有鉴赏的价值。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D20221803].texts[index=0].text",
+      "before": "是蓝色的染料。或许是因为与小指育儿室见到的光芒相似，良秀不悦地扭过头去。",
+      "after": "是蓝色的染料。或许因为像在小指房间里见过的光，良秀不悦地扭过头去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2042].texts[index=4].text",
+      "before": "若是后退半步……丝缕的纺制或许会受到干扰。",
+      "after": "如果后退……可能会妨碍线团的制作。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2045].texts[index=2].text",
+      "before": "如今摆在眼前，确实令人垂涎三尺呢。",
+      "after": "如今摆在眼前，实在让人想要。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2801].texts[index=3].text",
+      "before": "初次提出的缩写无法解读，管理者大人。",
+      "after": "初次提出的缩写无法解读，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2802].texts[index=3].text",
+      "before": "既然都死了，索性把每种颜色全都被染一遍才好。",
+      "after": "既然都死过了，不如每种颜色都染一遍。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2803].texts[index=4].text",
+      "before": "确实被吞食了。但依然留存在肩膀之上。",
+      "after": "被吞掉了。但仍在肩上。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2803].texts[index=6].text",
+      "before": "呼……时·让。",
+      "after": "呼……时·移。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2803].texts[index=7].text",
+      "before": "该缩写曾被用来表示“时钟，让开”，管理者大人。",
+      "after": "该缩写曾表示“时钟，移开”，管理者。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2803].texts[index=9].text",
+      "before": "啧。我是指“时间被扭曲了吗”。",
+      "after": "啧。我是说，“时间错移了吗”。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-2804].texts[index=4].text",
+      "before": "既然楼层经理坐镇其中，它定然无法肆无忌惮地闯入。",
+      "after": "有楼层经理在，它应该无法贸然闯入。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-floor-b2.json",
+      "path": "dataList[key=D-209061].texts[index=0].text",
+      "before": "难不成是勒鲁日派来的吗？妄图窃取我独创的设计……这些该死的异乡人……！",
+      "after": "难不成是红派派来的吗？妄图窃取我独创的设计……这些该死的异乡人……！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "path": "dataList[key=D999999].texts[index=17].text",
+      "before": "回答您的问题，罪人们不记得的理由是因为我们“回来了”。",
+      "after": "回答您的问题：罪人们不记得，是因为我们“回来了”。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "path": "dataList[key=D999999].texts[index=20].text",
+      "before": "这通常是绝大多数存在无法察觉的现象，但我和管理者似乎属于例外。",
+      "after": "大多数存在无法察觉这一现象，但我和管理者似乎是例外。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-dialogue-route-a.json",
+      "path": "dataList[key=D999998].texts[index=4].text",
+      "before": "……虽然并非那种性质，但若这般理解亦无妨。",
+      "after": "……虽然不同，但这样理解也无妨。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I1201].description",
+      "before": "反复播放着赤神昔日诵念的旧日之声。那是勒鲁日们曾经聆听的声音。虔诚之人或许能从中听到更为深邃的故事。",
+      "after": "反复播放着赤神昔日诵念的旧日之声。那是红派众人曾经聆听的声音。虔诚之人或许能从中听到更为深邃的故事。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I1207].displayName",
+      "before": "雷诺阿鉴定书",
+      "after": "黑派鉴定书"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I1207].description",
+      "before": "本顾客身为雷诺阿的卓越主顾，为维护品牌价值做出了杰出贡献。",
+      "after": "本顾客身为黑派的卓越主顾，为维护品牌价值做出了杰出贡献。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I1208].statText",
+      "before": "象征界<color=#00ff9c>体力</color>+1\n\n象征界<color=#fe4b48>攻击速度</color>+10%\n\n象征界<color=#F8C200>移动速度</color>+5%\n\n在象征界中，受到雷诺阿店员[阳光] 、勒鲁日店员[阳光] 类敌方单位的<color=#fe4b48>伤害量</color>-1，对其造成的<color=#fe4b48>伤害量</color>+1",
+      "after": "象征界<color=#00ff9c>体力</color>+1\n\n象征界<color=#fe4b48>攻击速度</color>+10%\n\n象征界<color=#F8C200>移动速度</color>+5%\n\n在象征界中，受到黑派店员[阳光] 、红派店员[阳光] 类敌方单位的<color=#fe4b48>伤害量</color>-1，对其造成的<color=#fe4b48>伤害量</color>+1"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990006].description",
+      "before": "你问裁缝难道不该保持中立吗？雷诺阿钟情面料，勒鲁日偏爱皮革，试问裁缝究竟更需要谁，又更愿意将剪刀递给谁呢？",
+      "after": "你问裁缝难道不该保持中立吗？黑派钟情面料，红派偏爱皮革，试问裁缝究竟更需要谁，又更愿意将剪刀递给谁呢？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990101].displayName",
+      "before": "雷诺阿当代开衫",
+      "after": "黑派当代开衫"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990102].displayName",
+      "before": "雷诺阿当代帽子",
+      "after": "黑派当代帽子"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990103].displayName",
+      "before": "雷诺阿当代绅士帽",
+      "after": "黑派当代绅士帽"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990104].displayName",
+      "before": "勒鲁日快时尚拉链连帽卫衣",
+      "after": "红派快时尚拉链连帽卫衣"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990105].displayName",
+      "before": "勒鲁日快时尚半身裙",
+      "after": "红派快时尚半身裙"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990106].displayName",
+      "before": "勒鲁日当代拉链",
+      "after": "红派当代拉链"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990106].description",
+      "before": "勒鲁日珍视生命及其脉动，赋予其意义，并期待着体验。",
+      "after": "红派珍视生命及其脉动，赋予其意义，并期待着体验。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990107].displayName",
+      "before": "勒鲁日当代袜子",
+      "after": "红派当代袜子"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990303].description",
+      "before": "我既不是勒鲁日，也不是雷诺阿，追求的是中立的价值。无论哪个品牌想要面料，我都乐意交易。",
+      "after": "我既不是红派，也不是黑派，追求的是中立的价值。无论哪个品牌想要面料，我都乐意交易。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990304].displayName",
+      "before": "勒鲁日精品店墨镜",
+      "after": "红派精品店墨镜"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990305].displayName",
+      "before": "勒鲁日精品店T恤",
+      "after": "红派精品店T恤"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990306].displayName",
+      "before": "勒鲁日精品店牛仔裤",
+      "after": "红派精品店牛仔裤"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990306].description",
+      "before": "勒鲁日追求修身的剪裁。展露身体的线条，才是时尚的价值所在。",
+      "after": "红派追求修身的剪裁。展露身体的线条，才是时尚的价值所在。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990307].displayName",
+      "before": "雷诺阿之屋领带",
+      "after": "黑派之屋领带"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990307].description",
+      "before": "雷诺阿的衣物遮住顾客的身体，修饰体形。遮蔽身体，才是时尚的价值所在。",
+      "after": "黑派的衣物遮住顾客的身体，修饰体形。遮蔽身体，才是时尚的价值所在。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990308].displayName",
+      "before": "雷诺阿之屋西裤",
+      "after": "黑派之屋西裤"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990308].description",
+      "before": "无论雷诺阿还是勒鲁日……都有人在听到某个声音之后，开始变得疯疯癫癫。",
+      "after": "无论黑派还是红派……都有人在听到某个声音之后，开始变得疯疯癫癫。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990309].displayName",
+      "before": "雷诺阿之屋衬衫",
+      "after": "黑派之屋衬衫"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990401].displayName",
+      "before": "雷诺阿玛丽珍鞋",
+      "after": "黑派玛丽珍鞋"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990402].displayName",
+      "before": "雷诺阿焦特布尔靴",
+      "after": "黑派焦特布尔靴"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990403].displayName",
+      "before": "雷诺阿经典鞋楦",
+      "after": "黑派经典鞋楦"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990404].displayName",
+      "before": "勒鲁日芭蕾平底鞋",
+      "after": "红派芭蕾平底鞋"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990405].displayName",
+      "before": "勒鲁日切尔西靴",
+      "after": "红派切尔西靴"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990405].description",
+      "before": "鞋子必须呼吸。不能像雷诺阿的鞋一样，只是一味地封闭。鞋子必须柔软灵活，能够呼吸，我才能站在这片土地上。否则，就只是彼此分离地搁在上面而已。",
+      "after": "鞋子必须呼吸。不能像黑派的鞋一样，只是一味地封闭。鞋子必须柔软灵活，能够呼吸，我才能站在这片土地上。否则，就只是彼此分离地搁在上面而已。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990408].description",
+      "before": "有个勒鲁日的小喽啰问，为什么要坐在椅子上，把食物放在桌上吃。不在地上吃，非要经过这套程序，当然是为了吃得更美味。越是忍耐着、辛苦得来的东西，就越甘甜、越有价值。那么，桌椅越不舒服，还在上面吃饭的人，不就越文明吗？",
+      "after": "有个红派的小喽啰问，为什么要坐在椅子上，把食物放在桌上吃。不在地上吃，非要经过这套程序，当然是为了吃得更美味。越是忍耐着、辛苦得来的东西，就越甘甜、越有价值。那么，桌椅越不舒服，还在上面吃饭的人，不就越文明吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990801].description",
+      "before": "奢侈品馆遭到袭击了！勒鲁日突袭了雷诺阿占据的奢侈品馆，正在那里大摆宴席！",
+      "after": "名品馆遭到袭击了！红派突袭了黑派占据的名品馆，正在那里大摆宴席！"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990815].description",
+      "before": "你知道区分残渣的界限是什么吗？食物哪怕只吃一口就扔掉，也会成为残渣；有人却会把那残渣当作稀有食材，美美享用。所以，究竟如何区分残渣，是美食广场极为重要的问题……而现在，只要不是雷诺阿，就全都是残渣。",
+      "after": "你知道区分残渣的界限是什么吗？食物哪怕只吃一口就扔掉，也会成为残渣；有人却会把那残渣当作稀有食材，美美享用。所以，究竟如何区分残渣，是美食广场极为重要的问题……而现在，只要不是黑派，就全都是残渣。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990814].description",
+      "before": "绘有楼层通道、可用于突袭奢侈品馆的地图。然而已经使用过，无法辨认了。西西弗斯系统由多层叠加而成，这种多层结构使许多顾客陷入沉睡。这张地图由极少数能够分析多层结构的人绘制而成，价值高得惊人。勒鲁日得到了它。",
+      "after": "绘有楼层通道、可用于突袭名品馆的地图。然而已经使用过，无法辨认了。西西弗斯系统由多层叠加而成，这种多层结构使许多顾客陷入沉睡。这张地图由极少数能够分析多层结构的人绘制而成，价值高得惊人。红派得到了它。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990320].displayName",
+      "before": "黄金布料",
+      "after": "黄金面料"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I990117].displayName",
+      "before": "过季的勒鲁日服饰",
+      "after": "过季的红派服饰"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I102023].description",
+      "before": "勒鲁日的品牌总监。勒鲁日这一品牌应有的意义与方向，一切都由品牌总监的指示决定。品牌总监听赤神的声音，听得比谁都清楚。而可嘉的是，即便赤神的声音消失了，也仍试图塑造一个能再次发声的新存在。明明赤神不在的事实，只要想隐瞒，完全可以一直隐瞒下去。",
+      "after": "红派的品牌总监。红派这一品牌应有的意义与方向，一切都由品牌总监的指示决定。品牌总监听赤神的声音，听得比谁都清楚。而可嘉的是，即便赤神的声音消失了，也仍试图塑造一个能再次发声的新存在。明明赤神不在的事实，只要想隐瞒，完全可以一直隐瞒下去。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-item-common-a1c10p1.json",
+      "path": "dataList[key=I1209].description",
+      "before": "裁缝会裁剪面料，再按纸样拼接。最近，剪刀声突然响亮了许多。看来雷诺阿那边下了大量订单。难道要打什么大仗了吗？",
+      "after": "裁缝会裁剪面料，再按纸样拼接。最近，剪刀声突然响亮了许多。看来黑派那边下了大量订单。难道要打什么大仗了吗？"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-1.json",
+      "path": "dataList[key=110900].text",
+      "before": "雷诺阿当代馆",
+      "after": "黑派当代馆"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-1.json",
+      "path": "dataList[key=111100].text",
+      "before": "勒鲁日当代馆",
+      "after": "红派当代馆"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-3.json",
+      "path": "dataList[key=130200].text",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-3.json",
+      "path": "dataList[key=130300].text",
+      "before": "雷诺阿之屋",
+      "after": "黑派之屋"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-b2.json",
+      "path": "dataList[key=220200].text",
+      "before": "线绞巢穴",
+      "after": "线团巢穴"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-location-floor-b2.json",
+      "path": "dataList[key=221500].text",
+      "before": "线绞巢穴走廊",
+      "after": "线团巢穴走廊"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
+      "path": "dataList[key=N101004].displayName",
+      "before": "勒鲁日店员 米莫萨",
+      "after": "红派店员 米莫萨"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-1-a-enemy.json",
+      "path": "dataList[key=N101006].displayName",
+      "before": "雷诺阿店员 古斯塔夫",
+      "after": "黑派店员 古斯塔夫"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102004].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102025].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102026].displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102027].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102042].displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102043].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102044].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2-a-enemy.json",
+      "path": "dataList[key=N102046].displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102003].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102008].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102009].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102010].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102011].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102012].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102013].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102014].displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102015].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102017].displayName",
+      "before": "高级雷诺阿2",
+      "after": "高级黑派2"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102019].displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102020].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102021].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102022].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102028].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102029].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102030].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102031].displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102032].displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102033].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102034].displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102040].displayName",
+      "before": "冲锋的雷诺阿",
+      "after": "冲锋的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102041].displayName",
+      "before": "雷诺阿巨型安保",
+      "after": "黑派巨型安保"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102035].displayName",
+      "before": "勒鲁日职员",
+      "after": "红派职员"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102036].displayName",
+      "before": "反抗的勒鲁日",
+      "after": "反抗的红派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102037].displayName",
+      "before": "勒鲁日店长",
+      "after": "红派店长"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102038].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-2.json",
+      "path": "dataList[key=N102039].displayName",
+      "before": "突击的雷诺阿",
+      "after": "突击的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
+      "path": "dataList[key=N103012].displayName",
+      "before": "雷诺阿店员[日光]",
+      "after": "黑派店员[日光]"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-3-a-enemy.json",
+      "path": "dataList[key=N103014].displayName",
+      "before": "勒鲁日店员[日光]",
+      "after": "红派店员[日光]"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b1.json",
+      "path": "dataList[key=N201017].displayName",
+      "before": "雷诺阿搬运工",
+      "after": "黑派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b1.json",
+      "path": "dataList[key=N201018].displayName",
+      "before": "勒鲁日搬运工",
+      "after": "红派搬运工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b2.json",
+      "path": "dataList[key=N202005].displayName",
+      "before": "等候中的雷诺阿",
+      "after": "等候中的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-npc-floor-b2.json",
+      "path": "dataList[key=N202030].displayName",
+      "before": "等候中的雷诺阿",
+      "after": "等候中的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "path": "dataList[key=Q1042].title",
+      "before": "抵挡发起袭击的雷诺阿员工",
+      "after": "抵挡发起袭击的黑派员工"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "path": "dataList[key=Q1051].title",
+      "before": "前往勒鲁日的卖场",
+      "after": "前往红派的卖场"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "path": "dataList[key=Q1051].description",
+      "before": "从雷诺阿员工那里听说了黄金松脂的事。这次去上方的勒鲁日当代馆看看吧。",
+      "after": "从黑派员工那里听说了黄金松脂的事。这次去上方的红派当代馆看看吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "path": "dataList[key=Q1051].steps[index=0].goalDescription1",
+      "before": "前往勒鲁日当代馆",
+      "after": "前往红派当代馆"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-1.json",
+      "path": "dataList[key=Q1052].description",
+      "before": "勒鲁日当代馆的员工奎利安拜托我们找来一根大针。找到拿着针的人体模特，取得针后返回奎利安身边吧。",
+      "after": "红派当代馆的员工奎利安拜托我们找来一根大针。找到拿着针的人体模特，取得针后返回奎利安身边吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "path": "dataList[key=Q2002].description",
+      "before": "法兰绒和毛毡看到我们找来的武器后十分感动。他们拜托我们阻止勒鲁日在2层名品馆的所作所为。2层的施工到底结束了没有？该下去看看了。",
+      "after": "法兰绒和毛毡看到我们找来的武器后十分感动。他们拜托我们阻止红派在2层名品馆的所作所为。2层的施工到底结束了没有？该下去看看了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "path": "dataList[key=Q2003].description",
+      "before": "2层的屠杀仍在继续。挡住名品馆入口的雷诺阿看到我们手中的黄金钉后，让开了道路。他请求我们除掉勒鲁日正在创造的伪神。里面究竟有什么？进入名品馆看看吧。",
+      "after": "2层的屠杀仍在继续。挡住名品馆入口的黑派看到我们手中的黄金钉后，让开了道路。他请求我们除掉红派正在创造的伪神。里面究竟有什么？进入名品馆看看吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "path": "dataList[key=Q2011].title",
+      "before": "击退蜂拥而至的勒鲁日们",
+      "after": "击退蜂拥而至的红派众人"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "path": "dataList[key=Q2011].description",
+      "before": "看来必须进入名品馆的帷幕里面。帮助雷诺阿消灭蜂拥而至的勒鲁日，并除掉守护帷幕的勒鲁日品牌总监吧。",
+      "after": "看来必须进入名品馆的帷幕里面。帮助黑派消灭蜂拥而至的红派，并除掉守护帷幕的红派品牌总监吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "path": "dataList[key=Q2011].steps[index=0].goalDescription1",
+      "before": "击败勒鲁日品牌总监",
+      "after": "击败红派品牌总监"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-2.json",
+      "path": "dataList[key=Q2004].description",
+      "before": "消灭了守护名品馆的勒鲁日。跟着默尔索走进帷幕吧。",
+      "after": "消灭了守护名品馆的红派。跟着默尔索走进帷幕吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3005].title",
+      "before": "与精品店的勒鲁日搭话",
+      "after": "与精品店的红派搭话"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3005].steps[index=0].goalDescription1",
+      "before": "与勒鲁日精品店的店员交谈",
+      "after": "与红派精品店的店员交谈"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3006].description",
+      "before": "名叫利纳莫维布尔的勒鲁日，因那道声音不断重复同样的话而痛苦。他希望我们前往广播室，查明声音为何一直重复。那声音的主人是默尔索已故的母亲。不过，为了完成他的委托，我们还是决定前往广播室。",
+      "after": "名叫利纳莫维布尔的红派，因那道声音不断重复同样的话而痛苦。她希望我们前往广播室，查明声音为何一直重复。那声音的主人是默尔索已故的母亲。不过，为了完成她的委托，我们还是决定前往广播室。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3007].description",
+      "before": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回勒鲁日精品店，把磁带交给利纳莫维布尔吧。",
+      "after": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回红派精品店，把磁带交给利纳莫维布尔吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3008].description",
+      "before": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回勒鲁日精品店，把磁带交给利纳莫维布尔吧。",
+      "after": "从3层楼层经理手中拿到了广播磁带。里面录着巨人的声音吗？返回红派精品店，把磁带交给利纳莫维布尔吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3013].title",
+      "before": "消灭着魔的雷诺阿们",
+      "after": "消灭着魔的黑派众人"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3013].description",
+      "before": "来到了雷诺阿之屋。名叫法兰绒和毛毡的雷诺阿拜托我们，为了提升他们品牌的格调，除掉被其他声音蛊惑的雷诺阿。消灭3名着魔的雷诺阿后，再来和他们交谈吧。",
+      "after": "来到了黑派之屋。名叫法兰绒和毛毡的黑派拜托我们，为了提升他们品牌的格调，除掉被其他声音蛊惑的黑派。消灭3名着魔的黑派后，再来和他们交谈吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q3013].steps[index=0].goalDescription1",
+      "before": "击败3名着魔的雷诺阿",
+      "after": "击败3名着魔的黑派"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4014].title",
+      "before": "将情报传达给雷诺阿们",
+      "after": "将情报传达给黑派众人"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4014].description",
+      "before": "从幸福衣柜的残骸中，得到了一张记载着“黄金面料与钉子”的配方。这也许就是单足提过的武器。为了传达这条消息，先去与4层雷诺阿鞋履馆的员工单足交谈，再回到3层雷诺阿之屋的员工法兰绒和毛毡身边吧。",
+      "after": "从幸福衣柜的残骸中，得到了一张记载着“黄金面料与钉子”的配方。这也许就是单足提过的武器。为了传达这条消息，先去与4层黑派鞋履馆的员工单足交谈，再回到3层黑派之屋的员工法兰绒和毛毡身边吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4014].steps[index=1].goalDescription1",
+      "before": "与4层雷诺阿鞋履馆的单足交谈",
+      "after": "与4层黑派鞋履馆的单足交谈"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4014].steps[index=2].goalDescription1",
+      "before": "与三楼雷诺阿之屋的法兰绒交谈",
+      "after": "与三楼黑派之屋的法兰绒交谈"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4017].title",
+      "before": "前往勒鲁日精品店",
+      "after": "前往红派精品店"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4017].description",
+      "before": "修补师阿内特制作好了黄金面料。现在还需要钉子。似乎可以从精品店的勒鲁日，利纳莫维布尔那里取得钉子。虽说准确来讲，那是他的脊椎……",
+      "after": "修补师阿内特制作好了黄金面料。现在还需要钉子。似乎可以从精品店的红派，利纳莫维布尔那里取得钉子。虽说准确来讲，那是她的脊椎……"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4016].title",
+      "before": "获取“钉子”并前往雷诺阿之屋",
+      "after": "获取“钉子”并前往黑派之屋"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4016].description",
+      "before": "击败了痛苦不堪、扭曲加剧的利纳莫维布尔。现在必须从他身上拔出脊椎……也就是钉子。用黄金面料裹住钉子，应该就能完成雷诺阿那件能够撕裂任何布料的武器了。去法兰绒和毛毡所在的雷诺阿之屋吧。",
+      "after": "击败了痛苦不堪、扭曲加剧的利纳莫维布尔。现在必须从她身上拔出脊椎……也就是钉子。用黄金面料裹住钉子，应该就能完成黑派那件能够撕裂任何布料的武器了。去法兰绒和毛毡所在的黑派之屋吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-3.json",
+      "path": "dataList[key=Q4016].steps[index=2].goalDescription1",
+      "before": "前往雷诺阿之屋",
+      "after": "前往黑派之屋"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-4.json",
+      "path": "dataList[key=Q4001].description",
+      "before": "带着雷诺阿给的鉴定书上4层吧。据说带着它，雷诺阿就会盛情款待我们，也许在百货公司里行动会更方便一些。",
+      "after": "带着黑派给的鉴定书上4层吧。据说带着它，黑派就会盛情款待我们，也许在百货公司里行动会更方便一些。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-4.json",
+      "path": "dataList[key=Q4003].description",
+      "before": "从雷诺阿鞋履馆的员工单足那里，听说了能撕裂任何布料的武器。先离开雷诺阿鞋履馆，继续逛逛4层吧。",
+      "after": "从黑派鞋履馆的员工单足那里，听说了能撕裂任何布料的武器。先离开黑派鞋履馆，继续逛逛4层吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2001].title",
+      "before": "前往线绞巢穴",
+      "after": "前往线团巢穴"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2001].description",
+      "before": "下到了地下2层。从克罗默的姐姐那里，听说了名为线绞巢穴的地方。朝左边走吧。",
+      "after": "下到了地下2层。从克罗默姐姐那里，听说了名为线团巢穴的地方。朝左边走吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2001].steps[index=0].goalDescription1",
+      "before": "前往位于左侧的线绞巢穴",
+      "after": "前往位于左侧的线团巢穴"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2002].description",
+      "before": "前往线绞巢穴时，一个来历不明的巨大怪物追上来，杀死了我们。似乎是因为我们随身带着的黄金茧。先离开盥洗室，寻找解决办法吧。",
+      "after": "前往线团巢穴时，一个来历不明的巨大怪物追上来，杀死了我们。似乎是因为我们随身带着的黄金茧。先离开盥洗室，寻找解决办法吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2003].title",
+      "before": "前往线绞巢穴 2",
+      "after": "前往线团巢穴 2"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2003].description",
+      "before": "幸好，怪物似乎暂时离开了。趁这个机会，再去一次线绞巢穴吧。",
+      "after": "幸好，怪物似乎暂时离开了。趁这个机会，再去一次线团巢穴吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2003].steps[index=0].goalDescription1",
+      "before": "再次前往线绞巢穴",
+      "after": "再次前往线团巢穴"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2004].description",
+      "before": "顺利抵达了线绞巢穴。看见了地下2层的楼层经理。问问他能否用黄金茧制作黄金线团吧。",
+      "after": "顺利抵达了线团巢穴。看见了地下2层的楼层经理。问问他能否用黄金茧制作黄金线团吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2005].description",
+      "before": "楼层经理说，制作黄金线团需要黄金染料。似乎可以从染色室的调色盘那里取得。去染色室吧。走出走廊后往上方走，应该就能到了。",
+      "after": "楼层经理说，制作黄金线团需要黄金染料。似乎可以从染色室的调色盘那里取得。去染色室吧。走到走廊后往上方走，应该就能到了。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2007].description",
+      "before": "想要取得黄金染料，就得等上荒唐得难以置信的时间。据说，雷诺阿中一个名叫奈基德的人排在最前面。找到奈基德，商量能否购买黄金染料吧。",
+      "after": "想要取得黄金染料，就得等上荒唐得难以置信的时间。据说，黑派中一个名叫奈基德的人排在最前面。找到奈基德，商量能否购买黄金染料吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2008].description",
+      "before": "向在线绞巢穴前排长队的顾客们打探深海染料的情报。",
+      "after": "向在线团巢穴前排长队的顾客们打探深海染料的情报。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2008].steps[index=0].goalDescription1",
+      "before": "向等候中的雷诺阿打探",
+      "after": "向等候中的黑派打探"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2009].title",
+      "before": "询问调色盘能否取得无色染料",
+      "after": "询问调色盘能否取得兰科洛尔"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2009].description",
+      "before": "奈基德似乎不肯轻易交出黄金染料。他说，如果找来一种叫无色染料的染料，就愿意拿黄金染料交换。返回调色盘身边，问问能否取得无色染料吧。",
+      "after": "奈基德似乎不肯轻易交出黄金染料。他说，如果找来一种叫兰科洛尔的染料，就愿意拿黄金染料交换。返回调色盘身边，问问能否取得兰科洛尔吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2009].steps[index=0].goalDescription1",
+      "before": "询问调色盘能否取得无色染料",
+      "after": "询问调色盘能否取得兰科洛尔"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2010].description",
+      "before": "幸好，调色盘说可以立刻制作无色染料。但他要求我们按颜色分别击破泪滴。这些泪滴似乎就在右侧的染色仓库里。收集黄色、红色、蓝色染料各2份，交给调色盘吧。",
+      "after": "幸好，调色盘说可以立刻制作兰科洛尔。但她要求我们按颜色分别击破泪滴。这些泪滴似乎就在右侧的染色仓库里。收集黄色、红色、蓝色染料各2份，交给调色盘吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2011].description",
+      "before": "从调色盘那里取得了无色染料。虽然在我眼里看不出任何颜色……总之先拿给奈基德，问问能否换到黄金染料吧。",
+      "after": "从调色盘那里取得了兰科洛尔。虽然在我眼里看不出任何颜色……总之先拿给奈基德，问问能否换到黄金染料吧。"
+    },
+    {
+      "file": "RPGSystem/rpg-loc-quest-floor-b2.json",
+      "path": "dataList[key=Q-2011].steps[index=0].goalDescription1",
+      "before": "找奈基德用无色染料置换黄金染料",
+      "after": "找奈基德用兰科洛尔置换黄金染料"
+    },
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "path": "dataList[id=크로머언니].name",
+      "before": "克罗默姐姐",
+      "after": "克罗默"
+    },
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "path": "dataList[id=맨얼굴크로머언니].name",
+      "before": "克罗默姐姐",
+      "after": "克罗默"
+    },
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "path": "dataList[id=3층하이도메루주번데기].nickName",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "ScenarioModelCodes-AutoCreated.json",
+      "path": "dataList[id=붉은신].nickName",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "Skills_Abnormality-a1c10p1.json",
+      "path": "dataList[id=148303].levelList[level=1].flavor",
+      "before": "不好奇这家伙有朝一日见到雷诺阿的品牌经理时，会作何反应吗？",
+      "after": "不好奇这家伙有朝一日见到黑派的品牌经理时，会作何反应吗？"
+    },
+    {
+      "file": "Skills_personality-08.json",
+      "path": "dataList[id=1081605].levelList[level=4].desc",
+      "before": "[RougeIshmaelCocoon] 专用技能\n[CanDuelGuard] \n[StartBattle] 若自身的[ChargeRougeAlly] 层数不少于10，则消耗10层，下回合对编队顺序最靠前的2名友方赋予1[ResultEnhancement] （每回合1次）\n<style=\"highlight\">- 若目标隶属勒鲁日，则下回合自身获得5层[ChargeRougeAlly] ，并对目标额外赋予1[AttackDmgUp] </style>\n[StartBattle] 恢复自身最大体力的<style=\"highlight\">100%</style>（每回合1次）\n<style=\"highlight\">[WinDuel] 随机移除自身1种可解除的负面效果（每回合1次）</style>\n[WinDuel] 自身获得5层[ChargeRougeAlly] （每回合4次）",
+      "after": "[RougeIshmaelCocoon] 专用技能\n[CanDuelGuard] \n[StartBattle] 若自身的[ChargeRougeAlly] 层数不少于10，则消耗10层，下回合对编队顺序最靠前的2名友方赋予1[ResultEnhancement] （每回合1次）\n<style=\"highlight\">- 若目标隶属红派，则下回合自身获得5层[ChargeRougeAlly] ，并对目标额外赋予1[AttackDmgUp] </style>\n[StartBattle] 恢复自身最大体力的<style=\"highlight\">100%</style>（每回合1次）\n<style=\"highlight\">[WinDuel] 随机移除自身1种可解除的负面效果（每回合1次）</style>\n[WinDuel] 自身获得5层[ChargeRougeAlly] （每回合4次）"
+    },
+    {
+      "file": "StoryData/E920B.json",
+      "path": "dataList[id=37].content",
+      "before": "罐头的原料只会在西西弗百货被处理，外部人员是无论如何也无法接触到的。",
+      "after": "罐头的原料只会在西西弗斯百货公司被处理，外部人员是无论如何也无法接触到的。"
+    },
+    {
+      "file": "StoryData/E920B.json",
+      "path": "dataList[id=39].content",
+      "before": "啊，我好像听说过。那个叫经验罐头的东西，在其他区中也十分热销，但刻着的品牌名无论何时都只有西西弗百货。",
+      "after": "啊，我好像听说过。那个叫经验罐头的东西，在其他区中也十分热销，但刻着的品牌名无论何时都只有西西弗斯百货公司。"
+    },
+    {
+      "file": "StoryData/E927B.json",
+      "path": "dataList[id=70].content",
+      "before": "曾任职于西西弗百货总部维护管理部门，属于嵌钉者一员的默尔索。是你本人吗？",
+      "after": "曾任职于西西弗斯百货公司总部维护管理部门，属于嵌钉者一员的默尔索。是你本人吗？"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=1].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=2].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=4].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=4].content",
+      "before": "没错……竟敢拿雷诺阿的衬衫，搭那恶心的勒鲁日外套。就是你。",
+      "after": "没错……竟敢拿黑派的衬衫，搭那恶心的红派外套。就是你。"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=5].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=8].content",
+      "before": "我既未加入勒鲁日，也未加入雷诺阿……仍在寻找与外界联系的办法。",
+      "after": "我既未加入红派，也未加入黑派……仍在寻找与外界联系的办法。"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=10].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=12].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=18].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=19].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=19].content",
+      "before": "不过，既是双腿……倒也够格接受接待。",
+      "after": "不过，既是双足……倒也够格接受接待。"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=21].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=22].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=23].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=28].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=30].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=31].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=34].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=35].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=36].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=37].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=38].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=39].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=41].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=43].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=43].content",
+      "before": "勒鲁日……那些红东西的店。",
+      "after": "红派……那些红东西的店。"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=44].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=45].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=46].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=48].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=50].content",
+      "before": "鞋馆主人瞬间飞向勒鲁日们，挥起腿。",
+      "after": "鞋馆主人瞬间飞向红派众人，挥起腿。"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=51].content",
+      "before": "其间迸发的阵阵冲击，将勒鲁日的店铺转眼化为一片狼藉。",
+      "after": "其间迸发的阵阵冲击，将红派的店铺转眼化为一片狼藉。"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=53].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=56].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=58].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=59].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=60].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=61].content",
+      "before": "乍一看，守着勒鲁日店铺的似乎只有一个人……",
+      "after": "乍一看，守着红派店铺的似乎只有一个人……"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=66].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=67].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10416.json",
+      "path": "dataList[id=69].title",
+      "before": "雷诺阿鞋馆",
+      "after": "黑派鞋馆"
+    },
+    {
+      "file": "StoryData/P10616.json",
+      "path": "dataList[id=46].content",
+      "before": "然后呢~啊，是这个地方。“临近决斗尾声，必定会高举右手摆出胜利的姿势！”这一句~",
+      "after": "然后呢~啊，是这个地方。“决斗结束时，必定会高举右手摆出胜利的姿势！”这一句~"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=1].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=5].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=5].content",
+      "before": "您是第一次来勒鲁日精品店吧？",
+      "after": "您是第一次来红派精品店吧？"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=10].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=11].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=12].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=14].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=17].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=18].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=19].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=24].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=25].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=25].content",
+      "before": "趁这个机会，全换成勒鲁日的品牌，也不错……",
+      "after": "趁这个机会，全换成红派的品牌，也不错……"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=26].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=28].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=29].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=36].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=40].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=41].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=42].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=42].content",
+      "before": "说真的，只是我们精品店不怎么在意流行罢了……考虑到现在是人字纹季，再贵三倍都不为过吧？",
+      "after": "说真的，只是我们精品店不怎么在意流行罢了……考虑到现在是人字纹季，收三倍的价钱都不为过吧？"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=43].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=46].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=48].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=49].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=50].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=55].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=57].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=57].content",
+      "before": "是的，雷诺阿……那些东西卖衣服的店。",
+      "after": "是的，黑派……那些东西卖衣服的店。"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=59].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=60].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=62].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=63].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=64].content",
+      "before": "骨头制成的钉子贯穿了雷诺阿。",
+      "after": "骨头制成的钉子贯穿了黑派成员。"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=65].content",
+      "before": "从精品店设计师身上涌出的无数只手，碾压、撕扯着雷诺阿的店员。",
+      "after": "从精品店设计师身上涌出的无数只手，碾压、撕扯着黑派的店员。"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=67].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=68].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=69].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=71].content",
+      "before": "或许得益于在外面做过几次装内脏的活儿……我没费多少力气，就收下了一大堆雷诺阿掉落的眼球。",
+      "after": "或许得益于在外面做过几次装内脏的活儿……我没费多少力气，就收下了一大堆黑派成员掉落的眼球。"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=74].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=75].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=75].content",
+      "before": "多亏了您……才能毁掉这些连黄金皮革的价值都不懂的雷诺阿的店铺。",
+      "after": "多亏了您……才能毁掉这些连黄金皮革的价值都不懂的黑派的店铺。"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=76].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/P10816.json",
+      "path": "dataList[id=77].title",
+      "before": "勒鲁日精品店",
+      "after": "红派精品店"
+    },
+    {
+      "file": "StoryData/S1001B.json",
+      "path": "dataList[id=38].content",
+      "before": "所以……去哪儿才能找到默默？",
+      "after": "所以……去哪儿才能找到默尔？"
+    },
+    {
+      "file": "StoryData/S1003B.json",
+      "path": "dataList[id=97].content",
+      "before": "既然知道，为什么不早点说！明知道默默不是会主动开口的人……！",
+      "after": "既然知道，为什么不早点说！明知道默尔不是会主动开口的人……！"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=40].content",
+      "before": "……。",
+      "after": "……"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=66].content",
+      "before": "被告，默尔索。住所已作抹消处分……原西西弗斯百货公司本部维持管理组所属，且为钉刺者之一。",
+      "after": "被告，默尔索。住所已作抹消处分……原西西弗斯百货公司本部维持管理组所属，且为嵌钉者之一。"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=166].place",
+      "before": "过去，梅菲斯特培勒斯内部",
+      "after": "过去，梅菲斯托费勒斯内部"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=192].content",
+      "before": "……。",
+      "after": "……"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=223].content",
+      "before": "……。",
+      "after": "……"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=229].content",
+      "before": "<……。>",
+      "after": "<……>"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=286].content",
+      "before": "……。",
+      "after": "……"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=308].content",
+      "before": "……。",
+      "after": "……"
+    },
+    {
+      "file": "StoryData/S1004B.json",
+      "path": "dataList[id=336].content",
+      "before": "所以浮浮，你知道吗？那边的默默……会去哪里？",
+      "after": "所以浮浮，你知道吗？那边的默尔……会去哪里？"
+    },
+    {
+      "file": "StoryData/S1005B.json",
+      "path": "dataList[id=2].content",
+      "before": "那身装束……与九甫相同。你加入N公司了？",
+      "after": "那身装束……与仇甫相同。你加入N公司了？"
+    },
+    {
+      "file": "StoryData/S1005B.json",
+      "path": "dataList[id=154].content",
+      "before": "我也不情愿……不过，她们两个说得对。总得先救默默出来。",
+      "after": "我也不情愿……不过，他们两个说得对。总得先救默尔出来。"
+    },
+    {
+      "file": "StoryData/S1009B.json",
+      "path": "dataList[id=16].content",
+      "before": "当然……眼下得先处理雷诺阿们大批订购的布料。",
+      "after": "当然……眼下得先处理黑派大批订购的布料。"
+    },
+    {
+      "file": "StoryData/S1010B.json",
+      "path": "dataList[id=0].place",
+      "before": "3F 勒鲁日精品店",
+      "after": "3F 红派精品店"
+    },
+    {
+      "file": "StoryData/S1010B.json",
+      "path": "dataList[id=7].content",
+      "before": "若仅论陈述的事实，他没有说谎。",
+      "after": "若仅论陈述的事实，她没有说谎。"
+    },
+    {
+      "file": "StoryData/S1010B.json",
+      "path": "dataList[id=8].content",
+      "before": "但他随心所欲地作了解读。检察官把你当成了犯下忤逆之罪、穷凶极恶的罪犯。",
+      "after": "但她随心所欲地作了解读。检察官把你当成了犯下忤逆之罪、穷凶极恶的罪犯。"
+    },
+    {
+      "file": "StoryData/S1010B.json",
+      "path": "dataList[id=10].content",
+      "before": "那么，就没有必要反驳他的话。",
+      "after": "那么，就没有必要反驳她的话。"
+    },
+    {
+      "file": "StoryData/S1013B.json",
+      "path": "dataList[id=4].content",
+      "before": "我们受雷诺阿委托，来制作黄金线团。",
+      "after": "我们受黑派委托，来制作黄金线团。"
+    },
+    {
+      "file": "StoryData/S1013B.json",
+      "path": "dataList[id=10].content",
+      "before": "……需要什么？难道还要金·革？",
+      "after": "……需要什么？难道还得要“黄金”？"
+    },
+    {
+      "file": "StoryData/S1013B.json",
+      "path": "dataList[id=12].content",
+      "before": "啧……金·革不是金枝，是黄金皮革。",
+      "after": "啧……我说的“黄金”不是金枝，是黄金皮革。"
+    },
+    {
+      "file": "StoryData/S1014B.json",
+      "path": "dataList[id=25].content",
+      "before": "雷诺阿的奈基德。很久以前就来抢排队名额的人之一。",
+      "after": "黑派的奈基德。很久以前就来抢排队名额的人之一。"
+    },
+    {
+      "file": "StoryData/S1014B.json",
+      "path": "dataList[id=38].content",
+      "before": "<不、不用了……那个叫奈基德的也是雷诺阿……把鉴定报告给他，说不定能便宜点。>",
+      "after": "<不、不用了……那个叫奈基德的也是黑派……把鉴定报告给他，说不定能便宜点。>"
+    },
+    {
+      "file": "StoryData/S1014B.json",
+      "path": "dataList[id=39].content",
+      "before": "<先去找他谈谈吧。既然是雷诺阿……穿着应该也很显眼。>",
+      "after": "<先去找他谈谈吧。既然是黑派……穿着应该也很显眼。>"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=0].place",
+      "before": "3F 勒鲁日精品店",
+      "after": "3F 红派精品店"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=13].title",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=14].title",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=19].title",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=20].title",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=21].content",
+      "before": "<他正在变成这里所谓的人体模特……>",
+      "after": "<她正在变成这里所谓的人体模特……>"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=22].content",
+      "before": "<迄今遇到的勒鲁日和雷诺阿员工……虽然程度不同，却都在逐渐扭曲。可现在……扭曲正在急速加深。>",
+      "after": "<迄今遇到的红派和黑派员工……虽然程度不同，却都在逐渐扭曲。可现在……扭曲正在急速加深。>"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=23].title",
+      "before": "勒鲁日",
+      "after": "红派"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=24].title",
+      "before": "勒鲁日人体模特",
+      "after": "红派人体模特"
+    },
+    {
+      "file": "StoryData/S1016B.json",
+      "path": "dataList[id=25].title",
+      "before": "勒鲁日人体模特",
+      "after": "红派人体模特"
+    },
+    {
+      "file": "StoryData/S1061B.json",
+      "path": "dataList[id=5].content",
+      "before": "默尔索……！我……我正在看着自己，渐渐能看见自己了……！",
+      "after": "默尔索……！我……我正在注视自己，正渐渐开始注视自己……！"
+    },
+    {
+      "file": "StoryData/S9991B.json",
+      "path": "dataList[id=14].content",
+      "before": "勒鲁日们未能守住最后的希望——神的诞生，就此灭绝。",
+      "after": "红派众人未能守住最后的希望——神的诞生，就此灭绝。"
+    },
+    {
+      "file": "StoryData/S9991B.json",
+      "path": "dataList[id=16].content",
+      "before": "雷诺阿们如愿以偿，各自伸展全身，撑起天花板与地面。",
+      "after": "黑派众人如愿以偿，各自伸展全身，撑起天花板与地面。"
+    },
+    {
+      "file": "StoryTheaterDanteNoteDetail_13.json",
+      "path": "dataList[id=DanteNoteDetail_174].desc",
+      "before": "- 只要吃下去，就能获得至今从未有过的经验的罐头。\n- 据说原料是在名为西西弗百货的地方生产的，然后在与其相连的工厂里被加工成罐头的形式。\n- 其中所谓的量产型经验罐头，是在原料里混入各种信息，从而带来刺激而强烈的经验。据说在N公司的后巷，人们会像享受娱乐、外出或下馆子一样去吃经验罐头。\n- 呃……可是有几个人格不是通过钉子从人身上抽取什么来制作罐头的吗？难道说西西弗百货生产原料指的是……\n- 我产生了不祥的想法，于是询问了默尔索，所幸克罗默和异端审判官们的做法是老式的……现在已经几乎不再使用了。\n- 看了我写下内容的默尔索，再次强调说罐头并不是提供梦或经验的东西。那么罐头提供的果然是“记忆”吗？经验与记忆究竟有何不同？\n- 我偶尔会窥见罪人们的记忆，但那些记忆并不是我的经验。不过，在窥见记忆的瞬间，也许我能说自己也有了那些经验。不，应该不能这么说……？\n- ……这似乎不是能立刻下定结论的话题。",
+      "after": "- 只要吃下去，就能获得至今从未有过的经验的罐头。\n- 据说原料是在名为西西弗斯百货公司的地方生产的，然后在与其相连的工厂里被加工成罐头的形式。\n- 其中所谓的量产型经验罐头，是在原料里混入各种信息，从而带来刺激而强烈的经验。据说在N公司的后巷，人们会像享受娱乐、外出或下馆子一样去吃经验罐头。\n- 呃……可是有几个人格不是通过钉子从人身上抽取什么来制作罐头的吗？难道说西西弗斯百货公司生产原料指的是……\n- 我产生了不祥的想法，于是询问了默尔索，所幸克罗默和异端审判官们的做法是老式的……现在已经几乎不再使用了。\n- 看了我写下内容的默尔索，再次强调说罐头并不是提供梦或经验的东西。那么罐头提供的果然是“记忆”吗？经验与记忆究竟有何不同？\n- 我偶尔会窥见罪人们的记忆，但那些记忆并不是我的经验。不过，在窥见记忆的瞬间，也许我能说自己也有了那些经验。不，应该不能这么说……？\n- ……这似乎不是能立刻下定结论的话题。"
+    },
+    {
+      "file": "StoryTheaterMirrorWorldStoryTitle.json",
+      "path": "dataList[id=MirrorWorld_Story_Title_P10416].content",
+      "before": "高级定制::雷诺阿鞋履馆，良秀的故事",
+      "after": "高级定制::黑派鞋履馆，良秀的故事"
+    },
+    {
+      "file": "StoryTheaterMirrorWorldStoryTitle.json",
+      "path": "dataList[id=MirrorWorld_Story_Title_P10816].content",
+      "before": "高级定制::勒鲁日精品店，以实玛利的故事",
+      "after": "高级定制::红派精品店，以实玛利的故事"
+    },
+    {
+      "file": "UnitKeyword-a1c10p1.json",
+      "path": "dataList[id=UnitKeyword_LE_NOIR].content",
+      "before": "雷诺阿",
+      "after": "黑派"
+    },
+    {
+      "file": "UnitKeyword-a1c10p1.json",
+      "path": "dataList[id=UnitKeyword_LE_ROUGE].content",
+      "before": "勒鲁日",
+      "after": "红派"
+    }
+  ]
+}
