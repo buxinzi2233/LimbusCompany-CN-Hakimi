@@ -47,6 +47,70 @@
     {
       "id": "coupon_use_failed_unknown",
       "content": "发生未知错误。"
+    },
+    {
+      "id": "promotion_code_btn",
+      "content": "会员代码"
+    },
+    {
+      "id": "promotion_popup_title",
+      "content": "会员代码"
+    },
+    {
+      "id": "promotion_popup_desc",
+      "content": "点击下方按钮可确认会员代码。"
+    },
+    {
+      "id": "promotion_issue_btn",
+      "content": "生成代码"
+    },
+    {
+      "id": "promotion_code_empty",
+      "content": "尚无已确认的代码。"
+    },
+    {
+      "id": "promotion_issue_failed_condition",
+      "content": "由于未满足条件，无法确认代码。"
+    },
+    {
+      "id": "promotion_issue_failed_unknown",
+      "content": "发生未知错误。"
+    },
+    {
+      "id": "promotion_copy_btn",
+      "content": "复制"
+    },
+    {
+      "id": "promotion_copy_success",
+      "content": "已复制代码。"
+    },
+    {
+      "id": "promotion_issue_failed_shutdown",
+      "content": "会员代码查询期已结束。"
+    },
+    {
+      "id": "promotion_issue_failed_closed",
+      "content": "会员代码生成期已结束。"
+    },
+    {
+      "id": "promotion_check_btn",
+      "content": "确认代码"
+    },
+    {
+      "id": "promotion_consent_title",
+      "content": "个人信息收集及使用同意书"
+    },
+    {
+      "id": "promotion_consent_desc",
+      "content": "请同意为生成会员代码所必需的个人信息收集及使用。"
+    },
+    {
+      "id": "promotion_consent_confirm_btn",
+      "content": "同意"
+    },
+    {
+      "id": "promotion_issued_check_failed",
+      "content": "无法确认是否已生成。请稍后再试。"
     }
   ]
 }

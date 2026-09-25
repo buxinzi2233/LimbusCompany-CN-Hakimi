@@ -24,7 +24,7 @@ FONT_RELATIVE = Path("Font/Context/ChineseFont.ttf")
 EXPECTED_FONT_SHA256 = "a56a06f1af27726bc5def015b61deecbbdf5ae6d954a91b1131d8a17290def35"
 
 # Story & dialogue files to exclude in Combat-Only edition
-CANTO10_STORY_PATTERN = re.compile(r"^(S10[0-9]{2}[A-Z]|S9991B|P10[0-9]{3})\.json$")
+CANTO10_STORY_PATTERN = re.compile(r"^(S10[0-9]{2}[A-Z]|S999[1-9][A-Z]|P10[0-9]{3})\.json$")
 CANTO10_VOICE_PATTERN = re.compile(r"^Voice_.*_10[0-9]{3}\.json$")
 
 CONFIG_JSON_CONTENT = {

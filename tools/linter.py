@@ -29,9 +29,13 @@ import sys
 import time
 from typing import Any, Dict, Generator, List, Optional, Set, Tuple, Union
 if __package__:
+    from .keyword_names import keyword_directory, load_keyword_names
     from .resource_fields import metadata_reason
+    from .source_snapshot import resolve_source_directory
 else:
+    from keyword_names import keyword_directory, load_keyword_names
     from resource_fields import metadata_reason
+    from source_snapshot import resolve_source_directory
 
 # ----------------------------------------------------------------------
 # Constants & Defaults
@@ -75,7 +79,7 @@ RE_KW_NO_SPACE = re.compile(r"(\[(?!\{[A-Za-z0-9_:]+\}\])[^\]\n\r]+\])(?=[\u4e00
 RE_KW_DOUBLE_SPACE = re.compile(r"(\[(?!\{[A-Za-z0-9_:]+\}\])[^\]\n\r]+\])[ \t]{2,}")
 RE_KW_EOS = re.compile(r"(\[(?!\{[A-Za-z0-9_:]+\}\])[^\]\n\r]+\])(?=$|\n)")
 CORE_KWS_PATTERN = r"(?:震颤|流血|呼吸法|充能|沉沦|破裂|烧伤)"
-RE_CORE_NO_SPACE = re.compile(rf"(?<!\[)({CORE_KWS_PATTERN})(?=[\u4e00-\u9fa50-9])")
+RE_CORE_NO_SPACE = re.compile(rf"(?<!\[)({CORE_KWS_PATTERN})(?!(?:引爆|抗性|同步|泛滥|易损|守护|力场))(?=[\u4e00-\u9fa50-9])")
 RE_CORE_DOUBLE_SPACE = re.compile(rf"(?<!\[)({CORE_KWS_PATTERN})[ \t]{{2,}}")
 
 # Rule 5 TMP Tags
@@ -85,7 +89,7 @@ TMP_VOID_TAGS = {'sprite', 'br'}
 
 # Rule 6 Verbs
 POS_STATUS = r'(?:呼吸法|充能|守护|迅捷|强壮|忍耐)'
-NEG_STATUS = r'(?:流血|震颤|沉沦|破裂|烧伤|束缚|易损|虚弱|破绽|麻痹)'
+NEG_STATUS = r'(?:流血|震颤(?!同步)|沉沦|破裂(?!守护)|烧伤|束缚|易损|虚弱|破绽|麻痹)'
 ALL_STATUS = r'(?:呼吸法|充能|守护|迅捷|强壮|忍耐|流血|震颤|沉沦|破裂|烧伤|束缚|易损)'
 TARGET_MODIFIER = r'(?:\s*(?:自身|目标|敌方|友方|其|全体|其他罪人|给\S+|对\S+|向\S+))?'
 
@@ -405,6 +409,16 @@ def traverse_json_strings(
                 yield from traverse_json_strings(v, child_path, child_ctx)
 
     elif isinstance(node, list):
+        identities = []
+        for elem in node:
+            identity = ""
+            if isinstance(elem, dict):
+                for id_prop in ("id", "key", "level", "index"):
+                    if id_prop in elem:
+                        identity = f"{id_prop}={elem[id_prop]}"
+                        break
+            identities.append(identity)
+        identity_counts = Counter(identities)
         for i, elem in enumerate(node):
             elem_id = ""
             if isinstance(elem, dict):
@@ -412,9 +426,13 @@ def traverse_json_strings(
                     if id_prop in elem:
                         elem_id = f"{id_prop}={elem[id_prop]}"
                         break
+            if elem_id and identity_counts[elem_id] > 1:
+                elem_id = f"{elem_id},position={i}"
             selector = f"[{elem_id or i}]"
             child_path = f"{path}{selector}" if path else selector
             yield from traverse_json_strings(elem, child_path, parent_ctx)
+    elif isinstance(node, str):
+        yield path, node, dict(parent_ctx)
 
 
 # ----------------------------------------------------------------------
@@ -615,6 +633,39 @@ def check_keyword_trailing_space(
             fixable=True
         ))
 
+    return issues
+
+
+def check_known_keyword_spaces(
+    text: str,
+    filepath: str,
+    json_path: str,
+    keyword_names: frozenset[str],
+) -> List[Issue]:
+    """Check encoded IDs and exact dictionary names, never bare prose or headings."""
+    if HANGUL_RE.search(text):
+        return []
+    issues: List[Issue] = []
+    for match in re.finditer(r"\[([^\]\n\r]+)\]", text):
+        name = match.group(1)
+        if not re.fullmatch(r"[A-Za-z][A-Za-z0-9_]*", name) and name not in keyword_names:
+            continue
+        suffix = text[match.end():]
+        if not suffix.startswith(" "):
+            message = f"关键词 '{match.group(0)}' 后缺少半角空格 (0x20)，不符合关键词格式约定"
+        elif re.match(r"[ \t]{2,}", suffix):
+            message = f"关键词 '{match.group(0)}' 尾随多个空格，破坏排版规范"
+        else:
+            continue
+        issues.append(Issue(
+            rule="L04_KEYWORD_SPACE",
+            severity=Severity.ERROR,
+            filepath=filepath,
+            json_path=json_path,
+            message=message,
+            snippet=text[max(0, match.start() - 5):match.end() + 10],
+            fixable=True,
+        ))
     return issues
 
 
@@ -1009,8 +1060,9 @@ def lint_single_file(
     abs_path: str,
     rel_path: str,
     enabled_rule_ids: Set[str],
-    fix: bool = False,
-    kr_abs_path: Optional[str] = None
+    fix: bool,
+    kr_abs_path: Optional[str],
+    keyword_names: frozenset[str],
 ) -> Tuple[List[Issue], bool]:
     """
     Lints a single JSON file against enabled rules.
@@ -1111,17 +1163,8 @@ def lint_single_file(
             issues.extend(check_placeholders(text, kr_text, rel_path, item_id, json_path))
 
         # Rule 4: Keyword Trailing Space
-        if "L04" in enabled_rule_ids and is_description and not is_narrative:
-            for issue in check_keyword_trailing_space(text, rel_path, json_path):
-                bracket = re.search(r"\[([^\]]+)\]", issue.message)
-                # Localized headings and skill titles are not encoded keyword IDs.
-                if bracket and not re.fullmatch(r'[A-Za-z][A-Za-z0-9_]*', bracket.group(1)):
-                    continue
-                # Plain Chinese words are prose, not encoded tooltip references.
-                # This also avoids splitting compound names such as tremor burst.
-                if not bracket:
-                    continue
-                issues.append(issue)
+        if "L04" in enabled_rule_ids and is_description and not is_narrative and not has_hangul_chars:
+            issues.extend(check_known_keyword_spaces(text, rel_path, json_path, keyword_names))
 
         # Rule 5: Unity TMP Tags
         if "L05" in enabled_rule_ids and has_tags:
@@ -1143,7 +1186,7 @@ def lint_single_file(
 
 
 # Multiprocessing pickle wrapper
-def _mp_worker_task(args: Tuple[str, str, Set[str], bool, Optional[str]]) -> Tuple[List[Issue], bool]:
+def _mp_worker_task(args: Tuple[str, str, Set[str], bool, Optional[str], frozenset[str]]) -> Tuple[List[Issue], bool]:
     return lint_single_file(*args)
 
 
@@ -1159,11 +1202,7 @@ class Linter:
         self.enabled_rule_ids = config.get_enabled_rule_ids()
 
         # Resolve source directory
-        self.source_dir = config.source_dir
-        if self.source_dir and not Path(self.source_dir).is_dir():
-            raise FileNotFoundError(f"原文目录不存在: {self.source_dir}")
-        if not self.source_dir and os.path.exists(DEFAULT_STEAM_KR_DIR):
-            self.source_dir = DEFAULT_STEAM_KR_DIR
+        self.source_dir = resolve_source_directory(config.source_dir, Path(__file__).resolve().parents[1])
 
         self.kr_index: Dict[str, str] = {}
         if self.source_dir and os.path.exists(self.source_dir):
@@ -1213,8 +1252,12 @@ class Linter:
         all_issues: List[Issue] = []
         total_fixed = 0
 
+        keyword_names = (
+            load_keyword_names(keyword_directory(Path(self.config.target), Path(DEFAULT_WORKSPACE_DIR)))
+            if "L04" in self.enabled_rule_ids else frozenset()
+        )
         tasks = [
-            (abs_p, rel_p, self.enabled_rule_ids, self.config.fix, kr_abs)
+            (abs_p, rel_p, self.enabled_rule_ids, self.config.fix, kr_abs, keyword_names)
             for abs_p, rel_p, kr_abs in file_targets
         ]
 

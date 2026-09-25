@@ -99,6 +99,41 @@
       "id": "battle_erosion_20609_2",
       "desc": "E.G.O侵蚀",
       "dlg": "残响铸丧钟！"
+    },
+    {
+      "id": "battle_awaken_20610_1",
+      "desc": "E.G.O觉醒",
+      "dlg": "你总有一天也会怀念的。我们的世界。啊—— 啊啊——！"
+    },
+    {
+      "id": "battle_awaken_20610_2",
+      "desc": "E.G.O觉醒",
+      "dlg": "你总有一天也会怀念的。我们的世界。"
+    },
+    {
+      "id": "battle_awaken_20610_3",
+      "desc": "E.G.O觉醒",
+      "dlg": "啊——"
+    },
+    {
+      "id": "battle_awaken_20610_4",
+      "desc": "E.G.O觉醒",
+      "dlg": "啊啊——！"
+    },
+    {
+      "id": "battle_awaken_20610_3-01",
+      "desc": "E.G.O觉醒",
+      "dlg": "啊——"
+    },
+    {
+      "id": "battle_awaken_20610_4-01",
+      "desc": "E.G.O觉醒",
+      "dlg": "啊啊——！"
+    },
+    {
+      "id": "battle_erosion_20610_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "不行！不行！不行！别靠近我，不要朝我伸出手来！！"
     }
   ]
 }

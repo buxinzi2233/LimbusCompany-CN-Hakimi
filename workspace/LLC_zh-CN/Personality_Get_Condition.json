@@ -1386,19 +1386,27 @@
     },
     {
       "id": "10416_getCondition_normal",
-      "content": "获得高级定制::黑派鞋履馆 良秀时"
+      "content": "高级定制::黑派制鞋馆 良秀 获得时"
     },
     {
       "id": "10416_getCondition_gacksung",
-      "content": "高级定制::黑派鞋履馆 良秀达到同步化第3阶段"
+      "content": "高级定制::黑派制鞋馆 良秀 3阶段同步完成"
     },
     {
       "id": "10816_getCondition_normal",
-      "content": "获得高级定制::红派精品店 以实玛利时"
+      "content": "高级定制::红派精品店 以实玛利 获得时"
     },
     {
       "id": "10816_getCondition_gacksung",
-      "content": "高级定制::红派精品店 以实玛利达到同步化第3阶段"
+      "content": "高级定制::红派精品店 以实玛利 3阶段同步完成"
+    },
+    {
+      "id": "10917_getCondition_normal",
+      "content": "获得「高级定制::修补室 罗佳」时"
+    },
+    {
+      "id": "10917_getCondition_gacksung",
+      "content": "「高级定制::修补室 罗佳」达成3阶同调"
     }
   ]
 }

@@ -14,11 +14,12 @@ import re
 from typing import Iterator, TypedDict, cast
 if __package__:
     from .resource_fields import IDENTITY_FIELDS, metadata_reason
+    from .source_snapshot import resolve_source_directory
 else:
     from resource_fields import IDENTITY_FIELDS, metadata_reason
+    from source_snapshot import resolve_source_directory
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-GAME_KR_DIR = Path('/home/buxinzi/.local/share/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/kr')
 ZH_DIR = PROJECT_ROOT / 'workspace/LLC_zh-CN'
 OUTPUT_DIFF = PROJECT_ROOT / 'tools/diff_new_season.json'
 type Json = str | int | float | bool | None | list[Json] | dict[str, Json]
@@ -26,6 +27,39 @@ type Scalar = str | int | float | bool | None
 HANGUL_REGEX = re.compile(r'[\uac00-\ud7af\u1100-\u11ff\u3130-\u318f]')
 PLACEHOLDERS = re.compile(r'(?<!\{)\{([A-Za-z0-9_:]+)\}(?!\})')
 KEYWORD_REFERENCES = re.compile(r'\[([A-Za-z][A-Za-z0-9_]*)\]')
+ZH_BRACKETS = re.compile(r'\[([^\]]+)\]')
+
+def __getattr__(name: str) -> Path:
+    """Preserve the legacy source import without resolving a default for explicit CLI sources."""
+    if name == 'GAME_KR_DIR':
+        return Path(resolve_source_directory(None, PROJECT_ROOT))
+    raise AttributeError(f'Module {__name__!r} has no attribute {name!r}')
+
+
+def load_keyword_map(baseline_dir: Path, target_dir: Path) -> dict[str, str]:
+    """Prefer current definitions, then BattleKeywords over Bufs, in sorted file order."""
+    result: dict[str, str] = {}
+    for folder in (baseline_dir, target_dir):
+        if not folder.is_dir():
+            raise FileNotFoundError(f'Keyword dictionary directory does not exist: {folder}')
+        for pattern in ('Bufs*.json', 'BattleKeywords*.json'):
+            for path in sorted(folder.glob(pattern)):
+                entries = read_resource(path).get('dataList')
+                if not isinstance(entries, list):
+                    raise ValueError(f'Keyword dictionary requires a dataList array: {path}')
+                for index, entry in enumerate(entries):
+                    if not isinstance(entry, dict):
+                        raise ValueError(f'Keyword entry must be an object: {path}, dataList[{index}]')
+                    identifier, name = entry.get('id'), entry.get('name')
+                    if not isinstance(identifier, str) or not identifier or not isinstance(name, str) or not name:
+                        raise ValueError(f'Keyword entry requires nonempty string id and name: {path}, dataList[{index}]')
+                    result[identifier] = name
+    return result
+
+
+def get_keyword_map() -> dict[str, str]:
+    """Read current workspace definitions without retaining a stale process-global cache."""
+    return load_keyword_map(PROJECT_ROOT / 'references/baseline-zh-CN', ZH_DIR)
 
 
 class FieldChange(TypedDict):
@@ -86,7 +120,8 @@ def normalized_path(path: Path, root: Path) -> Path:
     return relative.with_name(relative.name.removeprefix('KR_'))
 
 
-def compare_file(source: Path, baseline: Path, target: Path, relative: Path) -> FileChange:
+def compare_file(source: Path, baseline: Path, target: Path, relative: Path,
+                 keyword_map: dict[str, str]) -> FileChange:
     current = list(leaves(read_resource(source), '', ''))
     previous = {p: v for p, _, v in leaves(read_resource(baseline), '', '')} if baseline.is_file() else {}
     translated = {p: v for p, _, v in leaves(read_resource(target), '', '')} if target.is_file() else {}
@@ -114,8 +149,15 @@ def compare_file(source: Path, baseline: Path, target: Path, relative: Path) -> 
                     problems.append('korean_text')
                 if Counter(PLACEHOLDERS.findall(value)) != Counter(PLACEHOLDERS.findall(zh)):
                     problems.append('placeholder_mismatch')
-                if set(KEYWORD_REFERENCES.findall(value)) - set(KEYWORD_REFERENCES.findall(zh)):
-                    problems.append('missing_keyword_reference')
+                kr_refs = KEYWORD_REFERENCES.findall(value)
+                if kr_refs:
+                    zh_refs = set(ZH_BRACKETS.findall(zh))
+                    for ref in kr_refs:
+                        zh_name = keyword_map.get(ref)
+                        if ref in zh_refs or (zh_name and (zh_name in zh_refs or any(zh_name in zr for zr in zh_refs))):
+                            continue
+                        problems.append('missing_keyword_reference')
+                        break
         elif type(zh) is not type(value) or zh != value:
             problems.append('modified_structure')
         changes.append({'path': path, 'field': field, 'source': value,
@@ -134,6 +176,7 @@ def audit(source_dir: Path, baseline_dir: Path, target_dir: Path) -> AuditReport
     for directory in (source_dir, baseline_dir, target_dir):
         if not directory.is_dir():
             raise FileNotFoundError(f'Resource directory does not exist: {directory}')
+    keyword_map = load_keyword_map(PROJECT_ROOT / 'references/baseline-zh-CN', target_dir)
     files: list[FileChange] = []
     scanned = 0
     for source in sorted(source_dir.rglob('*.json')):
@@ -142,7 +185,7 @@ def audit(source_dir: Path, baseline_dir: Path, target_dir: Path) -> AuditReport
         baseline = baseline_dir / relative
         if baseline.is_file() and read_resource(source) == read_resource(baseline):
             continue
-        result = compare_file(source, baseline_dir / relative, target_dir / relative, relative)
+        result = compare_file(source, baseline_dir / relative, target_dir / relative, relative, keyword_map)
         if result['changes'] or result['new_source_file']:
             files.append(result)
     problems = Counter(p for f in files for c in f['changes'] for p in c['problems'])
@@ -155,12 +198,13 @@ def audit(source_dir: Path, baseline_dir: Path, target_dir: Path) -> AuditReport
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--source-dir', type=Path, default=GAME_KR_DIR)
+    parser.add_argument('--source-dir', type=str)
     parser.add_argument('--baseline-dir', type=Path, default=PROJECT_ROOT / 'references/baseline-KR')
     parser.add_argument('--target', type=Path, default=ZH_DIR)
     parser.add_argument('--output', type=Path, default=OUTPUT_DIFF)
     args = parser.parse_args()
-    report = audit(args.source_dir, args.baseline_dir, args.target)
+    source_dir = Path(resolve_source_directory(args.source_dir, PROJECT_ROOT))
+    report = audit(source_dir, args.baseline_dir, args.target)
     args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(report['summary'], ensure_ascii=False, indent=2))
     return int(any(c['problems'] for f in report['files'] for c in f['changes']))

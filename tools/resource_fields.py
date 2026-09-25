@@ -8,6 +8,8 @@ IDENTITY_FIELDS = frozenset({'id', 'key', 'index', 'level', 'model'})
 
 def metadata_reason(filepath: str, field: str, source: str) -> str:
     name = Path(filepath).name.removeprefix('KR_')
+    if 'notinclude' in name:
+        return 'Unreleased placeholder not included in release.'
     if field in IDENTITY_FIELDS:
         return 'Engine identity; must retain the source value.'
     if name.startswith('BattleSpeechBubbleDlg') and field == 'desc':

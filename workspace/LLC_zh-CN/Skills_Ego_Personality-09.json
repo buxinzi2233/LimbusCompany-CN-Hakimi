@@ -72,7 +72,7 @@
           "level": 1,
           "name": "沸腾腐蚀",
           "abName": "陆行珍珠",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "desc": "[CantIdentify] \n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "沸腾腐蚀",
           "abName": "陆行珍珠",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若主要目标现存体力不低于50%，则使本技能的攻击容量+1",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 若主要目标现存体力不低于50%，则使本技能的攻击容量+1",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
           "level": 4,
           "name": "沸腾腐蚀",
           "abName": "陆行珍珠",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若主要目标现存体力不低于50%，则使本技能的攻击容量+1；若主要目标现存体力不低于75%，则使本技能的攻击容量额外+1",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 若主要目标现存体力不低于50%，则使本技能的攻击容量+1；若主要目标现存体力不低于75%，则使本技能的攻击容量额外+1",
           "coinlist": [
             {
               "coindescs": [
@@ -202,7 +202,7 @@
           "level": 1,
           "name": "执行",
           "abName": "天之执行官的辅佐",
-          "desc": "[CantIdentify]\n随机指定目标",
+          "desc": "[CantIdentify] \n随机指定目标",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
           "level": 3,
           "name": "执行",
           "abName": "天之执行官的辅佐",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若现存体力低于50%，则使本技能的攻击容量+1",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 若现存体力低于50%，则使本技能的攻击容量+1",
           "coinlist": [
             {
               "coindescs": [
@@ -241,7 +241,7 @@
           "level": 4,
           "name": "执行",
           "abName": "天之执行官的辅佐",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 若现存体力低于50%，则使本技能的攻击容量+2",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 若现存体力低于50%，则使本技能的攻击容量+2",
           "coinlist": [
             {
               "coindescs": [
@@ -267,13 +267,13 @@
           "level": 1,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "目标每带有2级[Laceration]强度，使本技能的硬币威力+1(最多+6)\n[StartBattle] 本回合使本技能主要目标的[Laceration]层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
+          "desc": "目标每带有2级[流血] 强度，使本技能的硬币威力+1(最多+6)\n[StartBattle] 本回合使本技能主要目标的[流血] 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于其[Laceration]强度点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的[Laceration]强度×1.2)点色欲伤害\n(本技能最多计入99级[Laceration]强度)",
-                  "summary": "[OnSucceedAttack] 根据目标的[Laceration]强度，相应对其造成色欲伤害"
+                  "desc": "[OnSucceedAttack] 对目标造成相当于其[流血] 强度点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的[流血] 强度×1.2)点色欲伤害\n(本技能最多计入99级[流血] 强度)",
+                  "summary": "[OnSucceedAttack] 根据目标的[流血] 强度，相应对其造成色欲伤害"
                 },
                 {
                   "desc": "[EnemyKill] 若本技能或其硬币效果对目标造成超过其剩余体力的伤害，则对全体敌方单位造成共计相当于溢出伤害量的固定伤害\n(若是集中遭遇战，则以本体体力计算)",
@@ -287,13 +287,13 @@
           "level": 3,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "目标每带有2级[Laceration]强度，使本技能的硬币威力+1(最多+<style=\"highlight\">9</style>)\n[StartBattle] 本回合使本技能主要目标的[Laceration]层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
+          "desc": "目标每带有2级[流血] 强度，使本技能的硬币威力+1(最多+<style=\"highlight\">9</style>)\n[StartBattle] 本回合使本技能主要目标的[流血] 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于<style=\"highlight\">(其[Laceration]强度×1.2)</style>点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的[Laceration]强度×<style=\"highlight\">1.5</style>)点色欲伤害\n<style=\"highlight\">- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的[Laceration]强度×1.8)点色欲伤害</style>\n(本技能最多计入99级[Laceration]强度)",
-                  "summary": "[OnSucceedAttack] 根据目标的[Laceration]强度，相应对其造成色欲伤害"
+                  "desc": "[OnSucceedAttack] 对目标造成相当于<style=\"highlight\">(其[流血] 强度×1.2)</style>点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的[流血] 强度×<style=\"highlight\">1.5</style>)点色欲伤害\n<style=\"highlight\">- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的[流血] 强度×1.8)点色欲伤害</style>\n(本技能最多计入99级[流血] 强度)",
+                  "summary": "[OnSucceedAttack] 根据目标的[流血] 强度，相应对其造成色欲伤害"
                 },
                 {
                   "desc": "[EnemyKill] 若本技能或其硬币效果对目标造成超过其剩余体力的伤害，则对全体敌方单位造成共计相当于溢出伤害量的固定伤害\n(若是集中遭遇战，则以本体体力计算)",
@@ -307,13 +307,13 @@
           "level": 4,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "目标每带有2级[Laceration]强度，使本技能的硬币威力+1(最多+<style=\"highlight\">13</style>)\n[StartBattle] 本回合使本技能主要目标的[Laceration]层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
+          "desc": "目标每带有2级[流血] 强度，使本技能的硬币威力+1(最多+<style=\"highlight\">13</style>)\n[StartBattle] 本回合使本技能主要目标的[流血] 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于(其[Laceration]强度×<style=\"highlight\">1.5</style>)点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的[Laceration]强度×<style=\"highlight\">1.8</style>)点色欲伤害\n- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的[Laceration]强度×<style=\"highlight\">2</style>)点色欲伤害\n(本技能最多计入99级[Laceration]强度)",
-                  "summary": "[OnSucceedAttack] 根据目标的[Laceration]强度，相应对其造成色欲伤害"
+                  "desc": "[OnSucceedAttack] 对目标造成相当于(其[流血] 强度×<style=\"highlight\">1.5</style>)点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的[流血] 强度×<style=\"highlight\">1.8</style>)点色欲伤害\n- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的[流血] 强度×<style=\"highlight\">2</style>)点色欲伤害\n(本技能最多计入99级[流血] 强度)",
+                  "summary": "[OnSucceedAttack] 根据目标的[流血] 强度，相应对其造成色欲伤害"
                 },
                 {
                   "desc": "[EnemyKill] 若本技能或其硬币效果对目标造成超过其剩余体力的伤害，则对全体敌方单位造成共计相当于溢出伤害量的固定伤害\n(若是集中遭遇战，则以本体体力计算)",
@@ -332,13 +332,13 @@
           "level": 1,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加(2+色欲共鸣数)级[Laceration]强度\n(最高计入色欲共鸣数：4)",
-                  "summary": "[OnSucceedAttack] 使目标增加(2+色欲共鸣数)级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加(2+色欲共鸣数)级[流血] 强度\n(最高计入色欲共鸣数：4)",
+                  "summary": "[OnSucceedAttack] 使目标增加(2+色欲共鸣数)级[流血] 强度"
                 }
               ]
             }
@@ -348,16 +348,16 @@
           "level": 3,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加(<style=\"highlight\">3</style>+色欲共鸣数)级[Laceration]强度\n(最高计入色欲共鸣数：<style=\"highlight\">5</style>)",
-                  "summary": "[OnSucceedAttack] 使目标增加(3+色欲共鸣数)级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加(<style=\"highlight\">3</style>+色欲共鸣数)级[流血] 强度\n(最高计入色欲共鸣数：<style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] 使目标增加(3+色欲共鸣数)级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
                 }
               ]
             }
@@ -367,16 +367,16 @@
           "level": 4,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数-2)(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加(<style=\"highlight\">4</style>+色欲共鸣数)级[Laceration]强度\n(最高计入色欲共鸣数：<style=\"highlight\">6</style>)",
-                  "summary": "[OnSucceedAttack] 使目标增加(4+色欲共鸣数)级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加(<style=\"highlight\">4</style>+色欲共鸣数)级[流血] 强度\n(最高计入色欲共鸣数：<style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] 使目标增加(4+色欲共鸣数)级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Laceration]"
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[流血] "
                 }
               ]
             }
@@ -396,17 +396,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[流血] 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Curse]"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[诅咒] "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层[NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层[尖钉] "
                 }
               ]
             }
@@ -421,17 +421,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[流血] 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[诅咒] <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层[NailPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层[尖钉] <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -446,17 +446,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[流血] 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Curse]"
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[诅咒] "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加<style=\"highlight\">3</style>层[NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] 对目标施加<style=\"highlight\">3</style>层[尖钉] "
                 }
               ]
             }
@@ -471,25 +471,25 @@
           "level": 1,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力",
+          "desc": "[CantIdentify] \n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Curse]"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[诅咒] "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加2层[NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] 对目标施加2层[尖钉] "
                 }
               ]
             }
@@ -499,25 +499,25 @@
           "level": 3,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力\n<style=\"highlight\">- 受到恢复的单位每带有2种负面状态，直到下回合使其获得1层[AttackUp](最多2层)</style>",
+          "desc": "[CantIdentify] \n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力\n<style=\"highlight\">- 受到恢复的单位每带有2种负面状态，直到下回合使其获得1层[攻击等级提升] (最多2层)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Curse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[诅咒] <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加2层[NailPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 对目标施加2层[尖钉] <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -527,25 +527,25 @@
           "level": 4,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限<style=\"highlight\">20%</style>的体力\n- 受到恢复的单位每带有1种负面状态，直到下回合使其获得<style=\"highlight\">1</style>层[AttackUp](最多<style=\"highlight\">3</style>层)\n<style=\"highlight\">- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力</style>",
+          "desc": "[CantIdentify] \n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限<style=\"highlight\">20%</style>的体力\n- 受到恢复的单位每带有1种负面状态，直到下回合使其获得<style=\"highlight\">1</style>层[攻击等级提升] (最多<style=\"highlight\">3</style>层)\n<style=\"highlight\">- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Curse]"
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[诅咒] "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加<style=\"highlight\">3</style>层[NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] 对目标施加<style=\"highlight\">3</style>层[尖钉] "
                 }
               ]
             }
@@ -565,10 +565,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加6级[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加6级[烧伤] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多2层，向下取整)"
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[炙热鸟笼] (最多2层，向下取整)"
                 }
               ]
             },
@@ -584,10 +584,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">8</style>级[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">8</style>级[烧伤] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多<style=\"highlight\">3</style>层，向下取整)"
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[炙热鸟笼] (最多<style=\"highlight\">3</style>层，向下取整)"
                 }
               ]
             },
@@ -603,10 +603,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级[Combustion]强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加8级[烧伤] 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多3层，向下取整)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[炙热鸟笼] (最多3层，向下取整)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -622,31 +622,31 @@
           "level": 1,
           "name": "指定审判",
           "abName": "灼热公爵",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加6级[Combustion]强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加6级[烧伤] 强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多3层)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[炙热鸟笼] (最多3层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "主要目标每带有1级[Combustion]强度，使本硬币对其造成的伤害+1%(最多+50%)"
+                  "desc": "主要目标每带有1级[烧伤] 强度，使本硬币对其造成的伤害+1%(最多+50%)"
                 },
                 {
-                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层[CrimsonResultUp]与1层[CrimsonDamageUp](最多4名，每个技能最多1次)"
+                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层[暴怒威力提升] 与1层[暴怒伤害强化] (最多4名，每个技能最多1次)"
                 }
               ]
             }
@@ -656,31 +656,31 @@
           "level": 3,
           "name": "指定审判",
           "abName": "灼热公爵",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加<style=\"highlight\">8</style>级[Combustion]强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加<style=\"highlight\">8</style>级[烧伤] 强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多<style=\"highlight\">4</style>层)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[炙热鸟笼] (最多<style=\"highlight\">4</style>层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "主要目标每带有1级[Combustion]强度，使本硬币对其造成的伤害+1%(最多+50%)"
+                  "desc": "主要目标每带有1级[烧伤] 强度，使本硬币对其造成的伤害+1%(最多+50%)"
                 },
                 {
-                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层[CrimsonResultUp]与1层[CrimsonDamageUp](最多<style=\"highlight\">5</style>名，每个技能最多1次)"
+                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层[暴怒威力提升] 与1层[暴怒伤害强化] (最多<style=\"highlight\">5</style>名，每个技能最多1次)"
                 }
               ]
             }
@@ -690,34 +690,34 @@
           "level": 4,
           "name": "指定审判",
           "abName": "灼热公爵",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加<style=\"highlight\">10</style>级[Combustion]强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加<style=\"highlight\">10</style>级[烧伤] 强度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Combustion]</style>"
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] 对目标施加1层[烧伤] </style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多<style=\"highlight\">5</style>层)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[炙热鸟笼] (最多<style=\"highlight\">5</style>层)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "主要目标每带有1级[Combustion]强度，使本硬币对其造成的伤害+<style=\"highlight\">2</style>%(最多+<style=\"highlight\">100</style>%)"
+                  "desc": "主要目标每带有1级[烧伤] 强度，使本硬币对其造成的伤害+<style=\"highlight\">2</style>%(最多+<style=\"highlight\">100</style>%)"
                 },
                 {
-                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层[CrimsonResultUp]与1层[CrimsonDamageUp](最多<style=\"highlight\">6</style>名，每个技能最多1次)"
+                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层[暴怒威力提升] 与1层[暴怒伤害强化] (最多<style=\"highlight\">6</style>名，每个技能最多1次)"
                 }
               ]
             }
@@ -732,15 +732,15 @@
           "level": 1,
           "name": "步入晚霞",
           "abName": "晚霞旅人",
-          "desc": "[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限5%的体力并使其获得2层[ScarletMothRodion](最低体力恢复量：1)\n- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)",
+          "desc": "[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限5%的体力并使其获得2层[朱红之蛾] (最低体力恢复量：1)\n- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[烧伤] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[流血] 强度"
                 }
               ]
             }
@@ -750,15 +750,15 @@
           "level": 3,
           "name": "步入晚霞",
           "abName": "晚霞旅人",
-          "desc": "<style=\"highlight\">[WhenUse] 全体目标的[Combustion]强度与[Laceration]强度之和每有6级，使本技能的拼点威力+1(最多+2)</style>\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限<style=\"highlight\">8%</style>的体力并使其获得2层[ScarletMothRodion](最低体力恢复量：1)\n- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)\n<style=\"highlight\">- 若恢复的目标装备了色欲技能，则使其恢复3点理智值</style>",
+          "desc": "<style=\"highlight\">[WhenUse] 全体目标的[烧伤] 强度与[流血] 强度之和每有6级，使本技能的拼点威力+1(最多+2)</style>\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限<style=\"highlight\">8%</style>的体力并使其获得2层[朱红之蛾] (最低体力恢复量：1)\n- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)\n<style=\"highlight\">- 若恢复的目标装备了色欲技能，则使其恢复3点理智值</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[烧伤] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[流血] 强度"
                 }
               ]
             }
@@ -768,18 +768,18 @@
           "level": 4,
           "name": "步入晚霞",
           "abName": "晚霞旅人",
-          "desc": "[WhenUse] 全体目标的[Combustion]强度与[Laceration]强度之和每有6级，使本技能的拼点威力+1(最多+2)\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限<style=\"highlight\">10%</style>的体力并使其获得2层[ScarletMothRodion](最低体力恢复量：1)\n- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)\n- 若恢复的目标装备了色欲技能，则使其恢复<style=\"highlight\">6</style>点理智值",
+          "desc": "[WhenUse] 全体目标的[烧伤] 强度与[流血] 强度之和每有6级，使本技能的拼点威力+1(最多+2)\n[EndSkill] 使现存体力比例最低的2名友方单位恢复其体力上限<style=\"highlight\">10%</style>的体力并使其获得2层[朱红之蛾] (最低体力恢复量：1)\n- 额外使(色欲共鸣数-1)名友方单位恢复(最多额外2名)\n- 若恢复的目标装备了色欲技能，则使其恢复<style=\"highlight\">6</style>点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加3级[烧伤] 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加3级[流血] 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EndCoin] 下回合对命中的目标施加1层[CrimsonTakeDamageUp]与1层[ScarletTakeDamageUp]</style>"
+                  "desc": "<style=\"highlight\">[EndCoin] 下回合对命中的目标施加1层[暴怒易损] 与1层[色欲易损] </style>"
                 }
               ]
             }
@@ -794,37 +794,37 @@
           "level": 1,
           "name": "步入晚霞",
           "abName": "晚霞旅人",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 全体目标的[Combustion]强度与[Laceration]强度之和每有4级，使本技能造成的伤害+5%(最多+15%)\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-6(最多-12)\n[EndSkill] 随机使友方单位获得1层[ScarletMothRodion]，触发3次",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 全体目标的[烧伤] 强度与[流血] 强度之和每有4级，使本技能造成的伤害+5%(最多+15%)\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-6(最多-12)\n[EndSkill] 随机使友方单位获得1层[朱红之蛾] ，触发3次",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加1级[烧伤] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Combustion]"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[烧伤] "
                 },
                 {
-                  "desc": "[EndCoin] 下回合对命中的目标施加1层[CrimsonTakeDamageUp](每回合最多1次)"
+                  "desc": "[EndCoin] 下回合对命中的目标施加1层[暴怒易损] (每回合最多1次)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加1级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Laceration]"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[流血] "
                 },
                 {
-                  "desc": "[EndCoin] 下回合对命中的目标施加1层[ScarletTakeDamageUp](每回合最多1次)"
+                  "desc": "[EndCoin] 下回合对命中的目标施加1层[色欲易损] (每回合最多1次)"
                 }
               ]
             }
@@ -834,37 +834,37 @@
           "level": 3,
           "name": "步入晚霞",
           "abName": "晚霞旅人",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 全体目标的[Combustion]强度与[Laceration]强度之和每有4级，使本技能造成的伤害+5%(最多+15%)\n<style=\"highlight\">- 若激活了暴怒完全共鸣或色欲完全共鸣，则使本技能造成的伤害额外+10%</style>\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-6(最多-12)\n[EndSkill] 随机使友方单位获得1层[ScarletMothRodion]，触发<style=\"highlight\">4次</style>",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 全体目标的[烧伤] 强度与[流血] 强度之和每有4级，使本技能造成的伤害+5%(最多+15%)\n<style=\"highlight\">- 若激活了暴怒完全共鸣或色欲完全共鸣，则使本技能造成的伤害额外+10%</style>\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-6(最多-12)\n[EndSkill] 随机使友方单位获得1层[朱红之蛾] ，触发<style=\"highlight\">4次</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[烧伤] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Combustion]"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[烧伤] "
                 },
                 {
-                  "desc": "[EndCoin] 下回合对命中的目标施加1层[CrimsonTakeDamageUp](每回合最多1次)"
+                  "desc": "[EndCoin] 下回合对命中的目标施加1层[暴怒易损] (每回合最多1次)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[流血] 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加1层[Laceration]"
+                  "desc": "[OnSucceedAttack] 对目标施加1层[流血] "
                 },
                 {
-                  "desc": "[EndCoin] 下回合对命中的目标施加1层[ScarletTakeDamageUp](每回合最多1次)"
+                  "desc": "[EndCoin] 下回合对命中的目标施加1层[色欲易损] (每回合最多1次)"
                 }
               ]
             }
@@ -874,37 +874,299 @@
           "level": 4,
           "name": "步入晚霞",
           "abName": "晚霞旅人",
-          "desc": "[CantIdentify]\n随机指定目标\n[BeforeAttack] 全体目标的[Combustion]强度与[Laceration]强度之和每有4级，使本技能造成的伤害<style=\"highlight\">+10%(最多+30%)</style>\n- 若激活了暴怒完全共鸣或色欲完全共鸣，则使本技能造成的伤害额外<style=\"highlight\">+20%</style>\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力<style=\"highlight\">-5(最多-10)</style>\n[EndSkill] 随机使友方单位获得1层[ScarletMothRodion]，触发<style=\"highlight\">5次</style>",
+          "desc": "[CantIdentify] \n随机指定目标\n[BeforeAttack] 全体目标的[烧伤] 强度与[流血] 强度之和每有4级，使本技能造成的伤害<style=\"highlight\">+10%(最多+30%)</style>\n- 若激活了暴怒完全共鸣或色欲完全共鸣，则使本技能造成的伤害额外<style=\"highlight\">+20%</style>\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力<style=\"highlight\">-5(最多-10)</style>\n[EndSkill] 随机使友方单位获得1层[朱红之蛾] ，触发<style=\"highlight\">5次</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[烧伤] 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[Combustion]"
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[烧伤] "
                 },
                 {
-                  "desc": "[EndCoin] 下回合对命中的目标施加1层[CrimsonTakeDamageUp](每回合最多1次)"
+                  "desc": "[EndCoin] 下回合对命中的目标施加1层[暴怒易损] (每回合最多1次)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[不可摧毁的硬币] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目标增加2级[流血] 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[Laceration]"
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[流血] "
                 },
                 {
-                  "desc": "[EndCoin] 下回合对命中的目标施加1层[ScarletTakeDamageUp](每回合最多1次)"
+                  "desc": "[EndCoin] 下回合对命中的目标施加1层[色欲易损] (每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "镜反射触觉",
+          "abName": "迷失之心",
+          "desc": "自身的[呼吸法] 强度与主要目标的[震颤] 强度之和每有6点，拼点威力+1(最多+2)\n[BeforeAttack] 自身获得(2 + 最大共鸣数)点[呼吸法] (最多8点)\n[BeforeAttack] 自身的[呼吸法] 次数增加2次\n[EndSkill] 对攻击目标中的随机敌方单位分配施加(1 + 最大共鸣数)层[感觉龟裂] ，每次1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2点[震颤] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[攻击等级降低] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "镜反射触觉",
+          "abName": "迷失之心",
+          "desc": "自身的[呼吸法] 强度与主要目标的[震颤] 强度之和每有6点，拼点威力+1(最多<style=\"highlight\">+3</style>)\n[BeforeAttack] 自身获得(<style=\"highlight\">3</style> + 最大共鸣数)点[呼吸法] (最多8点)\n[BeforeAttack] 自身的[呼吸法] 次数增加<style=\"highlight\">3次</style>\n[EndSkill] 对攻击目标中的随机敌方单位分配施加(1 + 最大共鸣数)层[感觉龟裂] ，每次1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3点</style>[震颤] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加<style=\"highlight\">2次</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[攻击等级降低] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "镜反射触觉",
+          "abName": "迷失之心",
+          "desc": "自身的[呼吸法] 强度与主要目标的[震颤] 强度之和每有6点，拼点威力+1(最多<style=\"highlight\">+4</style>)\n[BeforeAttack] 自身获得(<style=\"highlight\">4</style> + 最大共鸣数)点[呼吸法] (最多8点)\n[BeforeAttack] 自身的[呼吸法] 次数增加<style=\"highlight\">4次</style>\n[EndSkill] 对攻击目标中的随机敌方单位分配施加(1 + 最大共鸣数)层[感觉龟裂] ，每次1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">4点</style>[震颤] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加<style=\"highlight\">3次</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[攻击等级降低] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "镜反射触觉",
+          "abName": "迷失之心",
+          "desc": "[CantIdentify] \n随机指定目标\n自身的[呼吸法] 强度与主要目标的[震颤] 强度之和每有6点，拼点威力+1(最多+2)\n[BeforeAttack] 自身获得(2 + 最大共鸣数)点[呼吸法] (最多10点)\n[BeforeAttack] 自身的[呼吸法] 次数增加2次\n[BeforeAttack] 每有1枚被破坏的硬币，基础威力-4(最多-12)\n[BeforeAttack] 若自身的[呼吸法] 次数在10以上，则消耗4次自身的[呼吸法] 次数，对主要目标造成的暴击伤害量+20%\n[EndSkill] 对攻击目标中的随机敌方单位分配施加(1 + 最大共鸣数)层[感觉龟裂] ，每次1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3点[震颤] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[震颤] 次数在4以上，则触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[震颤] 次数在4以上，则触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[攻击等级降低] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "镜反射触觉",
+          "abName": "迷失之心",
+          "desc": "[CantIdentify] \n随机指定目标\n自身的[呼吸法] 强度与主要目标的[震颤] 强度之和每有6点，拼点威力+1(最多<style=\"highlight\">+3</style>)\n[BeforeAttack] 自身获得(<style=\"highlight\">3</style> + 最大共鸣数)点[呼吸法] (最多10点)\n[BeforeAttack] 自身的[呼吸法] 次数增加<style=\"highlight\">3次</style>\n[BeforeAttack] 每有1枚被破坏的硬币，基础威力-4(最多-12)\n[BeforeAttack] 若自身的[呼吸法] 次数在10以上，则消耗4次自身的[呼吸法] 次数，对主要目标造成的暴击伤害量+<style=\"highlight\">30</style>%\n[EndSkill] 对攻击目标中的随机敌方单位分配施加(1 + 最大共鸣数)层[感觉龟裂] ，每次1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">4点</style>[震颤] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[震颤] 次数在4以上，则触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[震颤] 次数在4以上，则触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目标的[震颤] 次数增加1次</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[攻击等级降低] <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发[震颤引爆] 。使目标的[震颤] 次数减少1次<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "镜反射触觉",
+          "abName": "迷失之心",
+          "desc": "[CantIdentify] \n随机指定目标\n自身的[呼吸法] 强度与主要目标的[震颤] 强度之和每有6点，拼点威力+1(最多<style=\"highlight\">+4</style>)\n[BeforeAttack] 自身获得(<style=\"highlight\">4</style> + 最大共鸣数)点[呼吸法] (最多10点)\n[BeforeAttack] 自身的[呼吸法] 次数增加<style=\"highlight\">4次</style>\n[BeforeAttack] 每有1枚被破坏的硬币，基础威力-4(最多-12)\n[BeforeAttack] 若自身的[呼吸法] 次数在10以上，则消耗4次自身的[呼吸法] 次数，对主要目标造成的暴击伤害量+<style=\"highlight\">40</style>%\n[EndSkill] 对攻击目标中的随机敌方单位分配施加(1 + 最大共鸣数)层[感觉龟裂] ，每次1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">5点</style>[震颤] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[震颤] 次数在4以上，则触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加1次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[震颤] 次数在4以上，则触发[震颤引爆] 。使目标的[震颤] 次数减少1次"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[不可摧毁的硬币] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[震颤] 次数增加<style=\"highlight\">2次</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[攻击等级降低] <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发[震颤引爆] 。使目标的[震颤] 次数减少1次<style=\"highlight\"></style>"
                 }
               ]
             }

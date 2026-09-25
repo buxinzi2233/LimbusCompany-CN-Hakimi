@@ -2002,7 +2002,7 @@
     },
     {
       "id": "introduce_sentence_251",
-      "content": "……不存在无法投下阴影之日光，因此，我亦甘愿接纳这{0}。"
+      "content": "……不存在无法投下阴影之阳光，因此我亦甘愿接纳这{0}。"
     },
     {
       "id": "introduce_word_252",
@@ -2066,7 +2066,7 @@
     },
     {
       "id": "introduce_sentence_259",
-      "content": "我们禁止超额预定{0}哦~。"
+      "content": "我们禁止超额预定{0}哦~"
     },
     {
       "id": "introduce_word_260",
@@ -2082,7 +2082,7 @@
     },
     {
       "id": "introduce_sentence_261",
-      "content": "{0}的美学始于克制。"
+      "content": "{0}的美学始于节制。"
     },
     {
       "id": "introduce_word_262",
@@ -2090,7 +2090,31 @@
     },
     {
       "id": "introduce_sentence_262",
-      "content": "让更多顾客为{0}的时尚狂热！"
+      "content": "让更多的客人为{0}的时尚而狂热！"
+    },
+    {
+      "id": "introduce_sentence_263",
+      "content": "若是想要高水准的{0}，就必须经历漫长的等待时间。"
+    },
+    {
+      "id": "introduce_sentence_264",
+      "content": "别靠近我，别向我伸出{0}！！"
+    },
+    {
+      "id": "introduce_sentence_265",
+      "content": "投入我空虚的{0}之中。"
+    },
+    {
+      "id": "introduce_word_263",
+      "content": "面料"
+    },
+    {
+      "id": "introduce_word_264",
+      "content": "双手"
+    },
+    {
+      "id": "introduce_word_265",
+      "content": "虚象"
     }
   ]
 }

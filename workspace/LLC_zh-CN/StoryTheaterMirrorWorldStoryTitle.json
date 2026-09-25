@@ -694,11 +694,15 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10416",
-      "content": "高级定制::黑派鞋履馆，良秀的故事"
+      "content": "高级定制::黑派制鞋馆，良秀的故事"
     },
     {
       "id": "MirrorWorld_Story_Title_P10816",
       "content": "高级定制::红派精品店，以实玛利的故事"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10917",
+      "content": "高级定制::修补室，罗佳的故事"
     }
   ]
 }

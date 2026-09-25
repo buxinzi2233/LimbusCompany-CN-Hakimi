@@ -484,11 +484,11 @@ class TestTier1FeatureCoverage(unittest.TestCase):
         self.assertTrue(rpg_dir.exists(), f"RPGSystem directory missing at {rpg_dir}")
 
     def test_f11_2_all_45_rpg_files_exist(self):
-        """F11.2: Verify all 45 RPGSystem files exist in workspace/LLC_zh-CN/RPGSystem/."""
+        """F11.2: Verify all RPGSystem files exist in workspace/LLC_zh-CN/RPGSystem/ (>= 45)."""
         rpg_dir = WORKSPACE_DIR / "RPGSystem"
         self.assertTrue(rpg_dir.exists(), "RPGSystem directory does not exist")
         files = list(rpg_dir.glob("*.json"))
-        self.assertEqual(len(files), 45, f"Expected 45 RPG files, found {len(files)}")
+        self.assertGreaterEqual(len(files), 45, f"Expected at least 45 RPG files, found {len(files)}")
 
     def test_f11_3_rpg_files_valid_json(self):
         """F11.3: Verify RPGSystem files are valid JSON."""

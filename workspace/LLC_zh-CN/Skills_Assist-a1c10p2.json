@@ -1,0 +1,548 @@
+{
+  "dataList": [
+    {
+      "id": 40004101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赤红之钉",
+          "desc": "[WhenUse] 目标的[流血] 强度每有4点，基础威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "赤红之钉",
+          "desc": "[WhenUse] 目标的[流血] 强度每有4点，基础威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身的[搏动] 强度每有2点，对目标施加1层[洗礼（赤红）] (最多2层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目标没有理智值，则造成的伤害量+50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的理智值减少10点"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "赤红之钉",
+          "desc": "[WhenUse] 目标的[流血] 强度每有4点，基础威力+1(最多+2)\n[WhenUse] 若理智值高于目标或目标没有理智值，则硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身的[搏动] 强度每有2点，对目标施加1层[洗礼（赤红）] (最多2层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目标没有理智值，则造成的伤害量+50%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的理智值减少10点"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[黄金启示] "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "走开",
+          "desc": "[WhenUse] 目标的[流血] 强度每有4点，硬币威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[流血] 次数增加2次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "走开",
+          "desc": "[WhenUse] 目标的[流血] 强度每有4点，硬币威力+1(最多+2)\n[WhenUse] 自身的[搏动] 强度每有2点，攻击加权值+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[流血] 次数增加2次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身的[搏动] 强度每有2点，对目标施加1层[洗礼（赤红）] (最多2层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身的[搏动] 强度每有2点，对目标施加1层[洗礼（赤红）] (最多2层)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "走开",
+          "desc": "[WhenUse] 目标的[流血] 强度每有4点，硬币威力+1(最多+2)\n[WhenUse] 自身的[搏动] 强度每有2点，攻击加权值+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[流血] 次数增加2次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身的[搏动] 强度每有2点，对目标施加1层[洗礼（赤红）] (最多2层)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[黄金启示] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身的[搏动] 强度每有2点，对目标施加1层[洗礼（赤红）] (最多2层)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[黄金启示] "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加油",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标获得1层[拼点威力提升] "
+                },
+                {
+                  "desc": "[EndCoin] 自身的[搏动] 强度每有1点，使目标获得1层[攻击等级提升] (最多5层)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "加油",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] \n\n[WhenUse] 自身的[搏动] 强度每有2点，攻击加权值+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标获得1层[拼点威力提升] "
+                },
+                {
+                  "desc": "[EndCoin] 自身的[搏动] 强度每有1点，使目标获得1层[攻击等级提升] (最多5层)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "加油",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] \n\n[WhenUse] 自身的[搏动] 强度每有2点，攻击加权值+1(最多+2)\n[EndSkill] 若自身带有[狂暴] 效果且自身的[搏动] 次数在10以上，则消耗最多10次[搏动] 次数，使命中的所有目标获得1层[基础威力提升] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标获得1层[拼点威力提升] "
+                },
+                {
+                  "desc": "[EndCoin] 自身的[搏动] 强度每有1点，使目标获得1层[攻击等级提升] (最多5层)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "加油",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] \n\n[WhenUse] 自身的[搏动] 强度每有2点，攻击加权值+1(最多+2)\n[EndSkill] 若自身带有[狂暴] 效果且自身的[搏动] 次数在10以上，则消耗最多10次[搏动] 次数，使命中的所有目标获得1层[基础威力提升] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标获得1层[基础威力提升] "
+                },
+                {
+                  "desc": "[EndCoin] 自身的[搏动] 强度每有1点，使目标在本回合与下回合获得1层[攻击等级提升] (最多5层)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "不要痛",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标恢复(该技能最终威力 × 2)点体力\n- 若目标属于红派，则改为使其体力减少，并使自身恢复等量体力(该效果不会使其陷入混乱或体力降至1点以下)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "不要痛",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] \n\n[WhenUse] 若自身的[搏动] 强度在3以上，则攻击加权值+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标恢复(该技能最终威力 × 2)点体力\n- 若目标属于红派，则改为使其体力减少，并使自身恢复等量体力(该效果不会使其陷入混乱或体力降至1点以下)"
+                },
+                {
+                  "desc": "[EndCoin] 使目标的理智值恢复该技能最终威力的数值\n- 若理智值为最大值，则随机解除1个可解除的负面状态"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "不要痛",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] \n\n[WhenUse] 若自身的[搏动] 强度在3以上，则攻击加权值+4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 使目标恢复(该技能最终威力 × 2)点体力\n- 额外使目标恢复相当于目标体力上限(自身的[搏动] 强度 × 2)%的体力\n- 若目标属于红派，则改为使其体力减少，并使自身恢复等量体力(该效果不会使其陷入混乱或体力降至1点以下)"
+                },
+                {
+                  "desc": "[EndCoin] 使目标的理智值恢复该技能最终威力的数值\n- 额外使目标的理智值恢复(自身的[搏动] 强度 × 3)点\n- 若理智值为最大值，则随机解除1个可解除的负面状态"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "握住我的手",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] \n\n[WhenUse] 下回合对自身施加5层[束缚] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 解除目标的混乱状态"
+                },
+                {
+                  "desc": "[EndCoin] 使目标恢复等同于该技能最终威力的体力"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "握住我的手",
+          "desc": "[CantDuel] \n[CantChangeTarget] \n[双极性] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 解除目标的混乱状态"
+                },
+                {
+                  "desc": "[EndCoin] 使目标恢复等同于该技能最终威力的体力"
+                },
+                {
+                  "desc": "[EndCoin] 下回合使目标获得目标体力上限50%的护盾"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "红钉洗礼",
+          "desc": "[WhenUse] 若自身的[搏动] 次数在10以上，则消耗最多10次[搏动] 次数，攻击加权值+2，硬币威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[流血] 次数增加2次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "红钉洗礼",
+          "desc": "[WhenUse] 若自身的[搏动] 次数在10以上，则消耗最多10次[搏动] 次数，攻击加权值+2，硬币威力+2\n[WhenUse] 目标的[流血] 强度每有4点，基础威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[流血] 次数增加3次"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "红钉洗礼",
+          "desc": "[WhenUse] 若自身的[搏动] 次数在10以上，则消耗最多10次[搏动] 次数，攻击加权值+2，硬币威力+2\n[WhenUse] 目标的[流血] 强度每有4点，基础威力+1(最多+2)\n[WhenUse] 若自身的[搏动] 强度在5以上，则生效以下效果\n- 攻击加权值+2\n- 硬币威力+(自身的[搏动] 强度 - 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[黄金启示] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[流血] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[黄金启示] "
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[洗礼（赤红）] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标的[流血] 次数增加3次"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[黄金启示] "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "让我来结束这一切吧……",
+          "desc": "[CantDuel] \n目标的已损失体力每有1%，造成的伤害量+0.5%(最多30%)\n[WhenUse] 若自身带有[狂暴] 效果，则攻击加权值+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[束缚] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身带有[狂暴] 效果，则重复投掷该硬币(最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "恶心(la nausée)",
+          "desc": "[StartBattle] 消耗所有自身的[搏动] 次数，使包括自身在内的全体友方单位恢复体力上限([搏动] 次数消耗值)%的体力",
+          "flavor": "在成长为神的过程中必然经历的感觉。有人表现为眩晕，有人表现为作呕，有人表现为痉挛，有人表现为欺瞒，而有人则表现为抗拒。世间的一切都令人目眩、恐惧而混乱。为了忍耐这一切，为了守护自身尚未模糊的界线中的所有物，他试图吐出任何事物来守护自己。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "红洞(le Trou rouge)",
+          "desc": "[StartBattle] 使自身获得4次[搏动] 次数",
+          "flavor": "这是一个红色的洞。虽闭合着，但它却如同深穴一般渴望着以无尽的饥渴将洞口填满。正如同所被寄予的厚望那般，正如同就这样被诞生出来的那般。",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

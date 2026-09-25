@@ -2,10 +2,20 @@
 backups/
 dist/
 references/LLC-2026090501*
+references/LLC-2026092102*
 .LLC-verified-*
 
-# Agent / Tool state
-.agents/
+# Media & Video production
+media/
+*.mp4
+*.mp3
+*.wav
+*.kdenlive
+*.ass
+
+# Agent / Tool state (Preserve workspace skills in version control)
+.agents/*
+!.agents/skills/
 .mimosa/
 .v2c/
 
@@ -16,7 +26,8 @@ __pycache__/
 *.so
 .pytest_cache/
 
-# Large generated lint/coverage dumps (>5MB)
+# Large generated lint/coverage dumps (>5MB) & raw dump archives
+docs/reports/raw_dumps/
 docs/reports/*-lint*.json
 docs/reports/*-release-check*.json
 docs/reports/final-polish-release-check.json

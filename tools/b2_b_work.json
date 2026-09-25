@@ -1,0 +1,3782 @@
+[
+  {
+    "key": "D-2107",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "우리는 지하 2층 플로어 매니저를 처치하고 그자가 손에 쥐고 있던 알록달록한 실타래를 가져갔다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2201",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "휴… 줄이 안 줄어. 1 센치미티도 안 줄었어.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "바늘이들은 실을 받아야 하는데.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2202",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "앞으로는 못 가. 검은 옷들이 서서 아무도 안 보내 줘.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2202B",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "쪼용 쪼용해야 해. 닥치고 기다려 이 바늘들아! 라고 했단 말이야.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2202C",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "어디서 담배 냄새가 나. 여기는 끔연이라구!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2203",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "잠시 통제 중이다. 소란 피우지 말고 얌전히 기다려라.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2204",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "이 층은 지금 통제 중에 있다. 허튼 짓 하지 말도록.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2205",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "뫼르소",
+        "text_kr": "막고 있는 르누아르들을 먼저 해치워야 합니다, 관리자님.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2207",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "뫼르소",
+        "text_kr": "이곳으론 갈 수 없습니다, 관리자님.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2209",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "뫼르소",
+        "text_kr": "다른 곳부터 가는 게 어떻겠습니까, 관리자님. 더 중요한 일이 남아있는 것 같습니다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2210",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "안녕? 너희는 무슨 색을 제일 좋아해?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2211",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2212",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "원함을 가지고 찾아온 이방인들이구나. 목소리의 말대로 마음껏 솔직해지거라.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2215",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "플로어 매니저는… 타래둥지로 가면 만날 수 있어.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2216",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "필요한 거라도 있는 모양이네 이방인들?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2217",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 간부",
+        "text_kr": " …! 이곳을 돌아다니고 있다는 불경한 이방인들이 네놈들인가?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2230",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "…한 입만…",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "한 입만 씹어먹을 수 있다면… 나도 다시…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2221",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "료슈",
+        "text_kr": "…여어.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "규칙이 불합리한 것 같군요, 아무래도 화장실에 있는 자가 뭔가 큰 착오를 한 건 아닐지…",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "오티스",
+        "text_kr": "이자는 관리자님 곁에 상시로 붙어있게 하고, 저 같이 유능한 자를 유배를 보내버리는 걸로 모자라 함께 짝 지어주는 수감자도 영…",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "오티스",
+        "text_kr": "그리고 이 자는… 아직도 따라다니고 있군요.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "료슈",
+        "text_kr": "…애가 있군.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2221B",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "료슈는 뿌이를 물끄러미 바라보더니, 입에 물고 있던 담배를 벽에 짓뭉개고는…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2221C",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "일하고 있는 바늘이에게 툭 던졌다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2221D",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "일하는 바늘이",
+        "text_kr": "악! 끔연! 끔연!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2221D2",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "말을 하고 보니까 이상한 기분이 들었다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "이야기는 들었다, 뿌이.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "료슈",
+        "text_kr": "옷을 만들고 있다지.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뿌이",
+        "text_kr": "맞아.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "오티스",
+        "text_kr": "이자에게 옷을 입히면 5층 안쪽으로 갈 수 있다는 건… 솔직히 의심스럽습니다만,",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "오티스",
+        "text_kr": "…달리 방도가 없다는 것은 그레고르, 그자에게 들었으니… 어쩔 수 없군요.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "단테",
+        "text_kr": "<뫼르소, 우리가 지난번에 온 곳은… 이곳, 지하 2층까지 였었지.>",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "단테",
+        "text_kr": "<하지만 옷을 만들려면 지하의 가장 끝으로 가야 한다고 했어.>",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "단테",
+        "text_kr": "<그렇다는건, 이 아래에 층이 더 존재한다는 거야.>",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "뫼르소",
+        "text_kr": "…네, 그럴 것 같습니다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2221E",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<그러면 이곳을 둘러보면서…>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "<둘러… 보면서…>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "자… 다들 한 줄 서기 해라. 한 놈씩 빼먹지 않고 샅샅이 수색을 할 거니까.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "료슈",
+        "text_kr": "…빡. 빡.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "혼잡하군. 앞에 무슨 일이라도 생겼나 봅니다, 관리자님.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<…상황이 알던 거랑 많이 다른데.>",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "네이키드",
+        "text_kr": "황금염료를 얻어야 하는데… 젠장… 고작 여기서 발이 묶이게 생기다니.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A2",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "쉬잇 쪼용, 쪼용. 떠들면 혼나.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A3",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "네이키드",
+        "text_kr": "닥쳐! 바닥만 전전하는 지하 것들 주제에.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A4",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<저자는 분명 염료를 구하고 있던…>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뫼르소",
+        "text_kr": "르누아르 소속의 네이키드… 라는 자였습니다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<…뿌이랑 마주치면 곤란해질지도 모르겠네.>",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "료슈",
+        "text_kr": "…….",
+        "speaker_zh": "良秀",
+        "text_zh": "……",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2222A5",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "료슈",
+        "text_kr": "뿌이, 게임은 좋아하나?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A6",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "뿌이",
+        "text_kr": "게임…? 해본 적 없어. 그건 뭐하는 건데?",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "여럿이 모여 규칙을 정해 노는 거다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뿌이",
+        "text_kr": "규칙은… 꼭 정해야 하는 거야?",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "료슈",
+        "text_kr": "이미 있는 뼈대라는 제약 위에 살을 자유롭게 채우는 편이 더 즐겁기 때문이지.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "뿌이",
+        "text_kr": "게임… 해보고 싶어.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "료슈",
+        "text_kr": "그럼 침묵의 데스매치를 시작하지.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A7",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<그거, 뿌이가 해도 괜찮은 게임 맞아?>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "전. 연. 인 게 당연하지 않나?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A8",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "뫼르소",
+        "text_kr": "전체연령가… 라는 의미입니다, 관리자님.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A9",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "료슈",
+        "text_kr": "규칙은 하나. 우리 둘 중 먼저 말을 하는 사람이 지는 거다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "진 사람은 잠들 때 자장가가 없는 걸로 하지.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뿌이",
+        "text_kr": "…우리 둘만 해?",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뿌이",
+        "text_kr": "…이방인들이랑 꼬무리가 서운할 거야.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "료슈",
+        "text_kr": "흠… 그럼 꼬무리까지 셋으로 하지.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "료슈",
+        "text_kr": "저놈들은 떠벌거리기를 워낙 좋아하는 놈들이라 서운하지 않을 거다.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "고치",
+        "text_kr": "키에엑…",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "뿌이",
+        "text_kr": "셋이면… 응, 좋아.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "료슈",
+        "text_kr": "그럼 지금부터… 게임 시작이다, 뿌이.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "뿌이",
+        "text_kr": "흡…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A10",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "네이키드",
+        "text_kr": "오, 그쪽 이방인들은 지상에서 왔나 보군, 그렇지?",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "…그런 셈이지.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "네이키드",
+        "text_kr": "이 멍청한 바늘들이랑 계속 있으니까 정신이 나가버릴 것 같아.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "네이키드",
+        "text_kr": "나는 원래 이곳에 있으면 안 되거든. 황금염료를 받아서 지상으로 가야 하는데…",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "뫼르소",
+        "text_kr": "음…",
+        "speaker_zh": "李箱",
+        "text_zh": "唔……",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "네이키드",
+        "text_kr": "하. 그러니까, 이게 어떻게 된 거냐면 말이야… 우리 르누아르들 사이에 비상이 생겼어. 지상에서 왔다면 대충 알고 있겠지? 분위기가… 점점 심상치 않아진다는 걸 말이야.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "단테",
+        "text_kr": "<왜 이렇게 친한 척을 하지…>",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "뫼르소",
+        "text_kr": "저희가 지금까지 구매하고 주운 물건들을 보고 그런 것 같습니다.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "단테",
+        "text_kr": "<돈이 좀 있어 보였다는 건가.>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A11",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "쪼용해야 하는데… 바늘은 바느질을 멈추면 안 되는데. 왕이 깨어나면 혼나는데…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A12",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "네이키드",
+        "text_kr": "닥치라니까, 지금 르루주들이 어떤 짓을 벌이고 있는지도 모르면서 그딴 걱정이나 할 때야?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222A13",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "네이키드",
+        "text_kr": "봤지? 이놈들은 밖이 어떻게 돌아가는지도 모르면서 쉴 새 없이 종알종알… 아무튼, 그래서 미치겠다는 거야.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "네이키드",
+        "text_kr": "나는 황금염료를 받아서 대장님께 바치고 르누아르를 위해 충성심을 바친다는 것을 증명할 거야. 그러면 나도 근사한 르누아르의 매장을 열 수도 있겠지. 어떤 옷을 만들지도 이미 다 구상해 놓았어.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "네이키드",
+        "text_kr": "그 전에 거짓된 목소리를 찾아야 겠지만 말이야…",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "오티스",
+        "text_kr": "…그것 때문에 이 복도가 통제되고 있는 건가?",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "네이키드",
+        "text_kr": "그래, 대장님의 전언이 있었다더군. 거짓된 목소리를 낼 흉물을 보호하려고, 이곳에 숨어든 자들이 있다고.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "네이키드",
+        "text_kr": "나는 수색대상에서 빼 달라고 했지만 혹시 모르니까 같이 색출 대상에 포함시켜야 한다 했어. 르누아르 답지. 우직하고 예외는 없어. 우리는 백화점을 위해 존재하고 백화점에 의해 존재되니까.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "오티스",
+        "text_kr": "흠… 이곳에 있는 자들을 전원 수색을 한다는 소리인가? 시간이 상당히 걸리는 일일 텐데.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "네이키드",
+        "text_kr": "그래, 그놈들을 잡기 전까지는 우린 이곳에서 한 발짝도 못 나갈 거야. 그 미친놈들 때문에 우리 같은 사람들이 이게 무슨 고생이냐고. 백화점을 보존시키는 것에 온 힘을 다하지 못할망정… 뻔뻔하게… 안 그래?",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "오티스",
+        "text_kr": "…그래, 뻔뻔하기 그지없는 것들이군.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "네이키드",
+        "text_kr": "그래도 같이 이야기를 나눌 교양있는 지상인들을 만나서 다행이야. 이곳에서 원 없이 이야기를 나눠보자고. 자, 르누아르의 역사부터…",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "오티스",
+        "text_kr": "그런데 혹시 이곳… 더 밑층이 존재하나?",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "네이키드",
+        "text_kr": "…설령 있다고 해도, 우리가 갈 곳은 아니지. 왜 물어보는 거야?",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "오티스",
+        "text_kr": "그 미친놈들이 이곳에 잠입했다면… 색출을 피해 지하로 내려갈 수도 있지 않겠나? 그렇다면 그 길목부터 틀어막아야지.",
+        "matched": false
+      },
+      {
+        "index": 13,
+        "speaker_kr": "단테",
+        "text_kr": "<…….>",
+        "speaker_zh": "但丁",
+        "text_zh": "<……>",
+        "matched": true
+      },
+      {
+        "index": 14,
+        "speaker_kr": "단테",
+        "text_kr": "<나는 가끔 오티스가 우리 편이라는 사실에 안도를 느껴.>",
+        "matched": false
+      },
+      {
+        "index": 15,
+        "speaker_kr": "뫼르소",
+        "text_kr": "그렇습니까.",
+        "matched": false
+      },
+      {
+        "index": 16,
+        "speaker_kr": "네이키드",
+        "text_kr": "…너희 정말…",
+        "matched": false
+      },
+      {
+        "index": 17,
+        "speaker_kr": "네이키드",
+        "text_kr": "똑똑한 이방인들이야. 방금 소름이 쫙 끼쳤다니까?",
+        "matched": false
+      },
+      {
+        "index": 18,
+        "speaker_kr": "네이키드",
+        "text_kr": "하지만 안심해. 지하로 가는 길목은 찾을 수 없을 거야. 오래전에 막혔다 그랬거든.",
+        "matched": false
+      },
+      {
+        "index": 19,
+        "speaker_kr": "오티스",
+        "text_kr": "…그렇군.",
+        "matched": false
+      },
+      {
+        "index": 20,
+        "speaker_kr": "네이키드",
+        "text_kr": "그런데 너희들이 가지고 다니는 이건 설마 황금고치야?",
+        "matched": false
+      },
+      {
+        "index": 21,
+        "speaker_kr": "오티스",
+        "text_kr": "…그건…",
+        "matched": false
+      },
+      {
+        "index": 22,
+        "speaker_kr": "네이키드",
+        "text_kr": "오오, 느낌이 좋은데.",
+        "matched": false
+      },
+      {
+        "index": 23,
+        "speaker_kr": "고치",
+        "text_kr": "끼에에엑…",
+        "matched": false
+      },
+      {
+        "index": 24,
+        "speaker_kr": "뿌이",
+        "text_kr": "…하지 마. 아파하잖아.",
+        "matched": false
+      },
+      {
+        "index": 25,
+        "speaker_kr": "료슈",
+        "text_kr": "그만. 그 이상하면, 그대로 모. 분…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222B",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "료슈",
+        "text_kr": "…날려버렸나. 이것도 나쁘지 않군. 잘했다, 뿌이.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "네이키드",
+        "text_kr": "…커헉!",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "네이키드",
+        "text_kr": "이 목소리… 그 모습… 거짓된 자가 네놈…",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "쪼용하지 않은 놈이 밀려났어!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222B2",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "네이키드",
+        "text_kr": "자, 잠깐! 이 열등한 자들이 나를 어디로… 기다려라!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2222B3",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "쪼용 쪼용! 너도 찔릴 거야?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2223",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<일단 여기를 피하자… 곧 르누아르 직원들이 몰려올 거야.>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뿌이",
+        "text_kr": "…….",
+        "speaker_zh": "普伊",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뿌이",
+        "text_kr": "게임… 내가 진 거야?",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "료슈",
+        "text_kr": "아니, 비겼군.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "료슈",
+        "text_kr": "꼬무리도, 나도 비슷하게 입을 열었으니.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "오티스",
+        "text_kr": "지하가 더 존재한다는 사실은 확인이 되었습니다만…",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "오티스",
+        "text_kr": "찾을 방도가 마땅치가 않군요. 르누아르들이 언제까지 쫓아올 지도 모르니…",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "단테",
+        "text_kr": "<…우릴 도와줄 만한 자를 알고 있긴 해.>",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "오티스",
+        "text_kr": "믿을 만한 자입니까…?",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "단테",
+        "text_kr": "<음… 그건 모르겠지만, 아마 르누아르들의 편은 아닐 거야.>",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "",
+        "text_kr": "염색실에 있었던 팔레트… 그자는 어떤 소속도 아니었으며 우리에게 적대감을 드러내지도 않았었다.",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "단테",
+        "text_kr": "<그냥… 흘러가는 대로 사는 것 같았거든…>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2224",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "아니야, 언니. 이자들은 내 눈물을 훔치려고 온 자들이 아니야.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "료슈",
+        "text_kr": "마. 킹. 인가.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "팔레트",
+        "text_kr": "우리 언니는 마네킹 아니야. 옛날부터 나를 과보호하려 하는 버릇이 있을 뿐이지.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "팔레트",
+        "text_kr": "그런데 너희 땀을 흘리고 있는 거야? 내 팔레트에 섞이지 않게 조심해 줘. 짠맛이 들어가면 색깔이 혼탁해지거든.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "오티스",
+        "text_kr": "…꽤 긴박한 사태를 겪고 왔다. 여기엔 다행히도 르누아르들이 보이진 않는군.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "팔레트",
+        "text_kr": "바깥에 무슨 일이 일어나고 있는 거야? 손님들의 발길도 갑자기 끊겼어.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "팔레트",
+        "text_kr": "눈물들은 제때 터뜨려줘야 하는데. 참기만 하면 상태가 안 좋아지거든.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "오티스",
+        "text_kr": "우리는 지하 3층으로 갈 방법을 찾고 있다. 혹시 알고 있는 정보가 있나?",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "팔레트",
+        "text_kr": "길은 있었어. 하지만 지금은 막아 두었지.",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "팔레트",
+        "text_kr": "그런데 왜 내려가려고 하는 거야? 너희가 내려오기 전에 있었던 곳이 훨씬 살기 좋을 텐데. 이런 지하보다는 훨씬.",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "뫼르소",
+        "text_kr": "뿌이에게 옷을 입혀주기 위해서다.",
+        "matched": false
+      },
+      {
+        "index": 13,
+        "speaker_kr": "팔레트",
+        "text_kr": "뿌이? 이 아이를 말하는 거야?",
+        "matched": false
+      },
+      {
+        "index": 14,
+        "speaker_kr": "팔레트",
+        "text_kr": "…….",
+        "speaker_zh": "默尔索",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 15,
+        "speaker_kr": "팔레트",
+        "text_kr": "너희가 입는다는 게 아니라, 이 아이에게 입히려고?",
+        "matched": false
+      },
+      {
+        "index": 16,
+        "speaker_kr": "뿌이",
+        "text_kr": "응, 나 옷 입어야 해. 황금가죽으로 만들어진 옷.",
+        "matched": false
+      },
+      {
+        "index": 17,
+        "speaker_kr": "팔레트",
+        "text_kr": "…옷을 입기 위해 혈안이 된 자들은 넘쳐도 남에게 옷을 입혀주려고 하는 자들은 드문데.",
+        "matched": false
+      },
+      {
+        "index": 18,
+        "speaker_kr": "팔레트",
+        "text_kr": "그래서 역시, 이방인이구나.",
+        "matched": false
+      },
+      {
+        "index": 19,
+        "speaker_kr": "팔레트",
+        "text_kr": "좋아. 그러면… 이렇게 거래하자.",
+        "matched": false
+      },
+      {
+        "index": 20,
+        "speaker_kr": "팔레트",
+        "text_kr": "사실 나도, 언니에게 지어줄 옷이 필요해.",
+        "matched": false
+      },
+      {
+        "index": 21,
+        "speaker_kr": "팔레트",
+        "text_kr": "좋은 옷을 지으려면 좋은 실타래가 필요하지만… 황금 실타래는 원하지 않아. 그건 취향이 아니거든.",
+        "matched": false
+      },
+      {
+        "index": 22,
+        "speaker_kr": "팔레트",
+        "text_kr": "내가 원하는 건… 더 알록달록하고 눈물이 잘 스며들만한 실타래야.",
+        "matched": false
+      },
+      {
+        "index": 23,
+        "speaker_kr": "팔레트",
+        "text_kr": "그리고 그런… 순수한 실타래는 이 층의 규칙상 오직 플로어 매니저만이 가질 수 있어. 간혹 르누아르들에게만 몇 올씩 넘기고.",
+        "matched": false
+      },
+      {
+        "index": 24,
+        "speaker_kr": "료슈",
+        "text_kr": "…짜증나는 규칙이군.",
+        "matched": false
+      },
+      {
+        "index": 25,
+        "speaker_kr": "팔레트",
+        "text_kr": "짜증난다고? 이곳에선… 당연한 상식인데.",
+        "matched": false
+      },
+      {
+        "index": 26,
+        "speaker_kr": "오티스",
+        "text_kr": "하지만… 우리에겐 그다지 당연하지 않은 상식이군. 만약 우리가 그자에게서 실타래를 빼앗… 아니, 가져온다면…",
+        "matched": false
+      },
+      {
+        "index": 27,
+        "speaker_kr": "오티스",
+        "text_kr": "거래의 대가로 길을 열어준다고 이해하면 되는 건가?",
+        "matched": false
+      },
+      {
+        "index": 28,
+        "speaker_kr": "팔레트",
+        "text_kr": "…정말 그래줄 수 있어, 이방인들?",
+        "matched": false
+      },
+      {
+        "index": 29,
+        "speaker_kr": "팔레트",
+        "text_kr": "실타래를… 가져올 수 있다면… 응, 약속할게.",
+        "matched": false
+      },
+      {
+        "index": 30,
+        "speaker_kr": "팔레트",
+        "text_kr": "플로어 매니저는… 타래둥지로 가면 만날 수 있어.",
+        "matched": false
+      },
+      {
+        "index": 31,
+        "speaker_kr": "단테",
+        "text_kr": "<르누아르들이 길을 막고 있겠지만… 우선 돌파해 보자.>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2225",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "[미사용] <… 르누아르들이 길을 막고 있어>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "[미사용] <돌파하는 것 밖엔 답이 없겠네>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2226",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "원함이 있어서 찾아왔구나.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "운명의 목소리는 늘 속삭이지. 솔직해라, 더 마음껏 솔직해지라고.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "그러니 우리의 원함을 말할 테니, 그다음에는 너희의 말을 우리에게 들려주렴.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "오티스",
+        "text_kr": "…빨라서 좋군. 무엇을 원하나?",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "더 많은 황금실… 더 둥근 실타래… 더 탐스러운 황금…",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "그 고치를 움켜쥐고 쥐어짜면… 질질 흘려 넘칠 모든 것들…",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "우리는 알고 안단다. 저 고치에서부터 배어 나올 아름다움을… 위대한 원단이 되는 것에 기여하리라는 걸.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "운명의 목소리는 허하셨지. 이제는 남을 위한 실이 아닌, 우리를 덮을 실을 지으라고.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "단테",
+        "text_kr": "<지난번에도 욕심을 보이긴 했는데… 르누아르에서 줬던 감정 평가서가 없어서 그런가, 반응이 많이 다른 것 같아.>",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "뫼르소",
+        "text_kr": "…햇살이 유독 강하게 내리쬐고 있기 때문일지도 모릅니다.",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "자… 이제, 너희의 원함을 말할 차례란다.",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "오티스",
+        "text_kr": "유감이군, 우리는… 너희가 가지고 있는 그 실타래를 원한다.",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "아아, 원함이 충돌하였구나. 하나로 맞추는 방법은 하나 뿐이란다.",
+        "matched": false
+      },
+      {
+        "index": 13,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "누군가의 원함이 삼켜지는 수밖에.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2228",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "실타래를 가져왔구나.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "정말로… 상식을 상식으로 생각하지 않을 수 있다니…",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "팔레트",
+        "text_kr": "사실 반은 믿고 반은 믿지 않았어. 당연했던 걸 당연하지 않게 만드는 것은… 지하의 고객들에겐 힘든 일이었으니까.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "팔레트",
+        "text_kr": "이 실타래로 옷을 만들면 언니도 다시 내게 말을 걸어주려나.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "오티스",
+        "text_kr": "자, 그럼 약속대로…",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "팔레트",
+        "text_kr": "조급해 하지 마. 약속은 지킬 거야.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "팔레트",
+        "text_kr": "내려가는 길은 멀지 않아. 바로 근처에 있었거든.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "팔레트",
+        "text_kr": "자… 아래로 내려가.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "팔레트",
+        "text_kr": "너희도 원하는 옷을 지어 입힐 수 있기를.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2219",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "아직 이곳에 볼일이 남아있는 것 같다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2220",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "우리에게 내줄 것이 있지 않니?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2234",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "물러서라. 이 층은 지금 통제중이다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2235",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "물러서라. 이 층은 지금 통제중이다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2236",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "바늘이는 실이 필요해! 바늘이는 실이 필요해!",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "실이 필요하면 기다려야 해! 쪼용히 기다려야 해!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2237",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "물러서라. 이 층은 지금 통제중이다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2238",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<이 자들은…>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "신원 검사를 하겠다. 르루주가 만든 불경한 것을 숨겨주고 있는 이방인들이 있다고 해서 말이지. 이름과 소속을 대라.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뿌이",
+        "text_kr": "이름은 뿌이. 소속은… 소속은 뭐야?",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "르누아르 경비원",
+        "text_kr": "…! 붙잡아라!",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "뫼르소",
+        "text_kr": "…뒤에 붙어라, 뿌이.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "뿌이",
+        "text_kr": "응.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2240",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "일하는 바늘이",
+        "text_kr": "바빠, 바빠! 실을 계속 감고 있어야 해.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "일하는 바늘이",
+        "text_kr": "바늘이들은 쉬면 안 돼. 줄을 기다릴 때 빼고는…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2231",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "바늘이들이 심각하게 쫑알거리고 있다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "앞 바늘이가 전해달래. 계속 기다리라고.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "앞앞 바늘이가 전해달래. 계속 기다리라고.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뿌이",
+        "text_kr": "뭘 기다리는 거야?",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "앞 이방인이 물어봐달래. 뭘 기다리냐고.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "줄 선 바늘이",
+        "text_kr": "앞앞 이방인들이 물어봐달래. 뭘 기다리냐고.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "단테",
+        "text_kr": "<…>",
+        "speaker_zh": "但丁",
+        "text_zh": "<……>",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2233",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "네이키드",
+        "text_kr": "…!",
+        "speaker_zh": "???",
+        "text_zh": "……！",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "네이키드",
+        "text_kr": "저기 있습니다! 거짓된 목소리 종자를 데리고 다니는 파렴치한 것들이…!",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "오티스",
+        "text_kr": "…저 얍삽한 자식이 어느새…!",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "저자들이군. 수고했다.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "네이키드",
+        "text_kr": "저는 처음 보자마자 알았습니다, 당장 멱살을 잡고 끌어내리고 싶었지만 르루주들이 만든 거짓 목소리 답게 저를 무자비하게 찢으려고 하더군요.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "네이키드",
+        "text_kr": "그래서 힘겹게 사투를 벌이면서 용감하게 붙잡고 있다가…",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "그래, 여기서부터는 우리가 막지.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "이방인들은 무지하기 그지 없으나, 우리는 자비로우니 한 번의 기회를 주도록 하지.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "르루주의 거짓 목소리를 우리에게 넘긴다면… 이방인들은 잘못된 길에 든 것 뿐이라고 생각하고 보내주겠다.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "…아니면 그대들은 르루주의 거짓 목소리에게 볼모로 잡혀 있는 것인가? 르루주들이 만든 불순이라면… 그러고도 남지.",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "료슈",
+        "text_kr": "눈. 삐.",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "뿌이",
+        "text_kr": "눈삐…?",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "료슈",
+        "text_kr": "눈깔이 삐었군… 이라는 뜻이다.",
+        "matched": false
+      },
+      {
+        "index": 13,
+        "speaker_kr": "단테",
+        "text_kr": "<그런 건… 알려주지 않아도 될 것 같아.>",
+        "matched": false
+      },
+      {
+        "index": 14,
+        "speaker_kr": "",
+        "text_kr": "동의하듯 은은하게 흔들거리는 검집… 아라야와 눈이 마주친 듯한 기분이 든다.",
+        "matched": false
+      },
+      {
+        "index": 15,
+        "speaker_kr": "료슈",
+        "text_kr": "인질과 보호자도 구분하지 못하는 걸 보니, 그 눈 쓸모 없어 보이는군. 도려내도 되겠어.",
+        "matched": false
+      },
+      {
+        "index": 16,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "그것은 우리 뿐만이 아니라 곧 백화점 전체의 몰락을 불러올 존재다.",
+        "matched": false
+      },
+      {
+        "index": 17,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "르루주도 아닌 자들이… 어째서 저 거짓 신의 목소리를 따르고 있는지 모르겠군.",
+        "matched": false
+      },
+      {
+        "index": 18,
+        "speaker_kr": "르누아르 스태프 매니저",
+        "text_kr": "우리와 손을 잡았다면 함께 백화점의 번영을 목도했을 텐데… 안타깝군. 참으로 안타까워.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2241",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "쓰러진 팔레트로부터 황금가죽을 채취했다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2242",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "쓰러져 있는 지하 2층 플로어 매니저가 보인다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "이 자에게서 황금가죽을 가져가면 되는 거군요.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "",
+        "text_kr": "지하 2층 플로어 매니저로부터 황금가죽을 채취했다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2291",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "여러 색으로 얼룩져있던 머리카락 사이로 붉은색이 섞인 염료가 흐른다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "마치 우리가 터트렸던 눈물처럼 펑펑 흐르고 있다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2292",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "북적이던 둥지에 적막만 감돈다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "해져버린 실타래에서 튀어 나온 실밥들이 흩날린다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2293",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "고통스럽게 삐걱이던 몸이 바스라지듯 무너져 내렸다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2245",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니…",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "미안해… 언니가 좋아하던 옷… 꼭 입혀주고 싶었는데…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2246",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "[미사용] (임시) 보디가드가 팔레트 앞으로 한 걸음 나섰다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "[미사용] (임시) 그 손, 여기서 멈춰라.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2247",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "울음소리가… 들린다…",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "뺏어와… 내가… 먹어야 해…",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "무지무지… 맛있을 거니까…",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "소란스러운 바늘이",
+        "text_kr": "쪼용, 쪼용! 우리의 왕이 깨어나셨다!",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "시끄러운 바늘이",
+        "text_kr": "왕은 이제 찌르기 시작할 거야!",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "탐욕스런 바늘이",
+        "text_kr": "찌르면 맛있어! 쪼용하게 핥을 거야!",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "소란스러운 바늘이",
+        "text_kr": "쪼아, 쪼아! 그럼 왕의 부탁을 들어줘야 해!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2181",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "오티스",
+        "text_kr": "…싱클레어, 가 아닌 걸 보니 지하 2층이겠군요. 여기에는 다시 무슨 일로…",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "<재료가 더 필요해졌어.>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2295",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "이 자에게 가져갈 건 더 이상 없는 것 같다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2296",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "이 자에게 가져갈 건 더 이상 없는 것 같다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-PB-PALETTE",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "퍼티라는 자가 앞을 막아섰다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-PB-THREADNEST",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "지하 2층 플로어 매니저",
+        "text_kr": "괴로워도 어쩔 수 없단다. 너희의 원함과 우리의 원함은 맞닿을 수가 없기에…",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "최선을 다해 서로의 원함을 저물게 하자꾸나.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-PB-PINKING",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "살에 줄줄 새어나오는 것들…",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "바느질의 왕",
+        "text_kr": "남김없이… 핥아먹는다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2250",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "왜 우리를 때리는 거야?",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "…!",
+        "speaker_zh": "???",
+        "text_zh": "……！",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "",
+        "text_kr": "퍼티가 위협적으로 다가온다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20220401",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "커다란 염료통들이 길을 막고 있다. 뫼르소가 밀어봤지만 꿈쩍도 하지 않는다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221001",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "새하얀 실들이 감겨있다.",
+        "speaker_zh": "",
+        "text_zh": "缠绕起来的白色丝线。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221101",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "실을 만드는 기계처럼 보인다. 일정한 속도로 실을 만들어내고 있다..",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221201",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "어디선가 끊임없이 실이 나와 감기고 있다. 어디서 오는 지는 여전히 모르겠다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221301",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "크로머가 사라졌던 벽이다. 정말로 완전히 막혀있다.",
+        "speaker_zh": "",
+        "text_zh": "克罗默遁入了这面墙。可这面墙又确实完全堵住了去路。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "…바닥에 쓸.없.파하하가 떨어져있군. 그놈이 흘리고 갔나?",
+        "speaker_zh": "良秀",
+        "text_zh": "……地上有个没·用的噗哈哈。是那家伙落下的吗？",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<그자의 성격이라면 일부러 떨어뜨렸을 것 같은데…>",
+        "speaker_zh": "但丁",
+        "text_zh": "<按照她的性格，应该是故意把东西丢在这的吧……>",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "단테",
+        "text_kr": "<뫼르소, 일단 챙겨줘. 도움이 될지도 모르니까.>",
+        "speaker_zh": "但丁",
+        "text_zh": "<默尔索，先把这东西带上吧。说不定会有用。>",
+        "matched": true
+      },
+      {
+        "index": 4,
+        "speaker_kr": "뫼르소",
+        "text_kr": "알겠습니다.",
+        "speaker_zh": "默尔索",
+        "text_zh": "明白了。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221401",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "복잡해 보이는 기계다. 어떤 식으로 작동하는 걸까?",
+        "speaker_zh": "",
+        "text_zh": "看起来很复杂的机械。它是如何运作的呢？",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "<뫼르소, 혹시 이거 조작할 수 있어?>",
+        "speaker_zh": "但丁",
+        "text_zh": "<默尔索，你会操作这台机器吗？>",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뫼르소",
+        "text_kr": "지하의 작업 방법에 대해서는 잘 알지 못합니다.",
+        "speaker_zh": "默尔索",
+        "text_zh": "我并不太清楚地下楼层的工作内容。",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "",
+        "text_kr": "그러는 사이, 오티스는 복잡해 보이는 화면을 이리저리 조작해 보기 시작했다.",
+        "speaker_zh": "",
+        "text_zh": "与此同时，奥提斯在尝试着操作那些复杂的显示器。",
+        "matched": true
+      },
+      {
+        "index": 4,
+        "speaker_kr": "오티스",
+        "text_kr": "음… 원리는 모르겠지만, 구조는 대충 알겠군.",
+        "speaker_zh": "奥提斯",
+        "text_zh": "嗯……虽然搞不懂这机器的原理，但我能大致了解它的结构。",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "단테",
+        "text_kr": "<오…>",
+        "speaker_zh": "但丁",
+        "text_zh": "<哦……>",
+        "matched": true
+      },
+      {
+        "index": 6,
+        "speaker_kr": "오티스",
+        "text_kr": "세 가지 정도의 기능이 있는 것 같습니다. 추출, 방적, 염색… 어떤 걸 시험해보시겠습니까?",
+        "speaker_zh": "奥提斯",
+        "text_zh": "这台机器应该有三种功能。提取、纺织、染色……您想试试哪种功能？",
+        "matched": true
+      },
+      {
+        "index": 7,
+        "speaker_kr": "",
+        "text_kr": "오티스가 가리킨 화면에는 세 가지 버튼이 떠올라있다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221402",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "세 가지 버튼이 떠올라있다.",
+        "speaker_zh": "",
+        "text_zh": "屏幕上有三个按钮。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221403",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "뫼르소에게서 실을 뽑아냈던 기계다. 다시 시도해볼 이유는 없을 것 같다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221411",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "수상한 진동과 함께, 뫼르소의 피부 일부가 기계 위로 빨려들어갔다.",
+        "speaker_zh": "",
+        "text_zh": "随着一阵可疑的震动，默尔索的部分皮肤被吸入了机器上方。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "하. 평. 실.은 아니었나 보군.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221412",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "수상한 진동과 함께, 뫼르소의 피부 일부가 기계 위로 빨려들어갔다.",
+        "speaker_zh": "",
+        "text_zh": "随着一阵可疑的震动，默尔索的部分皮肤被吸入了机器上方。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221413",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "수상한 진동과 함께, 뫼르소의 피부 일부가 기계 위로 빨려들어갔다.",
+        "speaker_zh": "",
+        "text_zh": "随着一阵可疑的震动，默尔索的部分皮肤被吸入了机器上方。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "…더 누르실 생각이십니까?",
+        "speaker_zh": "奥提斯",
+        "text_zh": "……您想再按一次按钮吗？",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221414",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "수상한 진동과 함께, 뫼르소의 피부 일부가 기계 위로 빨려들어갔다.",
+        "speaker_zh": "",
+        "text_zh": "随着一阵可疑的震动，默尔索的部分皮肤被吸入了机器上方。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "료슈",
+        "text_kr": "실. 분. 을 노리는 건가?",
+        "speaker_zh": "良秀",
+        "text_zh": "你莫非是想分·线吗？",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뫼르소",
+        "text_kr": "실로 분해되는 것을 노리고 있지 않은지 묻고 있습니다, 관리자님.",
+        "speaker_zh": "默尔索",
+        "text_zh": "她在问您“是不是想把皮肤分解成丝线”，经理。",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "단테",
+        "text_kr": "<아, 아니 그런 건 아니고… 그런데 싱클레어가 그런 걸 번역한 적도 있어?>",
+        "speaker_zh": "但丁",
+        "text_zh": "<啊，我没打算那么做……不过话说回来，辛克莱以前翻译过这句话吗？>",
+        "matched": true
+      },
+      {
+        "index": 4,
+        "speaker_kr": "뫼르소",
+        "text_kr": "신. 실. 분. 신경 하나하나를 실처럼 분해해주지… 라는 번역을 버스에서 말한 적이 있습니다.",
+        "speaker_zh": "默尔索",
+        "text_zh": "“神·分·线”，把神经分解成一根根丝线……他曾在巴士上讲过这种译文。",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "단테",
+        "text_kr": "<무슨 상황에서 나온 줄임말인지 감도 안 잡히네.>",
+        "speaker_zh": "但丁",
+        "text_zh": "<我完全想不到这种缩略句会出现在怎样的场合。>",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221415",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "기계에서 실 한 뭉치가 툭 떨어졌다.",
+        "speaker_zh": "",
+        "text_zh": "机器吐出了一团丝线。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "뫼르소… 가 재료인 실인 것 같다.",
+        "speaker_zh": "",
+        "text_zh": "那好像是……以默尔索为原材料的丝线。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221416",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "더 이상 눌러볼 이유가 없을 것 같다.",
+        "speaker_zh": "",
+        "text_zh": "没理由继续按下按钮了。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221417",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "실들이 팽팽하게 당겨지는 소리가 들린다.",
+        "speaker_zh": "",
+        "text_zh": "丝线紧绷的声音传入耳中。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "눈앞에 보이는 실들이 점점 많아지고 있다.",
+        "speaker_zh": "",
+        "text_zh": "眼前的丝线正在变得越来越多。",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "바늘이 노동자",
+        "text_kr": "…옷감이 더 늘어난다는 소리는 못 들었는데.",
+        "speaker_zh": "针族工人",
+        "text_zh": "……我可没听说要增产布料。",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "바늘이 노동자2",
+        "text_kr": "천천히! 천천히! 그러다 망가져!",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "",
+        "text_kr": "…주변에서 일하고 있는 고객들의 따가운 눈총을 받았다.",
+        "speaker_zh": "",
+        "text_zh": "……周围那些干着活的顾客对我们怒目而视。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221418",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "더 이상 누르기엔, 주변의 시선이 따갑다.",
+        "speaker_zh": "",
+        "text_zh": "周围的视线太过尖锐，不能再按这个按钮了。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221419",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "염료가 없다는 경고문이 뜬다.",
+        "speaker_zh": "",
+        "text_zh": "屏幕弹出了缺乏染料的警告。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "아무 일도 일어나지 않았다.",
+        "speaker_zh": "",
+        "text_zh": "什么都没有发生。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221420",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "오티스",
+        "text_kr": "…혹시 의도를 여쭤도 되겠습니까.",
+        "speaker_zh": "奥提斯",
+        "text_zh": "……请问您这么做究竟有何意图？",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "<…가끔 이런 건 다 눌러보고 싶더라고.>",
+        "speaker_zh": "但丁",
+        "text_zh": "<……我偶尔就是想把所有按钮之类的都按一遍。>",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221421",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "한 번 더 연타하려고 하자, 무언가 툭 내 팔꿈치를 쳤다.",
+        "speaker_zh": "",
+        "text_zh": "我正打算再次连按所有按钮，有什么东西碰了下我的手肘。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "시선을 돌린 곳에… 료슈의 검집, 아라야가 보인다.",
+        "speaker_zh": "",
+        "text_zh": "我回头望去……看到了良秀的刀鞘，阿赖耶。",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "",
+        "text_kr": "애도 아니고, 그만해… 라는 소리가 들린 것 같은 기분이다.",
+        "speaker_zh": "",
+        "text_zh": "我仿佛听见她说：“别再像个小孩子一样了……”",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221422",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "그만두자. 이런 건.",
+        "speaker_zh": "",
+        "text_zh": "还是收手吧。别做这种事了。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221501",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "염색된 천들이 쌓여있다.",
+        "speaker_zh": "",
+        "text_zh": "堆放着染好的布料。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221511",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "염색된 원단들이 걸려있다.",
+        "speaker_zh": "",
+        "text_zh": "这里挂着染色的面料。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "살펴보고 있자, 위쪽에서 다급히 달려오는 소리가 들린다.",
+        "speaker_zh": "",
+        "text_zh": "正当我在查看面料的时候，急促奔跑的脚步声从上方向传来。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221512",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "염색된 원단들이 걸려있다.",
+        "speaker_zh": "",
+        "text_zh": "这里挂着染色的面料。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "살펴보고 있자, 위쪽에서 다급히 달려오는 소리가 들린다.",
+        "speaker_zh": "",
+        "text_zh": "正当我在查看面料的时候，急促奔跑的脚步声从上方向传来。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221513",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "염색된 원단들이 걸려있다.",
+        "speaker_zh": "",
+        "text_zh": "这里挂着染色的面料。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221521",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<저번에 여기에서 열차소리 같은게 났었는데…>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "열차와 비슷한 소리가 문 너머에서 들려온다. 가까이 다가가 살펴보았지만, 저번과 달리 아무런 빛도 보이지 않는다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<소리는 나는 것 같은데…>",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뿌이",
+        "text_kr": "…?",
+        "speaker_zh": "尤内斯库",
+        "text_zh": "……？",
+        "matched": true
+      },
+      {
+        "index": 4,
+        "speaker_kr": "",
+        "text_kr": "내가 기웃거리고 있자, 궁금했는지 뿌이가 다가오더니…",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "단테",
+        "text_kr": "<어, 어어!?>",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "",
+        "text_kr": "틈 사이로 뿌이가 사라졌다.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "뫼르소",
+        "text_kr": "…곧 돌아올 것입니다, 관리자님.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "",
+        "text_kr": "뫼르소의 말대로 1분도 지나지 않아 뿌이가 돌아왔다.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "뿌이",
+        "text_kr": "안쪽에서 실들이 달리고 있어. 그러다가 멈추더니, 다시 달려. 왜 그러는 거야?",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "단테",
+        "text_kr": "<…그건 나도 궁금하네.>",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "오티스",
+        "text_kr": "…뿌이, 저 아이는 이곳의 다른 고객들과 똑같이 저희는 갈 수 없는 통로들에 들어갈 수 있는 것 같군요.",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "단테",
+        "text_kr": "<뒤쪽을 좀 더 자주 확인해야겠어.>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221522",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "틈새 너머로 간간히 경적소리와 대화 소리가 들려온다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221601",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "유난히 맑은 빛을 띤 하늘색 염료다.",
+        "speaker_zh": "",
+        "text_zh": "天空色的染料，光泽格外清透。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "옆에는 안내문처럼, 테스트 중인 염료. 써볼 거면 조금만 퍼가… 라고 적혀있다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "료슈",
+        "text_kr": "…제법이군. 미학적으로 볼 만한 가치가 있어.",
+        "speaker_zh": "良秀",
+        "text_zh": "……不错。这东西确实有美学价值。",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "오티스",
+        "text_kr": "눈알을 지불할 필요가 없는 것 같으니, 조금 퍼가도 나쁠 건 없겠군.",
+        "speaker_zh": "奥提斯",
+        "text_zh": "好像不需要支付眼球，带走一点染料也没什么不好。",
+        "matched": true
+      },
+      {
+        "index": 4,
+        "speaker_kr": "단테",
+        "text_kr": "<뫼르소, 한 통 정도만 퍼 가자.>",
+        "speaker_zh": "但丁",
+        "text_zh": "<默尔索，带上一桶染料吧。>",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "",
+        "text_kr": "하늘색 염료 샘플을 얻었다.",
+        "speaker_zh": "",
+        "text_zh": "得到了天空色的染料样本。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221701",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "한 치 앞도 보이지 않는 곳, 미약해서 발견하기도 어려운 작은 빛을 향해 뫼르소가 손을 뻗었다.",
+        "speaker_zh": "",
+        "text_zh": "在伸手不见五指的黑暗中，默尔索向着难以发觉的微弱光点伸出了手。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "뫼르소가 나무 톱밥을 챙겼다.",
+        "speaker_zh": "",
+        "text_zh": "默尔索获得了锯末。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221801",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "초록색 염료다.",
+        "speaker_zh": "",
+        "text_zh": "是绿色的染料。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "다시봐도 마음이 평안해진다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221802",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "노란빛을 띈 염료다. 언뜻 황금색처럼 보이기도 한다.",
+        "speaker_zh": "",
+        "text_zh": "黄色的染料。乍一看，就像是金黄色。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "이방인들. 그건 황금염료 아니니까 기웃거리지 마.",
+        "speaker_zh": "调色板",
+        "text_zh": "异乡人。别再围观了，那不是黄金染料。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221803",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "파란색 염료다. 소지의 방에서 보았던 빛과 비슷해서인지, 료슈는 마음에 들지 않는 듯 고개를 돌렸다.",
+        "speaker_zh": "",
+        "text_zh": "蓝色的染料。良秀颇为不满地扭过头去，可能是因为这个颜色让她想起了小指父辈的房间。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "아라야는 색이 마음에 드는지, 푸른색 염료 근처에 갈 때마다 달그락 소리를 내고 있다. 파란색을 좋아하는 건가?",
+        "speaker_zh": "",
+        "text_zh": "阿赖耶好像挺满意的，每当我们走到蓝色染料附近的时候，刀鞘都会发出清脆的声响。看来她喜欢蓝色？",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221804",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "붉은 염료가 가득 담겨 있는 통이다. 측면에 '지하 3층에 배송 필요'라고 적혀 있다.",
+        "speaker_zh": "",
+        "text_zh": "桶里装满了红色的染料。桶的侧面写着“需配送至B3F”。",
+        "matched": true
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뿌이",
+        "text_kr": "나는 이 색이 마음에 들어.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "료슈",
+        "text_kr": "호오.",
+        "speaker_zh": "良秀",
+        "text_zh": "嚯。",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "료슈",
+        "text_kr": "강. 정. 취향인가?",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "단테",
+        "text_kr": "<…강정은 또 뭐야?>",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "뫼르소",
+        "text_kr": "강렬하고 정열적인 취향인가? 라는 뜻입니다. 관리자님.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "뿌이",
+        "text_kr": "그건 잘 모르겠어. 그냥 이 색을 보고 있으면 마음이 편해.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221901",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "뿌이",
+        "text_kr": "다리 아파. 앉고 싶어.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "뿌이가 알록달록 칠해진 소파를 가리킨다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "료슈",
+        "text_kr": "앉고 싶다면, 앉으면 그만이다.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "",
+        "text_kr": "료슈가 뿌이를 들어올려 소파에 앉혀주었다.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "",
+        "text_kr": "퍼티는 가만히 소파와 료슈를 번갈아 노려보다가, 이내 조용히 염료들을 향해 시선을 돌렸다.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "단테",
+        "text_kr": "<앉아도 괜찮은 거였어…? 그럼 나도…>",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "",
+        "text_kr": "내가 앉으려고 하자, 퍼티가 송곳처럼 날카로운 다리를 들어올린다.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "단테",
+        "text_kr": "<…그냥 서 있어야겠다.>",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "팔레트",
+        "text_kr": "이 소파, 푹신푹신하지만 튼튼하진 않아. 애는 몰라도, 너희가 앉으면 폭싹 주저 앉을걸?",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "오티스",
+        "text_kr": "흠. 4층에 있다는 가구관이라는 곳에서 관리자님 전용 소파를 하나 구입하는 것은 어떻습니까?",
+        "matched": false
+      },
+      {
+        "index": 11,
+        "speaker_kr": "오티스",
+        "text_kr": "관리자님의 다리가 피로하지 않도록, 언제 어디서든 앉을 수 있게 따라다니는 소파 하나 정도는…",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "단테",
+        "text_kr": "<…역시 그냥 서 있는 게 좋은 것 같아.>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20222001",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "음료자판기 위에 백화점의 안내 지도 같은 게 붙어있다. 군데군데 훼손되어서 글씨는 잘 보이지 않는다.",
+        "speaker_zh": "",
+        "text_zh": "饮料贩卖机上贴着像是百货店地图的东西。纸张严重损毁，我们连字都看不清。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20222002",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "음료자판기 위에 백화점의 안내 지도 같은 게 붙어있다. 군데군데 훼손되어서 글씨는 잘 보이지 않는다.",
+        "speaker_zh": "",
+        "text_zh": "饮料贩卖机上贴着像是百货店地图的东西。纸张严重损毁，我们连字都看不清。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221805",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "유난히 맑은 빛을 띤 하늘색 염료가 가득 차있다.",
+        "speaker_zh": "",
+        "text_zh": "里面装满了天空色的染料，其光泽格外清透。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221806",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "파란색 염료다. 소지의 방에서 보았던 빛과 비슷해서인지, 료슈는 마음에 들지 않는 듯 고개를 돌렸다.\n아라야는 색이 마음에 드는지, 푸른색 염료 근처에 갈 때마다 달그락 소리를 내고 있다. 파란색을 좋아하는 건가?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221807",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "보랏빛 염료가 가득 담겨 있는 통이다. 측면에 '순도 양호'라고 적혀 있다.",
+        "speaker_zh": "",
+        "text_zh": "装满紫色染料的桶。桶的侧面写着“纯度良好”。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221808",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "살짝 파란기가 도는 보랏빛 염료가 가득 담겨 있는 통이다. 측면에 순도 확인 필요, 라고 적혀있다.",
+        "speaker_zh": "",
+        "text_zh": "装满紫色染料的桶，但染料稍微带有蓝色的光泽。桶的侧面写着“需要确认纯度”。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221809",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "붉은 빛이 도는 보랏빛 염료가 채워지고 있는 통이다. 측면에 우수 등급, 이라고 적혀있다.",
+        "speaker_zh": "",
+        "text_zh": "带有红色光泽的紫色染料正在装满这个染料桶。桶的侧面写着“评级：优秀”。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221810",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "폐기예정, 이라고 적혀있다. 묘하게 탁하게 느껴지기도 한다.",
+        "speaker_zh": "",
+        "text_zh": "上面写着“废弃处理”，这染料看起来有点浑浊。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221811",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "이게 황금염료인가 싶었지만 통에 '착각하지 말 것'이라고 적혀 있다. 아닌가 보다…",
+        "speaker_zh": "",
+        "text_zh": "正当我以为这是黄金染料的时候，我发现桶上写着“可别搞错了”。看来不是这个……",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221812",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "아마 자주 헛갈리나 보다.",
+        "speaker_zh": "",
+        "text_zh": "看来人们确实经常认错这两种染料。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221813",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "폐기물, 이라고 적혀있다.",
+        "speaker_zh": "",
+        "text_zh": "上面写着“废弃处理”。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221814",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "초록색 염료통이다.",
+        "speaker_zh": "",
+        "text_zh": "绿色染料的桶。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221815",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "단단히 봉인된 통이다.",
+        "speaker_zh": "",
+        "text_zh": "密封得很紧的桶。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221816",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<이 투명한 색, 랭콜로르 아냐?>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뫼르소",
+        "text_kr": "…투명한 다른 액체일 가능성도 있기에, 확정지을 순 없습니다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "뿌이",
+        "text_kr": "투명…?",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뿌이",
+        "text_kr": "아냐. 이건 투명하지 않아.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "료슈",
+        "text_kr": "호오. 그럼 어떤 색으로 보이지?",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "뿌이",
+        "text_kr": "조용하고… 슬프고… 찰랑이는 색이야.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "오티스",
+        "text_kr": "색을 묘사하기엔 부적합한 단어 조합으로 보인다만.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "료슈",
+        "text_kr": "뭘 모르는군. 보이는 색만을 말하고, 칠하는 것은 예술이 아니다. ",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "단테",
+        "text_kr": "<뿌이가 하고 있는 것도 예술은 아닐 텐데…>",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "",
+        "text_kr": "뿌이는 가만히 통 안쪽을 바라보다가, 돌아섰다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2244",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "멀쩡히 돌아왔네. 떠나기 전에 작별 인사라도 하러 온 거야?",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "팔레트",
+        "text_kr": "아이참, 언니. 말했잖아. 이자들은 내 염색원료를 훔치기 위해 온 자들이 아니라니까.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2244B",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "그래서 왜 온 거야? 필요한 색이라도 있어?",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뫼르소",
+        "text_kr": "우리는… 당신이 가진 황금송진이 필요하다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2244C",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "그건 안 되지.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뫼르소",
+        "text_kr": "안 되더라도… 필요하다.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<…….>",
+        "speaker_zh": "但丁",
+        "text_zh": "<……>",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2244D",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "…억지로라도 가져가겠다는 거구나.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "나는 너희에게 지하로 가는 길까지 열어줬는데…",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "오티스",
+        "text_kr": "…미안하게 되었군. 하지만 우리에겐 네가 가지고 있는 황금송진이 반드시 필요하다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2244E",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "믿을 수 없는 이방인들. 너희에게 길을 알려주지 말았어야 했어.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "이대로라면, 무력 충돌이 불가피합니다. 그것을 원하신다면 개의치 않겠습니다만…",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<…하지만 황금송진이랑 바꿀 만한 게 우리에게 남아 있을까?>",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뫼르소",
+        "text_kr": "어떤 거래를 제안하시겠습니까.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2251",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "샘터에서 온 이방인들이라면… 조금은 다를 거라 생각했는데.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "……(위협적인 소리)",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니의 말대로야. 이 악독한 자들이 우리를 아프게 한다면, 우리도…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2252",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "너희는… 조금은 다를 거라 생각했는데.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니의 말대로야. 이 악독한 자들이 우리를 아프게 한다면, 우리도…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2253",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "필요 없어.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "너희는… 조금은 다를 거라 생각했는데.",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 3,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니의 말대로야. 이 악독한 자들이 우리를 아프게 한다면, 우리도…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2254",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<황금원단으로 옷을 만들고 싶었다면, 팔레트는 뫼르소의 건틀릿이나 꼬무리를 탐냈을 거야.>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "<그러지 않고, 실타래만을 우리에게 요구했다는 건…>",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "단테",
+        "text_kr": "<옷을 만들 수 있는 가위를 주자.>",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뫼르소",
+        "text_kr": "황금송진을 준다면, 옷을 만들 수 있는 가위를 주겠다.",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 5,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니, 잠깐만 기다려봐. 가위라면, 무슨 가위를 말하는 거야?",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "뫼르소",
+        "text_kr": "르누아르의 수많은 옷을 만들었던… 수선사 아네트의 가위다.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "팔레트",
+        "text_kr": "수선사 아네트… 르누아르 고객들에게 들어본 적 있어. 어떤 실이든 가장 아름다운 원단으로 만들어준다고…",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "팔레트",
+        "text_kr": "윽… 그치만 안 돼. 황금송진이 없으면, 황금염료를 만들 수 없어.",
+        "matched": false
+      },
+      {
+        "index": 9,
+        "speaker_kr": "료슈",
+        "text_kr": "반대로 가위가 없다면 옆에 있는 저자의 옷을 만들 수도 없겠지.",
+        "matched": false
+      },
+      {
+        "index": 10,
+        "speaker_kr": "팔레트",
+        "text_kr": "…….",
+        "speaker_zh": "默尔索",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 11,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니는… 하늘색을 좋아했어. 햇살을 쬐는 걸 좋아하게 된 이후로 황금송진 곁에 계속 있곤 했지만…",
+        "matched": false
+      },
+      {
+        "index": 12,
+        "speaker_kr": "팔레트",
+        "text_kr": "…그러네. 황금송진은 이제 내게 필요 없는 것 같아. 반대로 그 가위는… 간절히 필요하고.",
+        "matched": false
+      },
+      {
+        "index": 13,
+        "speaker_kr": "",
+        "text_kr": "무뎌진 가위를 팔레트에게 주고, 대신 황금송진을 채취했다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2256",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2249",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "팔레트",
+        "text_kr": "그만둬, 언니를 왜 때리는 거야?",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "팔레트",
+        "text_kr": "원하는 게 있으면 나한테 말해.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2248",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "비틀거리던 퍼티는 꺾인 무릎을 피고 다시 일어섰다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "퍼티",
+        "text_kr": "…….",
+        "speaker_zh": "油灰",
+        "text_zh": "……",
+        "matched": true
+      },
+      {
+        "index": 2,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니…!",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2260",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "퍼티",
+        "text_kr": "… (위협적인 눈빛으로 우리를 바라본다)",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "팔레트",
+        "text_kr": "언니를 왜 때리는 거야?",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2261",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "삐걱거리는 소리와 함께, 내려앉는 팔들이 보인다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "그 많은 손은 모두 팔레트가 있던 방향을 향하고 있다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2262",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "조막만한 천 아래, 뭉개진 살점이 얼핏 드러난다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2263",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "조막만 한 천 아래, 짓이겨진 살점이 얼핏 드러난다.",
+        "speaker_zh": "",
+        "text_zh": "碎肉从小块布料下面露了出来。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2264",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "파란 염료와 살점이 사방으로 터져나왔다. 원래 모습을 알아보기 힘들다.",
+        "speaker_zh": "",
+        "text_zh": "蓝色的染料以及血肉四散飞溅。难以辨别原本样貌。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D-2265",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "고통스러워 흘리는 눈물은, 슬피 울어 흐르는 눈물과 무엇이 다를까.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "슬픔과 고통은… 무엇이 다른 걸까.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2266",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "고통스러워 흘리는 눈물은, 슬피 울어 흐르는 눈물과 무엇이 다를까.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "슬픔과 고통은… 무엇이 다른 걸까.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2267",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "천을 살짝 들춰보니 곤죽이 된 살점이 끈적하게 묻어난다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D20221817",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "붉은 염료가 가득 담겨 있는 통이다. 측면에 '지하 3층에 배송 필요'라고 적혀 있다.",
+        "speaker_zh": "",
+        "text_zh": "桶里装满了红色的染料。桶的侧面写着“需配送至B3F”。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "D20221902",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "알록달록 칠해진 소파다.",
+        "speaker_zh": "",
+        "text_zh": "一张涂成五颜六色的沙发。",
+        "matched": true
+      }
+    ]
+  },
+  {
+    "key": "DDS701",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<…순식간에 실이 감기더니 뫼르소가 죽었어.>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "오티스",
+        "text_kr": "그자보다 빠르게 움직이는 것은… 끈적이는 염료 때문에 난도가 높을 테고…",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "오티스",
+        "text_kr": "흐음… 차라리 움직임을 방해하는 것이 더 유효하겠군.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뫼르소",
+        "text_kr": "음.",
+        "speaker_zh": "默尔索",
+        "text_zh": "嗯。",
+        "matched": true
+      },
+      {
+        "index": 4,
+        "speaker_kr": "단테",
+        "text_kr": "<나머지는 나가서 마저 생각해보자.>",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "DDS702",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "단테",
+        "text_kr": "<보이는 대로 때리는 건 의미가 없었어.>",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "단테",
+        "text_kr": "<실들을 먼저 파괴해야돼.>",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "오티스",
+        "text_kr": "날아드는 실들이 너무 많습니다만… 이건 피하는 것 외에는 도리가 없겠군요.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "료슈",
+        "text_kr": "후우… 주. 패….",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "단테",
+        "text_kr": "<싱클레어.>",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "싱클레어",
+        "text_kr": "주먹으로 패서 없애면 어떨까… 라고 말씀하셨어요.",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "단테",
+        "text_kr": "<없. 어. 를 아직 말하지도 않은 것 같지만… 고마워.>",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "뫼르소",
+        "text_kr": "그 또한 가능하다면… 방법 중 한가지가 될 수 있다.",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "뫼르소",
+        "text_kr": "참고하도록 하지.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2268",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "실타래가 흩어져 있다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2500",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "이미 가지고 있는 염료다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2501",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "이미 긁어낸 적 있는 톱밥이다.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2850",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "대기표 하나가 버려져 있다. ",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "뿌이",
+        "text_kr": "이건 뭐야?",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "료슈",
+        "text_kr": "대기표다. 줄을 서서 기다리는 놈들이 받는 물건이지.",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "뿌이",
+        "text_kr": "…그런데 왜 줄을 서서 기다리는 거야? 그냥 들어가면 안 돼?",
+        "matched": false
+      },
+      {
+        "index": 4,
+        "speaker_kr": "뫼르소",
+        "text_kr": "모두가 자신이 먼저 들어가길 원하기 때문이다. 그러니 먼저 도착했다, 라는 규정을 만들어 그 순서대로 기다림을 부여한다.",
+        "matched": false
+      },
+      {
+        "index": 5,
+        "speaker_kr": "뿌이",
+        "text_kr": "음… 모르겠어. 꼭 그래야하는 거야? 다들 그러자고 하면 그러는 거야?",
+        "matched": false
+      },
+      {
+        "index": 6,
+        "speaker_kr": "뫼르소",
+        "text_kr": "그렇다. 가치 있는 것에는 기다림이 있고, 그 기다림은 공평하다는 믿음이 있기에 이를 따른다.",
+        "matched": false
+      },
+      {
+        "index": 7,
+        "speaker_kr": "뿌이",
+        "text_kr": "공평…",
+        "matched": false
+      },
+      {
+        "index": 8,
+        "speaker_kr": "오티스",
+        "text_kr": "…헛된 인식이지. 모두가 똑같은 조건에서 기다리고 있는 것처럼 보여도, 세상은 그렇게 굴러가지 않으니.",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2503",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "오래된 통이다. 반대편에 무언가 쓰여있다.",
+        "matched": false
+      },
+      {
+        "index": 1,
+        "speaker_kr": "",
+        "text_kr": "[가장 높이 뜬 해는 가장 짧은 그림자를 만든다.]",
+        "matched": false
+      },
+      {
+        "index": 2,
+        "speaker_kr": "",
+        "text_kr": "[그림자가 너무나 짧아져서 안 보이게 되었을 때, 햇살은 푸른 빛이다.]",
+        "matched": false
+      },
+      {
+        "index": 3,
+        "speaker_kr": "",
+        "text_kr": "[조금 쨍하긴 하지만, 이 색으로 이곳을 칠하자. 언니가 좋아하던 정오의 푸른색으로.]",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2504",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "통은 아직까지 열리지 않았다. 팔레트는 이 통의 존재를 잊어버린 걸까. 아니면…",
+        "matched": false
+      }
+    ]
+  },
+  {
+    "key": "D-2502",
+    "texts": [
+      {
+        "index": 0,
+        "speaker_kr": "",
+        "text_kr": "랭콜로르로 추정되는 염료가 담긴 통이다. 만들어진지 제법 오래된 것 같다.",
+        "matched": false
+      }
+    ]
+  }
+]
