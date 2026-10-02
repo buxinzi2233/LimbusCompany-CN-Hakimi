@@ -119,6 +119,36 @@
       "id": "battle_erosion_20210_4",
       "desc": "E.G.O侵蚀",
       "dlg": "一起，燃烧殆尽吧。"
+    },
+    {
+      "id": "battle_awaken_20211_1",
+      "desc": "E.G.O发动",
+      "dlg": "被瞄准的厄运终会追赶而至。故而人影消逝，唯余灰烬。"
+    },
+    {
+      "id": "battle_awaken_20211_2",
+      "desc": "E.G.O发动",
+      "dlg": "瞄准而来的厄运终会如期而至。人影消逝，"
+    },
+    {
+      "id": "battle_awaken_20211_3",
+      "desc": "E.G.O发动",
+      "dlg": "唯余灰烬。"
+    },
+    {
+      "id": "battle_erosion_20211_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "无数的视线与无数的子弹。击锤独自扣动二十四次……"
+    },
+    {
+      "id": "battle_erosion_20211_2",
+      "desc": "E.G.O侵蚀",
+      "dlg": "于阴影之下未曾停歇，"
+    },
+    {
+      "id": "battle_erosion_20211_3",
+      "desc": "E.G.O侵蚀",
+      "dlg": "倾盆而下吧。"
     }
   ]
 }

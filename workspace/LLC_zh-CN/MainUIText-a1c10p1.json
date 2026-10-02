@@ -51,6 +51,10 @@
     {
       "id": "9128_chapter_notice_popup_desc",
       "content": "◆ 即使尚未通关先前章节，<color=#ff6000><mark=#ff000040><b><u>亦可直接游玩主线剧情第10章</u></b></mark></color>。\n◆ 文本中包含<color=#ff6000><mark=#ff000040><b><u>第9.5章为止的剧透内容</u></b></mark></color>。\n◆ 通关第10章时，若先前章节未通关，则镜牢、镜折铁道、采掘、映射战斗等<color=#ff6000><mark=#ff000040><b><u>需要通关先前章节方可解锁的内容将无法游玩。</u></b></mark></color>为游玩全部内容，请达成相应解锁条件。\n◆ 以通关第10章为解锁条件的内容(预计后续更新)，请<color=#ff6000><mark=#ff000040><b><u>通关第10章与9.5-26关卡</u></b></mark></color>。\n◆ 游玩第10章时，<color=#ff6000><mark=#ff000040><b><u>将提供默尔索的部分助战人格</u></b></mark></color>。(助战人格与E.G.O适用同步/异想解析第4阶段。)\n◆ 游玩第10章时，<color=#ff6000><mark=#ff000040><b><u>所有友方人格提供同步第3阶段支援</u></b></mark></color>。E.G.O不会额外补正异想解析等级。"
+    },
+    {
+      "id": "settings_battle_effect_gate",
+      "content": "进行重要战斗时隐藏人格/E.G.O演出用物件"
     }
   ]
 }

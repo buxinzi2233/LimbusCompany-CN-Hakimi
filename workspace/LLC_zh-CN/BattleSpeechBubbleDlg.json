@@ -3793,7 +3793,57 @@
     {
       "id": "battle_s3_11005_1_2-03",
       "desc": "",
-      "dlg": "就由我来剥下。"
+      "dlg": "立起大钉。"
+    },
+    {
+      "id": "battle_s3_10315_1_3",
+      "desc": "",
+      "dlg": "砸落吧！"
+    },
+    {
+      "id": "battle_special_10315_1_1",
+      "desc": "",
+      "dlg": "闪光！"
+    },
+    {
+      "id": "battle_special_10315_1_2",
+      "desc": "",
+      "dlg": "审判！"
+    },
+    {
+      "id": "battle_special_10315_2_1",
+      "desc": "",
+      "dlg": "尔等之罪，深重无边。"
+    },
+    {
+      "id": "battle_special_10315_2_1-02",
+      "desc": "",
+      "dlg": "宣判神罚！"
+    },
+    {
+      "id": "battle_special_10315_2_2",
+      "desc": "",
+      "dlg": "一击接一击，粉碎生命"
+    },
+    {
+      "id": "battle_special_10315_2_2-02",
+      "desc": "",
+      "dlg": "将其彻底砸成碎片！"
+    },
+    {
+      "id": "battle_special_10315_3",
+      "desc": "",
+      "dlg": "赐予约定的安息。"
+    },
+    {
+      "id": "battle_special_10315_4",
+      "desc": "",
+      "dlg": "宣告神域。必灿然辉耀。"
+    },
+    {
+      "id": "battle_special_10315_8",
+      "desc": "",
+      "dlg": "遵循秩序行动。"
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "key": "Q5000_C2",
+      "title": "前往5层内部",
+      "description": "我们来到了5层。继续往5层深处走吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往5层内部"
+        }
+      ]
+    },
+    {
+      "key": "Q5001_C2",
+      "title": "阻挡自助餐",
+      "description": "5层盘踞着与以往不同、并未变得臃肿的自助餐。自助餐希望我们留在此处，但绝不能如此。为了继续前行，必须打倒自助餐。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "阻挡自助餐"
+        }
+      ]
+    },
+    {
+      "key": "Q5002_C2",
+      "title": "向5层内部前进",
+      "description": "曾是红派红神的自助餐，同时也是我们同伴的吱咿不再动弹了。继续向5层深处前进吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "向5层内部前进"
+        }
+      ]
+    },
+    {
+      "key": "Q5003_C2",
+      "title": "前往6层",
+      "description": "用餐完毕后，通往6层的道路敞开了。前往6层吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往6层"
+        }
+      ]
+    },
+    {
+      "key": "Q5004T_C2",
+      "title": "自助餐开战信号",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "自助餐开战"
+        }
+      ]
+    }
+  ]
+}

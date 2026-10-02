@@ -1,0 +1,314 @@
+{
+  "dataList": [
+    {
+      "id": 148511,
+      "name": "…不可能！",
+      "desc": "舞台开始时，默尔索获得[MeursaultBuffWarderFirstPhase]\n\n回合开始时，对随机罪人施加[GoldenHideWarderFirstPhase]与[GoldenFabricWarderFirstPhase]",
+      "flavor": "“那停滞与变化的表象……理应是神的权能……！”",
+      "summary": "默尔索获得[MeursaultBuffWarderFirstPhase]\n每回合对随机罪人施加[GoldenHideWarderFirstPhase]、[GoldenFabricWarderFirstPhase]"
+    },
+    {
+      "id": 148501,
+      "name": "神的代理人",
+      "desc": "应用[PanicChangeLock]效果，\n回合结束时若处于恐慌状态，则理智值变为30\n\n舞台开始时，\n- 以体力为50%的状态开始\n- 获得2层[UnstableConnection]\n\n进入第三回合时，使用强力技能\n- 该回合内被罪人击中时，获得1层[ParryingResultDown]（每个罪人限1次）\n\n体力降至1以下或第三回合结束时，切换阶段",
+      "flavor": "断罪偏离正道之人的黑神代理人。",
+      "summary": "在第三回合使用强力技能\n第三回合结束时切换阶段"
+    },
+    {
+      "id": 148502,
+      "name": "神圣刑罚烛台",
+      "desc": "回合开始时，<color=#ff6000><mark=#ff000040><b><u>召唤两个刑罚烛台</u></b></mark></color>\n- 每经过一回合，回合开始时召唤的<color=#ff6000><mark=#ff000040><b><u>刑罚烛台数量 +1</u></b></mark></color>\n- 刑罚烛台在场上最多同时存在4个\n\n场上的刑罚烛台被破坏时，狱卒获得1层[Vulnerable]\n\n使用技能时\n- 若主要目标的<color=#ff6000><mark=#ff000040><b><u>速度为1</u></b></mark></color>，则该技能的<color=#ff6000><mark=#ff000040><b><u>所有硬币\n变为[SuperCoin]，且最终威力 +2，伤害量 +100%</u></b></mark></color>\n- 若场上不存在刑罚烛台，则拼点威力 -1",
+      "flavor": "落于违逆百货命运的罪人们头顶的烛台。",
+      "summary": "每回合召唤刑罚烛台，被破坏时获得[Vulnerable]\n若主要目标的速度为1，则强化技能"
+    },
+    {
+      "id": 148503,
+      "name": "泪湿布匹",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>自身理智值不会因[Sinking]效果减少</u></b></mark></color>，\n改为受到等同于该数值的忧郁伤害\n\n被罪人击中时，目标罪人的[Sinking]次数增加1次\n（每个罪人每回合最多2次）",
+      "summary": "理智值不会因[Sinking]减少，改为受到忧郁伤害\n被击中时增加攻击者的[Sinking]次数"
+    },
+    {
+      "id": 148504,
+      "name": "完美保存",
+      "desc": "战斗中累计消耗10次自身的[ChargeNoir]次数时，\n获得1点[ChargeNoir]威力\n\n回合开始时若自身的[ChargeNoir]威力为3，且[ChargeNoir]次数低于10次，\n则自身的[ChargeNoir]次数增加5次\n\n不会触发[ChargeNoir]在回合结束时减少1次次数的效果",
+      "flavor": "在西西弗系统层面，这份保存被完美地保存着。",
+      "summary": "累计消耗[ChargeNoir]次数时获得[ChargeNoir]威力\n[ChargeNoir]次数在回合结束时不会减少"
+    },
+    {
+      "id": 152001,
+      "name": "刑罚拘束",
+      "desc": "回合结束时，下回合对所有罪人施加<color=#ff6000><mark=#ff000040><b><u>2层[Binding]</u></b></mark></color>\n- 切换阶段后不应用该效果",
+      "flavor": "罪人，当受束缚。",
+      "summary": "下回合对所有罪人施加[Binding]"
+    },
+    {
+      "id": 152002,
+      "name": "升腾的罪恶",
+      "desc": "被罪人技能指定为次要目标时，\n受该技能造成的伤害量 -50%\n\n阵亡时，\n- 所有属性E.G.O资源 +1\n- 使最后攻击自身的罪人恢复5点理智值\n· 若该罪人带有[Binding]，则改为恢复10点\n· 若无法判定效果应用的目标，则改为对理智值最低的罪人触发该效果",
+      "summary": "作为次要目标时受到的伤害量减少\n阵亡时获得E.G.O资源，恢复攻击者的理智值"
+    },
+    {
+      "id": 148611,
+      "name": "…不可能！",
+      "desc": "回合开始时，对随机罪人施加[GoldenHideWarderSecondPhase]与[GoldenFabricWarderSecondPhase]",
+      "flavor": "“那停滞与变化的表象……理应是神的权能……！”",
+      "summary": "每回合对随机罪人施加[GoldenHideWarderSecondPhase]、[GoldenFabricWarderSecondPhase]"
+    },
+    {
+      "id": 148605,
+      "name": "告解工具",
+      "desc": "狱卒通过自身技能效果对罪人施加[ConfessionSecondPhase]时，\n应用以下效果\n- [RestrainingNailSecondPhase]、[ExecutionNailSecondPhase]、[CeremonialNail]、[MarkingNail]统称为<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]</u></b></mark></color>\n- 狱卒对罪人施加钉子或锤钉时，<color=#ff6000><mark=#ff000040><b><u>按最后施加的效果应用</u></b></mark></color>且数值合并叠加\n- <color=#ff6000><mark=#ff000040><b><u>锤钉不会变更为钉子</u></b></mark></color>\n\n对罪人攻击命中时，目标罪人每带有1点<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]，\n伤害量 +3%</u></b></mark></color>（最多27%，分别针对每个目标计算）\n\n回合开始时若狱卒的<color=#ff6000><mark=#ff000040><b><u>体力在50%以下</u></b></mark></color>，\n则技能施加的所有<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]施加量 +1</u></b></mark></color>",
+      "summary": "根据目标的[ConfessionSecondPhase]增加伤害量\n体力在50%以下时增加[ConfessionSecondPhase]施加量"
+    },
+    {
+      "id": 148601,
+      "name": "循保存之律",
+      "desc": "应用[PanicChangeLock]效果，\n回合结束时若处于恐慌状态，则理智值变为30\n\n登场后的首个回合开始时，\n- 理智值变为45\n- 获得0层[EncompassingVoiceSecondPhase]、1层[LeaderVoiceSecondPhase]\n- 原样保留上一阶段的[ChargeNoir]威力与次数",
+      "summary": "[PanicChangeLock]\n保留上一阶段的[ChargeNoir]威力与次数"
+    },
+    {
+      "id": 148602,
+      "name": "审判之日",
+      "desc": "回合开始时若带有[SpreadingVoiceSecondPhase]，\n则变更行动模式并使用<color=#ff6000><mark=#ff000040><b><u>强力技能“审判…! 宣告…! 断罪…!”</u></b></mark></color>\n- 该回合内速度最小值与最大值 +20\n- <color=#ff6000><mark=#ff000040><b><u>狱卒在该行动模式中拼点失败</u></b></mark></color>时，\n下回合额外变更行动模式并使用<color=#ff6000><mark=#ff000040><b><u>强力技能“执行死刑”</u></b></mark></color>\n\n[SpreadingVoiceSecondPhase]/[EncompassingVoiceSecondPhase]发生变更时，\n<color=#ff6000><mark=#ff000040><b><u>恢复45点理智值</u></b></mark></color>并<color=#ff6000><mark=#ff000040><b><u>获得1层[LeaderVoiceSecondPhase]</u></b></mark></color>\n\n体力降至50%以下时，\n结束该回合（特定技能除外），若处于混乱状态则解除混乱\n体力降至1以下时，切换阶段",
+      "flavor": "受罚仍未能赎罪之人……将在审判之日死去。",
+      "summary": "带有[SpreadingVoiceSecondPhase]时使用强力技能\n此时若拼点失败，则在下回合使用“执行死刑”"
+    },
+    {
+      "id": 148603,
+      "name": "泪湿布匹，布勒脖颈",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>自身理智值不会因[Sinking]效果减少</u></b></mark></color>，\n改为受到等同于该数值的忧郁伤害\n\n被罪人击中时，目标罪人的[Sinking]次数增加1次\n（每个罪人每回合最多2次）\n\n最多只能获得20点[Breath]威力，\n<color=#ff6000><mark=#ff000040><b><u>改为恢复等同于超出上限的[Breath]威力数值的理智值</u></b></mark></color>",
+      "summary": "理智值不会因[Sinking]减少，改为受到忧郁伤害\n被击中时增加攻击者的[Sinking]次数"
+    },
+    {
+      "id": 148604,
+      "name": "完美保存",
+      "desc": "战斗中累计消耗10次自身的[ChargeNoir]次数时，\n获得1点[ChargeNoir]威力\n\n回合开始时若自身的[ChargeNoir]威力为5，且[ChargeNoir]次数低于10次，\n则自身的[ChargeNoir]次数增加5次\n\n不应用[ChargeNoir]在回合结束时减少1次次数的效果\n\n自身[ChargeNoir]威力在5/10以上时，自身[ChargeNoir]次数上限 +5/+10",
+      "flavor": "在西西弗系统层面，这份保存被完美地保存着。",
+      "summary": "累计消耗[ChargeNoir]次数时获得[ChargeNoir]威力\n[ChargeNoir]次数在回合结束时不会减少"
+    },
+    {
+      "id": 148711,
+      "name": "该死，那种故障到底是怎么找出来的。",
+      "desc": "回合开始时，对随机罪人施加[GoldenHideWarderThirdPhase]与[GoldenFabricWarderThirdPhase]\n\n<color=#ff6000><mark=#ff000040><b><u>若管理人进行特定行动，\n神父将对随机罪人造成依据自身最大体力比例的伤害并施加[GoldenNail]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>体力低于50%时，神父干涉系统，</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>完全恢复自身的体力与理智值并解除所有负面效果</u></b></mark></color>",
+      "flavor": "“虽说系统不可能总是完美无缺，但没想到会出这种程度的漏洞。啧，得叫维护组过来了。”",
+      "summary": "每回合对随机罪人施加[GoldenHideWarderThirdPhase]、[GoldenFabricWarderThirdPhase]\n体力低于50%时完全恢复，解除负面效果"
+    },
+    {
+      "id": 148705,
+      "name": "西西弗系统维护工具",
+      "desc": "神父通过自身技能效果对罪人施加[ConfessionThirdPhase]时，\n应用以下效果\n- [RestrainingNailThirdPhase]、[ExecutionNailThirdPhase]、[GoldenNail]统称为\n<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]</u></b></mark></color>\n- 神父对罪人施加钉子时，<color=#ff6000><mark=#ff000040><b><u>按最后施加的效果应用</u></b></mark></color>且数值合并叠加\n- <color=#ff6000><mark=#ff000040><b><u>[RestrainingNailThirdPhase]与[ExecutionNailThirdPhase]\n不会变更为[GoldenNail]</u></b></mark></color>\n\n对罪人攻击命中时，目标罪人每带有1点<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]，\n伤害量 +5%</u></b></mark></color>（最多45%，分别针对每个目标计算）\n\n回合开始时若神父的<color=#ff6000><mark=#ff000040><b><u>体力在50%以下</u></b></mark></color>，\n则技能施加的所有<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]施加量 +1</u></b></mark></color>",
+      "flavor": "“按照手册规定……这种时候必须全部重新调整。全都是已有规定的事项。单看这本手册上写的……啊，你那边看不了吧。”",
+      "summary": "根据目标的[ConfessionThirdPhase]增加伤害量\n体力在50%以下时增加[ConfessionThirdPhase]施加量"
+    },
+    {
+      "id": 148701,
+      "name": "“循保存之律”",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>拼点次数在10次以上</u></b></mark></color>时，该技能的<color=#ff6000><mark=#ff000040><b><u>拼点威力 +(进行拼点的次数)</u></b></mark></color>\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]的<color=#ff6000><mark=#ff000040><b><u>威力最多累计至50</u></b></mark></color>，且<color=#ff6000><mark=#ff000040><b><u>次数最多累计至15次</u></b></mark></color>\n受[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]造成的伤害量 -50%\n\n应用[PanicChangeLock]效果，\n<color=#ff6000><mark=#ff000040><b><u>理智值不会降至0以下</u></b></mark></color>\n\n登场后的首个回合开始时，\n- 理智值变为45\n- 获得0层[EncompassingVoiceThirdPhase]、1层[LeaderVoiceThirdPhase]\n- 原样保留上一阶段的[ChargeNoir]威力与次数",
+      "summary": "拼点次数在10次以上时增加拼点威力\n受[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]造成的伤害量减少"
+    },
+    {
+      "id": 148702,
+      "name": "“审判之日”",
+      "desc": "回合开始时若带有[SpreadingVoiceThirdPhase]，则变更行动模式并\n使用<color=#ff6000><mark=#ff000040><b><u>强力技能“你真想把西西弗系统彻底搞坏吗？”</u></b></mark></color>\n- 该回合内速度最小值与最大值 +20\n- <color=#ff6000><mark=#ff000040><b><u>神父在该行动模式中拼点失败</u></b></mark></color>时，\n下回合额外变更行动模式并使用<color=#ff6000><mark=#ff000040><b><u>强力技能“强制退场”</u></b></mark></color>\n\n[SpreadingVoiceThirdPhase]/[EncompassingVoiceThirdPhase]发生变更时，\n<color=#ff6000><mark=#ff000040><b><u>恢复45点理智值</u></b></mark></color>并<color=#ff6000><mark=#ff000040><b><u>获得1层[LeaderVoiceThirdPhase]</u></b></mark></color>",
+      "flavor": "受罚仍不反省的话，就该接受审判了。受审至死的那种。",
+      "summary": "带有[SpreadingVoiceThirdPhase]时使用强力技能\n此时若拼点失败，则在下回合使用“强制退场”"
+    },
+    {
+      "id": 148703,
+      "name": "泪湿布匹，布勒脖颈…话都想不出来了。",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>自身理智值不会因[Sinking]效果减少</u></b></mark></color>，\n改为受到等同于该数值的忧郁伤害\n\n被罪人击中时，目标罪人的[Sinking]次数增加1次\n（每个罪人每回合最多2次）\n\n最多只能获得20点[Breath]威力，\n<color=#ff6000><mark=#ff000040><b><u>改为恢复等同于超出上限的[Breath]威力数值的理智值</u></b></mark></color>\n\n对罪人触发[VibrationExplosion]时，若目标罪人<color=#ff6000><mark=#ff000040><b><u>不存在混乱阈值</u></b></mark></color>，\n则不造成混乱伤害，改为造成等同于目标[Vibration]威力一半的<color=#ff6000><mark=#ff000040><b><u>怠惰伤害</u></b></mark></color>（处于混乱状态的目标除外，分别针对每个目标计算）",
+      "flavor": "“真该哪怕是‘做个祷告’吧？”",
+      "summary": "被击中时增加攻击者的[Sinking]次数\n[VibrationExplosion]时若不存在混乱阈值则造成怠惰伤害"
+    },
+    {
+      "id": 148704,
+      "name": "完美保存",
+      "desc": "战斗中累计消耗10次自身的[ChargeNoir]次数时，\n获得1点[ChargeNoir]威力\n\n回合开始时若自身的[ChargeNoir]威力为10，且[ChargeNoir]次数低于10次，\n则自身的[ChargeNoir]次数增加5次\n\n不应用[ChargeNoir]在回合结束时减少1次次数的效果\n\n自身[ChargeNoir]威力在5/10以上时，自身[ChargeNoir]次数上限 +5/+10",
+      "flavor": "在西西弗系统层面，这份保存被完美地保存着。",
+      "summary": "累计消耗[ChargeNoir]次数时获得[ChargeNoir]威力\n[ChargeNoir]次数在回合结束时不会减少"
+    },
+    {
+      "id": 148706,
+      "name": "好啦，准备下班吧",
+      "desc": "回合结束时若[ChargeNoir]威力超过10点，\n则消耗超出数值的[ChargeNoir]威力，并获得消耗数值等量的\n[Dominion]\n- 通过该被动效果完全消耗[Dominion]后，不再触发该效果\n\n自身体力首次<color=#ff6000><mark=#ff000040><b><u>降至33%以下时，变更行动模式</u></b></mark></color>\n- 消耗所有持有的[Dominion]，获得等同于自身<color=#ff6000><mark=#ff000040><b><u>最大体力\n(25 + [Dominion]数值)%的非挥发性护盾</u></b></mark></color>\n- 自身防御等级永久降低消耗的[Dominion]数值",
+      "flavor": "“说千道万，西西弗系统对N公司也是必不可少的。如果这套系统崩塌了……就得回到野蛮时代去了。”\n\n“所以按照手册规定，你们绝不可能离开这所百货。没有任何例外。”",
+      "summary": "[ChargeNoir]威力超出10点的部分转化为[Dominion]\n体力在33%以下时变更行动模式，获得护盾"
+    },
+    {
+      "id": 152201,
+      "name": "自欺(mauvaise foi)",
+      "desc": "战斗中累计消耗10次自身的[ChargeKhaki]次数时，获得1点[ChargeKhaki]威力\n- 不会触发回合结束时[ChargeKhaki]次数减少的效果\n\n回合结束时，获得等同于自身[ChargeKhaki]次数的[Breath]威力（最多10）\n回合结束时，获得等同于自身[ChargeKhaki]威力的[Breath]次数（最多5）\n\n受[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]造成的伤害量 -60%\n- 受[Vibration]造成的混乱伤害量 -60%\n\n与同一目标进行拼点时，每10次拼点使自身拼点威力 +1",
+      "flavor": "自欺欺人。\n自世界中逃离。恐惧与不安的世界，逃离那里，一再逃离。\n\n通过将自己钉在原位，逃至舞台之上。登台的演员全然沉浸于角色之中。欺瞒自己，自欺自骗。"
+    },
+    {
+      "id": 152202,
+      "name": "华尔兹的节拍，还记得吗？",
+      "desc": "若单次拼点中的拼点次数在4次以上，则每有4次拼点次数，使第3次拼点获胜的目标造成的伤害量 +15%（最多3次）\n- 若在该拼点中获胜的技能在第1次拼点中亦获胜，则最终威力 +1",
+      "flavor": "我们不是一同经历过吗。"
+    },
+    {
+      "id": 152203,
+      "name": "萨特",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>每3回合召唤3名西西弗百货设计图</u></b></mark></color>，并获得等同于自身最大体力的护盾\n- 该回合内若处于混乱状态则解除混乱，且不会陷入混乱状态\n\n<color=#ff6000><mark color=#ff000040><b><u>通过“捕捉”击杀西西弗百货设计图时，获得[JeanneDesign]</u></b></mark></color>\n\n<color=#ff6000><mark color=#ff000040><b><u>自身[JeanneDesign]为3时，变更为[JeanneManager]</u></b></mark></color>\n<color=#ff6000><mark color=#ff000040><b><u>未能通过自身的“捕捉”击杀任何一名西西弗百货设计图时，</u></b></mark></color>下回合获得1层[Vulnerable]",
+      "flavor": "西西弗塔四位巨人之一。\n\n其中负责设计西西弗系统的建筑师，亦是裁缝。按自身视角构筑一切的角色、职业，亦或是某种存在。\n\n不会让让娜产生恶心感，以裁缝的方式裁剪钉下、缝合垒砌而成的场所。\n\n西西弗百货。"
+    },
+    {
+      "id": 152204,
+      "name": "我啊…",
+      "desc": "舞台开始时以45点理智值开始\n\n默尔索阵亡时，罪人战斗败北\n\n<color=#ff6000><mark color=#ff000040><b><u>体力在50%以下时，</u></b></mark></color>不受伤害，切换阶段\n- 切换阶段时解除持有的负面效果中可解除的效果",
+      "flavor": "我不希望你走到外面去。\n\n小宝贝，和我一起前往下一幕舞台吧。"
+    },
+    {
+      "id": 152301,
+      "name": "华尔兹的经历。还记得吗？",
+      "desc": "该阶段内不受伤害\n\n回合开始时，自身获得1层[JeannePartnerTwo]、1层[JeannePathos]，默尔索获得1层[JeannePartner]、1层[JeanneLogos]（每场战斗限1次）\n\n受到单方面攻击或拼点失败时触发“也有过小小的争吵。”技能\n<color=#ff6000><mark color=#ff000040><b><u>在默尔索的上侧技能槽生成特定技能</u></b></mark></color>",
+      "flavor": "重温记忆中的华尔兹。"
+    },
+    {
+      "id": 152302,
+      "name": "恶心(la nausée)",
+      "desc": "默尔索阵亡时，罪人战斗败北\n\n<color=#ff6000><mark color=#ff000040><b><u>自身[JeannePathos]达到100时，</u></b></mark></color>正在使用的技能结束后切换阶段\n- 切换阶段时解除持有的负面效果中可解除的效果",
+      "flavor": "眩晕吧？不过高潮还在后头呢。"
+    },
+    {
+      "id": 152401,
+      "name": "他人即地狱(L'enfer, c'est les autres)",
+      "desc": "让娜的体力降至10%以下的话……",
+      "flavor": "我们总是活在被钉在他人目光中的地狱里。所以……把你的感情全部说出来吧，默尔。判断留到之后再做也不迟，对吧？"
+    },
+    {
+      "id": 152402,
+      "name": "注视: 西西弗百货",
+      "desc": "理智值固定为45\n\n回合开始时，将西西弗系统设计图 - 红派与西西弗系统设计图 - 黑派分别召唤至2名\n\n阶段切换后的第2回合起，将1名设计图变更为裁缝 让娜·萨特形态\n- 优先变更没有[Vulnerable]的设计图\n- 上一回合已变为裁缝 让娜·萨特状态的设计图除外\n- 若处于混乱状态，则解除混乱\n\n变为裁缝 让娜·萨特状态时，使用技能“只有在这个舞台上，一切都是注定的。”\n- 默尔索的技能与“只有在这个舞台上，一切都是注定的。”拼点获胜时，下回合起该设计图每回合获得5层[Vulnerable]\n\n裁缝 让娜·萨特形态每次解除时，下回合起设计图中将有1名装配让娜的“权限: 阻断”技能\n- 装配让娜技能的设计图累计每次增加1名\n\n设计图阵亡时，应用以下效果\n- 让娜的体力减少5%\n- 其他设计图获得1层[JeanneBlueprint]\n- 下回合设计图中将有1名改为装配让娜的“权限: 注视”技能而非“权限: 阻断”技能",
+      "flavor": "对让娜而言，唯有这所百货才是能让自己最为安心去感知的世界。\n\n虽然被分配了必须保持中立的褐派工作，但正如现在所见的那样……其实比任何人都渴望华丽地绽放，渴望在舞台上热情如火地与你，默尔，共同起舞。\n\n可是……让娜被无数目光与看人眼色这道锁链所束缚，未能华丽地绽放。甚至连想要绽放的心思都无法表露。\n\n我虽无法消除让娜的恶心感……但我会帮她在这个被抛弃的世上无须看任何人的眼色肆意绽放，能活得像自己。在全神贯注之时，能够暂时忘却那份眩晕。\n\n而且这……不仅是对让娜，对都市的所有人而言都是必要之事。我认为哪怕遭到拒绝，也必须给予他们这样的机会。"
+    },
+    {
+      "id": 152501,
+      "name": "服装设计图",
+      "desc": "战斗中<color=#ff6000><mark color=#ff000040><b><u>首次被击中</u></b></mark></color>前，无论自身指定的目标为何，均会<color=#ff6000><mark color=#ff000040><b><u>使用已装配的“百货商店设计图”</u></b></mark></color>（每回合1次）\n\n受基础技能造成的伤害量 -50%\n\n<color=#ff6000><mark color=#ff000040><b><u>受E.G.O技能造成的伤害量 +100%</u></b></mark></color>\n\n被裁缝 让娜·萨特的“捕捉”技能击中时阵亡",
+      "flavor": "这就是百货的设计图。"
+    },
+    {
+      "id": 152502,
+      "name": "自我设计图",
+      "desc": "因罪人的技能阵亡时，使持有数量最少的E.G.O资源属性各获得1个，共计提供5个\n（若数量最少属性在2种以上，则随机提供）",
+      "flavor": "未经设计的规划。"
+    },
+    {
+      "id": 152601,
+      "name": "纹样: 西西弗百货",
+      "desc": "与同一目标进行拼点时，每10次拼点使自身拼点威力增加1点\n\n登场1回合后，设计图中将有1名<color=#ff6000><mark color=#ff000040><b><u>变更为裁缝 让娜·萨特状态</u></b></mark></color>\n- 优先变更没有[Vulnerable]的设计图\n- 上一回合已变为裁缝 让娜·萨特状态的设计图除外\n- 若处于混乱状态，则解除混乱\n\n变为裁缝 让娜·萨特状态时，使用<color=#ff6000><mark color=#ff000040><b><u>技能“只有在这个舞台上，一切都是注定的。”</u></b></mark></color>\n- 默尔索的技能与“只有在这个舞台上，一切都是注定的。”拼点<color=#ff6000><mark color=#ff000040><b><u>获胜</u></b></mark></color>时，下回合起该设计图<color=#ff6000><mark color=#ff000040><b><u>每回合获得5层[Vulnerable]</u></b></mark></color>\n\n设计图阵亡时，应用以下效果\n- <color=#ff6000><mark color=#ff000040><b><u>让娜的体力减少5%</u></b></mark></color>\n- 其他设计图获得1层[JeanneBlueprint]"
+    },
+    {
+      "id": 152602,
+      "name": "代谢作用",
+      "desc": "战斗中累计消耗10次自身的[ChargeRouge]次数时，获得1点[ChargeRouge]威力\n\n因自身技能效果减少体力时，不会低于1点",
+      "flavor": "摄取、充能、消耗，而后再次摄取。单纯的往复循环源于渴望。"
+    },
+    {
+      "id": 152701,
+      "name": "保存",
+      "desc": "战斗中累计消耗10次自身的[ChargeNoir]次数时，获得1点[ChargeNoir]威力",
+      "flavor": "将力量凝聚、集中，并加以固定。有时不改变比改变需要更大的力量。"
+    },
+    {
+      "id": 151701,
+      "name": "他者享乐(la jouissance Autre)",
+      "desc": "回合结束时[ChargeRouge]次数不会减少\n战斗中每次触发[Laceration]时，自身的[ChargeRouge]次数增加1次\n回合开始时，自身每有1次[ChargeRouge]次数，恢复2点理智值",
+      "flavor": "以周身去感受，却无法付诸言语的跃动与本性。那全部脉动的总和。",
+      "summary": "增加脉动次数"
+    },
+    {
+      "id": 151702,
+      "name": "外密性(l'extimité)",
+      "desc": "以体力减少50%的状态开始战斗\n舞台开始时对所有敌人施加[BuffetScruple]（包含后备人员）\n\n使用技能时若目标<color=#ff6000><mark=#ff000040><b><u>带有[BuffetScruple]</u></b></mark></color>，则减少10点理智值",
+      "flavor": "……你们身处我肉躯的最外侧，却盘踞在我最深沉的内里。",
+      "summary": "理智值下降"
+    },
+    {
+      "id": 151703,
+      "name": "自我(le moi)",
+      "desc": "带有[BuffetScruple]的罪人与特定技能拼点获胜时，\n<color=#ff6000><mark=#ff000040><b><u>红神获得1层[BuffetDream]</u></b></mark></color>\n[BuffetDream]达到5层时变更行动模式，与变更后的模式下的技能拼点获胜时战斗胜利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]的<color=#ff6000><mark=#ff000040><b><u>威力最多累计至50</u></b></mark></color>，且<color=#ff6000><mark=#ff000040><b><u>次数最多累计至15次</u></b></mark></color>\n受[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]造成的体力与理智伤害量 -50%\n无法陷入恐慌\n回合结束时若处于恐慌状态，则理智值变为0",
+      "flavor": "我。看见了倒映在水中的自己的身影。我拥有完美的肉躯……"
+    },
+    {
+      "id": 151704,
+      "name": "生之权能(Pouvoirs de la vie)",
+      "desc": "友方单位因受到伤害陷入混乱状态时，对目标友方单位使用“存在之缺(le manque-à-être)”（每回合1次）\n友方单位阵亡时，下回合开始时召唤带有3层[BuffetRevival]的红神被撕下的肉块",
+      "flavor": "赋予诞生的暴力性。红派的神拥有诞生的权能。\n\n死去后，意识将归于何处？诞生前，意识又自何处而来？\n\n将其驱往该处，又或是从中拽出，皆是同一暴力的权能。"
+    },
+    {
+      "id": 151705,
+      "name": "阳具享乐(la jouissance phallique)",
+      "desc": "回合开始时若自身不带有[BuffetRouge]，且自身的[ChargeRouge]次数在15次以上，则消耗所有[ChargeRouge]次数并获得3层[BuffetRouge]。自身每消耗1次[ChargeRouge]次数，恢复2点理智值\n\n若自身不带有[BuffetRouge]，且自身的[ChargeRouge]次数在10次以上，则使用技能时消耗10次[ChargeRouge]次数，使硬币威力 +2",
+      "flavor": "贪享生之享乐需要附带条件。只要附带条件，肉体的快感便注定拥有局限与终点，必然走向失败。",
+      "summary": "消耗脉动次数，增加硬币威力"
+    },
+    {
+      "id": 151706,
+      "name": "收割(la moisson)",
+      "desc": "攻击结束时若主要目标的<color=#ff6000><mark=#ff000040><b><u>[BoneNail]在5层以上</u></b></mark></color>，则对受攻击的主要目标使用强力技能",
+      "flavor": "被排挤出的附属器官刺入他人体内，在界限之外不断呼唤着我。\n\n渴望回到诞生之处的冲动，究竟是死亡的冲动，还是生命的冲动？"
+    },
+    {
+      "id": 151707,
+      "name": "需要(le besoin)",
+      "desc": "累计消耗10次[ChargeRouge]次数时，脉动威力增加1点\n\n根据自身的[ChargeRouge]威力，获得以下全部效果\n- 1 : 对速度低于自身的目标造成的伤害量 +([ChargeRouge]威力 x 20)%\n- 2 : 技能的最终威力 +1\n- 3 : 技能施加的[Laceration]威力施加量 +1\n- 4 : 技能的硬币威力 +1\n- 5 : 自身的[BuffetRouge]不会减少",
+      "flavor": "因活着。因已然降生。\n如诅咒般找上门来的肉体的、必然的、因此亦是宿命般的欲望。",
+      "summary": "根据脉动威力强化技能"
+    },
+    {
+      "id": 151708,
+      "name": "该给出答复之时",
+      "desc": "满足以下条件中的1个时，变更行动模式\n- 当前体力低于最大体力的25%\n- 持有3层[BuffetDream]",
+      "flavor": "告诉我……带我走……"
+    },
+    {
+      "id": 152101,
+      "name": "越是空虚越会盈满",
+      "desc": "战斗中累计消耗10次自身的[ChargeRouge]次数时，获得1点[ChargeRouge]威力\n使用技能时若[ChargeRouge]威力在2/4以上，则硬币威力 +1/+2\n\n每损失10%的体力，攻击等级增加1级（最多5级），造成的伤害量 +20%（最多100%）",
+      "summary": "硬币威力增加"
+    },
+    {
+      "id": 152102,
+      "name": "瞄准迟缓之颈的镰刀",
+      "desc": "优先将速度低于自身的目标指定为目标\n使用技能时若速度高于目标，则增加等同于自身与目标速度差值的攻击等级\n回合开始时若自身的[ChargeRouge]威力在2以上，则使用强力技能",
+      "flavor": "脉动的捕食者瞄准迟缓的脖颈，造成等同于其差距的致命伤害。"
+    },
+    {
+      "id": 152103,
+      "name": "在祂身旁永不冷却的脉动",
+      "desc": "若场上存在红神，则回合结束时自身的[ChargeRouge]次数不会减少\n\n因被击中陷入混乱状态时，若通过红神的技能解除混乱状态，则对曾攻击自身的目标以技能“以此镰刀回应您！”进行单方面攻击",
+      "flavor": "呼吸与脉动不曾止息。哪怕想要止息，亦无法停下。"
+    },
+    {
+      "id": 152104,
+      "name": "生命的痕迹",
+      "desc": "阵亡时，为敌方阵营提供数量最少的E.G.O资源中随机属性的资源2个",
+      "flavor": "某人生活着、曾活过的痕迹。"
+    },
+    {
+      "id": 152105,
+      "name": "降于肉躯的恩宠",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>若带有[BuffetRouge]</u></b></mark></color>，则触发以下效果\n- 受技能造成的伤害量 -50%\n- 回合开始时理智值增加至最大值，获得1点[ChargeRouge]。自身的[ChargeRouge]次数增加5次",
+      "flavor": "以周身承受那份权能。"
+    },
+    {
+      "id": 151801,
+      "name": "重获新生的肉躯",
+      "desc": "[BuffetRevival]消失时恢复原本的姿态（红派高级员工），红神被撕下的肉块状态下每剩余10点体力，恢复5点理智值。获得2次[ChargeRouge]次数\n- 获得的[ChargeRouge]次数在10次以上时，消耗所有[ChargeRouge]次数，且每消耗5次，下回合获得1层[BuffetRouge]"
+    },
+    {
+      "id": 151802,
+      "name": "死死黏在地上的碎肉",
+      "desc": "罪人无法将其指定为目标"
+    },
+    {
+      "id": 151709,
+      "name": "既未推开，亦未紧握的手",
+      "desc": "回合开始时，场上每有1名红派高级员工，获得2层[Protection]\n- 红派高级员工每次阵亡时，[Protection]减少2层\n\n若处于<color=#ff6000><mark=#ff000040><b><u>红派高级员工全部阵亡的状态</u></b></mark></color>，则应用以下效果\n- 获得2层[Vulnerable]\n- 使用技能时若目标持有[BuffetScruple]，则硬币威力 -1",
+      "flavor": "手……还会牵着我吗……？",
+      "summary": "硬币威力减少"
+    }
+  ]
+}

@@ -1407,6 +1407,14 @@
     {
       "id": "10917_getCondition_gacksung",
       "content": "「高级定制::修补室 罗佳」达成3阶同调"
+    },
+    {
+      "id": "10315_getCondition_normal",
+      "content": "获得高级定制::雷诺阿 品牌经理 堂吉诃德时"
+    },
+    {
+      "id": "10315_getCondition_gacksung",
+      "content": "高级定制::雷诺阿 品牌经理 堂吉诃德达到第3阶段同步"
     }
   ]
 }

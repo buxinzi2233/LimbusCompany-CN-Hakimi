@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_5f_c2_larouge_spa",
+      "displayName": "红磨坊店员"
+    },
+    {
+      "key": "swarm_5f_c2_larouge_elite",
+      "displayName": "红派店铺经理"
+    },
+    {
+      "key": "swarm_5f_c2_larouge_sickle",
+      "displayName": "红派 工作人员"
+    }
+  ]
+}

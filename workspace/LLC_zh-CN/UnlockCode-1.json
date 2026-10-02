@@ -213,6 +213,18 @@
     {
       "id": 912723,
       "openCondition": "通关映射战斗][斗战射映 - 插翅虎 困难难度"
+    },
+    {
+      "id": 110,
+      "openCondition": "通关主要故事第10章",
+      "openConditionNumber": "通关10-7",
+      "relatedChapterText": "Canto X"
+    },
+    {
+      "id": 9128,
+      "openCondition": "通关主要故事第10章",
+      "openConditionNumber": "通关10-7",
+      "relatedChapterText": "Canto X"
     }
   ]
 }

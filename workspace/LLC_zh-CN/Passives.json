@@ -3322,6 +3322,46 @@
       "desc": "速度最快的1名友方单位的基础斩击技能伤害量+10% ",
       "summary": "额外斩击伤害",
       "flavor": "将所有剪刀中最钟爱的一把，赠予你。"
+    },
+    {
+      "id": 1031501,
+      "name": "漆黑誓约",
+      "desc": "战斗结束时若自身带有[OathFieldDonQuixote] ，则在下回合获得1层[Agility] \n\n自身的基础攻击技能对主要目标造成的伤害量+(自身的[ChargeNoirAlly] 威力x3)% (最多15%)",
+      "summary": "[OathFieldDonQuixote] 存在时下回合获得[Agility] \n基础攻击技能对主要目标造成的伤害量增加[TabExplain]",
+      "flavor": "我听到了那位大人的声音。那位大人向我许诺，这一切皆有意义。"
+    },
+    {
+      "id": 1031502,
+      "name": "誓约之锤(Malleus Promissionis)",
+      "desc": "关卡首次登场时使自身的[ChargeNoirAlly] 层数增加10层，使除自身以外的黑派所属友方人格的[Charge] 层数增加2层\n\n通过技能效果施加[NoirNailDonQuixote] 时若自身的[ChargeNoirAlly] 层数：\n- 在12以上，则[NoirNailDonQuixote] 施加量+1，消耗自身4层[ChargeNoirAlly] \n- 低于12，则消耗自身2层[ChargeNoirAlly] \n- 若不足，则改为不施加[NoirNailDonQuixote] \n- 受此效果影响，施加[NoirNailDonQuixote] 的技能将被视作消耗[Charge] 层数的技能\n\n战斗中自身累计每消耗10层[ChargeNoirAlly] ，获得1点[ChargeNoirAlly] 威力",
+      "summary": "[ChargeNoirAlly] 层数与黑派友方的[Charge] 层数增加\n施加[NoirNailDonQuixote] 时消耗[ChargeNoirAlly] 层数，[ChargeNoirAlly] 层数达到一定数值以上时施加量增加\n累计消耗[ChargeNoirAlly] 层数时获得[ChargeNoirAlly] 威力",
+      "flavor": "锤子钉下大钉。锤子敲击的唯有大钉。承受锤击的唯是大钉。此乃约定。"
+    },
+    {
+      "id": 1031503,
+      "name": "保存的使命",
+      "desc": "关卡首次登场时获得25层[NoirShieldUpDonQuixote] \n\n自身消耗[ChargeNoirAlly] 层数或获取超出最大值时，获得(该数值x5)层[NoirShieldUpDonQuixote] (每回合最多30层)\n\n带有护盾的友方人格被击中时自身获得2层[NoirShieldUpDonQuixote] (每回合最多10层)\n- 若该友方人格属于[PersonalityCharge] ，则改为获得5层[NoirShieldUpDonQuixote] ",
+      "summary": "获得[NoirShieldUpDonQuixote] "
+    },
+    {
+      "id": 1031504,
+      "name": "神的意志与价值将与我们同在……",
+      "desc": "除自身以外的黑派所属友方人格向敌人开始攻击前，自身使用“审判！”优先对主要目标进行单方面攻击 (每回合1次)\n\n基础技能的最后一枚硬币开始时，该硬币的最终威力增加(自身的[ChargeNoirAlly] 威力+目标的[NoirNailDonQuixote] /2) (最多5点)\n\n自身若带有[OathFieldDonQuixote] ，基础技能1/2/3的拼点威力+1/+2/+3\n\n对带有[NoirNailDonQuixote] 的目标触发[VibrationExplosion] 时，自身与除自身以外[Charge] 层数最少的1名友方[PersonalityCharge] 的[Charge] 层数增加2层 (每回合2次)",
+      "summary": "黑派友方攻击前使用“审判！”\n基础技能最后一枚硬币最终威力增加[TabExplain]\n带有[OathFieldDonQuixote] 时基础技能拼点威力增加[TabExplain]\n对带有[NoirNailDonQuixote] 的目标触发[VibrationExplosion] 时[Charge] 层数增加",
+      "flavor": "在这万物皆不确定的世上，唯有一物指引并守护着我们，那便是漆黑之神的谕示。那谕示化作道路与光芒照亮我们，方才为我们赋予了意义。"
+    },
+    {
+      "id": 1031511,
+      "name": "漆黑誓约",
+      "desc": "战斗结束时若自身带有[OathFieldDonQuixote] ，则在下回合获得2层[Agility] \n\n自身的基础攻击技能对主要目标造成的伤害量+(自身的[ChargeNoirAlly] 威力x6)% (最多30%)",
+      "summary": "[OathFieldDonQuixote] 存在时下回合获得[Agility] \n基础攻击技能对主要目标造成的伤害量增加[TabExplain]",
+      "flavor": "我听到了那位大人的声音。那位大人向我许诺，这一切皆有意义。"
+    },
+    {
+      "id": 1031521,
+      "name": "阵形保存",
+      "desc": "战斗开始时战场上每有1名友方[PersonalityCharge] ，本回合所有友方[PersonalityCharge] 受到的伤害量-2% (最低-10%)",
+      "summary": "友方[PersonalityCharge] 受到的伤害量减少"
     }
   ]
 }

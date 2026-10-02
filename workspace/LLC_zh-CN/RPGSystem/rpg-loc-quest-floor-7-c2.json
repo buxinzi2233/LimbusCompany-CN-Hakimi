@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "key": "Q7001_C2",
+      "title": "明亮的房间",
+      "description": "默尔索推着巨石抵达了山顶，而巨石又再次滚落。随后我们终于到达的地方……是百货的顶层。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往。"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "然后坐下。"
+        }
+      ]
+    },
+    {
+      "key": "Q7002_C2",
+      "title": "？？？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    }
+  ]
+}

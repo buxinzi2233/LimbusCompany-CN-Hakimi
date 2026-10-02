@@ -192,7 +192,7 @@
     {
       "key": "Q4023B",
       "title": "通过墙上形成的入口进入内部",
-      "description": "多萝西娅将鞋履相撞碰击，墙上便出现了通往某处的入口。进入内部看看吧。",
+      "description": "多萝西娅碰了碰鞋跟后，墙上裂开了一处通往某处的入口。进到里面去看看吧。",
       "steps": [
         {
           "index": 0,
@@ -318,7 +318,7 @@
         {
           "index": 1,
           "goalDescription1": "与第一件杰作搭话",
-          "goalDescription2": "与第二件杰作搭话",
+          "goalDescription2": "与第二个杰作搭话",
           "goalDescription3": "与第三件杰作搭话"
         }
       ]

@@ -45,6 +45,10 @@
       "content": "孕妇、老年人、体弱人士、服药人士以及心血管疾病患者请谨慎使用。\n若因过度使用而发生事故，一切责任将由用户自行承担。"
     },
     {
+      "id": "rpg_suicidebox_pressed_dialog_c",
+      "content": "无数的事物紧紧束缚而来。即便动弹不得，亦不再痛苦。"
+    },
+    {
       "id": "rpg_suicidebox_enter_notice_condition_b",
       "content": "- 人格：同调4阶"
     },

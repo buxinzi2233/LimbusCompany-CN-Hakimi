@@ -193,10 +193,6 @@
       "text": "目标进度：{0}"
     },
     {
-      "key": "Log_PlayerHit",
-      "text": "受到的攻击：{0}"
-    },
-    {
       "key": "Log_BattleResultSync",
       "text": "战斗结果反馈（{0}）：HP {1}/{2}，MP {3}/{4}"
     },
@@ -223,18 +219,6 @@
     {
       "key": "Log_NpcDefeated",
       "text": "击败了 {0}"
-    },
-    {
-      "key": "Log_NpcDefeatedWeakness",
-      "text": "{0}被击败（{1}点弱点攻击伤害）"
-    },
-    {
-      "key": "Log_DamageDealt",
-      "text": "对{0}造成了{1}点伤害"
-    },
-    {
-      "key": "Log_DamageDealtWeakness",
-      "text": "对{0}造成了{1}点弱点攻击伤害"
     },
     {
       "key": "Log_PlayerDead",
@@ -402,19 +386,31 @@
     },
     {
       "key": "Setting_Sisyphus_VirtualPadWalkStart",
-      "text": "开始行走半径"
+      "text": "虚拟摇杆模式"
     },
     {
       "key": "Setting_Sisyphus_VirtualPadRunKeep",
-      "text": "维持跑步半径"
+      "text": "固定型"
     },
     {
       "key": "Setting_Sisyphus_VirtualPadRunStart",
-      "text": "开始跑步半径"
+      "text": "移动型"
     },
     {
       "key": "Setting_Sisyphus_TurnAssist",
       "text": "移动中转向辅助"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadMode",
+      "text": "虚拟摇杆模式"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFixed",
+      "text": "固定型"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFloating",
+      "text": "移动型"
     },
     {
       "key": "Setting_Sisyphus_RunStartDelayValue",

@@ -99,6 +99,41 @@
       "id": "battle_erosion_20509_2",
       "desc": "E.G.O侵蚀",
       "dlg": "斩杀！"
+    },
+    {
+      "id": "battle_awaken_20510_1",
+      "desc": "E.G.O发动",
+      "dlg": "一声枪响。在明灭闪烁的视野中朝向暗夜……子弹，终将与他者的视线交汇。"
+    },
+    {
+      "id": "battle_awaken_20510_2",
+      "desc": "E.G.O发动",
+      "dlg": "一声枪响。在明灭闪烁的视野中朝向暗夜……子弹，"
+    },
+    {
+      "id": "battle_awaken_20510_3",
+      "desc": "E.G.O发动",
+      "dlg": "终将与他者的视线交汇。"
+    },
+    {
+      "id": "battle_erosion_20510_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "瞄准(En joue)，枪口对准人的头颅。"
+    },
+    {
+      "id": "battle_erosion_20510_2",
+      "desc": "E.G.O侵蚀",
+      "dlg": "子弹瞄准黑点，"
+    },
+    {
+      "id": "battle_erosion_20510_3",
+      "desc": "E.G.O侵蚀",
+      "dlg": "在炫目之中将其贯穿。"
+    },
+    {
+      "id": "battle_awaken_20501_2",
+      "desc": "E.G.O发动",
+      "dlg": "即便无数视线接连不断地压迫而来……我也甘之若饴……！"
     }
   ]
 }

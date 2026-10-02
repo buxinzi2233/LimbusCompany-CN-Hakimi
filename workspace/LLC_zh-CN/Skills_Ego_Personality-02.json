@@ -1082,6 +1082,216 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2021111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "孔洞(le trou)",
+          "abName": "破洞之人",
+          "desc": "[CantDuel]\n战斗中首次使用时理智值消耗量减少5点，所需E.G.O资源中忧郁减少2点、傲慢减少2点、嫉妒减少2点\n[BulletHole] 在1以上时，改为发动“补洞”\n该技能无法命中敌人，不会触发防御技能，且无法通过外部效果重复使用\n[EndSkill] 获得5层[BulletHole] \n[EndSkill] 获得5点[Breath] 威力\n[EndSkill] 使自身的[Breath] 层数增加3层\n[EndSkill] 使自身的[Charge] 层数增加5层\n[EndSkill] 获得4层[BlackWingHole] ",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "孔洞(le trou)",
+          "abName": "破洞之人",
+          "desc": "[CantDuel]\n战斗中首次使用时理智值消耗量减少5点，所需E.G.O资源中忧郁减少2点、傲慢减少2点、嫉妒减少2点\n[BulletHole] 在1以上时，改为发动“补洞”\n该技能无法命中敌人，不会触发防御技能，且无法通过外部效果重复使用\n[EndSkill] 获得5层[BulletHole] \n[EndSkill] 获得5点[Breath] 威力\n[EndSkill] 使自身的[Breath] 层数增加3层\n[EndSkill] 使自身的[Charge] 层数增加5层\n[EndSkill] 获得4层[BlackWingHole] ",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "孔洞(le trou)",
+          "abName": "破洞之人",
+          "desc": "[CantDuel]\n战斗中首次使用时理智值消耗量减少5点，所需E.G.O资源中忧郁减少2点、傲慢减少2点、嫉妒减少2点\n[BulletHole] 在1以上时，改为发动“补洞”\n该技能无法命中敌人，不会触发防御技能，且无法通过外部效果重复使用\n[EndSkill] 获得5层[BulletHole] \n[EndSkill] 获得5点[Breath] 威力\n[EndSkill] 使自身的[Breath] 层数增加3层\n[EndSkill] 使自身的[Charge] 层数增加5层\n[EndSkill] 获得4层[BlackWingHole] ",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "补洞(boucher un trou)",
+          "abName": "破洞之人",
+          "desc": "该技能无法通过外部效果重复使用\n自身每有4点([Breath] 威力+[Charge] 层数)，拼点威力+1 (最多5点)\n自身每有1层[BulletHole] ，拼点威力+2\n[BeforeAttack] 消耗所有[BulletHole] 并适用下列效果\n- 每消耗1层获得2点[Breath] 威力、1层[Breath] 层数、2层[Charge] 层数\n- 每消耗1层伤害量+8%\n该技能若消耗了5层[BulletHole] ，则恢复5点理智值\n[EndSkill] 获得1层[BulletHole] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "重复使用该硬币(消耗的[BulletHole] - 1)次 (最多4次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "补洞(boucher un trou)",
+          "abName": "破洞之人",
+          "desc": "该技能无法通过外部效果重复使用\n<style=\"highlight\">低于该技能攻击加权值的攻击目标每有1个，伤害量+5% (集中战斗时按部位判定)</style>\n自身每有4点([Breath] 威力+[Charge] 层数)，拼点威力+1 (最多<style=\"highlight\">7</style>点)\n自身每有1层[BulletHole] ，拼点威力+2\n<style=\"highlight\">[BeforeAttack] 攻击目标若为1名，则伤害量+50% (集中战斗时按本体判定)</style>\n[BeforeAttack] 消耗所有[BulletHole] 并适用下列效果\n- 每消耗1层获得2点[Breath] 威力、1层[Breath] 层数、2层[Charge] 层数\n- 每消耗1层伤害量+8%\n该技能若消耗了5层[BulletHole] ，则恢复5点理智值\n[EndSkill] 获得1层[BulletHole] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "重复使用该硬币(消耗的[BulletHole] - 1)次 (最多4次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "补洞(boucher un trou)",
+          "abName": "破洞之人",
+          "desc": "该技能无法通过外部效果重复使用\n低于该技能攻击加权值的攻击目标每有1个，伤害量<style=\"highlight\">+10%</style> (集中战斗时按部位判定)\n自身每有4点([Breath] 威力+[Charge] 层数)，拼点威力+1 (最多<style=\"highlight\">10</style>点)\n自身每有1层[BulletHole] ，拼点威力+2\n[BeforeAttack] 攻击目标若为1名，则伤害量<style=\"highlight\">+100%</style> (集中战斗时按本体判定)\n[BeforeAttack] 消耗所有[BulletHole] 并适用下列效果\n- 每消耗1层获得2点[Breath] 威力、1层[Breath] 层数、2层[Charge] 层数\n- 每消耗1层伤害量+8%\n<style=\"highlight\">[EndSkill] 对2+(最大共鸣数)名友方施加5点[Breath] 威力与2层[Breath] 层数 (最多7名)</style>\n该技能若消耗了5层[BulletHole] ，则恢复5点理智值\n[EndSkill] 获得1层[BulletHole] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "重复使用该硬币(消耗的[BulletHole] - 1)次 (最多4次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "孔洞",
+          "abName": "破洞之人",
+          "desc": "[CantIdentify]\n攻击随机目标\n自身每有4点([Breath] 威力+[Charge] 层数)，拼点威力+1 (最多5点)\n\n[BeforeAttack] 使自身的[Breath] 层数增加3层、[Charge] 层数增加5层\n[BeforeAttack] 消耗自身超出10点的[Charge] 层数(最多消耗15层)，伤害量+(消耗量x2)%\n[BeforeAttack] 自身的[BulletHole] 若达到最大值，则将其全部消耗并在下回合对所有友方适用下列效果\n- 施加1层[AttackUp] \n- 施加1层[AttackDmgUp] (每回合1次)\n- 施加1层[CriticalDamageUp] (每回合1次)\n[BeforeAttack] 每有被破坏的硬币，基础威力-3 (最多-9点)\n[EndSkill] 获得1层[BulletHole] 与2层[BlackWingHole] ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "孔洞",
+          "abName": "破洞之人",
+          "desc": "[CantIdentify]\n攻击随机目标\n自身每有4点([Breath] 威力+[Charge] 层数)，拼点威力+1 (最多<style=\"highlight\">7</style>点)\n\n[BeforeAttack] 使自身的[Breath] 层数增加3层、[Charge] 层数增加5层\n[BeforeAttack] 消耗自身超出10点的[Charge] 层数(最多消耗15层)，伤害量+(消耗量x<style=\"highlight\">3</style>)%\n[BeforeAttack] 自身的[BulletHole] 若达到最大值，则将其全部消耗并在下回合对所有友方适用下列效果\n- 施加1层[AttackUp] \n- 施加1层[AttackDmgUp] (每回合1次)\n- 施加1层[CriticalDamageUp] (每回合1次)\n[BeforeAttack] 每有被破坏的硬币，基础威力-3 (最多-9点)\n[EndSkill] 获得1层[BulletHole] 与2层[BlackWingHole] \n<style=\"highlight\">[EndSkill] 对随机2+(最大共鸣数)名友方施加5点[Breath] 威力与2层[Breath] 层数 (最多7名)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "孔洞",
+          "abName": "破洞之人",
+          "desc": "[CantIdentify]\n攻击随机目标\n自身每有4点([Breath] 威力+[Charge] 层数)，拼点威力+1 (最多<style=\"highlight\">10</style>点)\n\n[BeforeAttack] 使自身的[Breath] 层数增加3层、[Charge] 层数增加5层\n[BeforeAttack] 消耗自身超出10点的[Charge] 层数(最多消耗15层)，伤害量+(消耗量x<style=\"highlight\">5</style>)%\n[BeforeAttack] 自身的[BulletHole] 若达到最大值，则将其全部消耗并在下回合对所有友方适用下列效果\n- 施加1层[AttackUp] \n- 施加1层[AttackDmgUp] (每回合1次)\n- 施加1层[CriticalDamageUp] (每回合1次)\n[BeforeAttack] 每有被破坏的硬币，基础威力-3 (最多-9点)\n[EndSkill] 获得1层[BulletHole] 与2层[BlackWingHole] \n[EndSkill] 对随机2+(最大共鸣数)名友方施加5点[Breath] 威力、2层[Breath] 层数与<style=\"highlight\">2层[BlackWingHole] </style> (最多7名)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_57_1",
+      "dlg": "我一如既往，唯有恪尽职守。\n管理者大人……您在此刻亦全力以赴着吗？"
+    },
+    {
+      "id": "announcer_cheer_57_2",
+      "dlg": "……"
+    },
+    {
+      "id": "announcer_specialcheer_57_1",
+      "dlg": "请回拨时钟，管理者大人。"
+    },
+    {
+      "id": "announcer_specialcheer_57_2",
+      "dlg": "若您已疲惫至无法回拨时钟，建议您停止指挥先行撤退，而后充分歇息。"
+    },
+    {
+      "id": "announcer_enemy_break_57_1",
+      "dlg": "敌人已混乱。"
+    },
+    {
+      "id": "announcer_ally_break_57_1",
+      "dlg": "罪人已倒下。或许需要施以保护呢。"
+    },
+    {
+      "id": "announcer_killenemy_57_1",
+      "dlg": "已击杀敌人。"
+    },
+    {
+      "id": "announcer_ally_dead_57_1",
+      "dlg": "罪人已死亡。这着实是令人不悦的损失呢。"
+    },
+    {
+      "id": "announcer_enemy_adv_57_1",
+      "dlg": "痛苦且艰难，这一点我表示赞同。即便如此，这场激烈的战斗对我而言……甚是愉悦。"
+    },
+    {
+      "id": "announcer_ally_adv_57_1",
+      "dlg": "您在此次战斗中做出的所有决断均切实有效。正因如此，甚是期待管理者大人的下一项决断。"
+    },
+    {
+      "id": "announcer_ally_advex_57_1",
+      "dlg": "虽判断依据尚显不足，但若陈述主观立场……似乎值得一试，管理者大人。"
+    },
+    {
+      "id": "announcer_danger_57_1",
+      "dlg": "所剩时间不多了呢。若您难以决断，交由我来处理亦无妨。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_57_1",
+      "dlg": "左侧地面传来的两次震动，与三十一次扫过薄弱之处的视线。\n管理者大人，看来敌人的集火攻势即将开始。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_57_1",
+      "dlg": "纵使是从未经历亦毫无记忆之状况，只要全神贯注于当下便定能了然于心。"
+    },
+    {
+      "id": "announcer_advatk_physical_57_1",
+      "dlg": "您瞄准了薄弱之处呢。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_57_1",
+      "dlg": "即便低效，亦不意味着错误。只因连低效一词，也不过是主观之见罢了。"
+    },
+    {
+      "id": "announcer_advatk_attr_57_1",
+      "dlg": "十分高效。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_57_1",
+      "dlg": "若您中意那种感觉，便不成问题。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_57_1",
+      "dlg": "这个世界本就从未脱离过荒谬。如今亦不会有所不同。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_57_1",
+      "dlg": "看来是疯了。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_57_1",
+      "dlg": "这份相助……难以理解。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_57_1",
+      "dlg": "需要背负的痛苦增加了。"
+    },
+    {
+      "id": "announcer_enemy_destroy_57_1",
+      "dlg": "破坏了敌方的部位。"
+    },
+    {
+      "id": "announcer_enemy_destroy_57_2",
+      "dlg": "阻止得很顺利。您应当把握该部位的特性，构思下一步计划。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_57_1",
+      "dlg": "管理者大人，令人遗憾的是，出现了多名伤员。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_57_2",
+      "dlg": "依体感而言，判断全盘策略有必要进行修正……您意下如何，管理者大人。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_57_1",
+      "dlg": "造成了致命伤害。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_57_2",
+      "dlg": "……敌方尚存战意。"
+    },
+    {
+      "id": "announcer_multikillenemy_57_1",
+      "dlg": "罪人击杀了多数敌方。"
+    },
+    {
+      "id": "announcer_battle_win_57_1",
+      "dlg": "做得很好，管理者大人。"
+    },
+    {
+      "id": "announcer_battle_defeat_57_1",
+      "dlg": "只是跌落罢了，断定为失败尚且言之过早。您要再次攀登上去吗，管理者大人？"
+    },
+    {
+      "id": "announcer_equip_57_1",
+      "dlg": "5号罪人，默尔索。开始录音。虽然尚未收到单独命令，但若是轮到我，我便想尝试一番。"
+    }
+  ]
+}
